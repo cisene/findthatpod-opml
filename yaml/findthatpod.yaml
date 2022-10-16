@@ -13,30 +13,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'A Wee Natter'
-          htmlUrl:  'https://www.solidradio.co.uk/'
-          xmlUrl:   'https://anchor.fm/s/ba310870/podcast/rss'
+    - podcast:
+        title:    'A Wee Natter'
+        htmlUrl:  'https://www.solidradio.co.uk/'
+        xmlUrl:   'https://anchor.fm/s/ba310870/podcast/rss'
 
-      - podcast:
-          title:    'YXE Underground'
-          htmlUrl:  'http://www.yxeunderground.com/'
-          xmlUrl:   'https://feeds.simplecast.com/Vl5dVz8Q'
+    - podcast:
+        title:    'YXE Underground'
+        htmlUrl:  'http://www.yxeunderground.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Vl5dVz8Q'
 
-      - podcast:
-          title:    'Russian Resistance'
-          htmlUrl:  'http://papersupport.ru/russian_resistance_podcast?utm_source=platforms'
-          xmlUrl:   'https://feeds.simplecast.com/qpODJHLZ'
+    - podcast:
+        title:    'Russian Resistance'
+        htmlUrl:  'http://papersupport.ru/russian_resistance_podcast?utm_source=platforms'
+        xmlUrl:   'https://feeds.simplecast.com/qpODJHLZ'
 
-      - podcast:
-          title:    'Rachel Maddow Presents: Ultra'
-          htmlUrl:  'https://rachel-maddow-presents-ultra.simplecast.com/'
-          xmlUrl:   'https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra'
+    - podcast:
+        title:    'Rachel Maddow Presents: Ultra'
+        htmlUrl:  'https://rachel-maddow-presents-ultra.simplecast.com/'
+        xmlUrl:   'https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra'
 
-      - podcast:
-          title:    'Science Night'
-          htmlUrl:  'https://www.scinight.com/'
-          xmlUrl:   'https://feeds.fireside.fm/sciencenight/rss'
+    - podcast:
+        title:    'Science Night'
+        htmlUrl:  'https://www.scinight.com/'
+        xmlUrl:   'https://feeds.fireside.fm/sciencenight/rss'
 
   - issue:    181
     title:    'Find That Pod #181'
@@ -44,30 +44,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Breast Cancer Stories'
-          htmlUrl:  'https://www.breastcancerstoriespodcast.com/'
-          xmlUrl:   'https://feeds.fireside.fm/breastcancerstories/rss'
+    - podcast:
+        title:    'Breast Cancer Stories'
+        htmlUrl:  'https://www.breastcancerstoriespodcast.com/'
+        xmlUrl:   'https://feeds.fireside.fm/breastcancerstories/rss'
 
-      - podcast:
-          title:    'Scaled'
-          htmlUrl:  'https://www.lban.us/scaled'
-          xmlUrl:   'https://feeds.simplecast.com/NdclNDAa'
+    - podcast:
+        title:    'Scaled'
+        htmlUrl:  'https://www.lban.us/scaled'
+        xmlUrl:   'https://feeds.simplecast.com/NdclNDAa'
 
-      - podcast:
-          title:    'Significant Others'
-          htmlUrl:  'https://significant-others.simplecast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/U1oFUzZu'
+    - podcast:
+        title:    'Significant Others'
+        htmlUrl:  'https://significant-others.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/U1oFUzZu'
 
-      - podcast:
-          title:    'Whiskey Web and Whatnot'
-          htmlUrl:  'https://shipshape.io/'
-          xmlUrl:   'https://feeds.megaphone.fm/PODRYL5396410253'
+    - podcast:
+        title:    'Whiskey Web and Whatnot'
+        htmlUrl:  'https://shipshape.io/'
+        xmlUrl:   'https://feeds.megaphone.fm/PODRYL5396410253'
 
-      - podcast:
-          title:    'The Food Chain'
-          htmlUrl:  'http://www.bbc.co.uk/programmes/p028z2z0'
-          xmlUrl:   'https://podcasts.files.bbci.co.uk/p028z2z0.rss'
+    - podcast:
+        title:    'The Food Chain'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p028z2z0'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p028z2z0.rss'
 
   - issue:    180
     title:    'Find That Pod #180'
@@ -75,30 +75,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Consciously Clueless'
-          htmlUrl:  'https://www.buzzsprout.com/1156151'
-          xmlUrl:   'https://feeds.buzzsprout.com/1156151.rss'
+    - podcast:
+        title:    'Consciously Clueless'
+        htmlUrl:  'https://www.buzzsprout.com/1156151'
+        xmlUrl:   'https://feeds.buzzsprout.com/1156151.rss'
 
-      - podcast:
-          title:    'ModeShift'
-          htmlUrl:  'https://modeshift.simplecast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/M4jTcY8D'
+    - podcast:
+        title:    'ModeShift'
+        htmlUrl:  'https://modeshift.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/M4jTcY8D'
 
-      - podcast:
-          title:    'The Langley Files: A CIA Podcast'
-          htmlUrl:  'https://www.cia.gov/stories/story/the-langley-files/'
-          xmlUrl:   'https://feeds.transistor.fm/the-langley-files-a-cia-podcast'
+    - podcast:
+        title:    'The Langley Files: A CIA Podcast'
+        htmlUrl:  'https://www.cia.gov/stories/story/the-langley-files/'
+        xmlUrl:   'https://feeds.transistor.fm/the-langley-files-a-cia-podcast'
 
-      - podcast:
-          title:    'The Dish: Behind the Scenes at NRO'
-          htmlUrl:  'https://soundcloud.com/user-553105389'
-          xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:959760205/sounds.rss'
+    - podcast:
+        title:    'The Dish: Behind the Scenes at NRO'
+        htmlUrl:  'https://soundcloud.com/user-553105389'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:959760205/sounds.rss'
 
-      - podcast:
-          title:    'CTRL SHIFT!'
-          htmlUrl:  'https://sites.libsyn.com/427367'
-          xmlUrl:   'https://feeds.libsyn.com/427367/rss'
+    - podcast:
+        title:    'CTRL SHIFT!'
+        htmlUrl:  'https://sites.libsyn.com/427367'
+        xmlUrl:   'https://feeds.libsyn.com/427367/rss'
 
   - issue:    179
     title:    'Find That Pod #179'
@@ -106,30 +106,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Boston Metaphysical Society: The Ghost Ship'
-          htmlUrl:  'http://www.bostonmetaphysicalsociety.com/'
-          xmlUrl:   'https://feeds.captivate.fm/boston-metaphysical/'
+    - podcast:
+        title:    'Boston Metaphysical Society: The Ghost Ship'
+        htmlUrl:  'http://www.bostonmetaphysicalsociety.com/'
+        xmlUrl:   'https://feeds.captivate.fm/boston-metaphysical/'
 
-      - podcast:
-          title:    'The PoliticsGirl Podcast'
-          htmlUrl:  'http://www.politicsgirl.com/'
-          xmlUrl:   'https://feeds.megaphone.fm/PDR6752590894'
+    - podcast:
+        title:    'The PoliticsGirl Podcast'
+        htmlUrl:  'http://www.politicsgirl.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/PDR6752590894'
 
-      - podcast:
-          title:    "I'm A Sophisticate and So Can You!"
-          htmlUrl:  'https://imasophisticate.com/'
-          xmlUrl:   'https://feeds.acast.com/public/shows/61e7aadbd8346b00132f75a6'
+    - podcast:
+        title:    "I'm A Sophisticate and So Can You!"
+        htmlUrl:  'https://imasophisticate.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/61e7aadbd8346b00132f75a6'
 
-      - podcast:
-          title:    'Classic Conversations'
-          htmlUrl:  'https://cms.megaphone.fm/channel/ADV5073979157'
-          xmlUrl:   'https://feeds.megaphone.fm/ADV5073979157'
+    - podcast:
+        title:    'Classic Conversations'
+        htmlUrl:  'https://cms.megaphone.fm/channel/ADV5073979157'
+        xmlUrl:   'https://feeds.megaphone.fm/ADV5073979157'
 
-      - podcast:
-          title:    'The Necessary Conversation'
-          htmlUrl:  'https://thenecessaryconversation.buzzsprout.com/'
-          xmlUrl:   'https://feeds.buzzsprout.com/2035895.rss'
+    - podcast:
+        title:    'The Necessary Conversation'
+        htmlUrl:  'https://thenecessaryconversation.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2035895.rss'
 
   - issue:    178
     title:    'Find That Pod #178'
@@ -137,30 +137,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Reframeables'
-          htmlUrl:  'https://reframeables.buzzsprout.com/'
-          xmlUrl:   'https://feeds.buzzsprout.com/1826949.rss'
+    - podcast:
+        title:    'Reframeables'
+        htmlUrl:  'https://reframeables.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1826949.rss'
 
-      - podcast:
-          title:    'How Did This Not Get Made'
-          htmlUrl:  'https://www.pipedreampodcasts.com/how-did-this-not-get-made'
-          xmlUrl:   'https://howdidthisnotgetmade.libsyn.com/rss'
+    - podcast:
+        title:    'How Did This Not Get Made'
+        htmlUrl:  'https://www.pipedreampodcasts.com/how-did-this-not-get-made'
+        xmlUrl:   'https://howdidthisnotgetmade.libsyn.com/rss'
 
-      - podcast:
-          title:    'Putin'
-          htmlUrl:  'http://www.bbc.co.uk/programmes/m0015nfd'
-          xmlUrl:   'https://podcasts.files.bbci.co.uk/m0015nfd.rss'
+    - podcast:
+        title:    'Putin'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/m0015nfd'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/m0015nfd.rss'
 
-      - podcast:
-          title:    '30 Morbid Minutes'
-          htmlUrl:  'https://roosterteeth.com/'
-          xmlUrl:   'https://feeds.megaphone.fm/30morbidminutes'
+    - podcast:
+        title:    '30 Morbid Minutes'
+        htmlUrl:  'https://roosterteeth.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/30morbidminutes'
 
-      - podcast:
-          title:    'The Video Archives Podcast'
-          htmlUrl:  'https://the-video-archives-podcast-with-quentin-tarantino-and-roger.simplecast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/hQ1_tt0K'
+    - podcast:
+        title:    'The Video Archives Podcast'
+        htmlUrl:  'https://the-video-archives-podcast-with-quentin-tarantino-and-roger.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/hQ1_tt0K'
 
   - issue:    177
     title:    'Find That Pod #177'
@@ -168,30 +168,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'The Magic Hat Podcast'
-          htmlUrl:  'https://www.buzzsprout.com/2023952'
-          xmlUrl:   'https://feeds.buzzsprout.com/2023952.rss'
+    - podcast:
+        title:    'The Magic Hat Podcast'
+        htmlUrl:  'https://www.buzzsprout.com/2023952'
+        xmlUrl:   'https://feeds.buzzsprout.com/2023952.rss'
 
-      - podcast:
-          title:    'Thorn in the U.S.A.'
-          htmlUrl:  'https://thornintheusa.buzzsprout.com/'
-          xmlUrl:   'https://feeds.buzzsprout.com/2008407.rss'
+    - podcast:
+        title:    'Thorn in the U.S.A.'
+        htmlUrl:  'https://thornintheusa.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2008407.rss'
 
-      - podcast:
-          title:    'Persona: The French Deception'
-          htmlUrl:  'http://wondery.com/shows/persona/'
-          xmlUrl:   'https://rss.art19.com/the-french-deception'
+    - podcast:
+        title:    'Persona: The French Deception'
+        htmlUrl:  'http://wondery.com/shows/persona/'
+        xmlUrl:   'https://rss.art19.com/the-french-deception'
 
-      - podcast:
-          title:    'Dear Old Dads'
-          htmlUrl:  'https://sites.libsyn.com/418103/'
-          xmlUrl:   'https://feeds.libsyn.com/418103/rss'
+    - podcast:
+        title:    'Dear Old Dads'
+        htmlUrl:  'https://sites.libsyn.com/418103/'
+        xmlUrl:   'https://feeds.libsyn.com/418103/rss'
 
-      - podcast:
-          title:    'Red, Blue & Brady'
-          htmlUrl:  'http://bradyunited.org/'
-          xmlUrl:   'https://feeds.buzzsprout.com/542320.rss'
+    - podcast:
+        title:    'Red, Blue & Brady'
+        htmlUrl:  'http://bradyunited.org/'
+        xmlUrl:   'https://feeds.buzzsprout.com/542320.rss'
 
   - issue:    176
     title:    'Find That Pod #176'
@@ -199,30 +199,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Cidiot'
-          htmlUrl:  'https://www.cidiot.com/'
-          xmlUrl:   'https://anchor.fm/s/5362310/podcast/rss'
+    - podcast:
+        title:    'Cidiot'
+        htmlUrl:  'https://www.cidiot.com/'
+        xmlUrl:   'https://anchor.fm/s/5362310/podcast/rss'
 
-      - podcast:
-          title:    'Curious Matter Anthology'
-          htmlUrl:  'https://www.curiousmatterpodcast.com/'
-          xmlUrl:   'https://feeds.megaphone.fm/SBP3315004352'
+    - podcast:
+        title:    'Curious Matter Anthology'
+        htmlUrl:  'https://www.curiousmatterpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP3315004352'
 
-      - podcast:
-          title:    'Mt. Rushmore Podcast'
-          htmlUrl:  'http://www.mtrushmorepodcast.com/'
-          xmlUrl:   'https://mtrushmorepodcast.libsyn.com/rss'
+    - podcast:
+        title:    'Mt. Rushmore Podcast'
+        htmlUrl:  'http://www.mtrushmorepodcast.com/'
+        xmlUrl:   'https://mtrushmorepodcast.libsyn.com/rss'
 
-      - podcast:
-          title:    'One Hit Thunder'
-          htmlUrl:  'https://www.soundtalentmedia.com/show/one-hit-thunder/'
-          xmlUrl:   'https://feeds.megaphone.fm/one-hit-thunder'
+    - podcast:
+        title:    'One Hit Thunder'
+        htmlUrl:  'https://www.soundtalentmedia.com/show/one-hit-thunder/'
+        xmlUrl:   'https://feeds.megaphone.fm/one-hit-thunder'
 
-      - podcast:
-          title:    'Comic Book Central'
-          htmlUrl:  'https://comicbookcentral.net/'
-          xmlUrl:   'https://comicbookcentral.net/feed/'
+    - podcast:
+        title:    'Comic Book Central'
+        htmlUrl:  'https://comicbookcentral.net/'
+        xmlUrl:   'https://comicbookcentral.net/feed/'
 
   - issue:    175
     title:    'Find That Pod #175'
@@ -230,30 +230,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Stephanie & Stephanie Talk Tunes'
-          htmlUrl:  'https://www.facebook.com/stephaniestalktunes'
-          xmlUrl:   'https://anchor.fm/s/4dc75464/podcast/rss'
+    - podcast:
+        title:    'Stephanie & Stephanie Talk Tunes'
+        htmlUrl:  'https://www.facebook.com/stephaniestalktunes'
+        xmlUrl:   'https://anchor.fm/s/4dc75464/podcast/rss'
 
-      - podcast:
-          title:    'Comedy Appeteasers'
-          htmlUrl:  'https://www.buzzsprout.com/2010956'
-          xmlUrl:   'https://feeds.buzzsprout.com/2010956.rss'
+    - podcast:
+        title:    'Comedy Appeteasers'
+        htmlUrl:  'https://www.buzzsprout.com/2010956'
+        xmlUrl:   'https://feeds.buzzsprout.com/2010956.rss'
 
-      - podcast:
-          title:    'Preconceived'
-          htmlUrl:  'http://www.preconceivedpodcast.com/'
-          xmlUrl:   'https://www.spreaker.com/show/5432816/episodes/feed'
+    - podcast:
+        title:    'Preconceived'
+        htmlUrl:  'http://www.preconceivedpodcast.com/'
+        xmlUrl:   'https://www.spreaker.com/show/5432816/episodes/feed'
 
-      - podcast:
-          title:    'PolliNation'
-          htmlUrl:  'http://pollinationpodcast.oregonstate.edu/'
-          xmlUrl:   'https://pollination.libsyn.com/rss'
+    - podcast:
+        title:    'PolliNation'
+        htmlUrl:  'http://pollinationpodcast.oregonstate.edu/'
+        xmlUrl:   'https://pollination.libsyn.com/rss'
 
-      - podcast:
-          title:    'Broken Doors'
-          htmlUrl:  'https://www.washingtonpost.com/podcasts/interactive/2022/broken-doors/?utm_source=podcasts&utm_medium=referral&utm_campaign=broken-doors'
-          xmlUrl:   'https://podcast.posttv.com/itunes/broken-doors.xml'
+    - podcast:
+        title:    'Broken Doors'
+        htmlUrl:  'https://www.washingtonpost.com/podcasts/interactive/2022/broken-doors/?utm_source=podcasts&utm_medium=referral&utm_campaign=broken-doors'
+        xmlUrl:   'https://podcast.posttv.com/itunes/broken-doors.xml'
 
   - issue:    174
     title:    'Find That Pod #174'
@@ -261,30 +261,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'The Skeptic Metaphysicians - Metaphysics 101'
-          htmlUrl:  'https://www.skepticmetaphysician.com/'
-          xmlUrl:   'https://feeds.buzzsprout.com/1713040.rss'
+    - podcast:
+        title:    'The Skeptic Metaphysicians - Metaphysics 101'
+        htmlUrl:  'https://www.skepticmetaphysician.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1713040.rss'
 
-      - podcast:
-          title:    'The Official Game of Thrones Podcast: House of the Dragon'
-          htmlUrl:  'https://listen.hbo.com/GOT-podcast'
-          xmlUrl:   'https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/8be00f97-08b0-4fba-bbc0-aed701426c04/7b4ed6e6-809f-45b9-9283-aed70143e699/podcast.rss'
+    - podcast:
+        title:    'The Official Game of Thrones Podcast: House of the Dragon'
+        htmlUrl:  'https://listen.hbo.com/GOT-podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/8be00f97-08b0-4fba-bbc0-aed701426c04/7b4ed6e6-809f-45b9-9283-aed70143e699/podcast.rss'
 
-      - podcast:
-          title:    'The Sunshine Place'
-          htmlUrl:  'http://cadence13.com/'
-          xmlUrl:   'https://feeds.megaphone.fm/the-sunshine-place'
+    - podcast:
+        title:    'The Sunshine Place'
+        htmlUrl:  'http://cadence13.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/the-sunshine-place'
 
-      - podcast:
-          title:    'Fireside Canada'
-          htmlUrl:  'https://firesidecanada.ca/'
-          xmlUrl:   'https://feeds.simplecast.com/IeVt31GZ'
+    - podcast:
+        title:    'Fireside Canada'
+        htmlUrl:  'https://firesidecanada.ca/'
+        xmlUrl:   'https://feeds.simplecast.com/IeVt31GZ'
 
-      - podcast:
-          title:    'Blocked and Reported'
-          htmlUrl:  'https://www.blockedandreported.org/podcast'
-          xmlUrl:   'https://api.substack.com/feed/podcast/500230.rss'
+    - podcast:
+        title:    'Blocked and Reported'
+        htmlUrl:  'https://www.blockedandreported.org/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/500230.rss'
 
   - issue:    173
     title:    'Find That Pod #173'
@@ -292,30 +292,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Between 2 Gamers'
-          htmlUrl:  'https://rss.com/podcasts/between2gamers'
-          xmlUrl:   'https://media.rss.com/between2gamers/feed.xml'
+    - podcast:
+        title:    'Between 2 Gamers'
+        htmlUrl:  'https://rss.com/podcasts/between2gamers'
+        xmlUrl:   'https://media.rss.com/between2gamers/feed.xml'
 
-      - podcast:
-          title:    'The Wild West Extravaganza'
-          htmlUrl:  'https://www.wildwestextra.com/'
-          xmlUrl:   'https://bloodybeaver.libsyn.com/rss'
+    - podcast:
+        title:    'The Wild West Extravaganza'
+        htmlUrl:  'https://www.wildwestextra.com/'
+        xmlUrl:   'https://bloodybeaver.libsyn.com/rss'
 
-      - podcast:
-          title:    'Craft Beer Republic'
-          htmlUrl:  'http://www.craftbeerrepublic.com/'
-          xmlUrl:   'https://www.spreaker.com/show/1860768/episodes/feed'
+    - podcast:
+        title:    'Craft Beer Republic'
+        htmlUrl:  'http://www.craftbeerrepublic.com/'
+        xmlUrl:   'https://www.spreaker.com/show/1860768/episodes/feed'
 
-      - podcast:
-          title:    'The Gist of It'
-          htmlUrl:  'https://www.thegistsports.com/podcasts'
-          xmlUrl:   'https://feed.podbean.com/thegistofitpod/feed.xml'
+    - podcast:
+        title:    'The Gist of It'
+        htmlUrl:  'https://www.thegistsports.com/podcasts'
+        xmlUrl:   'https://feed.podbean.com/thegistofitpod/feed.xml'
 
-      - podcast:
-          title:    'Another Russia'
-          htmlUrl:  'https://another-russia.simplecast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/E4J_wOzn'
+    - podcast:
+        title:    'Another Russia'
+        htmlUrl:  'https://another-russia.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/E4J_wOzn'
 
   - issue:    172
     title:    'Find That Pod #172'
@@ -323,30 +323,30 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'dot com: The Hacking'
-          htmlUrl:  'https://play.acast.com/s/dot-com'
-          xmlUrl:   'https://rss.acast.com/dot-com'
+    - podcast:
+        title:    'dot com: The Hacking'
+        htmlUrl:  'https://play.acast.com/s/dot-com'
+        xmlUrl:   'https://rss.acast.com/dot-com'
 
-      - podcast:
-          title:    'It Takes Two'
-          htmlUrl:  'https://www.ittakestwo.co.nz/'
-          xmlUrl:   'https://media.rss.com/ittakestwo/feed.xml'
+    - podcast:
+        title:    'It Takes Two'
+        htmlUrl:  'https://www.ittakestwo.co.nz/'
+        xmlUrl:   'https://media.rss.com/ittakestwo/feed.xml'
 
-      - podcast:
-          title:    'Past Gas'
-          htmlUrl:  'https://www.studio71.com/us/podcasts/'
-          xmlUrl:   'http://feeds.feedburner.com/PastGasPodcast'
+    - podcast:
+        title:    'Past Gas'
+        htmlUrl:  'https://www.studio71.com/us/podcasts/'
+        xmlUrl:   'http://feeds.feedburner.com/PastGasPodcast'
 
-      - podcast:
-          title:    'SciShow Tangents'
-          htmlUrl:  'https://www.wnycstudios.org/podcasts/scishow-tangents'
-          xmlUrl:   'https://feeds.simplecast.com/jMge1H9A'
+    - podcast:
+        title:    'SciShow Tangents'
+        htmlUrl:  'https://www.wnycstudios.org/podcasts/scishow-tangents'
+        xmlUrl:   'https://feeds.simplecast.com/jMge1H9A'
 
-      - podcast:
-          title:    'My Unsung Hero'
-          htmlUrl:  'https://my-unsung-hero.simplecast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/_EGvSe3D'
+    - podcast:
+        title:    'My Unsung Hero'
+        htmlUrl:  'https://my-unsung-hero.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/_EGvSe3D'
 
   - issue:    171
     title:    'Find That Pod #171'
@@ -354,35 +354,35 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Real Ones with Jon Bernthal'
-          htmlUrl:  'http://www.patreon.com/realones'
-          xmlUrl:   'https://anchor.fm/s/5b6cf3f8/podcast/rss'
+    - podcast:
+        title:    'Real Ones with Jon Bernthal'
+        htmlUrl:  'http://www.patreon.com/realones'
+        xmlUrl:   'https://anchor.fm/s/5b6cf3f8/podcast/rss'
 
-      - podcast:
-          title:    'The Leviathan Chronicles'
-          htmlUrl:  'https://www.theleviathanchronicles.com/'
-          xmlUrl:   'https://leviathan.libsyn.com/rss'
+    - podcast:
+        title:    'The Leviathan Chronicles'
+        htmlUrl:  'https://www.theleviathanchronicles.com/'
+        xmlUrl:   'https://leviathan.libsyn.com/rss'
 
-      - podcast:
-          title:    'Perfect Person'
-          htmlUrl:  'https://www.spreaker.com/show/perfect-person'
-          xmlUrl:   'https://www.spreaker.com/show/5607580/episodes/feed'
+    - podcast:
+        title:    'Perfect Person'
+        htmlUrl:  'https://www.spreaker.com/show/perfect-person'
+        xmlUrl:   'https://www.spreaker.com/show/5607580/episodes/feed'
 
-      - podcast:
-          title:    'Unprofessional Engineering'
-          htmlUrl:  'https://soundcloud.com/unprofessionalengineering'
-          xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:236923839/sounds.rss'
+    - podcast:
+        title:    'Unprofessional Engineering'
+        htmlUrl:  'https://soundcloud.com/unprofessionalengineering'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:236923839/sounds.rss'
 
-      - podcast:
-          title:    'Legends of the Old West'
-          htmlUrl:  'https://blackbarrelmedia.com/legends-of-the-old-west/'
-          xmlUrl:   'https://feeds.megaphone.fm/BBM8260687703'
+    - podcast:
+        title:    'Legends of the Old West'
+        htmlUrl:  'https://blackbarrelmedia.com/legends-of-the-old-west/'
+        xmlUrl:   'https://feeds.megaphone.fm/BBM8260687703'
 
-      - podcast:
-          title:    'Titans of Nuclear'
-          htmlUrl:  'https://www.titansofnuclear.com/'
-          xmlUrl:   'https://whynotnuclear.libsyn.com/rss'
+    - podcast:
+        title:    'Titans of Nuclear'
+        htmlUrl:  'https://www.titansofnuclear.com/'
+        xmlUrl:   'https://whynotnuclear.libsyn.com/rss'
 
   - issue:    170
     title:    'Find That Pod #170'
@@ -390,35 +390,35 @@ body:
     htmlUrl:  null
     contents:
 
-      - podcast:
-          title:    'Opening Arguments'
-          htmlUrl:  'http://openargs.com/'
-          xmlUrl:   'https://openargs.libsyn.com/'
+    - podcast:
+        title:    'Opening Arguments'
+        htmlUrl:  'http://openargs.com/'
+        xmlUrl:   'https://openargs.libsyn.com/'
 
-      - podcast:
-          title:    'Basic!'
-          htmlUrl:  'https://www.basicthepodcast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/eIB8oIgo'
+    - podcast:
+        title:    'Basic!'
+        htmlUrl:  'https://www.basicthepodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/eIB8oIgo'
 
-      - podcast:
-          title:    'Sex and Psychology Podcast'
-          htmlUrl:  'https://www.sexandpsychology.com/'
-          xmlUrl:   'https://www.sexandpsychology.com/feed/podcast/'
+    - podcast:
+        title:    'Sex and Psychology Podcast'
+        htmlUrl:  'https://www.sexandpsychology.com/'
+        xmlUrl:   'https://www.sexandpsychology.com/feed/podcast/'
 
-      - podcast:
-          title:    'A Hot Dog is a Sandwich'
-          htmlUrl:  'http://mythicalkitchen.com/'
-          xmlUrl:   'https://feeds.feedburner.com/mythical-kitchen'
+    - podcast:
+        title:    'A Hot Dog is a Sandwich'
+        htmlUrl:  'http://mythicalkitchen.com/'
+        xmlUrl:   'https://feeds.feedburner.com/mythical-kitchen'
 
-      - podcast:
-          title:    'Secular Buddhism'
-          htmlUrl:  'http://secularbuddhism.com/'
-          xmlUrl:   'https://feeds.feedburner.com/SecularBuddhism'
+    - podcast:
+        title:    'Secular Buddhism'
+        htmlUrl:  'http://secularbuddhism.com/'
+        xmlUrl:   'https://feeds.feedburner.com/SecularBuddhism'
 
-      - podcast:
-          title:    'Eons: Mysteries of Deep Time'
-          htmlUrl:  'https://beta.prx.org/series/41240'
-          xmlUrl:   'https://eonspodcast.pbs.org/'
+    - podcast:
+        title:    'Eons: Mysteries of Deep Time'
+        htmlUrl:  'https://beta.prx.org/series/41240'
+        xmlUrl:   'https://eonspodcast.pbs.org/'
 
   - issue:    169
     title:    'Find That Pod #169'
@@ -5512,30 +5512,30 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-8/'
     contents:
 
-      - podcast:
-          title:    'The Greatest Generation'
-          htmlUrl:  'http://www.maximumfun.org/shows/greatest-generation'
-          xmlUrl:   'https://feeds.feedburner.com/TheGreatestGeneration'
+    - podcast:
+        title:    'The Greatest Generation'
+        htmlUrl:  'http://www.maximumfun.org/shows/greatest-generation'
+        xmlUrl:   'https://feeds.feedburner.com/TheGreatestGeneration'
 
-      - podcast:
-          title:    'Life is Short with Justin Long'
-          htmlUrl:  'https://wondery.com/shows/justin-long/'
-          xmlUrl:   'https://rss.art19.com/life-is-short-with-justin-long'
+    - podcast:
+        title:    'Life is Short with Justin Long'
+        htmlUrl:  'https://wondery.com/shows/justin-long/'
+        xmlUrl:   'https://rss.art19.com/life-is-short-with-justin-long'
 
-      - podcast:
-          title:    'Ologies'
-          htmlUrl:  'http://art19.com/shows/ologies-fb'
-          xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cd414f92-9493-4cb9-8118-ab050189d61c/0ea3ce14-a105-487b-b68d-ab050189d62a/podcast.rss'
+    - podcast:
+        title:    'Ologies'
+        htmlUrl:  'http://art19.com/shows/ologies-fb'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cd414f92-9493-4cb9-8118-ab050189d61c/0ea3ce14-a105-487b-b68d-ab050189d62a/podcast.rss'
 
-      - podcast:
-          title:    'Road Work'
-          htmlUrl:  'http://5by5.tv/roadwork'
-          xmlUrl:   'http://feeds.5by5.tv/roadwork'
+    - podcast:
+        title:    'Road Work'
+        htmlUrl:  'http://5by5.tv/roadwork'
+        xmlUrl:   'http://feeds.5by5.tv/roadwork'
 
-      - podcast:
-          title:    'Olympic Fever'
-          htmlUrl:  'https://olymfever.com/'
-          xmlUrl:   'https://flamealivepod.libsyn.com/rss'
+    - podcast:
+        title:    'Olympic Fever'
+        htmlUrl:  'https://olymfever.com/'
+        xmlUrl:   'https://flamealivepod.libsyn.com/rss'
 
   - issue:    7
     title:    'Find That Pod # 7'
@@ -5543,61 +5543,61 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-7/'
     contents:
 
-      - podcast:
-          title:    'Roboism'
-          htmlUrl:  'https://www.relay.fm/roboism'
-          xmlUrl:   'https://www.relay.fm/roboism/feed'
+    - podcast:
+        title:    'Roboism'
+        htmlUrl:  'https://www.relay.fm/roboism'
+        xmlUrl:   'https://www.relay.fm/roboism/feed'
 
-      - podcast:
-          title:    'Car Talk'
-          htmlUrl:  'https://www.npr.org/podcasts/510208/car-talk'
-          xmlUrl:   'https://feeds.npr.org/510208/podcast.xml'
+    - podcast:
+        title:    'Car Talk'
+        htmlUrl:  'https://www.npr.org/podcasts/510208/car-talk'
+        xmlUrl:   'https://feeds.npr.org/510208/podcast.xml'
 
-      - podcast:
-          title:    'Centuries of Sound'
-          htmlUrl:  'https://centuriesofsound.com/'
-          xmlUrl:   'https://feeds.feedburner.com/CenturiesOfSound'
+    - podcast:
+        title:    'Centuries of Sound'
+        htmlUrl:  'https://centuriesofsound.com/'
+        xmlUrl:   'https://feeds.feedburner.com/CenturiesOfSound'
 
-      - podcast:
-          title:    'Deep State Radio'
-          htmlUrl:  'https://soundcloud.com/deepstateradio'
-          xmlUrl:   'https://feeds.acast.com/public/shows/5c51ff73675fad4f36d1ae7d'
+    - podcast:
+        title:    'Deep State Radio'
+        htmlUrl:  'https://soundcloud.com/deepstateradio'
+        xmlUrl:   'https://feeds.acast.com/public/shows/5c51ff73675fad4f36d1ae7d'
 
-      - podcast:
-          title:    'The Midnight Myth Podcast'
-          htmlUrl:  'https://www.midnightmyth.com/'
-          xmlUrl:   'https://anchor.fm/s/b216b2c/podcast/rss'
-  
+    - podcast:
+        title:    'The Midnight Myth Podcast'
+        htmlUrl:  'https://www.midnightmyth.com/'
+        xmlUrl:   'https://anchor.fm/s/b216b2c/podcast/rss'
+
   - issue:    6
     title:    'Find That Pod # 6'
     pubDate:  '2019-05-10'
     htmlUrl:  'https://findthatpod.com/edition-6/'
     contents:
 
-      - podcast:
-          title:    'Against The Rules'
-          htmlUrl:  'https://atrpodcast.com/'
-          xmlUrl:   'https://feeds.megaphone.fm/against-the-rules'
+    - podcast:
+        title:    'Against The Rules'
+        htmlUrl:  'https://atrpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/against-the-rules'
 
-      - podcast:
-          title:    'Blackout'
-          htmlUrl:  'https://www.endeavoraudio.com/podcasts/thriller-podcasts/blackout'
-          xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/b132e82c-0500-4c0a-a2be-ab9e0158957e/ecd72810-fe43-4652-8a4a-ab9e0158959f/podcast.rss'
+    - podcast:
+        title:    'Blackout'
+        htmlUrl:  'https://www.endeavoraudio.com/podcasts/thriller-podcasts/blackout'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/b132e82c-0500-4c0a-a2be-ab9e0158957e/ecd72810-fe43-4652-8a4a-ab9e0158959f/podcast.rss'
 
-      - podcast:
-          title:    'Uncover: The Village'
-          htmlUrl:  'https://www.cbc.ca/radio/podcasts/current-affairs-information/uncover/'
-          xmlUrl:   'https://www.cbc.ca/podcasting/includes/uncover.xml'
+    - podcast:
+        title:    'Uncover: The Village'
+        htmlUrl:  'https://www.cbc.ca/radio/podcasts/current-affairs-information/uncover/'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/uncover.xml'
 
-      - podcast:
-          title:    'Exponent'
-          htmlUrl:  'https://exponent.fm/'
-          xmlUrl:   'http://exponent.fm/feed/'
+    - podcast:
+        title:    'Exponent'
+        htmlUrl:  'https://exponent.fm/'
+        xmlUrl:   'http://exponent.fm/feed/'
 
-      - podcast:
-          title:    'Intermittent Fasting Stories'
-          htmlUrl:  'http://intermittentfastingstories.com/'
-          xmlUrl:   'https://rss.art19.com/intermittent-fasting-stories'
+    - podcast:
+        title:    'Intermittent Fasting Stories'
+        htmlUrl:  'http://intermittentfastingstories.com/'
+        xmlUrl:   'https://rss.art19.com/intermittent-fasting-stories'
 
   - issue:    5
     title:    'Find That Pod # 5'
@@ -5605,30 +5605,30 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-5/'
     contents:
 
-      - podcast:
-          title:    'Super Awesome Science Show'
-          htmlUrl:  'https://curiouscast.ca/podcast/321/super-awesome-science-show-sass/'
-          xmlUrl:   'https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/a41082a8-4c7d-4caf-809e-a98b00f83b50/40f1bde9-d0d2-45dd-9015-a98b00fe2ed9/podcast.rss'
+    - podcast:
+        title:    'Super Awesome Science Show'
+        htmlUrl:  'https://curiouscast.ca/podcast/321/super-awesome-science-show-sass/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/a41082a8-4c7d-4caf-809e-a98b00f83b50/40f1bde9-d0d2-45dd-9015-a98b00fe2ed9/podcast.rss'
 
-      - podcast:
-          title:    'The Flop House'
-          htmlUrl:  'https://www.flophousepodcast.com/'
-          xmlUrl:   'https://feeds.simplecast.com/EOAFriME'
+    - podcast:
+        title:    'The Flop House'
+        htmlUrl:  'https://www.flophousepodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/EOAFriME'
 
-      - podcast:
-          title:    'You’re Wrong About'
-          htmlUrl:  'https://rottenindenmark.wordpress.com/podcast/'
-          xmlUrl:   'https://feeds.buzzsprout.com/1112270.rss'
+    - podcast:
+        title:    'You’re Wrong About'
+        htmlUrl:  'https://rottenindenmark.wordpress.com/podcast/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1112270.rss'
 
-      - podcast:
-          title:    'Making Obama'
-          htmlUrl:  'http://www.wbez.org/shows/making-obama/71b8de57-b2be-4e03-8481-683258de3ec1'
-          xmlUrl:   'https://feeds.feedburner.com/wbez-making'
+    - podcast:
+        title:    'Making Obama'
+        htmlUrl:  'http://www.wbez.org/shows/making-obama/71b8de57-b2be-4e03-8481-683258de3ec1'
+        xmlUrl:   'https://feeds.feedburner.com/wbez-making'
 
-      - podcast:
-          title:    'Somewhere in the Skies'
-          htmlUrl:  'https://www.somewhereintheskies.com/'
-          xmlUrl:   'https://rss.acast.com/somewhere-in-the-skies'
+    - podcast:
+        title:    'Somewhere in the Skies'
+        htmlUrl:  'https://www.somewhereintheskies.com/'
+        xmlUrl:   'https://rss.acast.com/somewhere-in-the-skies'
 
   - issue:    4
     title:    'Find That Pod # 4'
@@ -5636,30 +5636,30 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-4/'
     contents:
 
-      - podcast:
-          title:    'AppStories'
-          htmlUrl:  'https://appstories.net/'
-          xmlUrl:   'https://appstories.net/episodes/feed/'
+    - podcast:
+        title:    'AppStories'
+        htmlUrl:  'https://appstories.net/'
+        xmlUrl:   'https://appstories.net/episodes/feed/'
 
-      - podcast:
-          title:    'Friendshipping!'
-          htmlUrl:  'https://friendshipping.simplecast.fm/'
-          xmlUrl:   'https://feeds.transistor.fm/friendshipping'
+    - podcast:
+        title:    'Friendshipping!'
+        htmlUrl:  'https://friendshipping.simplecast.fm/'
+        xmlUrl:   'https://feeds.transistor.fm/friendshipping'
 
-      - podcast:
-          title:    'The Last Continent'
-          htmlUrl:  'https://www.pbs.org/newshour/podcasts/the-last-continent'
-          xmlUrl:   'https://www.pbs.org/newshour/feeds/rss/podcasts/the-last-continent'
+    - podcast:
+        title:    'The Last Continent'
+        htmlUrl:  'https://www.pbs.org/newshour/podcasts/the-last-continent'
+        xmlUrl:   'https://www.pbs.org/newshour/feeds/rss/podcasts/the-last-continent'
 
-      - podcast:
-          title:    'Internet History Podcast'
-          htmlUrl:  'http://www.internethistorypodcast.com/'
-          xmlUrl:   'https://feedpress.me/InternetHistoryPodcast'
+    - podcast:
+        title:    'Internet History Podcast'
+        htmlUrl:  'http://www.internethistorypodcast.com/'
+        xmlUrl:   'https://feedpress.me/InternetHistoryPodcast'
 
-      - podcast:
-          title:    'Why is This Happening?'
-          htmlUrl:  'https://www.nbcnews.com/think/why-is-this-happening-chris-hayes-podcast'
-          xmlUrl:   'https://podcastfeeds.nbcnews.com/why-is-this-happening-with-chris-hayes'
+    - podcast:
+        title:    'Why is This Happening?'
+        htmlUrl:  'https://www.nbcnews.com/think/why-is-this-happening-chris-hayes-podcast'
+        xmlUrl:   'https://podcastfeeds.nbcnews.com/why-is-this-happening-with-chris-hayes'
 
   - issue:    3
     title:    'Find That Pod # 3'
@@ -5667,30 +5667,30 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-3/'
     contents:
 
-      - podcast:
-          title:    'Art of Manliness Podcast'
-          htmlUrl:  'https://www.artofmanliness.com/'
-          xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/6081eee7-c459-4e12-a1ab-aadc000fc4a7/413a6904-4d72-4be8-9421-aadc000fc4ba/podcast.rss'
+    - podcast:
+        title:    'Art of Manliness Podcast'
+        htmlUrl:  'https://www.artofmanliness.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/6081eee7-c459-4e12-a1ab-aadc000fc4a7/413a6904-4d72-4be8-9421-aadc000fc4ba/podcast.rss'
 
-      - podcast:
-          title:    'Beautiful Anonymous'
-          htmlUrl:  'https://www.earwolf.com/show/beautiful-anonymous/'
-          xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/1debd8bf-df05-4686-a3cd-aaa90117279d/dd05b701-6cf6-42a3-aa86-aaa9011727b0/podcast.rss'
+    - podcast:
+        title:    'Beautiful Anonymous'
+        htmlUrl:  'https://www.earwolf.com/show/beautiful-anonymous/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/1debd8bf-df05-4686-a3cd-aaa90117279d/dd05b701-6cf6-42a3-aa86-aaa9011727b0/podcast.rss'
 
-      - podcast:
-          title:    'Footnoting History'
-          htmlUrl:  'https://www.footnotinghistory.com/'
-          xmlUrl:   'https://footnotinghistory.podbean.com/feed.xml'
+    - podcast:
+        title:    'Footnoting History'
+        htmlUrl:  'https://www.footnotinghistory.com/'
+        xmlUrl:   'https://footnotinghistory.podbean.com/feed.xml'
 
-      - podcast:
-          title:    'Spycast'
-          htmlUrl:  'https://audioboom.com/channel/spycast'
-          xmlUrl:   'https://audioboom.com/channels/4634320.rss'
+    - podcast:
+        title:    'Spycast'
+        htmlUrl:  'https://audioboom.com/channel/spycast'
+        xmlUrl:   'https://audioboom.com/channels/4634320.rss'
 
-      - podcast:
-          title:    'Unemployable'
-          htmlUrl:  'https://unemployable.com/podcast/'
-          xmlUrl:   'https://www.spreaker.com/show/3469652/episodes/feed'
+    - podcast:
+        title:    'Unemployable'
+        htmlUrl:  'https://unemployable.com/podcast/'
+        xmlUrl:   'https://www.spreaker.com/show/3469652/episodes/feed'
 
   - issue:    2
     title:    'Find That Pod # 2'
@@ -5698,30 +5698,30 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-2/'
     contents:
 
-      - podcast:
-          title:    'Philosophize This!'
-          htmlUrl:  'https://podcastaddict.com/podcast/2206115'
-          xmlUrl:   'https://philosophizethis.libsyn.com/rss'
+    - podcast:
+        title:    'Philosophize This!'
+        htmlUrl:  'https://podcastaddict.com/podcast/2206115'
+        xmlUrl:   'https://philosophizethis.libsyn.com/rss'
 
-      - podcast:
-          title:    'The Stalman Podcast'
-          htmlUrl:  'https://podcastaddict.com/podcast/2364282'
-          xmlUrl:   'https://feeds.fireside.fm/stalman/rss'
+    - podcast:
+        title:    'The Stalman Podcast'
+        htmlUrl:  'https://podcastaddict.com/podcast/2364282'
+        xmlUrl:   'https://feeds.fireside.fm/stalman/rss'
 
-      - podcast:
-          title:    'Inside the Hive With Nick Bilton'
-          htmlUrl:  'https://art19.com/shows/inside-the-hive'
-          xmlUrl:   'https://feeds.feedburner.com/inside-the-hive'
+    - podcast:
+        title:    'Inside the Hive With Nick Bilton'
+        htmlUrl:  'https://art19.com/shows/inside-the-hive'
+        xmlUrl:   'https://feeds.feedburner.com/inside-the-hive'
 
-      - podcast:
-          title:    'Fun Fact'
-          htmlUrl:  'https://funfact.fm/'
-          xmlUrl:   'https://funfact.fm/feed/'
+    - podcast:
+        title:    'Fun Fact'
+        htmlUrl:  'https://funfact.fm/'
+        xmlUrl:   'https://funfact.fm/feed/'
 
-      - podcast:
-          title:    'Intelligence Squared'
-          htmlUrl:  'https://www.intelligencesquaredus.org/'
-          xmlUrl:   'https://feeds.megaphone.fm/PNP1207584390'
+    - podcast:
+        title:    'Intelligence Squared'
+        htmlUrl:  'https://www.intelligencesquaredus.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/PNP1207584390'
 
   - issue:    1
     title:    'Find That Pod # 1'
@@ -5729,29 +5729,29 @@ body:
     htmlUrl:  'https://findthatpod.com/edition-1/'
     contents:
 
-      - podcast:
-          title:    'Astonishing Legends'
-          htmlUrl:  'https://www.astonishinglegends.com/podcasts'
-          xmlUrl:   'https://audioboom.com/channels/4322549.rss'
+    - podcast:
+        title:    'Astonishing Legends'
+        htmlUrl:  'https://www.astonishinglegends.com/podcasts'
+        xmlUrl:   'https://audioboom.com/channels/4322549.rss'
 
-      - podcast:
-          title:    'Connected'
-          htmlUrl:  'https://www.relay.fm/connected'
-          xmlUrl:   'https://www.relay.fm/connected/feed'
+    - podcast:
+        title:    'Connected'
+        htmlUrl:  'https://www.relay.fm/connected'
+        xmlUrl:   'https://www.relay.fm/connected/feed'
 
-      - podcast:
-          title:    'Where Should We Begin?'
-          htmlUrl:  'https://www.estherperel.com/podcast'
-          xmlUrl:   'https://feeds.megaphone.fm/ep-wswb-spot'
+    - podcast:
+        title:    'Where Should We Begin?'
+        htmlUrl:  'https://www.estherperel.com/podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/ep-wswb-spot'
 
-      - podcast:
-          title:    'Flash Forward'
-          htmlUrl:  'https://www.flashforwardpod.com/'
-          xmlUrl:   'https://www.flashforwardpod.com/feed/podcast/'
+    - podcast:
+        title:    'Flash Forward'
+        htmlUrl:  'https://www.flashforwardpod.com/'
+        xmlUrl:   'https://www.flashforwardpod.com/feed/podcast/'
 
-      - podcast:
-          title:    'Unruffled - Respectful Parenting'
-          htmlUrl:  'https://www.janetlansbury.com/podcast-audio/'
-          xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:91056977/sounds.rss'
+    - podcast:
+        title:    'Unruffled - Respectful Parenting'
+        htmlUrl:  'https://www.janetlansbury.com/podcast-audio/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:91056977/sounds.rss'
 
 ...
