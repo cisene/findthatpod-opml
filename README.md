@@ -14,3 +14,4 @@ I just created something I would like to consume myself, lists without links are
 
 
 
+I had this code and a chunk of YAML laying around on a server and thought it would do better in a version controlled repository, so I created this repo. There is a python script that takes a YAML-file, parses it and renders an OPML-file, nothing magic at all.
