@@ -3,8 +3,9 @@
 <opml version="2.0">
   <head>
     <title>FindThatPod - Podcast Collection</title>
+    <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0200</dateCreated>
-    <dateModified>Fri, 21 Oct 2022 17:38:39 +0200</dateModified>
+    <dateModified>Sat, 22 Oct 2022 14:11:53 +0200</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
