@@ -50,9 +50,11 @@ def ProcessItems():
 
   ownerName = config['head']['ownerName']
   ownerEmail = config['head']['ownerEmail']
+  url = config['head']['url']
 
   opml += "  <head>\n"
   opml += f"    <title>{head_title}</title>\n"
+  opml += f"    <url>{url}</url>\n"
   opml += f"    <dateCreated>{head_dateCreated} +0200</dateCreated>\n"
   opml += f"    <dateModified>{head_dateModified} +0200</dateModified>\n"
   opml += f"    <ownerName>{ownerName}</ownerName>\n"
