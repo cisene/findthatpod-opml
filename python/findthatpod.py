@@ -10,7 +10,7 @@ import yaml
 
 SOURCE_YAML = '../yaml/findthatpod.yaml'
 
-OUTPUT_FILENAME = 'findthatpod.opml'
+OUTPUT_FILENAME = '../findthatpod.opml'
 
 global config
 

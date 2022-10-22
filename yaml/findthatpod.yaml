@@ -7,6 +7,37 @@ head:
 
 body:
 
+  - issue:    183
+    title:    'Find That Pod #183'
+    pubDate:  '2022-10-21'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    "History's Trainwrecks"
+        htmlUrl:  'https://www.historystrainwrecks.com/'
+        xmlUrl:   'https://access.acast.com/rss/60a3be0e6196e1001b05895b/default'
+
+    - podcast:
+        title:    'On with Kara Swisher'
+        htmlUrl:  'http://nymag.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/VMP1684715893'
+
+    - podcast:
+        title:    'LadyGang'
+        htmlUrl:  'https://www.podcastone.com/ladygang-podcast'
+        xmlUrl:   'http://www.podcastone.com/podcast?categoryID2=836'
+
+    - podcast:
+        title:    'Conscious Business Leaders'
+        htmlUrl:  'http://consciousbusinessleaderspodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2019563.rss'
+
+    - podcast:
+        title:    'Mentally Gil: Conversations with Creators'
+        htmlUrl:  'https://mentallygil.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/6HPU2m_2'
+
   - issue:    182
     title:    'Find That Pod #182'
     pubDate:  '2022-10-14'
