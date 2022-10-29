@@ -8,6 +8,37 @@ head:
 
 body:
 
+  - issue:    184
+    title:    'Find That Pod #184'
+    pubDate:  '2022-10-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Art of Crime'
+        htmlUrl:  'http://www.artofcrimepodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2051325.rss'
+
+    - podcast:
+        title:    'Snap Judgement Presents: Spooked'
+        htmlUrl:  'https://spookedpodcast.org/'
+        xmlUrl:   'https://feeds.spookedpodcast.org/'
+
+    - podcast:
+        title:    'Mile Higher'
+        htmlUrl:  'http://youtube.com/c/milehigherpodcast'
+        xmlUrl:   'https://audioboom.com/channels/5011925.rss'
+
+    - podcast:
+        title:    'Within the Wires'
+        htmlUrl:  'http://withinthewires.com/'
+        xmlUrl:   'http://feeds.nightvalepresents.com/withinthewires'
+
+    - podcast:
+        title:    'Nightmare Magazine'
+        htmlUrl:  'http://www.nightmare-magazine.com/'
+        xmlUrl:   'http://www.nightmare-magazine.com/itunes-rss/'
+
   - issue:    183
     title:    'Find That Pod #183'
     pubDate:  '2022-10-21'

@@ -5,11 +5,18 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0200</dateCreated>
-    <dateModified>Sat, 22 Oct 2022 14:11:53 +0200</dateModified>
+    <dateModified>Sat, 29 Oct 2022 11:46:07 +0200</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #184" dateCreated="Fri, 28 Oct 2022 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="The Art of Crime" text="The Art of Crime" htmlUrl="http://www.artofcrimepodcast.com/" xmlUrl="https://feeds.buzzsprout.com/2051325.rss" />
+      <opml type="link" version="RSS" language="en" title="Snap Judgement Presents: Spooked" text="Snap Judgement Presents: Spooked" htmlUrl="https://spookedpodcast.org/" xmlUrl="https://feeds.spookedpodcast.org/" />
+      <opml type="link" version="RSS" language="en" title="Mile Higher" text="Mile Higher" htmlUrl="http://youtube.com/c/milehigherpodcast" xmlUrl="https://audioboom.com/channels/5011925.rss" />
+      <opml type="link" version="RSS" language="en" title="Within the Wires" text="Within the Wires" htmlUrl="http://withinthewires.com/" xmlUrl="http://feeds.nightvalepresents.com/withinthewires" />
+      <opml type="link" version="RSS" language="en" title="Nightmare Magazine" text="Nightmare Magazine" htmlUrl="http://www.nightmare-magazine.com/" xmlUrl="http://www.nightmare-magazine.com/itunes-rss/" />
+    </outline>
     <outline text="Find That Pod #183" dateCreated="Fri, 21 Oct 2022 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="History&#39;s Trainwrecks" text="History&#39;s Trainwrecks" htmlUrl="https://www.historystrainwrecks.com/" xmlUrl="https://access.acast.com/rss/60a3be0e6196e1001b05895b/default" />
       <opml type="link" version="RSS" language="en" title="On with Kara Swisher" text="On with Kara Swisher" htmlUrl="http://nymag.com/" xmlUrl="https://feeds.megaphone.fm/VMP1684715893" />
