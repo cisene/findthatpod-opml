@@ -1,4 +1,8 @@
 ---
+opml:
+  filename: findthatpod.opml
+  origin: https://b19.se/data/findthatpod.opml
+
 head:
   title: 'FindThatPod - Podcast Collection'
   dateCreated: '2019-04-05 17:33:20'
@@ -954,7 +958,7 @@ body:
   - issue:    156
     title:    'Find That Pod #156'
     pubDate:  '2022-04-01'
-    htmlUrl:  null
+    htmlUrl:  'https://findthatpod.com/find-that-pod-156/'
     contents:
 
     - podcast:
