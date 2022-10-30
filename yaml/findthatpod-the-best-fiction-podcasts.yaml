@@ -1,0 +1,104 @@
+---
+opml:
+  filename: findthatpod-the-best-fiction-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-fiction-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Fiction Podcasts'
+  dateCreated: '2021-06-06 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    2021
+    title:    'The Best Fiction Podcasts in 2021'
+    pubDate:  '2021-06-06'
+    htmlUrl:  'https://findthatpod.com/best-fiction-podcasts-2021/'
+    contents:
+
+    - podcast:
+        title:    'The Two Princes'
+        htmlUrl:  'https://gimletmedia.com/shows/the-two-princes'
+        xmlUrl:   'https://feeds.megaphone.fm/tp-spot'
+
+    - podcast:
+        title:    'Voyage to the Stars'
+        htmlUrl:  'https://www.voyagetothestars.net/'
+        xmlUrl:   'https://feeds.simplecast.com/eP7UJ7L_'
+
+    - podcast:
+        title:    'Tumanbay'
+        htmlUrl:  'http://www.tumanbay.com/'
+        xmlUrl:   'http://feeds.megaphone.fm/tumanbay'
+
+    - podcast:
+        title:    'Forest 404'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p06tqsg3'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p06tqsg3.rss'
+
+    - podcast:
+        title:    'Limetown'
+        htmlUrl:  'http://www.limetown.com/'
+        xmlUrl:   'http://feeds.megaphone.fm/PPY5621646923'
+
+    - podcast:
+        title:    'The Apocrypha Chronicles'
+        htmlUrl:  'http://www.apocryphachronicles.ca/'
+        xmlUrl:   'https://anchor.fm/s/46341070/podcast/rss'
+
+    - podcast:
+        title:    'From Now'
+        htmlUrl:  'https://qcodemedia.com/from-now'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD7924418919'
+
+    - podcast:
+        title:    'The No Sleep Podcast'
+        htmlUrl:  'https://www.thenosleeppodcast.com/'
+        xmlUrl:   'https://rss.art19.com/nosleep'
+
+    - podcast:
+        title:    'Sayer'
+        htmlUrl:  'https://iamsayer.com/'
+        xmlUrl:   'http://feeds.feedburner.com/sayer'
+
+    - podcast:
+        title:    'The Edge of Sleep'
+        htmlUrl:  'https://www.qcodemedia.com/theedgeofsleep'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD1489535626'
+
+    - podcast:
+        title:    'The Left-Right Game'
+        htmlUrl:  'https://qcodemedia.com/theleftrightgame'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD2477597834'
+
+    - podcast:
+        title:    'Passenger List'
+        htmlUrl:  'https://www.passengerlist.org/'
+        xmlUrl:   'https://feed.passengerlist.org/'
+
+    - podcast:
+        title:    'Radioland'
+        htmlUrl:  'http://radiolandpodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/380404.rss'
+
+    - podcast:
+        title:    'Camp Monsters'
+        htmlUrl:  'https://camp-monsters.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Gkq4XMZB'
+
+    - podcast:
+        title:    'Imagined Life'
+        htmlUrl:  'https://wondery.com/shows/Imagined-Life/'
+        xmlUrl:   'https://rss.art19.com/imagined-life'
+
+    - podcast:
+        title:    'Carrier'
+        htmlUrl:  'http://www.qcodemedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD1940458558'
+
+    - podcast:
+        title:    'Blackout'
+        htmlUrl:  'https://qcodemedia.com/blackout'
+        xmlUrl:   'https://feeds.megaphone.fm/QCEOS5292368649'

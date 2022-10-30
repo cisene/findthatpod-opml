@@ -1,0 +1,259 @@
+---
+opml:
+  filename: findthatpod-the-best-history-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-history-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best History Podcasts'
+  dateCreated: '2021-05-10 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    2021
+    title:    'The Best History Podcasts in 2021'
+    pubDate:  '2021-05-10'
+    htmlUrl:  'https://findthatpod.com/best-history-podcasts-2021/'
+    contents:
+
+    - podcast:
+        title:    'In Plain Sight: Lady Bird Johnson'
+        htmlUrl:  'https://abcaudio.com/podcasts/in-plain-sight/'
+        xmlUrl:   'https://feeds.megaphone.fm/ESP8551283217'
+
+    - podcast:
+        title:    'Real Dictators'
+        htmlUrl:  'https://www.noiser.com/realdictators'
+        xmlUrl:   'https://feeds.megaphone.fm/NSR6187882468'
+
+    - podcast:
+        title:    'Fall of Civilizations'
+        htmlUrl:  'https://fallofcivilizationspodcast.com/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss'
+
+    - podcast:
+        title:    'Working Over Time'
+        htmlUrl:  'https://contact3c.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/contact3c/feed.xml'
+
+    - podcast:
+        title:    'Floodlines'
+        htmlUrl:  'https://www.theatlantic.com/podcasts/floodlines'
+        xmlUrl:   'https://anchor.fm/s/263ba9cc/podcast/rss'
+
+    - podcast:
+        title:    'Body Count'
+        htmlUrl:  'https://www.bodycounthistorypod.com/'
+        xmlUrl:   'https://feeds.transistor.fm/body-count'
+
+    - podcast:
+        title:    'The British History Podcast'
+        htmlUrl:  'https://www.thebritishhistorypodcast.com/'
+        xmlUrl:   'https://feeds.feedburner.com/TheBritishHistoryPodcast'
+
+    - podcast:
+        title:    "What’s HerName"
+        htmlUrl:  'https://www.whatshernamepodcast.com/'
+        xmlUrl:   'https://www.whatshernamepodcast.com/feed/podcast/'
+
+    - podcast:
+        title:    'The Faces of Fascism'
+        htmlUrl:  'https://facesoffascism.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/facesoffascism/feed.xml'
+
+    - podcast:
+        title:    'The Dangerous History Podcast'
+        htmlUrl:  'http://profcj.org/'
+        xmlUrl:   'http://feeds.megaphone.fm/ADL8114804847'
+
+    - podcast:
+        title:    'Who We Are'
+        htmlUrl:  'https://www.vox.com/ad/21354746/who-we-are-podcast-racism-in-america'
+        xmlUrl:   'https://feeds.megaphone.fm/whoweare'
+
+    - podcast:
+        title:    "Ben Franklin’s World"
+        htmlUrl:  'http://www.benfranklinsworld.com/'
+        xmlUrl:   'https://benfranklinsworld.libsyn.com/rss'
+
+    - podcast:
+        title:    'It Was Said'
+        htmlUrl:  'https://shows.cadence13.com/podcast/it-was-said'
+        xmlUrl:   'https://feeds.megaphone.fm/it-was-said'
+
+    - podcast:
+        title:    'American Shadows'
+        htmlUrl:  'http://www.grimandmild.com/americanshadows'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C5CF8589-9C0E-4A86-A5DD-AE3300346BCC/923CE442-169B-4658-B09F-AE3300346BE8/podcast.rss'
+
+    - podcast:
+        title:    'This is a Disaster'
+        htmlUrl:  'https://thisdisasterpod.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/thisdisasterpod/feed.xml'
+
+    - podcast:
+        title:    'Noble Blood'
+        htmlUrl:  'http://noblebloodtales.com/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss'
+
+    - podcast:
+        title:    'The Bomb'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p08llv8n'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p08llv8n.rss'
+
+    - podcast:
+        title:    'Inward Empire'
+        htmlUrl:  'https://www.podomatic.com/podcasts/inwardempirepodcast'
+        xmlUrl:   'https://inwardempirepodcast.podomatic.com/rss2.xml'
+
+    - podcast:
+        title:    'Emperors of Rome'
+        htmlUrl:  'http://www.latrobe.edu.au/'
+        xmlUrl:   'https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/caesar.xml'
+
+    - podcast:
+        title:    'Hope Through History'
+        htmlUrl:  'https://shows.cadence13.com/podcast/hope-through-history'
+        xmlUrl:   'https://feeds.megaphone.fm/hope-through-history'
+
+    - podcast:
+        title:    'Distillations'
+        htmlUrl:  'https://www.sciencehistory.org/distillations/podcast'
+        xmlUrl:   'https://chemheritage.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Constant: A History of Getting Things Wrong'
+        htmlUrl:  'https://www.constantpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADV8582947768'
+
+    - podcast:
+        title:    'Casting Through Ancient Greece'
+        htmlUrl:  'https://www.castingthroughancientgreece.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/809024.rss'
+
+    - podcast:
+        title:    'LBJ and the Great Society'
+        htmlUrl:  'https://lbjsgreatsociety.org/'
+        xmlUrl:   'http://feeds.pri.org/lbjswar'
+
+    - podcast:
+        title:    'Clear and Present Danger - A History of Free Speech'
+        htmlUrl:  'https://freespeechhistory.com/'
+        xmlUrl:   'https://freespeechhistory.libsyn.com/rss'
+
+    - podcast:
+        title:    'Espionage'
+        htmlUrl:  'https://www.parcast.com/espionage'
+        xmlUrl:   'https://feeds.megaphone.fm/espionage'
+
+    - podcast:
+        title:    "You’re Dead to Me"
+        htmlUrl:  'https://www.bbc.co.uk/programmes/p07mdbhg'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p07mdbhg.rss'
+
+    - podcast:
+        title:    'Cautionary Tales'
+        htmlUrl:  'https://www.pushkin.fm/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss'
+
+    - podcast:
+        title:    'The Alarmist'
+        htmlUrl:  'https://thealarmistpodcast.com/'
+        xmlUrl:   'https://rss.acast.com/alarmist'
+
+    - podcast:
+        title:    'Context'
+        htmlUrl:  'https://bradharris.com/'
+        xmlUrl:   'https://contextwithbradharris.libsyn.com/rss'
+
+    - podcast:
+        title:    'ODD BALL'
+        htmlUrl:  'https://www.spreaker.com/show/wjct-odd-ball'
+        xmlUrl:   'https://www.spreaker.com/show/4080729/episodes/feed'
+
+    - podcast:
+        title:    'History on Fire'
+        htmlUrl:  'https://historyonfirepodcast.com/episodes'
+        xmlUrl:   'https://historyonfirepodcast.com/episodes?format=rss'
+
+    - podcast:
+        title:    'How it Began: A History of the Modern World'
+        htmlUrl:  'http://howitbegan.com/'
+        xmlUrl:   'https://howitbeganshow.libsyn.com/rss'
+
+    - podcast:
+        title:    'Into the Portal'
+        htmlUrl:  'https://www.intotheportal.com/'
+        xmlUrl:   'https://audioboom.com/channels/4949567.rss'
+
+    - podcast:
+        title:    'The Secret Life of Canada'
+        htmlUrl:  'https://www.cbc.ca/radio/secretlifeofcanada'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/secretlifeofcanada.xml'
+
+    - podcast:
+        title:    'Ridiculous History'
+        htmlUrl:  'https://www.iheart.com/podcast/105-ridiculous-history-28588696/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/DCA0D8AD-E0B8-4A52-A2A8-AE300188D1E2/FE9400D8-DD2A-489F-82D9-AE300188D1EB/podcast.rss'
+
+    - podcast:
+        title:    "History of the ’90s"
+        htmlUrl:  'https://curiouscast.ca/'
+        xmlUrl:   'https://feeds.megaphone.fm/CORU3098323371'
+
+    - podcast:
+        title:    'Our Fake History'
+        htmlUrl:  'https://www.podcastone.com/pd/Our-Fake-History'
+        xmlUrl:   'https://www.podcastone.com/podcast?categoryID2=2142'
+
+    - podcast:
+        title:    'You Are Not So Smart'
+        htmlUrl:  'http://www.youarenotsosmart.com/'
+        xmlUrl:   'https://feeds.simplecast.com/N5eKDxJI'
+
+    - podcast:
+        title:    'American Scandal'
+        htmlUrl:  'https://wondery.com/shows/American-Scandal/'
+        xmlUrl:   'https://rss.art19.com/american-scandal'
+
+    - podcast:
+        title:    'Revolutions'
+        htmlUrl:  'https://www.revolutionspodcast.com/'
+        xmlUrl:   'https://revolutionspodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'Omnibus'
+        htmlUrl:  'https://www.omnibusproject.com/'
+        xmlUrl:   'https://feeds.fireside.fm/omnibus/rss'
+
+    - podcast:
+        title:    'Stuff You Missed in History Class'
+        htmlUrl:  'https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss'
+
+    - podcast:
+        title:    'Tides of History'
+        htmlUrl:  'https://wondery.com/shows/tides-of-history/?utm_source=rss'
+        xmlUrl:   'https://rss.art19.com/tides-of-history'
+
+    - podcast:
+        title:    "You’re Wrong About"
+        htmlUrl:  'https://www.buzzsprout.com/1112270'
+        xmlUrl:   'https://feeds.buzzsprout.com/1112270.rss'
+
+    - podcast:
+        title:    'Making Obama'
+        htmlUrl:  'http://www.wbez.org/shows/making-obama/71b8de57-b2be-4e03-8481-683258de3ec1'
+        xmlUrl:   'http://feeds.feedburner.com/wbez-making'
+
+    - podcast:
+        title:    'Internet History Podcast'
+        htmlUrl:  'https://play.acast.com/s/internethistorypodcast'
+        xmlUrl:   'https://feeds.acast.com/public/shows/77d1c4cf-ee45-45f1-b175-94e1d47c92e1'
+
+    - podcast:
+        title:    'Footnoting History'
+        htmlUrl:  'https://www.footnotinghistory.com/'
+        xmlUrl:   'https://footnotinghistory.podbean.com/feed.xml'
