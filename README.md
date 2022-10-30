@@ -15,3 +15,12 @@ I just created something I would like to consume myself, lists without links are
 
 
 I had this code and a chunk of YAML laying around on a server and thought it would do better in a version controlled repository, so I created this repo. There is a python script that takes a YAML-file, parses it and renders an OPML-file, nothing magic at all.
+
+| Filename                                                     | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [findthatpod.opml](./findthatpod.opml)                       | The original FindThatPod collection that updates weekly from the newsletter. |
+| [findthatpod-the-best-fiction-podcasts.opml](./findthatpod-the-best-fiction-podcasts.opml) | FindThatPod - The Best Fiction Podcasts                      |
+| [findthatpod-the-best-history-podcasts.opml](./findthatpod-the-best-history-podcasts.opml) | FindThatPod - The Best History Podcasts                      |
+| [findthatpod-the-best-science-podcasts.opml](./findthatpod-the-best-science-podcasts.opml) | FindThatPod - The Best Science Podcasts                      |
+| [findthatpod-the-best-technology-podcasts.opml](./findthatpod-the-best-technology-podcasts.opml) | FindThatPod - The Best Technology Podcasts                   |
+| [findthatpod-the-best-true-crime-podcasts.opml](./findthatpod-the-best-true-crime-podcasts.opml) | FindThatPod - The Best True Crime Podcasts                   |
