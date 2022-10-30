@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/opml/findthatpod-the-best-history-podcasts.opml -->
+<opml version="2.0">
+  <head>
+    <title>FindThatPod - The Best History Podcasts</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Mon, 10 May 2021 00:00:00 +0200</dateCreated>
+    <dateModified>Sun, 30 Oct 2022 00:44:01 +0200</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="The Best History Podcasts in 2021" htmlUrl="https://findthatpod.com/best-history-podcasts-2021/" dateCreated="Mon, 10 May 2021 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="In Plain Sight: Lady Bird Johnson" text="In Plain Sight: Lady Bird Johnson" htmlUrl="https://abcaudio.com/podcasts/in-plain-sight/" xmlUrl="https://feeds.megaphone.fm/ESP8551283217" />
+      <opml type="link" version="RSS" language="en" title="Real Dictators" text="Real Dictators" htmlUrl="https://www.noiser.com/realdictators" xmlUrl="https://feeds.megaphone.fm/NSR6187882468" />
+      <opml type="link" version="RSS" language="en" title="Fall of Civilizations" text="Fall of Civilizations" htmlUrl="https://fallofcivilizationspodcast.com/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss" />
+      <opml type="link" version="RSS" language="en" title="Working Over Time" text="Working Over Time" htmlUrl="https://contact3c.podbean.com/" xmlUrl="https://feed.podbean.com/contact3c/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="Floodlines" text="Floodlines" htmlUrl="https://www.theatlantic.com/podcasts/floodlines" xmlUrl="https://anchor.fm/s/263ba9cc/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Body Count" text="Body Count" htmlUrl="https://www.bodycounthistorypod.com/" xmlUrl="https://feeds.transistor.fm/body-count" />
+      <opml type="link" version="RSS" language="en" title="The British History Podcast" text="The British History Podcast" htmlUrl="https://www.thebritishhistorypodcast.com/" xmlUrl="https://feeds.feedburner.com/TheBritishHistoryPodcast" />
+      <opml type="link" version="RSS" language="en" title="What’s HerName" text="What’s HerName" htmlUrl="https://www.whatshernamepodcast.com/" xmlUrl="https://www.whatshernamepodcast.com/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="The Faces of Fascism" text="The Faces of Fascism" htmlUrl="https://facesoffascism.podbean.com/" xmlUrl="https://feed.podbean.com/facesoffascism/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="The Dangerous History Podcast" text="The Dangerous History Podcast" htmlUrl="http://profcj.org/" xmlUrl="http://feeds.megaphone.fm/ADL8114804847" />
+      <opml type="link" version="RSS" language="en" title="Who We Are" text="Who We Are" htmlUrl="https://www.vox.com/ad/21354746/who-we-are-podcast-racism-in-america" xmlUrl="https://feeds.megaphone.fm/whoweare" />
+      <opml type="link" version="RSS" language="en" title="Ben Franklin’s World" text="Ben Franklin’s World" htmlUrl="http://www.benfranklinsworld.com/" xmlUrl="https://benfranklinsworld.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="It Was Said" text="It Was Said" htmlUrl="https://shows.cadence13.com/podcast/it-was-said" xmlUrl="https://feeds.megaphone.fm/it-was-said" />
+      <opml type="link" version="RSS" language="en" title="American Shadows" text="American Shadows" htmlUrl="http://www.grimandmild.com/americanshadows" xmlUrl="https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C5CF8589-9C0E-4A86-A5DD-AE3300346BCC/923CE442-169B-4658-B09F-AE3300346BE8/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="This is a Disaster" text="This is a Disaster" htmlUrl="https://thisdisasterpod.podbean.com/" xmlUrl="https://feed.podbean.com/thisdisasterpod/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="Noble Blood" text="Noble Blood" htmlUrl="http://noblebloodtales.com/" xmlUrl="https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="The Bomb" text="The Bomb" htmlUrl="http://www.bbc.co.uk/programmes/p08llv8n" xmlUrl="https://podcasts.files.bbci.co.uk/p08llv8n.rss" />
+      <opml type="link" version="RSS" language="en" title="Inward Empire" text="Inward Empire" htmlUrl="https://www.podomatic.com/podcasts/inwardempirepodcast" xmlUrl="https://inwardempirepodcast.podomatic.com/rss2.xml" />
+      <opml type="link" version="RSS" language="en" title="Emperors of Rome" text="Emperors of Rome" htmlUrl="http://www.latrobe.edu.au/" xmlUrl="https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/caesar.xml" />
+      <opml type="link" version="RSS" language="en" title="Hope Through History" text="Hope Through History" htmlUrl="https://shows.cadence13.com/podcast/hope-through-history" xmlUrl="https://feeds.megaphone.fm/hope-through-history" />
+      <opml type="link" version="RSS" language="en" title="Distillations" text="Distillations" htmlUrl="https://www.sciencehistory.org/distillations/podcast" xmlUrl="https://chemheritage.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Constant: A History of Getting Things Wrong" text="The Constant: A History of Getting Things Wrong" htmlUrl="https://www.constantpodcast.com/" xmlUrl="https://feeds.megaphone.fm/ADV8582947768" />
+      <opml type="link" version="RSS" language="en" title="Casting Through Ancient Greece" text="Casting Through Ancient Greece" htmlUrl="https://www.castingthroughancientgreece.com/" xmlUrl="https://feeds.buzzsprout.com/809024.rss" />
+      <opml type="link" version="RSS" language="en" title="LBJ and the Great Society" text="LBJ and the Great Society" htmlUrl="https://lbjsgreatsociety.org/" xmlUrl="http://feeds.pri.org/lbjswar" />
+      <opml type="link" version="RSS" language="en" title="Clear and Present Danger - A History of Free Speech" text="Clear and Present Danger - A History of Free Speech" htmlUrl="https://freespeechhistory.com/" xmlUrl="https://freespeechhistory.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Espionage" text="Espionage" htmlUrl="https://www.parcast.com/espionage" xmlUrl="https://feeds.megaphone.fm/espionage" />
+      <opml type="link" version="RSS" language="en" title="You’re Dead to Me" text="You’re Dead to Me" htmlUrl="https://www.bbc.co.uk/programmes/p07mdbhg" xmlUrl="https://podcasts.files.bbci.co.uk/p07mdbhg.rss" />
+      <opml type="link" version="RSS" language="en" title="Cautionary Tales" text="Cautionary Tales" htmlUrl="https://www.pushkin.fm/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="The Alarmist" text="The Alarmist" htmlUrl="https://thealarmistpodcast.com/" xmlUrl="https://rss.acast.com/alarmist" />
+      <opml type="link" version="RSS" language="en" title="Context" text="Context" htmlUrl="https://bradharris.com/" xmlUrl="https://contextwithbradharris.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="ODD BALL" text="ODD BALL" htmlUrl="https://www.spreaker.com/show/wjct-odd-ball" xmlUrl="https://www.spreaker.com/show/4080729/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="History on Fire" text="History on Fire" htmlUrl="https://historyonfirepodcast.com/episodes" xmlUrl="https://historyonfirepodcast.com/episodes?format=rss" />
+      <opml type="link" version="RSS" language="en" title="How it Began: A History of the Modern World" text="How it Began: A History of the Modern World" htmlUrl="http://howitbegan.com/" xmlUrl="https://howitbeganshow.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Into the Portal" text="Into the Portal" htmlUrl="https://www.intotheportal.com/" xmlUrl="https://audioboom.com/channels/4949567.rss" />
+      <opml type="link" version="RSS" language="en" title="The Secret Life of Canada" text="The Secret Life of Canada" htmlUrl="https://www.cbc.ca/radio/secretlifeofcanada" xmlUrl="https://www.cbc.ca/podcasting/includes/secretlifeofcanada.xml" />
+      <opml type="link" version="RSS" language="en" title="Ridiculous History" text="Ridiculous History" htmlUrl="https://www.iheart.com/podcast/105-ridiculous-history-28588696/" xmlUrl="https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/DCA0D8AD-E0B8-4A52-A2A8-AE300188D1E2/FE9400D8-DD2A-489F-82D9-AE300188D1EB/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="History of the ’90s" text="History of the ’90s" htmlUrl="https://curiouscast.ca/" xmlUrl="https://feeds.megaphone.fm/CORU3098323371" />
+      <opml type="link" version="RSS" language="en" title="Our Fake History" text="Our Fake History" htmlUrl="https://www.podcastone.com/pd/Our-Fake-History" xmlUrl="https://www.podcastone.com/podcast?categoryID2=2142" />
+      <opml type="link" version="RSS" language="en" title="You Are Not So Smart" text="You Are Not So Smart" htmlUrl="http://www.youarenotsosmart.com/" xmlUrl="https://feeds.simplecast.com/N5eKDxJI" />
+      <opml type="link" version="RSS" language="en" title="American Scandal" text="American Scandal" htmlUrl="https://wondery.com/shows/American-Scandal/" xmlUrl="https://rss.art19.com/american-scandal" />
+      <opml type="link" version="RSS" language="en" title="Revolutions" text="Revolutions" htmlUrl="https://www.revolutionspodcast.com/" xmlUrl="https://revolutionspodcast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Omnibus" text="Omnibus" htmlUrl="https://www.omnibusproject.com/" xmlUrl="https://feeds.fireside.fm/omnibus/rss" />
+      <opml type="link" version="RSS" language="en" title="Stuff You Missed in History Class" text="Stuff You Missed in History Class" htmlUrl="https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Tides of History" text="Tides of History" htmlUrl="https://wondery.com/shows/tides-of-history/?utm_source=rss" xmlUrl="https://rss.art19.com/tides-of-history" />
+      <opml type="link" version="RSS" language="en" title="You’re Wrong About" text="You’re Wrong About" htmlUrl="https://www.buzzsprout.com/1112270" xmlUrl="https://feeds.buzzsprout.com/1112270.rss" />
+      <opml type="link" version="RSS" language="en" title="Making Obama" text="Making Obama" htmlUrl="http://www.wbez.org/shows/making-obama/71b8de57-b2be-4e03-8481-683258de3ec1" xmlUrl="http://feeds.feedburner.com/wbez-making" />
+      <opml type="link" version="RSS" language="en" title="Internet History Podcast" text="Internet History Podcast" htmlUrl="https://play.acast.com/s/internethistorypodcast" xmlUrl="https://feeds.acast.com/public/shows/77d1c4cf-ee45-45f1-b175-94e1d47c92e1" />
+      <opml type="link" version="RSS" language="en" title="Footnoting History" text="Footnoting History" htmlUrl="https://www.footnotinghistory.com/" xmlUrl="https://footnotinghistory.podbean.com/feed.xml" />
+    </outline>
+  </body>
+</opml>
+

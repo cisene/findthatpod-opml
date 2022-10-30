@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/opml/findthatpod-the-best-true-crime-podcasts.opml -->
+<opml version="2.0">
+  <head>
+    <title>FindThatPod - The Best True Crime Podcasts</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Wed, 30 Sep 2020 00:00:00 +0200</dateCreated>
+    <dateModified>Sun, 30 Oct 2022 00:44:01 +0200</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="The Best True Crime Podcasts in 2021" htmlUrl="https://findthatpod.com/best-true-crime-podcasts/" dateCreated="Wed, 30 Sep 2020 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Wine &amp; Crime" text="Wine &amp; Crime" htmlUrl="http://www.wineandcrimepodcast.com/" xmlUrl="https://audioboom.com/channels/4903845.rss)" />
+      <opml type="link" version="RSS" language="en" title="Last Seen" text="Last Seen" htmlUrl="https://www.wbur.org/podcasts/lastseen" xmlUrl="https://rss.wbur.org/lastseen/podcast" />
+      <opml type="link" version="RSS" language="en" title="Paper Ghosts" text="Paper Ghosts" htmlUrl="https://www.iheart.com/podcast/1119-paper-ghosts-70977237/" xmlUrl="https://feeds.megaphone.fm/HSW4119874261" />
+      <opml type="link" version="RSS" language="en" title="Web Crawlers" text="Web Crawlers" htmlUrl="https://www.instagram.com/webcrawlerspod/?hl=en" xmlUrl="https://rss.acast.com/webcrawlers" />
+      <opml type="link" version="RSS" language="en" title="The Underworld Podcast" text="The Underworld Podcast" htmlUrl="https://www.podcastone.com/pd/The-Underworld-Podcast" xmlUrl="https://www.podcastone.com/podcast?categoryID2=2197" />
+      <opml type="link" version="RSS" language="en" title="Dakota Spotlight" text="Dakota Spotlight" htmlUrl="https://dakotaspotlight.com/" xmlUrl="https://dakotaspotlight.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Crime Junkie" text="Crime Junkie" htmlUrl="https://crimejunkiepodcast.com/" xmlUrl="https://feeds.simplecast.com/qm_9xx0g" />
+      <opml type="link" version="RSS" language="en" title="My Favorite Murder" text="My Favorite Murder" htmlUrl="https://www.exactlyrightmedia.com/" xmlUrl="https://rss.art19.com/erm-mfm" />
+      <opml type="link" version="RSS" language="en" title="Bear Brook" text="Bear Brook" htmlUrl="https://www.bearbrookpodcast.com/" xmlUrl="https://bearbrook.feed.nhpr.org/" />
+      <opml type="link" version="RSS" language="en" title="COLD" text="COLD" htmlUrl="https://thecoldpodcast.com/" xmlUrl="https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2XLqJysy" />
+      <opml type="link" version="RSS" language="en" title="Death In Ice Valley" text="Death In Ice Valley" htmlUrl="http://www.bbc.co.uk/programmes/p060ms2h" xmlUrl="https://podcasts.files.bbci.co.uk/p060ms2h.rss" />
+      <opml type="link" version="RSS" language="en" title="And That’s Why We Drink" text="And That’s Why We Drink" htmlUrl="https://and-thats-why-we-drink-2a8f8d17.simplecast.com/" xmlUrl="https://feeds.simplecast.com/gZ2lwpze" />
+      <opml type="link" version="RSS" language="en" title="Hunting Warhead" text="Hunting Warhead" htmlUrl="https://www.cbc.ca/radio/podcasts/hunting-warhead/index.html" xmlUrl="https://www.cbc.ca/podcasting/includes/huntingwarhead.xml" />
+      <opml type="link" version="RSS" language="en" title="The Catch and Kill Podcast with Ronan Farrow" text="The Catch and Kill Podcast with Ronan Farrow" htmlUrl="https://pineapple.fm/" xmlUrl="https://feeds.megaphone.fm/PSM3738803926" />
+      <opml type="link" version="RSS" language="en" title="Chasing Cosby" text="Chasing Cosby" htmlUrl="https://chasing-cosby.simplecast.com/" xmlUrl="https://feeds.simplecast.com/88xIExeR" />
+      <opml type="link" version="RSS" language="en" title="Man in the Window" text="Man in the Window" htmlUrl="https://wondery.com/shows/Man-In-The-Window/" xmlUrl="https://rss.art19.com/man-in-the-window" />
+      <opml type="link" version="RSS" language="en" title="The Clearing" text="The Clearing" htmlUrl="https://gimletmedia.com/" xmlUrl="https://feeds.megaphone.fm/the-clearing" />
+      <opml type="link" version="RSS" language="en" title="The Missing Cryptoqueen" text="The Missing Cryptoqueen" htmlUrl="http://www.bbc.co.uk/programmes/p07nkd84" xmlUrl="https://podcasts.files.bbci.co.uk/p07nkd84.rss" />
+      <opml type="link" version="RSS" language="en" title="Uncover: The Village" text="Uncover: The Village" htmlUrl="https://www.cbc.ca/radio/podcasts/current-affairs-information/uncover/" xmlUrl="https://www.cbc.ca/podcasting/includes/uncover.xml" />
+    </outline>
+  </body>
+</opml>
+
