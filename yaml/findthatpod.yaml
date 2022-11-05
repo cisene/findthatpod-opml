@@ -11,6 +11,36 @@ head:
   url: https://findthatpod.com/
 
 body:
+  - issue:    185
+    title:    'Find That Pod #185'
+    pubDate:  '2022-11-04'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Why We Mine'
+        htmlUrl:  'https://omny.fm/shows/why-we-mine'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/2ddbef40-4166-4f48-8dde-a883003a7eb7/cb548ee6-a4a8-4aec-bbfb-af1700ec3f48/771c8e7b-2c21-44c0-a0e9-af1700ecd119/podcast.rss'
+
+    - podcast:
+        title:    'The Frozen Frights Podcast'
+        htmlUrl:  'https://www.spreaker.com/show/the-frozen-frights-podcast'
+        xmlUrl:   'https://www.spreaker.com/show/1606861/episodes/feed'
+
+    - podcast:
+        title:    'Jesus Pancake'
+        htmlUrl:  'https://jesus-pancake.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/jesus-pancake/'
+
+    - podcast:
+        title:    'The Chronic Illness Recovery Podcast'
+        htmlUrl:  'https://www.cfshealth.com/podcasts/the-chronic-illness-recovery-podcast'
+        xmlUrl:   'https://app.kajabi.com/podcasts/2147504668/feed'
+
+    - podcast:
+        title:    'Watch This Tonight'
+        htmlUrl:  'https://www.spreaker.com/show/watch-this-tonight'
+        xmlUrl:   'https://www.spreaker.com/show/5626962/episodes/feed'
 
   - issue:    184
     title:    'Find That Pod #184'
@@ -20,7 +50,7 @@ body:
 
     - podcast:
         title:    'The Art of Crime'
-        htmlUrl:  'http://www.artofcrimepodcast.com/'
+        htmlUrl:  'https://www.artofcrimepodcast.com/'
         xmlUrl:   'https://feeds.buzzsprout.com/2051325.rss'
 
     - podcast:

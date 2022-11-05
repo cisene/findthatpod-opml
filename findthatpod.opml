@@ -5,13 +5,20 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0200</dateCreated>
-    <dateModified>Sat, 29 Oct 2022 11:46:07 +0200</dateModified>
+    <dateModified>Sat, 05 Nov 2022 12:14:58 +0200</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #185" dateCreated="Fri, 04 Nov 2022 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Why We Mine" text="Why We Mine" htmlUrl="https://omny.fm/shows/why-we-mine" xmlUrl="https://www.omnycontent.com/d/playlist/2ddbef40-4166-4f48-8dde-a883003a7eb7/cb548ee6-a4a8-4aec-bbfb-af1700ec3f48/771c8e7b-2c21-44c0-a0e9-af1700ecd119/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="The Frozen Frights Podcast" text="The Frozen Frights Podcast" htmlUrl="https://www.spreaker.com/show/the-frozen-frights-podcast" xmlUrl="https://www.spreaker.com/show/1606861/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="Jesus Pancake" text="Jesus Pancake" htmlUrl="https://jesus-pancake.captivate.fm/" xmlUrl="https://feeds.captivate.fm/jesus-pancake/" />
+      <opml type="link" version="RSS" language="en" title="The Chronic Illness Recovery Podcast" text="The Chronic Illness Recovery Podcast" htmlUrl="https://www.cfshealth.com/podcasts/the-chronic-illness-recovery-podcast" xmlUrl="https://app.kajabi.com/podcasts/2147504668/feed" />
+      <opml type="link" version="RSS" language="en" title="Watch This Tonight" text="Watch This Tonight" htmlUrl="https://www.spreaker.com/show/watch-this-tonight" xmlUrl="https://www.spreaker.com/show/5626962/episodes/feed" />
+    </outline>
     <outline text="Find That Pod #184" dateCreated="Fri, 28 Oct 2022 00:00:00 +0000">
-      <opml type="link" version="RSS" language="en" title="The Art of Crime" text="The Art of Crime" htmlUrl="http://www.artofcrimepodcast.com/" xmlUrl="https://feeds.buzzsprout.com/2051325.rss" />
+      <opml type="link" version="RSS" language="en" title="The Art of Crime" text="The Art of Crime" htmlUrl="https://www.artofcrimepodcast.com/" xmlUrl="https://feeds.buzzsprout.com/2051325.rss" />
       <opml type="link" version="RSS" language="en" title="Snap Judgement Presents: Spooked" text="Snap Judgement Presents: Spooked" htmlUrl="https://spookedpodcast.org/" xmlUrl="https://feeds.spookedpodcast.org/" />
       <opml type="link" version="RSS" language="en" title="Mile Higher" text="Mile Higher" htmlUrl="http://youtube.com/c/milehigherpodcast" xmlUrl="https://audioboom.com/channels/5011925.rss" />
       <opml type="link" version="RSS" language="en" title="Within the Wires" text="Within the Wires" htmlUrl="http://withinthewires.com/" xmlUrl="http://feeds.nightvalepresents.com/withinthewires" />
@@ -221,7 +228,7 @@
       <opml type="link" version="RSS" language="en" title="Levar Burton Reads" text="Levar Burton Reads" htmlUrl="https://www.stitcher.com/podcast/stitcher/levar-burton-reads" xmlUrl="https://feeds.simplecast.com/LDNgBXht" />
       <opml type="link" version="RSS" language="en" title="Human Histories Podcast" text="Human Histories Podcast" htmlUrl="https://www.humanhistoriespodcast.com/" xmlUrl="https://anchor.fm/s/43a0c3f8/podcast/rss" />
     </outline>
-    <outline text="Find That Pod #156" dateCreated="Fri, 01 Apr 2022 00:00:00 +0000">
+    <outline text="Find That Pod #156" htmlUrl="https://findthatpod.com/find-that-pod-156/" dateCreated="Fri, 01 Apr 2022 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="Solar" text="Solar" htmlUrl="https://www.solarthepodcast.com/listen" xmlUrl="https://www.omnycontent.com/d/playlist/4fab3663-bc0e-42da-bca1-ab68000eb109/efa562f2-8e59-453d-9d91-ad6501562783/1486a9db-2db4-46db-b68e-ae48001c8681/podcast.rss" />
       <opml type="link" version="RSS" language="en" title="You Didn’t Ask for This" text="You Didn’t Ask for This" htmlUrl="https://www.youdidntaskforthis.com/" xmlUrl="https://feeds.buzzsprout.com/1376740.rss" />
       <opml type="link" version="RSS" language="en" title="The Women Who Code Podcast" text="The Women Who Code Podcast" htmlUrl="https://podcasts.bcast.fm/the-women-who-code-podcast" xmlUrl="https://feeds.bcast.fm/the-women-who-code-podcast" />
