@@ -11,6 +11,38 @@ head:
   url: https://findthatpod.com/
 
 body:
+
+  - issue:    186
+    title:    'Find That Pod #186'
+    pubDate:  '2022-11-11'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'History Defeats Itself'
+        htmlUrl:  'https://thesonarnetwork.com/history-defeats-itself'
+        xmlUrl:   'https://thesonarnetwork.com/history-defeats-itself/feed/podcast'
+
+    - podcast:
+        title:    'The Rosenberg Case: A Tale of Murder, Corruption, and Conspiracy in Guatemala'
+        htmlUrl:  'https://www.therosenbergcase.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADL3973865019'
+
+    - podcast:
+        title:    'Animal Spirits'
+        htmlUrl:  'https://awealthofcommonsense.com/podcast/'
+        xmlUrl:   'https://animalspiritspod.libsyn.com/rss'
+
+    - podcast:
+        title:    'Jordan Klepper Fingers the Conspiracy'
+        htmlUrl:  'https://www.iheart.com/podcast/269-klepper-30873042/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29897540-b4b9-47bd-a800-af3c00f0933b/2db1ce33-1985-44b7-9592-af3c00f09357/podcast.rss'
+
+    - podcast:
+        title:    'Stories Podcast: A Bedtime Show for Kids of All Ages'
+        htmlUrl:  'https://wondery.com/shows/stories-podcast/'
+        xmlUrl:   'https://rss.art19.com/stories-podcast'
+
   - issue:    185
     title:    'Find That Pod #185'
     pubDate:  '2022-11-04'
