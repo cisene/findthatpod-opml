@@ -5,11 +5,18 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0200</dateCreated>
-    <dateModified>Sun, 13 Nov 2022 13:53:59 +0200</dateModified>
+    <dateModified>Mon, 21 Nov 2022 00:14:53 +0200</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #187" dateCreated="Fri, 18 Nov 2022 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="The Anthill: Uncharted Brain" text="The Anthill: Uncharted Brain" htmlUrl="https://theconversation.com/uk/topics/the-conversation-weekly-98901" xmlUrl="https://feeds.acast.com/public/shows/60087127b9687759d637bade/" />
+      <opml type="link" version="RSS" language="en" title="The Knowable Podcast" text="The Knowable Podcast" htmlUrl="https://knowablemagazine.org/podcast" xmlUrl="https://knowable.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Women Who Travel" text="Women Who Travel" htmlUrl="https://www.facebook.com/groups/271882099953039/" xmlUrl="https://feeds.megaphone.fm/women-who-travel" />
+      <opml type="link" version="RSS" language="en" title="Famous &amp; Gravy" text="Famous &amp; Gravy" htmlUrl="http://famousandgravy.com/" xmlUrl="https://feeds.libsyn.com/434286/rss" />
+      <opml type="link" version="RSS" language="en" title="The History of English Podcast" text="The History of English Podcast" htmlUrl="https://historyofenglishpodcast.com/" xmlUrl="https://historyofenglishpodcast.com/feed/podcast/" />
+    </outline>
     <outline text="Find That Pod #186" dateCreated="Fri, 11 Nov 2022 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="History Defeats Itself" text="History Defeats Itself" htmlUrl="https://thesonarnetwork.com/history-defeats-itself" xmlUrl="https://thesonarnetwork.com/history-defeats-itself/feed/podcast" />
       <opml type="link" version="RSS" language="en" title="The Rosenberg Case: A Tale of Murder, Corruption, and Conspiracy in Guatemala" text="The Rosenberg Case: A Tale of Murder, Corruption, and Conspiracy in Guatemala" htmlUrl="https://www.therosenbergcase.com/" xmlUrl="https://feeds.megaphone.fm/ADL3973865019" />

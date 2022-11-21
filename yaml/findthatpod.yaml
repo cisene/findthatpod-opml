@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    187
+    title:    'Find That Pod #187'
+    pubDate:  '2022-11-18'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Anthill: Uncharted Brain'
+        htmlUrl:  'https://theconversation.com/uk/topics/the-conversation-weekly-98901'
+        xmlUrl:   'https://feeds.acast.com/public/shows/60087127b9687759d637bade/'
+
+    - podcast:
+        title:    'The Knowable Podcast'
+        htmlUrl:  'https://knowablemagazine.org/podcast'
+        xmlUrl:   'https://knowable.libsyn.com/rss'
+
+    - podcast:
+        title:    'Women Who Travel'
+        htmlUrl:  'https://www.facebook.com/groups/271882099953039/'
+        xmlUrl:   'https://feeds.megaphone.fm/women-who-travel'
+
+    - podcast:
+        title:    'Famous & Gravy'
+        htmlUrl:  'http://famousandgravy.com/'
+        xmlUrl:   'https://feeds.libsyn.com/434286/rss'
+
+    - podcast:
+        title:    'The History of English Podcast'
+        htmlUrl:  'https://historyofenglishpodcast.com/'
+        xmlUrl:   'https://historyofenglishpodcast.com/feed/podcast/'
+
   - issue:    186
     title:    'Find That Pod #186'
     pubDate:  '2022-11-11'
