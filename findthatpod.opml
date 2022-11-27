@@ -5,11 +5,18 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0200</dateCreated>
-    <dateModified>Mon, 21 Nov 2022 00:14:53 +0200</dateModified>
+    <dateModified>Sun, 27 Nov 2022 11:09:22 +0200</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #188" dateCreated="Fri, 25 Nov 2022 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Borrasca" text="Borrasca" htmlUrl="https://qcodemedia.com/borrasca" xmlUrl="https://feeds.megaphone.fm/QCD2333202365" />
+      <opml type="link" version="RSS" language="en" title="Wolves Among Us" text="Wolves Among Us" htmlUrl="https://cadence13.com/" xmlUrl="https://feeds.megaphone.fm/wolves-among-us" />
+      <opml type="link" version="RSS" language="en" title="Who Smarted?" text="Who Smarted?" htmlUrl="https://art19.com/shows/who-smarted" xmlUrl="https://rss.art19.com/who-smarted" />
+      <opml type="link" version="RSS" language="en" title="The Prof G Pod with Scott Galloway" text="The Prof G Pod with Scott Galloway" htmlUrl="https://podcasts.voxmedia.com/show/the-prof-g-show-with-scott-galloway" xmlUrl="https://feeds.megaphone.fm/WWO6655869236" />
+      <opml type="link" version="RSS" language="en" title="SNAFU with Ed Helms" text="SNAFU with Ed Helms" htmlUrl="https://www.iheart.com/podcast/1119-snafu-102539700/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cca4a312-f307-4ecb-b14f-aed7010422f6/2a05ffa6-0933-4af4-83f3-aed701046cfa/podcast.rss" />
+    </outline>
     <outline text="Find That Pod #187" dateCreated="Fri, 18 Nov 2022 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="The Anthill: Uncharted Brain" text="The Anthill: Uncharted Brain" htmlUrl="https://theconversation.com/uk/topics/the-conversation-weekly-98901" xmlUrl="https://feeds.acast.com/public/shows/60087127b9687759d637bade/" />
       <opml type="link" version="RSS" language="en" title="The Knowable Podcast" text="The Knowable Podcast" htmlUrl="https://knowablemagazine.org/podcast" xmlUrl="https://knowable.libsyn.com/rss" />

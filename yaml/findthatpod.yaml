@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    188
+    title:    'Find That Pod #188'
+    pubDate:  '2022-11-25'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Borrasca'
+        htmlUrl:  'https://qcodemedia.com/borrasca'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD2333202365'
+
+    - podcast:
+        title:    'Wolves Among Us'
+        htmlUrl:  'https://cadence13.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/wolves-among-us'
+
+    - podcast:
+        title:    'Who Smarted?'
+        htmlUrl:  'https://art19.com/shows/who-smarted'
+        xmlUrl:   'https://rss.art19.com/who-smarted'
+
+    - podcast:
+        title:    'The Prof G Pod with Scott Galloway'
+        htmlUrl:  'https://podcasts.voxmedia.com/show/the-prof-g-show-with-scott-galloway'
+        xmlUrl:   'https://feeds.megaphone.fm/WWO6655869236'
+
+    - podcast:
+        title:    'SNAFU with Ed Helms'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-snafu-102539700/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cca4a312-f307-4ecb-b14f-aed7010422f6/2a05ffa6-0933-4af4-83f3-aed701046cfa/podcast.rss'
+
   - issue:    187
     title:    'Find That Pod #187'
     pubDate:  '2022-11-18'
