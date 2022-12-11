@@ -12,6 +12,70 @@ head:
 
 body:
 
+  - issue:    190
+    title:    'Find That Pod #190'
+    pubDate:  '2022-12-09'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Reimagining Government'
+        htmlUrl:  'https://www.centreforpublicimpact.org/research-and-conversations/reimagining-government-podcast'
+        xmlUrl:   'https://feed.pod.co/reimagining-government'
+
+    - podcast:
+        title:    'The Squonk & The Hag'
+        htmlUrl:  'https://thesquonkandthehag.com/'
+        xmlUrl:   'https://anchor.fm/s/aa8e8190/podcast/rss'
+
+    - podcast:
+        title:    'Betrayal'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-betrayal-the-perfect-husb-95632727/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/f1aae979-82f6-402c-8906-ae6001537b33/podcast.rss'
+
+    - podcast:
+        title:    'Drum Tower'
+        htmlUrl:  'https://shows.acast.com/drumtower'
+        xmlUrl:   'https://feeds.acast.com/public/shows/633ebf6dfc7f5a0012acdc97'
+
+    - podcast:
+        title:    'The UFO Rabbit Hole'
+        htmlUrl:  'https://the-ufo-rabbit-hole-podcast.simplecast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1887113.rss'
+
+
+  - issue:    189
+    title:    'Find That Pod #189'
+    pubDate:  '2022-12-02'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'No More Late Fees'
+        htmlUrl:  'https://biolinks.heropost.io/NoMoreLateFees'
+        xmlUrl:   'https://anchor.fm/s/520c76f8/podcast/rss'
+
+    - podcast:
+        title:    'Who Did What Now?'
+        htmlUrl:  'https://www.spreaker.com/show/who-did-what-now'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML5493568116'
+
+    - podcast:
+        title:    'Tiny Desk Concerts'
+        htmlUrl:  'https://www.npr.org/tinydeskconcerts'
+        xmlUrl:   'https://feeds.npr.org/510306/podcast.xml'
+
+    - podcast:
+        title:    'Unbiased Science'
+        htmlUrl:  'http://www.unbiasedscipod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML4885290081'
+
+    - podcast:
+        title:    'Dirt - An Audio Drama'
+        htmlUrl:  'https://www.dirtaudiodrama.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/dirtaudiodrama'
+
+
   - issue:    188
     title:    'Find That Pod #188'
     pubDate:  '2022-11-25'
