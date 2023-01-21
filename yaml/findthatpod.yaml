@@ -12,6 +12,130 @@ head:
 
 body:
 
+  - issue:    194
+    title:    'Find That Pod #194'
+    pubDate:  '2023-01-20'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Defending Democracy'
+        htmlUrl:  'https://democracydocket.com/'
+        xmlUrl:   'https://anchor.fm/s/d61b2cf0/podcast/rss'
+
+    - podcast:
+        title:    'Nailed It'
+        htmlUrl:  'https://www.buzzsprout.com/2013077'
+        xmlUrl:   'https://feeds.buzzsprout.com/2013077.rss'
+
+    - podcast:
+        title:    "The Doctor's Art"
+        htmlUrl:  'http://thedoctorsart.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1936215.rss'
+
+    - podcast:
+        title:    'Practical AI'
+        htmlUrl:  'https://changelog.com/practicalai'
+        xmlUrl:   'https://changelog.com/practicalai/feed'
+
+    - podcast:
+        title:    'Euro Trash'
+        htmlUrl:  'https://rss.com/podcasts/eurotrash'
+        xmlUrl:   'https://media.rss.com/eurotrash/feed.xml'
+
+  - issue:    193
+    title:    'Find That Pod #193'
+    pubDate:  '2023-01-13'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Lived Through That'
+        htmlUrl:  'https://www.hipphoto.com/'
+        xmlUrl:   'https://anchor.fm/s/59f14970/podcast/rss'
+
+    - podcast:
+        title:    'The Comics That We Love'
+        htmlUrl:  'https://www.patreon.com/tctwl'
+        xmlUrl:   'https://feeds.buzzsprout.com/1854034.rss'
+
+    - podcast:
+        title:    'Bad Bad Thing'
+        htmlUrl:  'https://www.podcastone.com/pd/Bad-Bad-Thing'
+        xmlUrl:   'https://www.podcastone.com/podcast?categoryID2=2208'
+
+    - podcast:
+        title:    'Who Would Win'
+        htmlUrl:  'https://redcircle.com/shows/who-would-win'
+        xmlUrl:   'https://feeds.redcircle.com/039a442b-50c4-41f7-9565-27f5f6465f34'
+
+    - podcast:
+        title:    'Sold a Story'
+        htmlUrl:  'https://features.apmreports.org/sold-a-story/'
+        xmlUrl:   'https://feeds.publicradio.org/public_feeds/sold-a-story/itunes/rss.rss'
+
+  - issue:    192
+    title:    'Find That Pod #192'
+    pubDate:  '2023-01-06'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Love to Sew'
+        htmlUrl:  'http://lovetosewpodcast.com/'
+        xmlUrl:   'https://lovetosew.libsyn.com/rss'
+
+    - podcast:
+        title:    "The Psychology of Your 20's"
+        htmlUrl:  'https://sbeghenjemma.wixsite.com/20spsychologypodcast'
+        xmlUrl:   'https://anchor.fm/s/e7698d8/podcast/rss'
+
+    - podcast:
+        title:    'Pale Blue Pod'
+        htmlUrl:  'https://pale-blue-pod.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/pale-blue-pod/'
+
+    - podcast:
+        title:    'Unexplained Encounters'
+        htmlUrl:  'https://www.eeriecast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/darknessprevails'
+
+    - podcast:
+        title:    '12 Ghosts'
+        htmlUrl:  'https://www.grimandmild.com/12ghosts'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2abab27a-80f1-4c98-bb29-af5600eadca3/ae16dca6-8773-4e9b-afa9-af5600eb4896/podcast.rss'
+
+  - issue:    191
+    title:    'Find That Pod #191'
+    pubDate:  '2022-12-16'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Wheel of Risk'
+        htmlUrl:  'https://allianz-trade.us/podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/2ddbef40-4166-4f48-8dde-a883003a7eb7/cb5ee003-6e28-4380-93d1-af4d00e1f603/f430ced6-88f8-4b54-aac0-af4d00e28f71/podcast.rss'
+
+    - podcast:
+        title:    'Grim & Mild Presents'
+        htmlUrl:  'https://www.grimandmild.com/presents'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e13abe25-88fd-46b8-b06a-ae3900513259/5e49b3f3-dc10-4a2d-81e3-ae3900513270/podcast.rss'
+
+    - podcast:
+        title:    'Noclip'
+        htmlUrl:  'https://www.noclip.video/'
+        xmlUrl:   'https://noclippodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'In Machines We Trust'
+        htmlUrl:  'https://www.technologyreview.com/in-machines-we-trust/'
+        xmlUrl:   'https://feeds.megaphone.fm/inmachineswetrust'
+
+    - podcast:
+        title:    'Parkdale Haunt'
+        htmlUrl:  'https://frequencypodcastnetwork.com/podcasts/parkdale-haunt/'
+        xmlUrl:   'https://feeds.simplecast.com/340clW6H'
+
   - issue:    190
     title:    'Find That Pod #190'
     pubDate:  '2022-12-09'
