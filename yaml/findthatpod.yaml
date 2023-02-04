@@ -12,6 +12,69 @@ head:
 
 body:
 
+  - issue:    196
+    title:    'Find That Pod #196'
+    pubDate:  '2023-02-03'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    "Capital Isn’t"
+        htmlUrl:  'https://capitalisnt.com/'
+        xmlUrl:   'https://feeds.simplecast.com/XytPkydI'
+
+    - podcast:
+        title:    'Classic Conversations'
+        htmlUrl:  'https://cms.megaphone.fm/channel/ADV5073979157'
+        xmlUrl:   'https://feeds.megaphone.fm/ADV5073979157'
+
+    - podcast:
+        title:    'Behind the Thread'
+        htmlUrl:  'https://anchor.fm/calum-johnson'
+        xmlUrl:   'https://anchor.fm/s/7689f604/podcast/rss'
+
+    - podcast:
+        title:    'Unsung Science'
+        htmlUrl:  'https://art19.com/shows/unsung-science'
+        xmlUrl:   'https://rss.art19.com/unsung-science'
+
+    - podcast:
+        title:    'Run, Hide, Repeat'
+        htmlUrl:  'https://www.cbc.ca/podcasts'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/runhiderepeat.xml'
+
+  - issue:    195
+    title:    'Find That Pod #195'
+    pubDate:  '2023-01-27'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Isfet Archives'
+        htmlUrl:  'https://www.spreaker.com/show/isfet-archives'
+        xmlUrl:   'https://www.spreaker.com/show/5732273/episodes/feed'
+
+    - podcast:
+        title:    'If Books Could Kill'
+        htmlUrl:  'https://www.patreon.com/IfBooksPod'
+        xmlUrl:   'https://feeds.buzzsprout.com/2040953.rss'
+
+    - podcast:
+        title:    'Articles of Interest'
+        htmlUrl:  'https://beta.prx.org/series/38517'
+        xmlUrl:   'https://feed.articlesofinterest.club/'
+
+    - podcast:
+        title:    'The WAN Show'
+        htmlUrl:  'https://www.youtube.com/user/LinusTechTips'
+        xmlUrl:   'https://anchor.fm/s/3cbbb3b8/podcast/rss'
+
+    - podcast:
+        title:    'Found'
+        htmlUrl:  'https://found.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/e2b4ANob'
+
+
   - issue:    194
     title:    'Find That Pod #194'
     pubDate:  '2023-01-20'
