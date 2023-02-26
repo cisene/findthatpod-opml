@@ -11,6 +11,98 @@ head:
   url: https://findthatpod.com/
 
 body:
+  - issue:    199
+    title:    'Find That Pod #199'
+    pubDate:  '2023-02-24'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Choiceology'
+        htmlUrl:  'https://www.schwab.com/resource-center/insights/podcast'
+        xmlUrl:   'https://feeds.pacific-content.com/choiceology'
+
+    - podcast:
+        title:    "HILF: History I'd like to F**k"
+        htmlUrl:  'https://hilf-history-id-like-to-f-k.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Ya6uktaa'
+
+    - podcast:
+        title:    'Longer Tables with José Andrés'
+        htmlUrl:  'https://joseandres.substack.com/podcast'
+        xmlUrl:   'https://feeds.libsyn.com/455835/rss'
+
+    - podcast:
+        title:    'The Crazy Ones'
+        htmlUrl:  'https://foundersjournal.morningbrew.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/MOBI4141652289'
+
+    - podcast:
+        title:    'The Daily Rally'
+        htmlUrl:  'https://www.outsideonline.com/tag/the-daily-rally/'
+        xmlUrl:   'https://feeds.megaphone.fm/daily-rally'
+
+  - issue:    198
+    title:    'Find That Pod #198'
+    pubDate:  '2023-02-17'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Marc Summers Unwraps'
+        htmlUrl:  'http://marcsummersunwraps.com/'
+        xmlUrl:   'https://feeds.libsyn.com/455955/rss'
+
+    - podcast:
+        title:    'Everything Everywhere Daily'
+        htmlUrl:  'https://everything-everywhere.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADV3162807280'
+
+    - podcast:
+        title:    'Playing Anne Frank'
+        htmlUrl:  'https://forward.com/podcasts/playing-anne-frank/'
+        xmlUrl:   'https://feeds.simplecast.com/ODrUve5E'
+
+    - podcast:
+        title:    'Climate Vision 2050'
+        htmlUrl:  'https://climate-vision-2050.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/climate-vision-2050/'
+
+    - podcast:
+        title:    'Smart People Podcast'
+        htmlUrl:  'https://www.smartpeoplepodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLSS1654577054'
+
+  - issue:    197
+    title:    'Find That Pod #197'
+    pubDate:  '2023-02-10'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Three Siblings'
+        htmlUrl:  'https://twitter.com/siblingspodcast'
+        xmlUrl:   'https://feeds.alitu.com/19328663'
+
+    - podcast:
+        title:    'What Should I Read Next?'
+        htmlUrl:  'http://whatshouldireadnextpodcast.com/'
+        xmlUrl:   'https://rss.art19.com/what-should-i-read-next'
+
+    - podcast:
+        title:    'Station 151'
+        htmlUrl:  'https://www.station151.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2079650.rss'
+
+    - podcast:
+        title:    'Sex Advice for Seniors'
+        htmlUrl:  'https://www.sexadviceforseniors.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/939975.rss'
+
+    - podcast:
+        title:    'The Almost Presidents Podcast'
+        htmlUrl:  'https://anchor.fm/ryan-johnson866'
+        xmlUrl:   'https://anchor.fm/s/9cf0a89c/podcast/rss'
 
   - issue:    196
     title:    'Find That Pod #196'
