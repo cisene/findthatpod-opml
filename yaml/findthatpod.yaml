@@ -11,6 +11,101 @@ head:
   url: https://findthatpod.com/
 
 body:
+
+  - issue:    202
+    title:    'Find That Pod #202'
+    pubDate:  '2023-03-17'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Great Mysteries of Physics'
+        htmlUrl:  'https://feeds.acast.com/public/shows/great-mysteries-of-physics'
+        xmlUrl:   'https://feeds.acast.com/public/shows/638f4b009a65b10011b94c5e'
+
+    - podcast:
+        title:    'Three Moves Ahead'
+        htmlUrl:  'http://www.idlethumbs.net/3ma'
+        xmlUrl:   'http://www.idlethumbs.net/feeds/3ma'
+
+    - podcast:
+        title:    'Dynamite Doug'
+        htmlUrl:  'https://beta.prx.org/series/43454'
+        xmlUrl:   'https://dynamitedougrss.projectbrazen.com/'
+
+    - podcast:
+        title:    'Print is Dead (Long Live Print!)'
+        htmlUrl:  'https://www.printisdead.co/'
+        xmlUrl:   'https://feeds.simplecast.com/3HhiuRtO'
+
+    - podcast:
+        title:    'Name That News?!'
+        htmlUrl:  'https://www.audacy.com/wwjnewsradio'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/4b5f9d6d-9214-48cb-8455-a73200038129/1a2e4d1b-c083-431f-922b-afa80175deae/82c976d0-d217-48a6-895b-afa801763874/podcast.rss'
+
+  - issue:    201
+    title:    'Find That Pod #201'
+    pubDate:  '2023-03-10'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Three Siblings'
+        htmlUrl:  'https://twitter.com/siblingspodcast'
+        xmlUrl:   'https://feeds.alitu.com/19328663'
+
+    - podcast:
+        title:    'Main Engine Cut Off'
+        htmlUrl:  'https://mainenginecutoff.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Zg9AF5cA'
+
+    - podcast:
+        title:    'Headlong: Running from COPS'
+        htmlUrl:  'https://www.topic.com/runningfromcops'
+        xmlUrl:   'https://rss.prod.firstlook.media/headlong-cops/podcast.rss'
+
+    - podcast:
+        title:    'Marketing Unplugged'
+        htmlUrl:  'http://marketing-unplugged.libsyn.com/website'
+        xmlUrl:   'https://marketing-unplugged.libsyn.com/rss'
+
+    - podcast:
+        title:    'To Be a Rebel'
+        htmlUrl:  'https://anchor.fm/david-loos'
+        xmlUrl:   'https://anchor.fm/s/d600b5f0/podcast/rss'
+
+  - issue:    200
+    title:    'Find That Pod #200'
+    pubDate:  '2023-03-03'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Becoming an Icon'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-becoming-an-icon-108605757/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/88f2f081-b6fa-4d5f-bf68-aed701151f8a/77f311e1-e694-4ad1-9064-aed70116133c/podcast.rss'
+
+    - podcast:
+        title:    'How to Take Over the World'
+        htmlUrl:  'https://takeoverpod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ATHLLC5883700320'
+
+    - podcast:
+        title:    'The Lunar Society'
+        htmlUrl:  'https://www.dwarkeshpatel.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/69345.rss'
+
+    - podcast:
+        title:    'Marketing Powerups'
+        htmlUrl:  'https://listen.casted.us/public/151/Marketing-Powerups-e417956f'
+        xmlUrl:   'https://feeds.casted.us/151/Marketing-Powerups-e417956f/feed'
+
+    - podcast:
+        title:    'Create the Future'
+        htmlUrl:  'https://www.qeprize.org/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/61e1773c414de60014cb7c3a'
+
+
   - issue:    199
     title:    'Find That Pod #199'
     pubDate:  '2023-02-24'
