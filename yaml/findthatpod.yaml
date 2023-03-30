@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    203
+    title:    'Find That Pod #203'
+    pubDate:  '2023-03-24'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Styx'
+        htmlUrl:  'https://www.styxpodcast.com/'
+        xmlUrl:   'https://media.rss.com/styxpodcast/feed.xml'
+
+    - podcast:
+        title:    'Audio Branding: The Hidden Gem of Marketing'
+        htmlUrl:  'https://audiobrandingpodcast.com/'
+        xmlUrl:   'https://feeds.captivate.fm/audiobranding/'
+
+    - podcast:
+        title:    'Last Week in AI'
+        htmlUrl:  'https://www.letstalkai.show/'
+        xmlUrl:   'https://feed.podbean.com/aitalk/feed.xml'
+
+    - podcast:
+        title:    'Patented'
+        htmlUrl:  'https://shows.acast.com/patented-history-of-inventions'
+        xmlUrl:   'https://feeds.acast.com/public/shows/621cc5a140c0770013581ceb'
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
   - issue:    202
     title:    'Find That Pod #202'
     pubDate:  '2023-03-17'
