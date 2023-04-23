@@ -12,6 +12,130 @@ head:
 
 body:
 
+  - issue:    207
+    title:    'Find That Pod #207'
+    pubDate:  '2023-04-21'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Where Are You Going?'
+        htmlUrl:  'https://shows.acast.com/where-are-you-going'
+        xmlUrl:   'https://feeds.acast.com/public/shows/641c83dad369e500116efc28'
+
+    - podcast:
+        title:    'The Marketing Millennials'
+        htmlUrl:  'https://anchor.fm/themarketingmillennials'
+        xmlUrl:   'https://feeds.captivate.fm/the-marketing-millennials/'
+
+    - podcast:
+        title:    'A Breath of Fresh Air'
+        htmlUrl:  'https://www.abreathoffreshair.com.au/'
+        xmlUrl:   'https://anchor.fm/s/9000f484/podcast/rss'
+
+    - podcast:
+        title:    "Sh*t You Don't Learn In School"
+        htmlUrl:  'https://www.abreathoffreshair.com.au/'
+        xmlUrl:   'https://anchor.fm/s/9000f484/podcast/rss'
+
+    - podcast:
+        title:    'High Strange'
+        htmlUrl:  'https://highstrange.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/histrange'
+
+  - issue:    206
+    title:    'Find That Pod #206'
+    pubDate:  '2023-04-14'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Big Brains'
+        htmlUrl:  'https://big-brains.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/4FF7CAnQ'
+
+    - podcast:
+        title:    'American Potential'
+        htmlUrl:  'https://americanpotential.podbean.com/'
+        xmlUrl:   'https://americanpotential.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Discover AG'
+        htmlUrl:  'https://sites.libsyn.com/discoverag'
+        xmlUrl:   'https://feeds.libsyn.com/403175/rss'
+
+    - podcast:
+        title:    'Makeshift Stories - Original Science Fiction'
+        htmlUrl:  'https://makeshiftstories.com/'
+        xmlUrl:   'https://feeds.podcastmirror.com/makeshiftstories'
+
+    - podcast:
+        title:    'Have a Nice Future'
+        htmlUrl:  'https://www.wired.com/podcast/have-a-nice-future/'
+        xmlUrl:   'https://feeds.megaphone.fm/CAD9860062747'
+
+  - issue:    205
+    title:    'Find That Pod #205'
+    pubDate:  '2023-04-07'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    "It's Nice to Hear You"
+        htmlUrl:  'http://itsnicetohearyou.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/itsnicetohearyou'
+
+    - podcast:
+        title:    'Infinite Loops'
+        htmlUrl:  'https://infiniteloopspodcast.com/'
+        xmlUrl:   'https://infiniteloops.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Psych Effect'
+        htmlUrl:  'https://thepsycheffectpodcast.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/thepsycheffectpodcast/feed.xml'
+
+    - podcast:
+        title:    'Extraordinary Stories of Britain'
+        htmlUrl:  'https://guildw.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/guildw/feed.xml'
+
+    - podcast:
+        title:    'I Finally Watched'
+        htmlUrl:  'https://ifinallywatched.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/ifinallywatched/feed.xml'
+
+  - issue:    204
+    title:    'Find That Pod #204'
+    pubDate:  '2023-03-31'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'When Magic Happens'
+        htmlUrl:  'https://wbez.org/'
+        xmlUrl:   'https://wbez-rss.streamguys1.com/when-magic-happens/when-magic-happens.xml'
+
+    - podcast:
+        title:    'Our Opinions Are Correct'
+        htmlUrl:  'http://ouropinionsarecorrect.libsyn.com/ouropinionsarecorrect'
+        xmlUrl:   'https://ouropinionsarecorrect.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Opportunist'
+        htmlUrl:  'https://kastmedia.com/podcasts/the-opportunist/'
+        xmlUrl:   'https://feed.cdnstream1.com/zjb/feed/download/60/87/5c/60875c33-9a32-4710-9a8d-7911f650d7c7.xml'
+
+    - podcast:
+        title:    'Modern Wisdom'
+        htmlUrl:  'https://chriswillx.com/books/'
+        xmlUrl:   'https://modernwisdom.libsyn.com/rss'
+
+    - podcast:
+        title:    'Podtastic Audio'
+        htmlUrl:  'https://podtasticaudio.com/'
+        xmlUrl:   'https://feeds.libsyn.com/443718/rss'
+
   - issue:    203
     title:    'Find That Pod #203'
     pubDate:  '2023-03-24'
