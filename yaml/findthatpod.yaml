@@ -12,6 +12,99 @@ head:
 
 body:
 
+  - issue:    210
+    title:    'Find That Pod #210'
+    pubDate:  '2023-05-12'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Chris DeMakes A Podcast'
+        htmlUrl:  'https://evergreenpodcasts.com/chris-demakes-a-podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/JJW5546407535'
+
+    - podcast:
+        title:    'Hothouse Earth'
+        htmlUrl:  'http://www.hothouseearthpodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/4qhwVVJZ'
+
+    - podcast:
+        title:    'Plain English with Derek Thompson'
+        htmlUrl:  'https://www.theringer.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/plain-english'
+
+    - podcast:
+        title:    'Mind Meets Machine'
+        htmlUrl:  'https://mindmeetsmachine.ai/'
+        xmlUrl:   'https://feeds.transistor.fm/mind-meets-machine'
+
+    - podcast:
+        title:    'Creator Science'
+        htmlUrl:  'https://podcast.creatorscience.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG4024225475'
+
+  - issue:    209
+    title:    'Find That Pod #209'
+    pubDate:  '2023-05-05'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Travel That Matters'
+        htmlUrl:  'https://www.curtco.com/travelthatmatters'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/4fab3663-bc0e-42da-bca1-ab68000eb109/a81eab75-69e0-4876-93e6-ad34013b70d6/dc28538a-5032-4b91-88f6-ad3401592635/podcast.rss'
+
+    - podcast:
+        title:    'Three Siblings'
+        htmlUrl:  'https://podcasts.apple.com/us/podcast/three-siblings/id1660215470'
+        xmlUrl:   'https://feeds.alitu.com/19328663'
+
+    - podcast:
+        title:    'Ye Olde Crime'
+        htmlUrl:  'http://www.yeoldecrimepodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/CULTIV7255330805'
+
+    - podcast:
+        title:    'Truthers: Tiffany Dover is Dead*'
+        htmlUrl:  'https://truthers.simplecast.com/'
+        xmlUrl:   'https://podcastfeeds.nbcnews.com/truthers'
+
+    - podcast:
+        title:    'Inside of You'
+        htmlUrl:  'http://www.insideofyoupodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/wwo4842114073'
+
+  - issue:    208
+    title:    'Find That Pod #208'
+    pubDate:  '2023-04-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Indigenous Earth Community'
+        htmlUrl:  'https://indigenousearth.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/IndigenousEarth/feed.xml'
+
+    - podcast:
+        title:    'Humans vs. Machines'
+        htmlUrl:  'https://www.aventine.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/CAD3729446646'
+
+    - podcast:
+        title:    'Talking Bull'
+        htmlUrl:  'https://www.redbullracing.com/int-en/podcast-shows/talking-bull'
+        xmlUrl:   'https://www.spreaker.com/show/3263736/episodes/feed'
+
+    - podcast:
+        title:    'Worst Foot Forward'
+        htmlUrl:  'https://www.worstfootforwardpodcast.com/'
+        xmlUrl:   'https://worstfootforward.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Dead Ladies Show'
+        htmlUrl:  'https://deadladiesshow.com/'
+        xmlUrl:   'https://deadladiesshow.com/category/podcast/feed/'
+
   - issue:    207
     title:    'Find That Pod #207'
     pubDate:  '2023-04-21'
