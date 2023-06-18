@@ -5,11 +5,31 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0100</dateCreated>
-    <dateModified>Sun, 28 May 2023 08:30:41 +0100</dateModified>
+    <dateModified>Sun, 18 Jun 2023 11:48:46 +0100</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #215" dateCreated="Fri, 16 Jun 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Magical Movie Marathon" text="Magical Movie Marathon" htmlUrl="https://www.spoonfulofjordan.com/podcast" xmlUrl="https://anchor.fm/s/ab315654/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="An Army of Normal Folks" text="An Army of Normal Folks" htmlUrl="https://www.iheart.com/podcast/an-army-of-normal-folks-115890758/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a2e20c8-a094-4bd4-bb18-b00c01377e24/714b9fe5-439d-49a6-851d-b00c01390f7e/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Fiasco: The AIDS Crisis" text="Fiasco: The AIDS Crisis" htmlUrl="https://shows.acast.com/fiasco/episodes/62b493362e2d93001325ac43" xmlUrl="https://feeds.acast.com/public/shows/fiasco" />
+      <opml type="link" version="RSS" language="en" title="You Made it Weird with Pete Holmes" text="You Made it Weird with Pete Holmes" htmlUrl="" xmlUrl="https://feeds.megaphone.fm/TPC5248074763" />
+    </outline>
+    <outline text="Find That Pod #214" dateCreated="Fri, 09 Jun 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Scamanda" text="Scamanda" htmlUrl="http://lionsgatesound.com/" xmlUrl="https://feeds.megaphone.fm/scamanda" />
+      <opml type="link" version="RSS" language="en" title="Catalyst with Shayle Kann" text="Catalyst with Shayle Kann" htmlUrl="https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann" xmlUrl="https://feeds.megaphone.fm/catalyst" />
+      <opml type="link" version="RSS" language="en" title="Dear Nina" text="Dear Nina" htmlUrl="http://www.ninabadzin.com/" xmlUrl="https://feeds.buzzsprout.com/1818628.rss" />
+      <opml type="link" version="RSS" language="en" title="More Perfect" text="More Perfect" htmlUrl="https://www.wnycstudios.org/podcasts/radiolabmoreperfect" xmlUrl="https://feeds.feedburner.com/moreperfect" />
+      <opml type="link" version="RSS" language="en" title="Where the Internet Lives" text="Where the Internet Lives" htmlUrl="https://where-the-internet-lives.simplecast.com/" xmlUrl="https://feeds.simplecast.com/uq015LLC" />
+    </outline>
+    <outline text="Find That Pod #213" dateCreated="Fri, 02 Jun 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Return Ticket" text="Return Ticket" htmlUrl="https://www.abc.net.au/radionational/programs/return-ticket/" xmlUrl="https://www.abc.net.au/feeds/13846272/podcast.xml" />
+      <opml type="link" version="RSS" language="en" title="Upstream with Erik Torenberg" text="Upstream with Erik Torenberg" htmlUrl="https://www.podpage.com/upstream-with-erik-torenberg/about/" xmlUrl="https://feeds.megaphone.fm/RINTP2392005652" />
+      <opml type="link" version="RSS" language="en" title="The Foxes of Hydesville" text="The Foxes of Hydesville" htmlUrl="https://qcodemedia.com/the-foxes-of-hydesville" xmlUrl="https://feeds.megaphone.fm/QCD5424384032" />
+      <opml type="link" version="RSS" language="en" title="The Dig" text="The Dig" htmlUrl="https://www.thedigradio.com/" xmlUrl="https://thedig.blubrry.net/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="Causepods" text="Causepods" htmlUrl="http://causepods.org/" xmlUrl="https://feeds.captivate.fm/causepods/" />
+    </outline>
     <outline text="Find That Pod #212" dateCreated="Fri, 26 May 2023 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="True Crime on Easy Street" text="True Crime on Easy Street" htmlUrl="https://www.truecrimeoneasystreet.com/" xmlUrl="https://anchor.fm/s/47a79ecc/podcast/rss" />
       <opml type="link" version="RSS" language="en" title="Wiser Than Me with Julia-Louis Dreyfus" text="Wiser Than Me with Julia-Louis Dreyfus" htmlUrl="https://www.lemonadamedia.com/" xmlUrl="https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss" />

@@ -12,6 +12,95 @@ head:
 
 body:
 
+  - issue:    215
+    title:    'Find That Pod #215'
+    pubDate:  '2023-06-16'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Magical Movie Marathon'
+        htmlUrl:  'https://www.spoonfulofjordan.com/podcast'
+        xmlUrl:   'https://anchor.fm/s/ab315654/podcast/rss'
+
+    - podcast:
+        title:    'An Army of Normal Folks'
+        htmlUrl:  'https://www.iheart.com/podcast/an-army-of-normal-folks-115890758/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a2e20c8-a094-4bd4-bb18-b00c01377e24/714b9fe5-439d-49a6-851d-b00c01390f7e/podcast.rss'
+
+    - podcast:
+        title:    'Fiasco: The AIDS Crisis'
+        htmlUrl:  'https://shows.acast.com/fiasco/episodes/62b493362e2d93001325ac43'
+        xmlUrl:   'https://feeds.acast.com/public/shows/fiasco'
+
+    - podcast:
+        title:    'You Made it Weird with Pete Holmes'
+        htmlUrl:  ''
+        xmlUrl:   'https://feeds.megaphone.fm/TPC5248074763'
+
+  - issue:    214
+    title:    'Find That Pod #214'
+    pubDate:  '2023-06-09'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Scamanda'
+        htmlUrl:  'http://lionsgatesound.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/scamanda'
+
+    - podcast:
+        title:    'Catalyst with Shayle Kann'
+        htmlUrl:  'https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann'
+        xmlUrl:   'https://feeds.megaphone.fm/catalyst'
+
+    - podcast:
+        title:    'Dear Nina'
+        htmlUrl:  'http://www.ninabadzin.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1818628.rss'
+
+    - podcast:
+        title:    'More Perfect'
+        htmlUrl:  'https://www.wnycstudios.org/podcasts/radiolabmoreperfect'
+        xmlUrl:   'https://feeds.feedburner.com/moreperfect'
+
+    - podcast:
+        title:    'Where the Internet Lives'
+        htmlUrl:  'https://where-the-internet-lives.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/uq015LLC'
+
+  - issue:    213
+    title:    'Find That Pod #213'
+    pubDate:  '2023-06-02'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Return Ticket'
+        htmlUrl:  'https://www.abc.net.au/radionational/programs/return-ticket/'
+        xmlUrl:   'https://www.abc.net.au/feeds/13846272/podcast.xml'
+
+    - podcast:
+        title:    'Upstream with Erik Torenberg'
+        htmlUrl:  'https://www.podpage.com/upstream-with-erik-torenberg/about/'
+        xmlUrl:   'https://feeds.megaphone.fm/RINTP2392005652'
+
+    - podcast:
+        title:    'The Foxes of Hydesville'
+        htmlUrl:  'https://qcodemedia.com/the-foxes-of-hydesville'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD5424384032'
+
+    - podcast:
+        title:    'The Dig'
+        htmlUrl:  'https://www.thedigradio.com/'
+        xmlUrl:   'https://thedig.blubrry.net/feed/podcast/'
+
+    - podcast:
+        title:    'Causepods'
+        htmlUrl:  'http://causepods.org/'
+        xmlUrl:   'https://feeds.captivate.fm/causepods/'
+
+
   - issue:    212
     title:    'Find That Pod #212'
     pubDate:  '2023-05-26'
