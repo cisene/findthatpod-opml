@@ -5,11 +5,32 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0100</dateCreated>
-    <dateModified>Sun, 18 Jun 2023 11:48:46 +0100</dateModified>
+    <dateModified>Wed, 12 Jul 2023 15:21:59 +0100</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #218" dateCreated="Fri, 07 Jul 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Bad Seeds" text="Bad Seeds" htmlUrl="https://www.iheart.com/podcast/1119-bad-seeds-112229352/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96bf451c-5289-4fbb-9c3a-afcd013cc5f4/ae236ecf-6a31-4e4e-8ef9-afcd013d5fd3/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Spellcaster - The Fall of Sam Bankman-Fried" text="Spellcaster - The Fall of Sam Bankman-Fried" htmlUrl="https://wondery.com/shows/spellcaster/" xmlUrl="https://rss.art19.com/spellcaster" />
+      <opml type="link" version="RSS" language="en" title="Digital Folklore" text="Digital Folklore" htmlUrl="https://digitalfolklore.fm/" xmlUrl="https://feeds.megaphone.fm/SBP6594262576" />
+      <opml type="link" version="RSS" language="en" title="The Humans vs Retirement Podcast" text="The Humans vs Retirement Podcast" htmlUrl="https://www.humansvsretirement.com/" xmlUrl="https://feeds.libsyn.com/463491/rss" />
+      <opml type="link" version="RSS" language="en" title="Volts" text="Volts" htmlUrl="https://www.volts.wtf/podcast" xmlUrl="https://api.substack.com/feed/podcast/193024.rss" />
+    </outline>
+    <outline text="Find That Pod #217" dateCreated="Fri, 30 Jun 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="I Love my Kid But..." text="I Love my Kid But..." htmlUrl="https://wondery.com/shows/i-love-my-kid-but/" xmlUrl="https://rss.art19.com/i-love-my-kid-but" />
+      <opml type="link" version="RSS" language="en" title="Who Shat on the Floor at my Wedding?" text="Who Shat on the Floor at my Wedding?" htmlUrl="https://www.whoshatontheflooratmywedding.com/" xmlUrl="https://feeds.acast.com/public/shows/5f9c2cf7e4bd0c0d0a4cd1c8" />
+      <opml type="link" version="RSS" language="en" title="The Subverse" text="The Subverse" htmlUrl="https://www.darknlight.com/podcast/" xmlUrl="https://thesubverse.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Set" text="The Set" htmlUrl="https://shows.cadence13.com/podcast/theset" xmlUrl="https://feeds.megaphone.fm/the-set" />
+      <opml type="link" version="RSS" language="en" title="Holy Week" text="Holy Week" htmlUrl="https://www.theatlantic.com/podcasts/holy-week" xmlUrl="https://feeds.megaphone.fm/holyweek" />
+    </outline>
+    <outline text="Find That Pod #216" dateCreated="Fri, 23 Jun 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Petty Crimes" text="Petty Crimes" htmlUrl="https://sites.libsyn.com/401669" xmlUrl="https://feeds.libsyn.com/401669/rss" />
+      <opml type="link" version="RSS" language="en" title="Unthinkable" text="Unthinkable" htmlUrl="http://jayacunzo.com/" xmlUrl="https://feeds.simplecast.com/EQoA27zn" />
+      <opml type="link" version="RSS" language="en" title="Grown - A Podcast from the Moth" text="Grown - A Podcast from the Moth" htmlUrl="http://grownpod.com/" xmlUrl="https://feed.grown.themoth.org/" />
+      <opml type="link" version="RSS" language="en" title="What do You Do?" text="What do You Do?" htmlUrl="https://what-do-you-do-with-rodolfo.blubrry.net/" xmlUrl="https://what-do-you-do-with-rodolfo.blubrry.net/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="Parched" text="Parched" htmlUrl="https://www.cpr.org/podcast/parched" xmlUrl="https://feeds.podcastmirror.com/parched" />
+    </outline>
     <outline text="Find That Pod #215" dateCreated="Fri, 16 Jun 2023 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="Magical Movie Marathon" text="Magical Movie Marathon" htmlUrl="https://www.spoonfulofjordan.com/podcast" xmlUrl="https://anchor.fm/s/ab315654/podcast/rss" />
       <opml type="link" version="RSS" language="en" title="An Army of Normal Folks" text="An Army of Normal Folks" htmlUrl="https://www.iheart.com/podcast/an-army-of-normal-folks-115890758/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a2e20c8-a094-4bd4-bb18-b00c01377e24/714b9fe5-439d-49a6-851d-b00c01390f7e/podcast.rss" />

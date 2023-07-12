@@ -12,6 +12,100 @@ head:
 
 body:
 
+  - issue:    218
+    title:    'Find That Pod #218'
+    pubDate:  '2023-07-07'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Bad Seeds'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-bad-seeds-112229352/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96bf451c-5289-4fbb-9c3a-afcd013cc5f4/ae236ecf-6a31-4e4e-8ef9-afcd013d5fd3/podcast.rss'
+
+    - podcast:
+        title:    'Spellcaster - The Fall of Sam Bankman-Fried'
+        htmlUrl:  'https://wondery.com/shows/spellcaster/'
+        xmlUrl:   'https://rss.art19.com/spellcaster'
+
+    - podcast:
+        title:    'Digital Folklore'
+        htmlUrl:  'https://digitalfolklore.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP6594262576'
+
+    - podcast:
+        title:    'The Humans vs Retirement Podcast'
+        htmlUrl:  'https://www.humansvsretirement.com/'
+        xmlUrl:   'https://feeds.libsyn.com/463491/rss'
+
+    - podcast:
+        title:    'Volts'
+        htmlUrl:  'https://www.volts.wtf/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/193024.rss'
+
+
+  - issue:    217
+    title:    'Find That Pod #217'
+    pubDate:  '2023-06-30'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'I Love my Kid But...'
+        htmlUrl:  'https://wondery.com/shows/i-love-my-kid-but/'
+        xmlUrl:   'https://rss.art19.com/i-love-my-kid-but'
+
+    - podcast:
+        title:    'Who Shat on the Floor at my Wedding?'
+        htmlUrl:  'https://www.whoshatontheflooratmywedding.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/5f9c2cf7e4bd0c0d0a4cd1c8'
+
+    - podcast:
+        title:    'The Subverse'
+        htmlUrl:  'https://www.darknlight.com/podcast/'
+        xmlUrl:   'https://thesubverse.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Set'
+        htmlUrl:  'https://shows.cadence13.com/podcast/theset'
+        xmlUrl:   'https://feeds.megaphone.fm/the-set'
+
+    - podcast:
+        title:    'Holy Week'
+        htmlUrl:  'https://www.theatlantic.com/podcasts/holy-week'
+        xmlUrl:   'https://feeds.megaphone.fm/holyweek'
+
+  - issue:    216
+    title:    'Find That Pod #216'
+    pubDate:  '2023-06-23'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Petty Crimes'
+        htmlUrl:  'https://sites.libsyn.com/401669'
+        xmlUrl:   'https://feeds.libsyn.com/401669/rss'
+
+    - podcast:
+        title:    'Unthinkable'
+        htmlUrl:  'http://jayacunzo.com/'
+        xmlUrl:   'https://feeds.simplecast.com/EQoA27zn'
+
+    - podcast:
+        title:    'Grown - A Podcast from the Moth'
+        htmlUrl:  'http://grownpod.com/'
+        xmlUrl:   'https://feed.grown.themoth.org/'
+
+    - podcast:
+        title:    'What do You Do?'
+        htmlUrl:  'https://what-do-you-do-with-rodolfo.blubrry.net/'
+        xmlUrl:   'https://what-do-you-do-with-rodolfo.blubrry.net/feed/podcast/'
+
+    - podcast:
+        title:    'Parched'
+        htmlUrl:  'https://www.cpr.org/podcast/parched'
+        xmlUrl:   'https://feeds.podcastmirror.com/parched'
+
   - issue:    215
     title:    'Find That Pod #215'
     pubDate:  '2023-06-16'
