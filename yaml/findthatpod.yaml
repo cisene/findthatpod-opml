@@ -11,6 +11,36 @@ head:
   url: https://findthatpod.com/
 
 body:
+  - issue:    219
+    title:    'Find That Pod #219'
+    pubDate:  '2023-07-14'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Without'
+        htmlUrl:  'https://www.sonymusic.com/sonymusic/without-podcast-from-sme-and-hyperobject-industries/'
+        xmlUrl:   'https://feeds.megaphone.fm/without'
+
+    - podcast:
+        title:    'The 4th Curtain'
+        htmlUrl:  'https://www.thefourthcurtain.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2129562.rss'
+
+    - podcast:
+        title:    'In Machines We Trust'
+        htmlUrl:  'https://www.technologyreview.com/in-machines-we-trust/'
+        xmlUrl:   'https://feeds.megaphone.fm/inmachineswetrust'
+
+    - podcast:
+        title:    'Empire'
+        htmlUrl:  'https://www.goalhangerpodcasts.com/battleground-copy'
+        xmlUrl:   'https://feeds.megaphone.fm/empirepodcast'
+
+    - podcast:
+        title:    'Desert Island Dishes'
+        htmlUrl:  'https://desertislanddishes.co/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/60dc377c1f5e91001249f601'
 
   - issue:    218
     title:    'Find That Pod #218'
@@ -42,7 +72,6 @@ body:
         title:    'Volts'
         htmlUrl:  'https://www.volts.wtf/podcast'
         xmlUrl:   'https://api.substack.com/feed/podcast/193024.rss'
-
 
   - issue:    217
     title:    'Find That Pod #217'
