@@ -11,6 +11,69 @@ head:
   url: https://findthatpod.com/
 
 body:
+
+  - issue:    221
+    title:    'Find That Pod #221'
+    pubDate:  '2023-07-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Audio Branding'
+        htmlUrl:  'https://audiobrandingpodcast.com/'
+        xmlUrl:   'https://feeds.captivate.fm/audiobranding/'
+
+    - podcast:
+        title:    'I’ve Had It'
+        htmlUrl:  'https://www.podcastone.com/pd/Ive-Had-It'
+        xmlUrl:   'https://www.podcastone.com/podcast?categoryID2=2332'
+
+    - podcast:
+        title:    'The Coldest Case in Laramie'
+        htmlUrl:  'https://the-coldest-case-in-laramie.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/wHqls8d1'
+
+    - podcast:
+        title:    'HBR Ideacast'
+        htmlUrl:  'https://hbr.org/podcasts/ideacast'
+        xmlUrl:   'http://feeds.harvardbusiness.org/harvardbusiness/ideacast'
+
+    - podcast:
+        title:    'Climavores'
+        htmlUrl:  'https://postscriptmedia.com/climavores/'
+        xmlUrl:   'https://feeds.megaphone.fm/climavores'
+
+  - issue:    220
+    title:    'Find That Pod #220'
+    pubDate:  '2023-07-21'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Started from the Bottom'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/started-from-the-bottom'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/457c60e7-56d7-4366-882a-af35013db4b6/b371cfec-69ff-4164-877f-af35013e003b/podcast.rss'
+
+    - podcast:
+        title:    'Burning Questions'
+        htmlUrl:  'https://solis.health/'
+        xmlUrl:   'https://feeds.libsyn.com/455817/rss'
+
+    - podcast:
+        title:    'Songs that Don’t Suck'
+        htmlUrl:  'http://songsthatdontsuck.net/'
+        xmlUrl:   'https://anchor.fm/s/d1886cd4/podcast/rss'
+
+    - podcast:
+        title:    'Under Cover of Knight'
+        htmlUrl:  'https://apple.co/UnderCover'
+        xmlUrl:   'https://rss.art19.com/under-cover-of-knight'
+
+    - podcast:
+        title:    'Search Engine'
+        htmlUrl:  'http://www.pjvogt.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/search-engine'
+
   - issue:    219
     title:    'Find That Pod #219'
     pubDate:  '2023-07-14'
