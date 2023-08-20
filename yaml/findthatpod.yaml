@@ -12,6 +12,99 @@ head:
 
 body:
 
+  - issue:    224
+    title:    'Find That Pod #224'
+    pubDate:  '2023-08-18'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Per My Last Email'
+        htmlUrl:  'https://pmleshow.com/'
+        xmlUrl:   'https://feeds.simplecast.com/TLNzpa4t'
+
+    - podcast:
+        title:    'Women Who Travel'
+        htmlUrl:  'https://www.facebook.com/groups/271882099953039/'
+        xmlUrl:   'https://feeds.megaphone.fm/women-who-travel'
+
+    - podcast:
+        title:    'Reversing Climate Change'
+        htmlUrl:  'https://nori.com/podcasts/reversing-climate-change'
+        xmlUrl:   'https://anchor.fm/s/23e4da18/podcast/rss'
+
+    - podcast:
+        title:    'Between Two Mics'
+        htmlUrl:  'https://squadcast.fm/between-2-mics/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1821545.rss'
+
+    - podcast:
+        title:    'National Park After Dark'
+        htmlUrl:  'https://audioboom.com/channels/5055896-national-park-after-dark'
+        xmlUrl:   'https://audioboom.com/channels/5055896.rss'
+
+  - issue:    223
+    title:    'Find That Pod #223'
+    pubDate:  '2023-08-11'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Playful Humans Podcast'
+        htmlUrl:  'https://podcast.playfulhumans.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1576273.rss'
+
+    - podcast:
+        title:    'Sh!t That Goes on in Our Heads'
+        htmlUrl:  'https://shtthatgoesoninourheads.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/shtthatgoesoninourheads/feed.xml'
+
+    - podcast:
+        title:    'The Worst of all Possible Worlds'
+        htmlUrl:  'https://www.worstpossible.world/'
+        xmlUrl:   'https://feed.podbean.com/worstofallpossibleworlds/feed.xml'
+
+    - podcast:
+        title:    'Sean Carroll’s Mindscape'
+        htmlUrl:  'https://www.preposterousuniverse.com/podcast/'
+        xmlUrl:   'https://rss.art19.com/sean-carrolls-mindscape'
+
+    - podcast:
+        title:    'Alice Isn’t Dead'
+        htmlUrl:  'http://www.aliceisntdead.com/'
+        xmlUrl:   'http://feeds.nightvalepresents.com/aliceisntdeadpodcast'
+
+  - issue:    222
+    title:    'Find That Pod #222'
+    pubDate:  '2023-08-04'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Knowable Podcast'
+        htmlUrl:  'https://knowablemagazine.org/podcast'
+        xmlUrl:   'https://feeds.libsyn.com/317981/rss'
+
+    - podcast:
+        title:    'Why We Can’t Have Nice Things'
+        htmlUrl:  'https://reason.com/podcasts/nice-things/'
+        xmlUrl:   'https://reason.com/podcasts/nice-things/feed/'
+
+    - podcast:
+        title:    'The Town with Matthew Belloni'
+        htmlUrl:  'https://www.theringer.com/the-town-podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/the-town-with-matthew-belloni'
+
+    - podcast:
+        title:    'Shifting Schools'
+        htmlUrl:  'http://sites.libsyn.com/111701/site'
+        xmlUrl:   'https://shiftingourschools.libsyn.com/rss'
+
+    - podcast:
+        title:    'BEEF with Bridget Todd'
+        htmlUrl:  'https://ncpodcasts.com/beef'
+        xmlUrl:   'https://feeds.megaphone.fm/beef'
+
   - issue:    221
     title:    'Find That Pod #221'
     pubDate:  '2023-07-28'
