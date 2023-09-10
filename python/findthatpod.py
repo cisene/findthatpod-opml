@@ -38,14 +38,20 @@ def ProcessEach():
     print("config is empty")
     exit(0)
 
-  opml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
-  opml += "<!-- Source: https://b19.se/data/findthatpod.opml -->\n"
-  opml += "<opml version=\"2.0\">\n"
+  #opml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+  #opml += "<!-- Source: https://b19.se/data/findthatpod.opml -->\n"
+  #opml += "<opml version=\"2.0\">\n"
 
   for issue in config['body']:
     opml = []
 
     opml_filename = f"findthatpod-issue-{issue['issue']:03}.opml"
+
+    opml_fullpath = f"../{opml_filename}"
+
+    if(os.path.isfile(opml_fullpath)):
+      #print(f"Skipped {opml_fullpath} - exists")
+      continue
 
     # Declare XML
     opml.append(f"<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
@@ -83,6 +89,10 @@ def ProcessEach():
     # Begin body
     opml.append(f"  <body>");
 
+
+    file_creation_time = f"{formatDateString(issue['pubDate'])} +0100"
+    file_ctime = int( datetime.strptime(file_creation_time, '%a, %d %b %Y %H:%M:%S %z').timestamp() )
+
     if issue['htmlUrl'] != None:
       opml.append(f"    <outline text=\"Find That Pod #{issue['issue']:03}\" htmlUrl=\"{htmlEncode(issue['htmlUrl'])}\" dateCreated=\"{formatDateString(issue['pubDate'])} +0100\">")
     else:
@@ -104,8 +114,11 @@ def ProcessEach():
 
     opml_rendered = "\n".join(opml)
 
-    with open(f"../{opml_filename}", "w") as f:
+    with open(opml_fullpath, "w") as f:
       f.write(opml_rendered)
+
+    # Adjust creation/modified time to episode pubDate
+    os.utime(opml_fullpath, (file_ctime, file_ctime))
 
 
 def ProcessItems():
@@ -117,9 +130,10 @@ def ProcessItems():
     print("config is empty")
     exit(0)
 
-  opml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
-  opml += "<!-- Source: https://b19.se/data/findthatpod.opml -->\n"
-  opml += "<opml version=\"2.0\">\n"
+  opml = []
+  opml.append(f"<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
+  opml.append(f"<!-- Source: https://b19.se/data/findthatpod.opml -->")
+  opml.append(f"<opml version=\"2.0\">")
 
   head_title = config['head']['title']
   head_dateCreated = formatDateString(config['head']['dateCreated'])
@@ -129,15 +143,15 @@ def ProcessItems():
   ownerEmail = config['head']['ownerEmail']
   url = config['head']['url']
 
-  opml += "  <head>\n"
-  opml += f"    <title>{head_title}</title>\n"
-  opml += f"    <url>{url}</url>\n"
-  opml += f"    <dateCreated>{head_dateCreated} +0100</dateCreated>\n"
-  opml += f"    <dateModified>{head_dateModified} +0100</dateModified>\n"
-  opml += f"    <ownerName>{ownerName}</ownerName>\n"
-  opml += f"    <ownerEmail>{ownerEmail}</ownerEmail>\n"
-  opml += "  </head>\n"
-  opml += "  <body>\n"
+  opml.append(f"  <head>")
+  opml.append(f"    <title>{head_title}</title>")
+  opml.append(f"    <url>{url}</url>")
+  opml.append(f"    <dateCreated>{head_dateCreated} +0100</dateCreated>")
+  opml.append(f"    <dateModified>{head_dateModified} +0100</dateModified>")
+  opml.append(f"    <ownerName>{ownerName}</ownerName>")
+  opml.append(f"    <ownerEmail>{ownerEmail}</ownerEmail>")
+  opml.append(f"  </head>")
+  opml.append(f"  <body>")
 
   for body in config['body']:
     issue_title = ""
@@ -162,9 +176,9 @@ def ProcessItems():
       (issue_htmlUrl != None) and
       (issue_pubDate != None)
     ):
-      opml += f"    <outline text=\"{issue_title}\" htmlUrl=\"{issue_htmlUrl}\" dateCreated=\"{issue_pubDate} +0000\">\n"
+      opml.append(f"    <outline text=\"{issue_title}\" htmlUrl=\"{issue_htmlUrl}\" dateCreated=\"{issue_pubDate} +0000\">")
     else:
-      opml += f"    <outline text=\"{issue_title}\" dateCreated=\"{issue_pubDate} +0000\">\n"
+      opml.append(f"    <outline text=\"{issue_title}\" dateCreated=\"{issue_pubDate} +0000\">")
 
     for contents in body['contents']:
       podcast = contents['podcast']
@@ -199,15 +213,20 @@ def ProcessItems():
       else:
         podcast_xmlUrl = htmlEncode(str(podcast['xmlUrl']))
 
-      opml += f"      <opml type=\"{podcast_type}\" version=\"{podcast_version}\" language=\"{podcast_language}\" title=\"{podcast_title}\" text=\"{podcast_title}\" htmlUrl=\"{podcast_htmlUrl}\" xmlUrl=\"{podcast_xmlUrl}\" />\n"
+      opml.append(f"      <opml type=\"{podcast_type}\" version=\"{podcast_version}\" language=\"{podcast_language}\" title=\"{podcast_title}\" text=\"{podcast_title}\" htmlUrl=\"{podcast_htmlUrl}\" xmlUrl=\"{podcast_xmlUrl}\" />")
 
-    opml += "    </outline>\n"
+    opml.append(f"    </outline>")
 
-  opml += "  </body>\n"
+  opml.append(f"  </body>")
 
-  opml += "</opml>\n"
+  opml.append(f"</opml>")
   
-  print(opml)
+  opml_rendered = "\n".join(opml)
+
+  with open(OUTPUT_FILENAME, "w") as f:
+    f.write(opml_rendered)
+
+  return
 
 
 
