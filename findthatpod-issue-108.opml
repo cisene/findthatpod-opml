@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-108.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #108</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 30 Apr 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 30 Apr 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #108" htmlUrl="https://findthatpod.com/find-that-pod-108/" dateCreated="Fri, 30 Apr 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="A Breath of Fresh Earth" text="A Breath of Fresh Earth" htmlUrl="https://abreathoffreshearth.captivate.fm/listen" xmlUrl="https://feeds.captivate.fm/abreathoffreshearth/" />
+      <opml type="link" version="RSS" language="en" title="Excuse Me, That’s Illegal" text="Excuse Me, That’s Illegal" htmlUrl="https://strangebynaturepodcast.com/" xmlUrl="https://feeds.buzzsprout.com/1269509.rss" />
+      <opml type="link" version="RSS" language="en" title="Strange By Nature" text="Strange By Nature" htmlUrl="https://www.thefriendshipfile.com/" xmlUrl="https://feed.podbean.com/strangebynaturepodcast/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="The Friendship File" text="The Friendship File" htmlUrl="https://www.postcarbon.org/crazytown/" xmlUrl="https://iono.fm/rss/chan/5537" />
+      <opml type="link" version="RSS" language="en" title="Crazy Town" text="Crazy Town" htmlUrl="https://www.postcarbon.org/crazytown/" xmlUrl="https://feeds.buzzsprout.com/244372.rss" />
+    </outline>
+  </body>
+</opml>

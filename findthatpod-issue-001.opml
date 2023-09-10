@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-001.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #001</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 05 Apr 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 05 Apr 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #001" htmlUrl="https://findthatpod.com/edition-1/" dateCreated="Fri, 05 Apr 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Astonishing Legends" text="Astonishing Legends" htmlUrl="https://www.astonishinglegends.com/podcasts" xmlUrl="https://audioboom.com/channels/4322549.rss" />
+      <opml type="link" version="RSS" language="en" title="Connected" text="Connected" htmlUrl="https://www.relay.fm/connected" xmlUrl="https://www.relay.fm/connected/feed" />
+      <opml type="link" version="RSS" language="en" title="Where Should We Begin?" text="Where Should We Begin?" htmlUrl="https://www.estherperel.com/podcast" xmlUrl="https://feeds.megaphone.fm/ep-wswb-spot" />
+      <opml type="link" version="RSS" language="en" title="Flash Forward" text="Flash Forward" htmlUrl="https://www.flashforwardpod.com/" xmlUrl="https://www.flashforwardpod.com/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="Unruffled - Respectful Parenting" text="Unruffled - Respectful Parenting" htmlUrl="https://www.janetlansbury.com/podcast-audio/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:91056977/sounds.rss" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-008.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #008</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 24 May 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 24 May 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #008" htmlUrl="https://findthatpod.com/edition-8/" dateCreated="Fri, 24 May 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Greatest Generation" text="The Greatest Generation" htmlUrl="http://www.maximumfun.org/shows/greatest-generation" xmlUrl="https://feeds.feedburner.com/TheGreatestGeneration" />
+      <opml type="link" version="RSS" language="en" title="Life is Short with Justin Long" text="Life is Short with Justin Long" htmlUrl="https://wondery.com/shows/justin-long/" xmlUrl="https://rss.art19.com/life-is-short-with-justin-long" />
+      <opml type="link" version="RSS" language="en" title="Ologies" text="Ologies" htmlUrl="http://art19.com/shows/ologies-fb" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cd414f92-9493-4cb9-8118-ab050189d61c/0ea3ce14-a105-487b-b68d-ab050189d62a/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Road Work" text="Road Work" htmlUrl="http://5by5.tv/roadwork" xmlUrl="http://feeds.5by5.tv/roadwork" />
+      <opml type="link" version="RSS" language="en" title="Olympic Fever" text="Olympic Fever" htmlUrl="https://olymfever.com/" xmlUrl="https://flamealivepod.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>

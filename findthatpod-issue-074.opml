@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-074.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #074</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 28 Aug 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 28 Aug 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #074" htmlUrl="https://findthatpod.com/find-that-pod-74/" dateCreated="Fri, 28 Aug 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Bed Post Podcast" text="The Bed Post Podcast" htmlUrl="http://thesonarnetwork.com/the-bed-post/" xmlUrl="https://bedpost.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Curious With Josh Peck" text="Curious With Josh Peck" htmlUrl="https://www.stitcher.com/podcast/cadence13/curious-with-josh-peck" xmlUrl="https://feeds.feedburner.com/curious-josh-peck" />
+      <opml type="link" version="RSS" language="en" title="Buying Online Businesses Podcast" text="Buying Online Businesses Podcast" htmlUrl="https://buyingonlinebusinesses.com/podcast/" xmlUrl="https://www.omnycontent.com/d/playlist/3c72444b-621f-4a3e-b6e1-a82000673c2f/8676a5c3-0d14-4514-bcf6-aa08002f573b/5c3a4fc6-4f7e-41ad-9d40-aa080066cd07/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Emperors of Rome" text="Emperors of Rome" htmlUrl="https://www.latrobe.edu.au/" xmlUrl="https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/caesar.xml" />
+      <opml type="link" version="RSS" language="en" title="OnePitch – Coffee With a Journalist" text="OnePitch – Coffee With a Journalist" htmlUrl="https://greggclunis.com/tiny-leaps/" xmlUrl="https://anchor.fm/s/bd0fbb4/podcast/rss" />
+    </outline>
+  </body>
+</opml>

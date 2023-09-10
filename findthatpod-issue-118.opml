@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-118.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #118</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 09 Jul 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 09 Jul 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #118" htmlUrl="https://findthatpod.com/find-that-pod-118/" dateCreated="Fri, 09 Jul 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Jordan Harbinger Show" text="The Jordan Harbinger Show" htmlUrl="https://www.jordanharbinger.com/" xmlUrl="http://www.podcastone.com/podcast?categoryID2=1237" />
+      <opml type="link" version="RSS" language="en" title="CounterClock" text="CounterClock" htmlUrl="https://counterclockpodcast.com/" xmlUrl="https://podcasts.apple.com/us/podcast/counterclock/id1489482036" />
+      <opml type="link" version="RSS" language="en" title="Thinking is Cool" text="Thinking is Cool" htmlUrl="https://www.thinkingiscool.com/" xmlUrl="https://feeds.redcircle.com/c91c6e85-6216-4c07-a700-f764e6227a11" />
+      <opml type="link" version="RSS" language="en" title="Black Box Down" text="Black Box Down" htmlUrl="https://roosterteeth.com/series/black-box-down" xmlUrl="https://feeds.megaphone.fm/blackboxdown" />
+      <opml type="link" version="RSS" language="en" title="Distractible" text="Distractible" htmlUrl="http://distractiblepodcast.com/" xmlUrl="https://feeds.megaphone.fm/QCD8163454930" />
+    </outline>
+  </body>
+</opml>

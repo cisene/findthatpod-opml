@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-186.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #186</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 11 Nov 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 11 Nov 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #186" dateCreated="Fri, 11 Nov 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="History Defeats Itself" text="History Defeats Itself" htmlUrl="https://thesonarnetwork.com/history-defeats-itself" xmlUrl="https://thesonarnetwork.com/history-defeats-itself/feed/podcast" />
+      <opml type="link" version="RSS" language="en" title="The Rosenberg Case: A Tale of Murder, Corruption, and Conspiracy in Guatemala" text="The Rosenberg Case: A Tale of Murder, Corruption, and Conspiracy in Guatemala" htmlUrl="https://www.therosenbergcase.com/" xmlUrl="https://feeds.megaphone.fm/ADL3973865019" />
+      <opml type="link" version="RSS" language="en" title="Animal Spirits" text="Animal Spirits" htmlUrl="https://awealthofcommonsense.com/podcast/" xmlUrl="https://animalspiritspod.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Jordan Klepper Fingers the Conspiracy" text="Jordan Klepper Fingers the Conspiracy" htmlUrl="https://www.iheart.com/podcast/269-klepper-30873042/" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29897540-b4b9-47bd-a800-af3c00f0933b/2db1ce33-1985-44b7-9592-af3c00f09357/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Stories Podcast: A Bedtime Show for Kids of All Ages" text="Stories Podcast: A Bedtime Show for Kids of All Ages" htmlUrl="https://wondery.com/shows/stories-podcast/" xmlUrl="https://rss.art19.com/stories-podcast" />
+    </outline>
+  </body>
+</opml>

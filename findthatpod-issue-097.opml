@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-097.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #097</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 12 Feb 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 12 Feb 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #097" htmlUrl="https://findthatpod.com/find-that-pod-97/" dateCreated="Fri, 12 Feb 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Vox Conversations" text="Vox Conversations" htmlUrl="https://podcasts.voxmedia.com/show/vox-conversations" xmlUrl="https://feeds.megaphone.fm/theezrakleinshow" />
+      <opml type="link" version="RSS" language="en" title="Unresolved" text="Unresolved" htmlUrl="https://unresolved.me/" xmlUrl="https://www.spreaker.com/show/3266604/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="The Socially Distance Sports Bar" text="The Socially Distance Sports Bar" htmlUrl="https://www.distantpod.com/" xmlUrl="https://podcast.global.com/show/4460361/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="The Future Belongs to Creators" text="The Future Belongs to Creators" htmlUrl="https://convertkit.com/podcasts" xmlUrl="https://feeds.transistor.fm/the-future-belongs-to-creators" />
+      <opml type="link" version="RSS" language="en" title="From Now" text="From Now" htmlUrl="https://www.qcodemedia.com/from-now" xmlUrl="https://feeds.simplecast.com/7CtCRZIt" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-179.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #179</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 23 Sep 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 23 Sep 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #179" dateCreated="Fri, 23 Sep 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Boston Metaphysical Society: The Ghost Ship" text="Boston Metaphysical Society: The Ghost Ship" htmlUrl="http://www.bostonmetaphysicalsociety.com/" xmlUrl="https://feeds.captivate.fm/boston-metaphysical/" />
+      <opml type="link" version="RSS" language="en" title="The PoliticsGirl Podcast" text="The PoliticsGirl Podcast" htmlUrl="http://www.politicsgirl.com/" xmlUrl="https://feeds.megaphone.fm/PDR6752590894" />
+      <opml type="link" version="RSS" language="en" title="I&#39;m A Sophisticate and So Can You!" text="I&#39;m A Sophisticate and So Can You!" htmlUrl="https://imasophisticate.com/" xmlUrl="https://feeds.acast.com/public/shows/61e7aadbd8346b00132f75a6" />
+      <opml type="link" version="RSS" language="en" title="Classic Conversations" text="Classic Conversations" htmlUrl="https://cms.megaphone.fm/channel/ADV5073979157" xmlUrl="https://feeds.megaphone.fm/ADV5073979157" />
+      <opml type="link" version="RSS" language="en" title="The Necessary Conversation" text="The Necessary Conversation" htmlUrl="https://thenecessaryconversation.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/2035895.rss" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-053.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #053</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 03 Apr 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 03 Apr 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #053" htmlUrl="https://findthatpod.com/find-that-pod-53/" dateCreated="Fri, 03 Apr 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="American Glutton" text="American Glutton" htmlUrl="https://americanglutton.net/" xmlUrl="https://podcast.global.com/show/4165972/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="Business Wars" text="Business Wars" htmlUrl="https://wondery.com/shows/business-wars/" xmlUrl="https://rss.art19.com/business-wars" />
+      <opml type="link" version="RSS" language="en" title="Focused" text="Focused" htmlUrl="https://www.relay.fm/focused" xmlUrl="https://www.relay.fm/focused/feed" />
+      <opml type="link" version="RSS" language="en" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://feeds.fireside.fm/smashingsecurity/rss" />
+      <opml type="link" version="RSS" language="en" title="Flashback" text="Flashback" htmlUrl="https://www.relay.fm/flashback" xmlUrl="https://www.relay.fm/flashback/feed" />
+    </outline>
+  </body>
+</opml>

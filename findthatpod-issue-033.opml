@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-033.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #033</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 15 Nov 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 15 Nov 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #033" htmlUrl="https://findthatpod.com/find-that-pod-33/" dateCreated="Fri, 15 Nov 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Personal Best" text="Personal Best" htmlUrl="https://www.cbc.ca/radio/podcasts/comedy/personal-best/" xmlUrl="https://www.cbc.ca/podcasting/includes/personalbest.xml" />
+      <opml type="link" version="RSS" language="en" title="JOCKO Podcast" text="JOCKO Podcast" htmlUrl="https://jockopodcast.com/" xmlUrl="https://jockopodcast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Why Won’t You Date Me?" text="Why Won’t You Date Me?" htmlUrl="https://headgum.com/why-wont-you-date-me" xmlUrl="https://rss.art19.com/why-wont-you-date-me" />
+      <opml type="link" version="RSS" language="en" title="The Secret Life of Canada" text="The Secret Life of Canada" htmlUrl="https://www.cbc.ca/radio/secretlifeofcanada" xmlUrl="https://www.cbc.ca/podcasting/includes/secretlifeofcanada.xml" />
+      <opml type="link" version="RSS" language="en" title="Zero Hours" text="Zero Hours" htmlUrl="http://zerohourspodcast.com/" xmlUrl="https://www.omnycontent.com/d/playlist/b1fcc76c-2e8a-4e78-89ef-a76c00eb80f4/566e5a8a-fbda-4394-be6e-aae30117138b/11a737ac-ddba-4111-b2a6-aae30118349e/podcast.rss" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-220.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #220</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 21 Jul 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 21 Jul 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #220" dateCreated="Fri, 21 Jul 2023 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Started from the Bottom" text="Started from the Bottom" htmlUrl="https://www.pushkin.fm/podcasts/started-from-the-bottom" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/457c60e7-56d7-4366-882a-af35013db4b6/b371cfec-69ff-4164-877f-af35013e003b/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Burning Questions" text="Burning Questions" htmlUrl="https://solis.health/" xmlUrl="https://feeds.libsyn.com/455817/rss" />
+      <opml type="link" version="RSS" language="en" title="Songs that Don’t Suck" text="Songs that Don’t Suck" htmlUrl="http://songsthatdontsuck.net/" xmlUrl="https://anchor.fm/s/d1886cd4/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Under Cover of Knight" text="Under Cover of Knight" htmlUrl="https://apple.co/UnderCover" xmlUrl="https://rss.art19.com/under-cover-of-knight" />
+      <opml type="link" version="RSS" language="en" title="Search Engine" text="Search Engine" htmlUrl="http://www.pjvogt.com/" xmlUrl="https://feeds.megaphone.fm/search-engine" />
+    </outline>
+  </body>
+</opml>

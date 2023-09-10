@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-219.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #219</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 14 Jul 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 14 Jul 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #219" dateCreated="Fri, 14 Jul 2023 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Without" text="Without" htmlUrl="https://www.sonymusic.com/sonymusic/without-podcast-from-sme-and-hyperobject-industries/" xmlUrl="https://feeds.megaphone.fm/without" />
+      <opml type="link" version="RSS" language="en" title="The 4th Curtain" text="The 4th Curtain" htmlUrl="https://www.thefourthcurtain.com/" xmlUrl="https://feeds.buzzsprout.com/2129562.rss" />
+      <opml type="link" version="RSS" language="en" title="In Machines We Trust" text="In Machines We Trust" htmlUrl="https://www.technologyreview.com/in-machines-we-trust/" xmlUrl="https://feeds.megaphone.fm/inmachineswetrust" />
+      <opml type="link" version="RSS" language="en" title="Empire" text="Empire" htmlUrl="https://www.goalhangerpodcasts.com/battleground-copy" xmlUrl="https://feeds.megaphone.fm/empirepodcast" />
+      <opml type="link" version="RSS" language="en" title="Desert Island Dishes" text="Desert Island Dishes" htmlUrl="https://desertislanddishes.co/" xmlUrl="https://feeds.acast.com/public/shows/60dc377c1f5e91001249f601" />
+    </outline>
+  </body>
+</opml>

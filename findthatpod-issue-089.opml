@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-089.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #089</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 11 Dec 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 11 Dec 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #089" htmlUrl="https://findthatpod.com/find-that-pod-89/" dateCreated="Fri, 11 Dec 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Sayer" text="Sayer" htmlUrl="http://geeklyinc.com/category/sayer" xmlUrl="http://feeds.feedburner.com/sayer" />
+      <opml type="link" version="RSS" language="en" title="Committed" text="Committed" htmlUrl="https://www.iheart.com/podcast/105-committed-29439911/" xmlUrl="https://feeds.megaphone.fm/committed" />
+      <opml type="link" version="RSS" language="en" title="Popular Front" text="Popular Front" htmlUrl="https://www.popularfront.co/podcast" xmlUrl="https://popularfront.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Paper Ghosts" text="Paper Ghosts" htmlUrl="https://podcastreview.org/review/paper-ghosts/" xmlUrl="https://feeds.megaphone.fm/HSW4119874261" />
+      <opml type="link" version="RSS" language="en" title="Decoder With Nilay Patel" text="Decoder With Nilay Patel" htmlUrl="https://www.theverge.com/decoder-podcast-with-nilay-patel" xmlUrl="https://feeds.megaphone.fm/recodedecode" />
+    </outline>
+  </body>
+</opml>

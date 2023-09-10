@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-067.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #067</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 10 Jul 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 10 Jul 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #067" htmlUrl="https://findthatpod.com/find-that-pod-67/" dateCreated="Fri, 10 Jul 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Wind of Change" text="Wind of Change" htmlUrl="https://crooked.com/podcast-series/wind-of-change/" xmlUrl="https://feeds.megaphone.fm/wind-of-change-wide" />
+      <opml type="link" version="RSS" language="en" title="Over The Road" text="Over The Road" htmlUrl="https://www.overtheroad.fm/" xmlUrl="https://feed.overtheroad.fm/" />
+      <opml type="link" version="RSS" language="en" title="Dissect" text="Dissect" htmlUrl="https://dissectpodcast.com/" xmlUrl="https://feeds.megaphone.fm/dissectwide" />
+      <opml type="link" version="RSS" language="en" title="Yang Speaks" text="Yang Speaks" htmlUrl="https://yangspeaks.com/" xmlUrl="https://feeds.megaphone.fm/yang-speaks" />
+      <opml type="link" version="RSS" language="en" title="Robinhood - Snacks Daily" text="Robinhood - Snacks Daily" htmlUrl="https://snacks.robinhood.com/" xmlUrl="https://feeds.feedburner.com/marketsnacks-daily" />
+    </outline>
+  </body>
+</opml>

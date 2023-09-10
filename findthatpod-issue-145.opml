@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-145.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #145</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 14 Jan 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 14 Jan 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #145" htmlUrl="https://findthatpod.com/find-that-pod-145/" dateCreated="Fri, 14 Jan 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Verbal Diorama" text="Verbal Diorama" htmlUrl="https://www.verbaldiorama.com/" xmlUrl="https://feeds.captivate.fm/verbaldiorama/" />
+      <opml type="link" version="RSS" language="en" title="The Internet Says It’s True" text="The Internet Says It’s True" htmlUrl="https://theinternetsaysitstrue.com/" xmlUrl="https://feed.podbean.com/tellmewhattogoogle/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="The TNG Podcast" text="The TNG Podcast" htmlUrl="https://www.buzzsprout.com/1046950" xmlUrl="https://feeds.buzzsprout.com/1046950.rss" />
+      <opml type="link" version="RSS" language="en" title="Barron’s Streetwise" text="Barron’s Streetwise" htmlUrl="https://www.barrons.com/podcasts/streetwise?page=1" xmlUrl="https://video-api.barrons.com/podcast/rss/barrons/streetwise?partner=itunes" />
+      <opml type="link" version="RSS" language="en" title="Storytime with Seth Rogen" text="Storytime with Seth Rogen" htmlUrl="https://www.earwolf.com/show/storytime-with-seth-rogen/" xmlUrl="https://feeds.simplecast.com/ZK9BGVQN" />
+    </outline>
+  </body>
+</opml>

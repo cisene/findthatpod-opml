@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-077.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #077</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 18 Sep 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 18 Sep 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #077" htmlUrl="https://findthatpod.com/find-that-pod-77/" dateCreated="Fri, 18 Sep 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Bomb" text="The Bomb" htmlUrl="https://www.bbc.co.uk/programmes/p08llv8n/episodes/downloads" xmlUrl="https://podcasts.files.bbci.co.uk/p08llv8n.rss" />
+      <opml type="link" version="RSS" language="en" title="The Daily Zeitgeist" text="The Daily Zeitgeist" htmlUrl="https://www.stitcher.com/podcast/how-stuff-works/the-daily-zeitgeist" xmlUrl="https://feeds.megaphone.fm/dailyzeitgeist" />
+      <opml type="link" version="RSS" language="en" title="Sup Doc: A Documentary Podcast" text="Sup Doc: A Documentary Podcast" htmlUrl="https://supdocpodcast.com/" xmlUrl="https://rss.art19.com/sup-doc-podcast" />
+      <opml type="link" version="RSS" language="en" title="American Hysteria" text="American Hysteria" htmlUrl="https://www.stitcher.com/podcast/chelsey-webersmith/american-hysteria" xmlUrl="https://anchor.fm/s/34b6cbf8/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Inward Empire" text="Inward Empire" htmlUrl="https://inwardempirepodcast.wordpress.com/" xmlUrl="https://inwardempirepodcast.podomatic.com/rss2.xml" />
+    </outline>
+  </body>
+</opml>

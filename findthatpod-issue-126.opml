@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-126.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #126</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 03 Sep 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 03 Sep 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #126" htmlUrl="https://findthatpod.com/find-that-pod-126/" dateCreated="Fri, 03 Sep 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Well, That F*cked Me Up!" text="Well, That F*cked Me Up!" htmlUrl="https://wellthatfuckedmeup.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/1619797.rss" />
+      <opml type="link" version="RSS" language="en" title="Drunk Ex-Pastors" text="Drunk Ex-Pastors" htmlUrl="https://www.drunkexpastors.com/" xmlUrl="https://drunkexpastors.libsyn.com/feed" />
+      <opml type="link" version="RSS" language="en" title="History That Doesn’t Suck!" text="History That Doesn’t Suck!" htmlUrl="https://historythatdoesntsuck.com/" xmlUrl="https://feeds.megaphone.fm/NSR6392631259" />
+      <opml type="link" version="RSS" language="en" title="Small Town Dicks" text="Small Town Dicks" htmlUrl="https://www.smalltowndicks.com/" xmlUrl="https://feeds.acast.com/public/shows/60dde52498deac00124abd6b" />
+      <opml type="link" version="RSS" language="en" title="History Unwritten" text="History Unwritten" htmlUrl="https://historyunwrittenpodcast.com/" xmlUrl="https://historyunwritten.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>

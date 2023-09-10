@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-084.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #084</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 06 Nov 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 06 Nov 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #084" htmlUrl="https://findthatpod.com/find-that-pod-84/" dateCreated="Fri, 06 Nov 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Weekly Planet" text="The Weekly Planet" htmlUrl="https://www.planetbroadcasting.com/our-shows/the-weekly-planet/" xmlUrl="https://rss.acast.com/theweeklyplanet" />
+      <opml type="link" version="RSS" language="en" title="A Slob Comes Clean" text="A Slob Comes Clean" htmlUrl="https://www.aslobcomesclean.com/podcasts/" xmlUrl="http://feeds.feedburner.com/ASlobComesCleanPodcasts" />
+      <opml type="link" version="RSS" language="en" title="ArtCurious with Jennifer Dasal" text="ArtCurious with Jennifer Dasal" htmlUrl="http://www.artcuriouspodcast.com/artcuriouspodcast" xmlUrl="https://feeds.megaphone.fm/artcuriouspodcast" />
+      <opml type="link" version="RSS" language="en" title="Talking Sopranos" text="Talking Sopranos" htmlUrl="https://www.talkingsopranos.com/" xmlUrl="https://feeds.simplecast.com/our5kUFn" />
+      <opml type="link" version="RSS" language="en" title="Complexity" text="Complexity" htmlUrl="https://www.santafe.edu/culture/podcast" xmlUrl="https://feeds.simplecast.com/OzDH_At2" />
+    </outline>
+  </body>
+</opml>

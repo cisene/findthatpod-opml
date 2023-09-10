@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-143.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #143</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 31 Dec 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 31 Dec 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #143" htmlUrl="https://findthatpod.com/find-that-pod-143/" dateCreated="Fri, 31 Dec 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Review That Review" text="Review That Review" htmlUrl="https://www.reviewthatreview.com/" xmlUrl="https://feeds.buzzsprout.com/1754133.rss" />
+      <opml type="link" version="RSS" language="en" title="The Internet Says It’s True" text="The Internet Says It’s True" htmlUrl="https://theinternetsaysitstrue.com/" xmlUrl="https://feed.podbean.com/tellmewhattogoogle/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="Mysterious Universe" text="Mysterious Universe" htmlUrl="https://mysteriousuniverse.org/category/podcasts/" xmlUrl="https://mysteriousuniverse.org/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="The Lazy Genius" text="The Lazy Genius" htmlUrl="https://www.thelazygeniuscollective.com/lazy" xmlUrl="https://rss.acast.com/the-lazy-genius" />
+      <opml type="link" version="RSS" language="en" title="Influencer Business" text="Influencer Business" htmlUrl="https://www.trovebusiness.com/" xmlUrl="https://feeds.buzzsprout.com/249185.rss" />
+    </outline>
+  </body>
+</opml>

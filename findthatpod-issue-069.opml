@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-069.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #069</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 24 Jul 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 24 Jul 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #069" htmlUrl="https://findthatpod.com/find-that-pod-69/" dateCreated="Fri, 24 Jul 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Scam Goddess" text="Scam Goddess" htmlUrl="https://www.earwolf.com/show/scam-goddess/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/0b794591-3d49-40af-8da4-aac0014e4183/9eb6abf8-729d-41a3-9518-aac00155e40b/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Can We All Come Out Now?" text="Can We All Come Out Now?" htmlUrl="https://can-we-all-come-out-now.simplecast.com/" xmlUrl="https://feeds.simplecast.com/PJ4EPAWf" />
+      <opml type="link" version="RSS" language="en" title="Call Her Daddy" text="Call Her Daddy" htmlUrl="https://www.barstoolsports.com/shows/54/call-her-daddy" xmlUrl="https://mcsorleys.barstoolsports.com/feed/call-her-daddy" />
+      <opml type="link" version="RSS" language="en" title="Two Headed Girl" text="Two Headed Girl" htmlUrl="https://podcasts.apple.com/ca/podcast/two-headed-girl/id1435549226" xmlUrl="https://feeds.transistor.fm/two-headed-girl" />
+      <opml type="link" version="RSS" language="en" title="Triple Click" text="Triple Click" htmlUrl="https://tripleclick.simplecast.com/" xmlUrl="https://feeds.simplecast.com/6WD3bDj7" />
+    </outline>
+  </body>
+</opml>

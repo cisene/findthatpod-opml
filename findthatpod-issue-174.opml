@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-174.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #174</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 19 Aug 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 19 Aug 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #174" dateCreated="Fri, 19 Aug 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Skeptic Metaphysicians - Metaphysics 101" text="The Skeptic Metaphysicians - Metaphysics 101" htmlUrl="https://www.skepticmetaphysician.com/" xmlUrl="https://feeds.buzzsprout.com/1713040.rss" />
+      <opml type="link" version="RSS" language="en" title="The Official Game of Thrones Podcast: House of the Dragon" text="The Official Game of Thrones Podcast: House of the Dragon" htmlUrl="https://listen.hbo.com/GOT-podcast" xmlUrl="https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/8be00f97-08b0-4fba-bbc0-aed701426c04/7b4ed6e6-809f-45b9-9283-aed70143e699/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="The Sunshine Place" text="The Sunshine Place" htmlUrl="http://cadence13.com/" xmlUrl="https://feeds.megaphone.fm/the-sunshine-place" />
+      <opml type="link" version="RSS" language="en" title="Fireside Canada" text="Fireside Canada" htmlUrl="https://firesidecanada.ca/" xmlUrl="https://feeds.simplecast.com/IeVt31GZ" />
+      <opml type="link" version="RSS" language="en" title="Blocked and Reported" text="Blocked and Reported" htmlUrl="https://www.blockedandreported.org/podcast" xmlUrl="https://api.substack.com/feed/podcast/500230.rss" />
+    </outline>
+  </body>
+</opml>

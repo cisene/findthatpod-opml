@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-177.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #177</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 09 Sep 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 09 Sep 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #177" dateCreated="Fri, 09 Sep 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Magic Hat Podcast" text="The Magic Hat Podcast" htmlUrl="https://www.buzzsprout.com/2023952" xmlUrl="https://feeds.buzzsprout.com/2023952.rss" />
+      <opml type="link" version="RSS" language="en" title="Thorn in the U.S.A." text="Thorn in the U.S.A." htmlUrl="https://thornintheusa.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/2008407.rss" />
+      <opml type="link" version="RSS" language="en" title="Persona: The French Deception" text="Persona: The French Deception" htmlUrl="http://wondery.com/shows/persona/" xmlUrl="https://rss.art19.com/the-french-deception" />
+      <opml type="link" version="RSS" language="en" title="Dear Old Dads" text="Dear Old Dads" htmlUrl="https://sites.libsyn.com/418103/" xmlUrl="https://feeds.libsyn.com/418103/rss" />
+      <opml type="link" version="RSS" language="en" title="Red, Blue &amp; Brady" text="Red, Blue &amp; Brady" htmlUrl="http://bradyunited.org/" xmlUrl="https://feeds.buzzsprout.com/542320.rss" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-225.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #225</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 25 Aug 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 25 Aug 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #225" dateCreated="Fri, 25 Aug 2023 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Diss and Tell" text="Diss and Tell" htmlUrl="https://wondery.com/shows/diss-and-tell/" xmlUrl="https://rss.art19.com/diss-and-tell" />
+      <opml type="link" version="RSS" language="en" title="Queen Havoc and her Murder Cult" text="Queen Havoc and her Murder Cult" htmlUrl="https://www.iheart.com/podcast/1119-queen-havoc-and-her-murde-115701018" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/87dd6fca-e007-49c7-bf24-afcd014d6643/859c57f3-3767-4d37-8160-afcd014de992/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="How to Talk to People" text="How to Talk to People" htmlUrl="https://www.theatlantic.com/podcasts/how-to-build-a-happy-life/" xmlUrl="https://feeds.megaphone.fm/howto" />
+      <opml type="link" version="RSS" language="en" title="The Really Good Podcast" text="The Really Good Podcast" htmlUrl="https://podcasters.spotify.com/pod/show/bobbi-althoff" xmlUrl="https://anchor.fm/s/e24424dc/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Ad Lucem" text="Ad Lucem" htmlUrl="https://qcodemedia.com/" xmlUrl="https://feeds.megaphone.fm/QCD4692055088" />
+    </outline>
+  </body>
+</opml>

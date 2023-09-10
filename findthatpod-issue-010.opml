@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-010.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #010</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 07 Jun 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 07 Jun 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #010" htmlUrl="https://findthatpod.com/edition-10/" dateCreated="Fri, 07 Jun 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="A Neuroscientist Explains" text="A Neuroscientist Explains" htmlUrl="https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast" xmlUrl="https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/podcast.xml" />
+      <opml type="link" version="RSS" language="en" title="Acquired" text="Acquired" htmlUrl="https://www.acquired.fm/episodes" xmlUrl="https://acquired.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Gravity Assist" text="Gravity Assist" htmlUrl="https://www.nasa.gov/gravity-assist" xmlUrl="https://www.nasa.gov/rss/dyn/Gravity-Assist.rss" />
+      <opml type="link" version="RSS" language="en" title="Ride the Lightning: Unofficial Tesla Podcast" text="Ride the Lightning: Unofficial Tesla Podcast" htmlUrl="http://teslapodcast.libsyn.com/podcast" xmlUrl="https://teslapodcast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="10ish Podcast" text="10ish Podcast" htmlUrl="https://www.10ishpod.com/" xmlUrl="https://feeds.simplecast.com/mbebQPw1" />
+    </outline>
+  </body>
+</opml>

@@ -12,6 +12,99 @@ head:
 
 body:
 
+  - issue:    227
+    title:    'Find That Pod #227'
+    pubDate:  '2023-09-08'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Reppin'
+        htmlUrl:  'http://reppin.tv/'
+        xmlUrl:   'https://feeds.megaphone.fm/LAV5292937504'
+
+    - podcast:
+        title:    'Design Nerds Anonymous'
+        htmlUrl:  'https://thinklab.design/'
+        xmlUrl:   'https://feeds.megaphone.fm/designnerdsanonymous'
+
+    - podcast:
+        title:    'Soul & Science'
+        htmlUrl:  'https://www.spreaker.com/show/soul-science'
+        xmlUrl:   'https://www.spreaker.com/show/5720836/episodes/feed'
+
+    - podcast:
+        title:    'What’s The Point'
+        htmlUrl:  'https://shows.acast.com/whats-the-point-podcast'
+        xmlUrl:   'https://feeds.acast.com/public/shows/6346ff50e59de000124175d5'
+
+    - podcast:
+        title:    'Field Trip'
+        htmlUrl:  'https://www.washingtonpost.com/podcasts/field-trip/'
+        xmlUrl:   'https://podcast.posttv.com/itunes/field-trip.xml'
+
+  - issue:    226
+    title:    'Find That Pod #226'
+    pubDate:  '2023-09-01'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Practical Stoicism'
+        htmlUrl:  'https://stoicismpod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLSS1396629297'
+
+    - podcast:
+        title:    'Strike Force Five'
+        htmlUrl:  ''
+        xmlUrl:   'https://feeds.megaphone.fm/strike-force-five'
+
+    - podcast:
+        title:    'The Silver King’s War'
+        htmlUrl:  'https://thesilverkingswar.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1653988.rss'
+
+    - podcast:
+        title:    'The Geekdom Fancast'
+        htmlUrl:  'http://thegeekdomfancast.podomatic.com/'
+        xmlUrl:   'https://thegeekdomfancast.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Explorers Podcast'
+        htmlUrl:  'http://www.explorerspodcast.com/'
+        xmlUrl:   'http://feeds.megaphone.fm/ADL4434397541'
+
+  - issue:    225
+    title:    'Find That Pod #225'
+    pubDate:  '2023-08-25'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Diss and Tell'
+        htmlUrl:  'https://wondery.com/shows/diss-and-tell/'
+        xmlUrl:   'https://rss.art19.com/diss-and-tell'
+
+    - podcast:
+        title:    'Queen Havoc and her Murder Cult'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-queen-havoc-and-her-murde-115701018'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/87dd6fca-e007-49c7-bf24-afcd014d6643/859c57f3-3767-4d37-8160-afcd014de992/podcast.rss'
+
+    - podcast:
+        title:    'How to Talk to People'
+        htmlUrl:  'https://www.theatlantic.com/podcasts/how-to-build-a-happy-life/'
+        xmlUrl:   'https://feeds.megaphone.fm/howto'
+
+    - podcast:
+        title:    'The Really Good Podcast'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/bobbi-althoff'
+        xmlUrl:   'https://anchor.fm/s/e24424dc/podcast/rss'
+
+    - podcast:
+        title:    'Ad Lucem'
+        htmlUrl:  'https://qcodemedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD4692055088'
+
   - issue:    224
     title:    'Find That Pod #224'
     pubDate:  '2023-08-18'

@@ -5,11 +5,67 @@
     <title>FindThatPod - Podcast Collection</title>
     <url>https://findthatpod.com/</url>
     <dateCreated>Fri, 05 Apr 2019 17:33:20 +0100</dateCreated>
-    <dateModified>Fri, 14 Jul 2023 17:33:35 +0100</dateModified>
+    <dateModified>Sun, 10 Sep 2023 10:50:37 +0100</dateModified>
     <ownerName>FindThatPod</ownerName>
     <ownerEmail>info@findthatpod.com</ownerEmail>
   </head>
   <body>
+    <outline text="Find That Pod #227" dateCreated="Fri, 08 Sep 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Reppin" text="Reppin" htmlUrl="http://reppin.tv/" xmlUrl="https://feeds.megaphone.fm/LAV5292937504" />
+      <opml type="link" version="RSS" language="en" title="Design Nerds Anonymous" text="Design Nerds Anonymous" htmlUrl="https://thinklab.design/" xmlUrl="https://feeds.megaphone.fm/designnerdsanonymous" />
+      <opml type="link" version="RSS" language="en" title="Soul &amp; Science" text="Soul &amp; Science" htmlUrl="https://www.spreaker.com/show/soul-science" xmlUrl="https://www.spreaker.com/show/5720836/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="What’s The Point" text="What’s The Point" htmlUrl="https://shows.acast.com/whats-the-point-podcast" xmlUrl="https://feeds.acast.com/public/shows/6346ff50e59de000124175d5" />
+      <opml type="link" version="RSS" language="en" title="Field Trip" text="Field Trip" htmlUrl="https://www.washingtonpost.com/podcasts/field-trip/" xmlUrl="https://podcast.posttv.com/itunes/field-trip.xml" />
+    </outline>
+    <outline text="Find That Pod #226" dateCreated="Fri, 01 Sep 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Practical Stoicism" text="Practical Stoicism" htmlUrl="https://stoicismpod.com/" xmlUrl="https://feeds.megaphone.fm/GLSS1396629297" />
+      <opml type="link" version="RSS" language="en" title="Strike Force Five" text="Strike Force Five" htmlUrl="" xmlUrl="https://feeds.megaphone.fm/strike-force-five" />
+      <opml type="link" version="RSS" language="en" title="The Silver King’s War" text="The Silver King’s War" htmlUrl="https://thesilverkingswar.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/1653988.rss" />
+      <opml type="link" version="RSS" language="en" title="The Geekdom Fancast" text="The Geekdom Fancast" htmlUrl="http://thegeekdomfancast.podomatic.com/" xmlUrl="https://thegeekdomfancast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Explorers Podcast" text="The Explorers Podcast" htmlUrl="http://www.explorerspodcast.com/" xmlUrl="http://feeds.megaphone.fm/ADL4434397541" />
+    </outline>
+    <outline text="Find That Pod #225" dateCreated="Fri, 25 Aug 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Diss and Tell" text="Diss and Tell" htmlUrl="https://wondery.com/shows/diss-and-tell/" xmlUrl="https://rss.art19.com/diss-and-tell" />
+      <opml type="link" version="RSS" language="en" title="Queen Havoc and her Murder Cult" text="Queen Havoc and her Murder Cult" htmlUrl="https://www.iheart.com/podcast/1119-queen-havoc-and-her-murde-115701018" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/87dd6fca-e007-49c7-bf24-afcd014d6643/859c57f3-3767-4d37-8160-afcd014de992/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="How to Talk to People" text="How to Talk to People" htmlUrl="https://www.theatlantic.com/podcasts/how-to-build-a-happy-life/" xmlUrl="https://feeds.megaphone.fm/howto" />
+      <opml type="link" version="RSS" language="en" title="The Really Good Podcast" text="The Really Good Podcast" htmlUrl="https://podcasters.spotify.com/pod/show/bobbi-althoff" xmlUrl="https://anchor.fm/s/e24424dc/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Ad Lucem" text="Ad Lucem" htmlUrl="https://qcodemedia.com/" xmlUrl="https://feeds.megaphone.fm/QCD4692055088" />
+    </outline>
+    <outline text="Find That Pod #224" dateCreated="Fri, 18 Aug 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Per My Last Email" text="Per My Last Email" htmlUrl="https://pmleshow.com/" xmlUrl="https://feeds.simplecast.com/TLNzpa4t" />
+      <opml type="link" version="RSS" language="en" title="Women Who Travel" text="Women Who Travel" htmlUrl="https://www.facebook.com/groups/271882099953039/" xmlUrl="https://feeds.megaphone.fm/women-who-travel" />
+      <opml type="link" version="RSS" language="en" title="Reversing Climate Change" text="Reversing Climate Change" htmlUrl="https://nori.com/podcasts/reversing-climate-change" xmlUrl="https://anchor.fm/s/23e4da18/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Between Two Mics" text="Between Two Mics" htmlUrl="https://squadcast.fm/between-2-mics/" xmlUrl="https://feeds.buzzsprout.com/1821545.rss" />
+      <opml type="link" version="RSS" language="en" title="National Park After Dark" text="National Park After Dark" htmlUrl="https://audioboom.com/channels/5055896-national-park-after-dark" xmlUrl="https://audioboom.com/channels/5055896.rss" />
+    </outline>
+    <outline text="Find That Pod #223" dateCreated="Fri, 11 Aug 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="The Playful Humans Podcast" text="The Playful Humans Podcast" htmlUrl="https://podcast.playfulhumans.com/" xmlUrl="https://feeds.buzzsprout.com/1576273.rss" />
+      <opml type="link" version="RSS" language="en" title="Sh!t That Goes on in Our Heads" text="Sh!t That Goes on in Our Heads" htmlUrl="https://shtthatgoesoninourheads.podbean.com/" xmlUrl="https://feed.podbean.com/shtthatgoesoninourheads/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="The Worst of all Possible Worlds" text="The Worst of all Possible Worlds" htmlUrl="https://www.worstpossible.world/" xmlUrl="https://feed.podbean.com/worstofallpossibleworlds/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="Sean Carroll’s Mindscape" text="Sean Carroll’s Mindscape" htmlUrl="https://www.preposterousuniverse.com/podcast/" xmlUrl="https://rss.art19.com/sean-carrolls-mindscape" />
+      <opml type="link" version="RSS" language="en" title="Alice Isn’t Dead" text="Alice Isn’t Dead" htmlUrl="http://www.aliceisntdead.com/" xmlUrl="http://feeds.nightvalepresents.com/aliceisntdeadpodcast" />
+    </outline>
+    <outline text="Find That Pod #222" dateCreated="Fri, 04 Aug 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="The Knowable Podcast" text="The Knowable Podcast" htmlUrl="https://knowablemagazine.org/podcast" xmlUrl="https://feeds.libsyn.com/317981/rss" />
+      <opml type="link" version="RSS" language="en" title="Why We Can’t Have Nice Things" text="Why We Can’t Have Nice Things" htmlUrl="https://reason.com/podcasts/nice-things/" xmlUrl="https://reason.com/podcasts/nice-things/feed/" />
+      <opml type="link" version="RSS" language="en" title="The Town with Matthew Belloni" text="The Town with Matthew Belloni" htmlUrl="https://www.theringer.com/the-town-podcast" xmlUrl="https://feeds.megaphone.fm/the-town-with-matthew-belloni" />
+      <opml type="link" version="RSS" language="en" title="Shifting Schools" text="Shifting Schools" htmlUrl="http://sites.libsyn.com/111701/site" xmlUrl="https://shiftingourschools.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="BEEF with Bridget Todd" text="BEEF with Bridget Todd" htmlUrl="https://ncpodcasts.com/beef" xmlUrl="https://feeds.megaphone.fm/beef" />
+    </outline>
+    <outline text="Find That Pod #221" dateCreated="Fri, 28 Jul 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Audio Branding" text="Audio Branding" htmlUrl="https://audiobrandingpodcast.com/" xmlUrl="https://feeds.captivate.fm/audiobranding/" />
+      <opml type="link" version="RSS" language="en" title="I’ve Had It" text="I’ve Had It" htmlUrl="https://www.podcastone.com/pd/Ive-Had-It" xmlUrl="https://www.podcastone.com/podcast?categoryID2=2332" />
+      <opml type="link" version="RSS" language="en" title="The Coldest Case in Laramie" text="The Coldest Case in Laramie" htmlUrl="https://the-coldest-case-in-laramie.simplecast.com/" xmlUrl="https://feeds.simplecast.com/wHqls8d1" />
+      <opml type="link" version="RSS" language="en" title="HBR Ideacast" text="HBR Ideacast" htmlUrl="https://hbr.org/podcasts/ideacast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" />
+      <opml type="link" version="RSS" language="en" title="Climavores" text="Climavores" htmlUrl="https://postscriptmedia.com/climavores/" xmlUrl="https://feeds.megaphone.fm/climavores" />
+    </outline>
+    <outline text="Find That Pod #220" dateCreated="Fri, 21 Jul 2023 00:00:00 +0000">
+      <opml type="link" version="RSS" language="en" title="Started from the Bottom" text="Started from the Bottom" htmlUrl="https://www.pushkin.fm/podcasts/started-from-the-bottom" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/457c60e7-56d7-4366-882a-af35013db4b6/b371cfec-69ff-4164-877f-af35013e003b/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Burning Questions" text="Burning Questions" htmlUrl="https://solis.health/" xmlUrl="https://feeds.libsyn.com/455817/rss" />
+      <opml type="link" version="RSS" language="en" title="Songs that Don’t Suck" text="Songs that Don’t Suck" htmlUrl="http://songsthatdontsuck.net/" xmlUrl="https://anchor.fm/s/d1886cd4/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Under Cover of Knight" text="Under Cover of Knight" htmlUrl="https://apple.co/UnderCover" xmlUrl="https://rss.art19.com/under-cover-of-knight" />
+      <opml type="link" version="RSS" language="en" title="Search Engine" text="Search Engine" htmlUrl="http://www.pjvogt.com/" xmlUrl="https://feeds.megaphone.fm/search-engine" />
+    </outline>
     <outline text="Find That Pod #219" dateCreated="Fri, 14 Jul 2023 00:00:00 +0000">
       <opml type="link" version="RSS" language="en" title="Without" text="Without" htmlUrl="https://www.sonymusic.com/sonymusic/without-podcast-from-sme-and-hyperobject-industries/" xmlUrl="https://feeds.megaphone.fm/without" />
       <opml type="link" version="RSS" language="en" title="The 4th Curtain" text="The 4th Curtain" htmlUrl="https://www.thefourthcurtain.com/" xmlUrl="https://feeds.buzzsprout.com/2129562.rss" />

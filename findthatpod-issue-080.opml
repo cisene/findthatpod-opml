@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-080.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #080</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 09 Oct 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 09 Oct 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #080" htmlUrl="https://findthatpod.com/find-that-pod-80/" dateCreated="Fri, 09 Oct 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="American Shadows" text="American Shadows" htmlUrl="https://www.grimandmild.com/americanshadows" xmlUrl="https://feeds.megaphone.fm/HSW2458488995" />
+      <opml type="link" version="RSS" language="en" title="Guru" text="Guru" htmlUrl="https://wondery.com/shows/guru/" xmlUrl="https://rss.art19.com/guru" />
+      <opml type="link" version="RSS" language="en" title="Busy Philipps is Doing Her Best" text="Busy Philipps is Doing Her Best" htmlUrl="https://www.stitcher.com/podcast/cloud10/busy-philipps-is-doing-her-best/e/76977919" xmlUrl="https://feeds.megaphone.fm/HSW9670766688" />
+      <opml type="link" version="RSS" language="en" title="Systematic" text="Systematic" htmlUrl="https://systematicpod.com/" xmlUrl="https://systematicpod.com/feed/podcast" />
+      <opml type="link" version="RSS" language="en" title="Side Hustle School" text="Side Hustle School" htmlUrl="https://sidehustleschool.com/podcasts/" xmlUrl="https://feeds.megaphone.fm/sidehustleschool" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-178.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #178</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 16 Sep 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 16 Sep 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #178" dateCreated="Fri, 16 Sep 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Reframeables" text="Reframeables" htmlUrl="https://reframeables.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/1826949.rss" />
+      <opml type="link" version="RSS" language="en" title="How Did This Not Get Made" text="How Did This Not Get Made" htmlUrl="https://www.pipedreampodcasts.com/how-did-this-not-get-made" xmlUrl="https://howdidthisnotgetmade.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Putin" text="Putin" htmlUrl="http://www.bbc.co.uk/programmes/m0015nfd" xmlUrl="https://podcasts.files.bbci.co.uk/m0015nfd.rss" />
+      <opml type="link" version="RSS" language="en" title="30 Morbid Minutes" text="30 Morbid Minutes" htmlUrl="https://roosterteeth.com/" xmlUrl="https://feeds.megaphone.fm/30morbidminutes" />
+      <opml type="link" version="RSS" language="en" title="The Video Archives Podcast" text="The Video Archives Podcast" htmlUrl="https://the-video-archives-podcast-with-quentin-tarantino-and-roger.simplecast.com/" xmlUrl="https://feeds.simplecast.com/hQ1_tt0K" />
+    </outline>
+  </body>
+</opml>

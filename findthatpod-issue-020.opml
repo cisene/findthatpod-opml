@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-020.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #020</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 16 Aug 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 16 Aug 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #020" htmlUrl="https://findthatpod.com/edition-20/" dateCreated="Fri, 16 Aug 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="2.0 Podcast" text="2.0 Podcast" htmlUrl="http://2pointohpodcast.libsyn.com/" xmlUrl="https://2pointohpodcast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Behind the Bastards" text="Behind the Bastards" htmlUrl="https://www.behindthebastards.com/podcasts" xmlUrl="https://feeds.megaphone.fm/behindthebastards" />
+      <opml type="link" version="RSS" language="en" title="The Clearing" text="The Clearing" htmlUrl="https://gimletmedia.com/shows/the-clearing" xmlUrl="https://feeds.megaphone.fm/the-clearing" />
+      <opml type="link" version="RSS" language="en" title="Waveform with MKBHD" text="Waveform with MKBHD" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ" xmlUrl="http://feeds.feedburner.com/WaveformWithMkbhd" />
+      <opml type="link" version="RSS" language="en" title="The Infinite Monkey Cage" text="The Infinite Monkey Cage" htmlUrl="https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" />
+    </outline>
+  </body>
+</opml>

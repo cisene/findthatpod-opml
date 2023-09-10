@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-047.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #047</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 21 Feb 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 21 Feb 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #047" htmlUrl="https://findthatpod.com/find-that-pod-47/" dateCreated="Fri, 21 Feb 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Espionage" text="Espionage" htmlUrl="https://www.parcast.com/espionage" xmlUrl="https://feeds.megaphone.fm/espionage" />
+      <opml type="link" version="RSS" language="en" title="Griefcast" text="Griefcast" htmlUrl="https://play.acast.com/s/griefcast" xmlUrl="http://rss.acast.com/griefcast" />
+      <opml type="link" version="RSS" language="en" title="How Did This Get Made?" text="How Did This Get Made?" htmlUrl="https://www.earwolf.com/show/how-did-this-get-made/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/64b5de49-d653-47c4-afe1-ab0600144b4b/87b34f0a-5ff9-491e-957c-ab0600144b63/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Immigrantly" text="Immigrantly" htmlUrl="https://immigrantlypod.com/" xmlUrl="https://thealienchronicles.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Aux" text="The Aux" htmlUrl="https://the-aux.simplecast.com/" xmlUrl="https://feeds.simplecast.com/cX6HZhUI" />
+    </outline>
+  </body>
+</opml>

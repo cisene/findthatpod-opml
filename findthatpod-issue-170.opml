@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-170.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #170</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 08 Jul 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 08 Jul 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #170" dateCreated="Fri, 08 Jul 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Opening Arguments" text="Opening Arguments" htmlUrl="http://openargs.com/" xmlUrl="https://openargs.libsyn.com/" />
+      <opml type="link" version="RSS" language="en" title="Basic!" text="Basic!" htmlUrl="https://www.basicthepodcast.com/" xmlUrl="https://feeds.simplecast.com/eIB8oIgo" />
+      <opml type="link" version="RSS" language="en" title="Sex and Psychology Podcast" text="Sex and Psychology Podcast" htmlUrl="https://www.sexandpsychology.com/" xmlUrl="https://www.sexandpsychology.com/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="A Hot Dog is a Sandwich" text="A Hot Dog is a Sandwich" htmlUrl="http://mythicalkitchen.com/" xmlUrl="https://feeds.feedburner.com/mythical-kitchen" />
+      <opml type="link" version="RSS" language="en" title="Secular Buddhism" text="Secular Buddhism" htmlUrl="http://secularbuddhism.com/" xmlUrl="https://feeds.feedburner.com/SecularBuddhism" />
+      <opml type="link" version="RSS" language="en" title="Eons: Mysteries of Deep Time" text="Eons: Mysteries of Deep Time" htmlUrl="https://beta.prx.org/series/41240" xmlUrl="https://eonspodcast.pbs.org/" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-227.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #227</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 08 Sep 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 08 Sep 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #227" dateCreated="Fri, 08 Sep 2023 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Reppin" text="Reppin" htmlUrl="http://reppin.tv/" xmlUrl="https://feeds.megaphone.fm/LAV5292937504" />
+      <opml type="link" version="RSS" language="en" title="Design Nerds Anonymous" text="Design Nerds Anonymous" htmlUrl="https://thinklab.design/" xmlUrl="https://feeds.megaphone.fm/designnerdsanonymous" />
+      <opml type="link" version="RSS" language="en" title="Soul &amp; Science" text="Soul &amp; Science" htmlUrl="https://www.spreaker.com/show/soul-science" xmlUrl="https://www.spreaker.com/show/5720836/episodes/feed" />
+      <opml type="link" version="RSS" language="en" title="What’s The Point" text="What’s The Point" htmlUrl="https://shows.acast.com/whats-the-point-podcast" xmlUrl="https://feeds.acast.com/public/shows/6346ff50e59de000124175d5" />
+      <opml type="link" version="RSS" language="en" title="Field Trip" text="Field Trip" htmlUrl="https://www.washingtonpost.com/podcasts/field-trip/" xmlUrl="https://podcast.posttv.com/itunes/field-trip.xml" />
+    </outline>
+  </body>
+</opml>

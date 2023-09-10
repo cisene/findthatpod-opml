@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-065.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #065</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 26 Jun 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 26 Jun 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #065" htmlUrl="https://findthatpod.com/find-that-pod-65/" dateCreated="Fri, 26 Jun 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Gastropod" text="Gastropod" htmlUrl="https://gastropod.com/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="History Defeats Itself" text="History Defeats Itself" htmlUrl="https://www.historydefeatsitself.com/" xmlUrl="https://www.historydefeatsitself.com/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="The Bellingcat Podcast" text="The Bellingcat Podcast" htmlUrl="https://www.bellingcat.com/category/resources/podcasts/" xmlUrl="https://bellingcat.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Adult Conversation Parenting Podcast" text="Adult Conversation Parenting Podcast" htmlUrl="https://adultconversationpodcast.com/" xmlUrl="https://adultconversation.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Dalrymple Report" text="The Dalrymple Report" htmlUrl="https://www.loopinsight.com/thedalrymplereport/" xmlUrl="https://thedalrymplereport.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>

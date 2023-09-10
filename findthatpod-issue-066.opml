@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-066.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #066</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 03 Jul 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 03 Jul 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #066" htmlUrl="https://findthatpod.com/find-that-pod-66/" dateCreated="Fri, 03 Jul 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Artificial Intelligence | AI Podcast with Lex Fridman" text="Artificial Intelligence | AI Podcast with Lex Fridman" htmlUrl="https://lexfridman.com/ai/" xmlUrl="https://lexfridman.com/feed/podcast/" />
+      <opml type="link" version="RSS" language="en" title="Gangster Capitalism" text="Gangster Capitalism" htmlUrl="https://shows.cadence13.com/podcast/gangster-capitalism" xmlUrl="https://feeds.feedburner.com/gangster-capitalism" />
+      <opml type="link" version="RSS" language="en" title="The Goal Digger Podcast" text="The Goal Digger Podcast" htmlUrl="https://podcast.jennakutcher.com/" xmlUrl="https://goaldiggerpodcast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Hothouse" text="Hothouse" htmlUrl="https://www.hothousepodcast.com/" xmlUrl="https://hothouse.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Journal" text="The Journal" htmlUrl="https://www.wsj.com/podcasts/the-journal" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/the-journal" />
+    </outline>
+  </body>
+</opml>

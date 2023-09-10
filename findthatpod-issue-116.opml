@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-116.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #116</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 25 Jun 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 25 Jun 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #116" htmlUrl="https://findthatpod.com/find-that-pod-116/" dateCreated="Fri, 25 Jun 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Parricide Podcast" text="Parricide Podcast" htmlUrl="https://www.parricide.org/podcast" xmlUrl="https://feed.podbean.com/parricidepodcast/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="Tumanbay" text="Tumanbay" htmlUrl="https://www.tumanbay.com/home" xmlUrl="http://feeds.megaphone.fm/tumanbay" />
+      <opml type="link" version="RSS" language="en" title="Astronomy Cast" text="Astronomy Cast" htmlUrl="http://www.astronomycast.com/" xmlUrl="https://astronomycast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Confronting: Columbine" text="Confronting: Columbine" htmlUrl="https://wondery.com/shows/confronting/" xmlUrl="https://rss.art19.com/confronting-oj-simpson" />
+      <opml type="link" version="RSS" language="en" title="Death at the Wing" text="Death at the Wing" htmlUrl="https://www.threeuncannyfour.com/show/death-at-the-wing/" xmlUrl="https://feeds.megaphone.fm/deathatthewing" />
+    </outline>
+  </body>
+</opml>

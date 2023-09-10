@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-023.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #023</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 06 Sep 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 06 Sep 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #023" htmlUrl="https://findthatpod.com/edition-23/" dateCreated="Fri, 06 Sep 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Benjamen Walker’s Theory of Everything" text="Benjamen Walker’s Theory of Everything" htmlUrl="https://theoryofeverythingpodcast.com/" xmlUrl="http://feeds.prx.org/toe" />
+      <opml type="link" version="RSS" language="en" title="Bullseye with Jesse Thorn" text="Bullseye with Jesse Thorn" htmlUrl="https://www.npr.org/podcasts/510309/bullseye" xmlUrl="https://feeds.npr.org/510309/podcast.xml" />
+      <opml type="link" version="RSS" language="en" title="Capes on the Couch" text="Capes on the Couch" htmlUrl="http://capesonthecouch.live/" xmlUrl="http://capesonthecouch.live/rss" />
+      <opml type="link" version="RSS" language="en" title="Three Questions with Andy Richter" text="Three Questions with Andy Richter" htmlUrl="https://www.earwolf.com/show/the-three-questions-with-andy-richter/" xmlUrl="https://feeds.simplecast.com/y1LF_sn2" />
+      <opml type="link" version="RSS" language="en" title="Solvable" text="Solvable" htmlUrl="https://www.rockefellerfoundation.org/solvable/solvable-podcast-series/" xmlUrl="https://feeds.megaphone.fm/solvable" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-039.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #039</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 27 Dec 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 27 Dec 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #039" htmlUrl="https://findthatpod.com/find-that-pod-39/" dateCreated="Fri, 27 Dec 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="3 Hours Later..." text="3 Hours Later..." htmlUrl="https://threehourslater.com/" xmlUrl="https://pinecast.com/feed/3-hours-later" />
+      <opml type="link" version="RSS" language="en" title="ODD BALL" text="ODD BALL" htmlUrl="https://www.npr.org/podcasts/763391057/odd-ball" xmlUrl="https://news.wjct.org/podcasts/79671/rss.xml" />
+      <opml type="link" version="RSS" language="en" title="Photofocus Podcast" text="Photofocus Podcast" htmlUrl="https://photofocus.com/podcasts/" xmlUrl="https://photofocuspodcast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Real Story" text="The Real Story" htmlUrl="https://www.bbc.co.uk/programmes/p02dbd4m/episodes/downloads" xmlUrl="https://podcasts.files.bbci.co.uk/p02dbd4m.rss" />
+      <opml type="link" version="RSS" language="en" title="Minor Adventures with Topher Grace" text="Minor Adventures with Topher Grace" htmlUrl="https://minor-adventures-with-topher-grace.simplecast.com/" xmlUrl="https://feeds.simplecast.com/lcgjAJ9J" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-221.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #221</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 28 Jul 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 28 Jul 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #221" dateCreated="Fri, 28 Jul 2023 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Audio Branding" text="Audio Branding" htmlUrl="https://audiobrandingpodcast.com/" xmlUrl="https://feeds.captivate.fm/audiobranding/" />
+      <opml type="link" version="RSS" language="en" title="I’ve Had It" text="I’ve Had It" htmlUrl="https://www.podcastone.com/pd/Ive-Had-It" xmlUrl="https://www.podcastone.com/podcast?categoryID2=2332" />
+      <opml type="link" version="RSS" language="en" title="The Coldest Case in Laramie" text="The Coldest Case in Laramie" htmlUrl="https://the-coldest-case-in-laramie.simplecast.com/" xmlUrl="https://feeds.simplecast.com/wHqls8d1" />
+      <opml type="link" version="RSS" language="en" title="HBR Ideacast" text="HBR Ideacast" htmlUrl="https://hbr.org/podcasts/ideacast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" />
+      <opml type="link" version="RSS" language="en" title="Climavores" text="Climavores" htmlUrl="https://postscriptmedia.com/climavores/" xmlUrl="https://feeds.megaphone.fm/climavores" />
+    </outline>
+  </body>
+</opml>

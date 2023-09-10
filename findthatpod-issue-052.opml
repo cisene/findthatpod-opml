@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-052.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #052</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 27 Mar 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 27 Mar 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #052" htmlUrl="https://findthatpod.com/find-that-pod-52/" dateCreated="Fri, 27 Mar 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="After the Fact" text="After the Fact" htmlUrl="https://www.pewtrusts.org/en/research-and-analysis/articles/2017/01/after-the-fact" xmlUrl="http://afterthefact.pewtrusts.libsynpro.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Tesla Daily" text="Tesla Daily" htmlUrl="http://techcastdaily.com/" xmlUrl="https://techcastdaily.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Clear and Present Danger – A History of Free Speech" text="Clear and Present Danger – A History of Free Speech" htmlUrl="http://www.freespeechhistory.com/" xmlUrl="https://freespeechhistory.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Second Life" text="Second Life" htmlUrl="https://www.secondlifepod.com/" xmlUrl="https://rss.art19.com/second-life" />
+      <opml type="link" version="RSS" language="en" title="80 Days" text="80 Days" htmlUrl="https://80dayspodcast.com/" xmlUrl="http://80dayspodcast.com/category/podcast-episodes/feed/" />
+    </outline>
+  </body>
+</opml>

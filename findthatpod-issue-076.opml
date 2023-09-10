@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-076.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #076</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 11 Sep 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 11 Sep 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #076" htmlUrl="https://findthatpod.com/find-that-pod-76/" dateCreated="Fri, 11 Sep 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Full Release With Samantha Bee" text="Full Release With Samantha Bee" htmlUrl="https://www.earwolf.com/show/full-release-with-samantha-bee/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/68237817-d49e-441c-a529-abea01774feb/092fe3e2-2dce-441b-b1d8-abea01780764/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Canadaland" text="Canadaland" htmlUrl="https://www.canadalandshow.com/" xmlUrl="https://www.omnycontent.com/d/playlist/348074c4-eae0-4074-8fa7-ac10002cfb4a/6d831488-9457-4142-bae1-ac1700f9d8e0/3a6d02b1-1031-4b6d-b6fa-ac1700f9d8f3/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Make Me Smart With Kai &amp; Molly" text="Make Me Smart With Kai &amp; Molly" htmlUrl="https://www.marketplace.org/shows/make-me-smart-with-kai-and-molly/" xmlUrl="https://www.marketplace.org/feed/podcast/make-me-smart-with-kai-and-molly" />
+      <opml type="link" version="RSS" language="en" title="My Year in Mensa" text="My Year in Mensa" htmlUrl="https://anchor.fm/jamie-loftus" xmlUrl="https://feeds.megaphone.fm/hsw3414471866" />
+      <opml type="link" version="RSS" language="en" title="The Dose" text="The Dose" htmlUrl="https://www.cbc.ca/listen/cbc-podcasts/410-the-dose" xmlUrl="https://www.cbc.ca/podcasting/includes/thedose.xml" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-096.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #096</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 05 Feb 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 05 Feb 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #096" htmlUrl="https://findthatpod.com/find-that-pod-96/" dateCreated="Fri, 05 Feb 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Calm it Down" text="Calm it Down" htmlUrl="https://www.calmitdownpodcast.com/" xmlUrl="https://feeds.simplecast.com/MMt6qfkI" />
+      <opml type="link" version="RSS" language="en" title="CaseFile True Crime" text="CaseFile True Crime" htmlUrl="https://casefilepodcast.com/" xmlUrl="https://audioboom.com/channels/4940872.rss" />
+      <opml type="link" version="RSS" language="en" title="Sway with Kara Swisher" text="Sway with Kara Swisher" htmlUrl="https://www.nytimes.com/column/sway" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" />
+      <opml type="link" version="RSS" language="en" title="Noah Kagan Presents" text="Noah Kagan Presents" htmlUrl="http://okdork.com/podcast" xmlUrl="https://noahkagan.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Nerds Amalgamated" text="Nerds Amalgamated" htmlUrl="https://thatsnotcanon.com/nerdsamalgamated" xmlUrl="https://rss.acast.com/nerds-amalgamated" />
+    </outline>
+  </body>
+</opml>

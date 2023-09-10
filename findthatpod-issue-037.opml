@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-037.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #037</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 13 Dec 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 13 Dec 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #037" htmlUrl="https://findthatpod.com/find-that-pod-37/" dateCreated="Fri, 13 Dec 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Jordan Harbinger Show" text="The Jordan Harbinger Show" htmlUrl="https://www.jordanharbinger.com/podcast/" xmlUrl="http://www.podcastone.com/podcast?categoryID2=1237" />
+      <opml type="link" version="RSS" language="en" title="Why It Matters" text="Why It Matters" htmlUrl="https://www.cfr.org/podcasts/why-it-matters" xmlUrl="https://feed.podbean.com/cfrwhyitmatters/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="9to5Mac Happy Hour" text="9to5Mac Happy Hour" htmlUrl="https://9to5mac.com/guides/9to5mac-happy-hour/" xmlUrl="http://feeds.feedburner.com/9to5cast/iUSC" />
+      <opml type="link" version="RSS" language="en" title="America Dissected" text="America Dissected" htmlUrl="https://crooked.com/podcast-series/america-dissected/" xmlUrl="http://feeds.feedburner.com/america-dissected" />
+      <opml type="link" version="RSS" language="en" title="Twenty Thousand Hertz" text="Twenty Thousand Hertz" htmlUrl="https://www.20k.org/" xmlUrl="http://feeds.megaphone.fm/20k" />
+    </outline>
+  </body>
+</opml>

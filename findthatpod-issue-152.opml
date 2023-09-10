@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-152.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #152</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 04 Mar 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 04 Mar 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #152" htmlUrl="https://findthatpod.com/find-that-pod-152/" dateCreated="Fri, 04 Mar 2022 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Tech vs Media" text="Tech vs Media" htmlUrl="https://link.chtbl.com/gcYYSdCh" xmlUrl="https://www.omnycontent.com/d/playlist/4fab3663-bc0e-42da-bca1-ab68000eb109/8f346618-4ea3-4246-881d-ae24013a8e7c/9778fb05-0a00-4761-8f5d-ae24014096be/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="All Songs Considered" text="All Songs Considered" htmlUrl="https://www.npr.org/podcasts/510019/all-songs-considered" xmlUrl="https://feeds.npr.org/510019/podcast.xml" />
+      <opml type="link" version="RSS" language="en" title="Home. Made." text="Home. Made." htmlUrl="https://www.rocketmortgage.com/learn/podcast" xmlUrl="https://feeds.pacific-content.com/homemade" />
+      <opml type="link" version="RSS" language="en" title="Nightmare 365" text="Nightmare 365" htmlUrl="http://nightmare365.com/" xmlUrl="https://anchor.fm/s/6ca84b18/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Good S*x" text="Good S*x" htmlUrl="https://lemonadamedia.com/show/goodsex/" xmlUrl="https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/a2c8a7b1-8c13-4e14-a1af-ad11012c5ac8/1224562f-a7e3-430e-b445-ad11012c5adb/podcast.rss" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-119.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #119</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 16 Jul 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 16 Jul 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #119" htmlUrl="https://findthatpod.com/find-that-pod-119/" dateCreated="Fri, 16 Jul 2021 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Curious Professor" text="The Curious Professor" htmlUrl="https://www.thecuriousprofessorpodcast.com/" xmlUrl="https://feeds.buzzsprout.com/1593232.rss" />
+      <opml type="link" version="RSS" language="en" title="Two Hot Takes" text="Two Hot Takes" htmlUrl="https://www.youtube.com/channel/UCvUW0xT38Ho7qyUmBgBZXQA" xmlUrl="https://anchor.fm/s/4bd2c508/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Something Scary" text="Something Scary" htmlUrl="https://www.studio71.com/us/podcasts-all/" xmlUrl="http://feeds.feedburner.com/SomethingScaryPod" />
+      <opml type="link" version="RSS" language="en" title="Working" text="Working" htmlUrl="https://slate.com/podcasts/working" xmlUrl="https://feeds.megaphone.fm/slatesworking" />
+      <opml type="link" version="RSS" language="en" title="Gates McFadden Investigates" text="Gates McFadden Investigates" htmlUrl="https://www.nacellecompany.com/catalog/gates-mcfadden-investigates-who-do-you-think-you-are/" xmlUrl="https://feeds.megaphone.fm/gatesmcfaddeninvestigateswhodoyouthinkyouare" />
+    </outline>
+  </body>
+</opml>

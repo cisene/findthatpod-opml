@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-012.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #012</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 21 Jun 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 21 Jun 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #012" htmlUrl="https://findthatpod.com/edition-12/" dateCreated="Fri, 21 Jun 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Weirdest Thing I Learned This Week" text="The Weirdest Thing I Learned This Week" htmlUrl="https://www.popsci.com/tags/weirdest-thing-i-learned-this-week/" xmlUrl="https://anchor.fm/s/86d5f80/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Talking ‘SHOP" text="Talking ‘SHOP" htmlUrl="https://anchor.fm/dave-cross-talking-shop" xmlUrl="https://anchor.fm/s/a3b18ac/podcast/rss" />
+      <opml type="link" version="RSS" language="en" title="Invest Like the Best" text="Invest Like the Best" htmlUrl="http://investorfieldguide.com/podcast/" xmlUrl="https://investlikethebest.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Made You Think" text="Made You Think" htmlUrl="https://madeyouthinkpodcast.com/" xmlUrl="https://madeyouthink.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Rabbit Holes" text="Rabbit Holes" htmlUrl="https://www.rabbitholespodcast.com/" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:502470783/sounds.rss" />
+    </outline>
+  </body>
+</opml>

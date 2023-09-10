@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-049.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #049</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 06 Mar 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 06 Mar 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #049" htmlUrl="https://findthatpod.com/find-that-pod-49/" dateCreated="Fri, 06 Mar 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Retro Cinema Podcast" text="The Retro Cinema Podcast" htmlUrl="http://theretrocinema.com/" xmlUrl="http://theretrocinema.com/feed/podcast" />
+      <opml type="link" version="RSS" language="en" title="Life Kit: Parenting" text="Life Kit: Parenting" htmlUrl="https://www.npr.org/tags/797069332/life-kit-parenting" xmlUrl="https://feeds.npr.org/510334/podcast.xml" />
+      <opml type="link" version="RSS" language="en" title="Marriage &amp; Martinis" text="Marriage &amp; Martinis" htmlUrl="https://www.marriageandmartinis.com/" xmlUrl="https://rss.acast.com/marriage-and-martinis" />
+      <opml type="link" version="RSS" language="en" title="Off-Camera With Sam Jones" text="Off-Camera With Sam Jones" htmlUrl="https://offcamera.com/" xmlUrl="https://feeds.simplecast.com/ikH3t5rx" />
+      <opml type="link" version="RSS" language="en" title="Resources Radio" text="Resources Radio" htmlUrl="https://www.resourcesmag.org/resources-radio/" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:549843489/sounds.rss" />
+    </outline>
+  </body>
+</opml>

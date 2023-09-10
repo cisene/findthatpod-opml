@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-032.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #032</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 08 Nov 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 08 Nov 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #032" htmlUrl="https://findthatpod.com/find-that-pod-32/" dateCreated="Fri, 08 Nov 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Ridiculous History" text="Ridiculous History" htmlUrl="https://www.ridiculoushistoryshow.com/" xmlUrl="https://feeds.megaphone.fm/ridiculoushistory" />
+      <opml type="link" version="RSS" language="en" title="Sweating the Small Stuff" text="Sweating the Small Stuff" htmlUrl="https://smallstuff.show/" xmlUrl="https://pinecast.com/feed/sweating-the-small-stuff" />
+      <opml type="link" version="RSS" language="en" title="This is Uncomfortable" text="This is Uncomfortable" htmlUrl="https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais/" xmlUrl="https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais" />
+      <opml type="link" version="RSS" language="en" title="Headlong: Missing Richard Simmons" text="Headlong: Missing Richard Simmons" htmlUrl="https://www.topic.com/runningfromcops" xmlUrl="https://rss.prod.firstlook.media/missingrichardsimmons/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="Death, Sex &amp; Money" text="Death, Sex &amp; Money" htmlUrl="https://www.npr.org/podcasts/458929318/death-sex-money" xmlUrl="http://feeds.feedburner.com/deathsexmoney" />
+    </outline>
+  </body>
+</opml>

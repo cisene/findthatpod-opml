@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-027.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #027</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 04 Oct 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 04 Oct 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #027" htmlUrl="https://findthatpod.com/find-that-pod-27/" dateCreated="Fri, 04 Oct 2019 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Cult of Pedagogy" text="The Cult of Pedagogy" htmlUrl="https://www.cultofpedagogy.com/pod/" xmlUrl="https://cultofpedagogy.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Longform" text="Longform" htmlUrl="https://longform.org/podcast" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/f3334143-0116-4efc-ae95-abd00002d433/fb8121d6-3470-47f2-be07-abd00002d440/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="I Tell My Husband The News" text="I Tell My Husband The News" htmlUrl="https://art19.com/shows/i-tell-my-husband-the-news" xmlUrl="https://www.omnycontent.com/d/playlist/a858b0a5-e5e6-4a14-9717-a70b010facc1/3f048627-b164-4ff0-9b41-ab8000ba7749/167098d6-4f78-4d9f-983b-ab8000ba776a/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="BookRiot The Podcast" text="BookRiot The Podcast" htmlUrl="https://bookriot.com/listen/shows/thepodcast/" xmlUrl="https://www.omnycontent.com/d/playlist/16548b29-db2d-4300-989f-ab2101195bb8/73f21c02-2ff7-4f9e-8681-ab220127b535/ee240580-02de-42c0-ac16-ab220127b543/podcast.rss" />
+      <opml type="link" version="RSS" language="en" title="You Are Not So Smart" text="You Are Not So Smart" htmlUrl="https://youarenotsosmart.com/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/da047861-7121-4447-8ccb-ab1a00165c0e/337ad035-d2e9-4942-9e4d-ab1a00165c1c/podcast.rss" />
+    </outline>
+  </body>
+</opml>

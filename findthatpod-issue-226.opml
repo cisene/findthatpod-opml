@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-226.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #226</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 01 Sep 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 01 Sep 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #226" dateCreated="Fri, 01 Sep 2023 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Practical Stoicism" text="Practical Stoicism" htmlUrl="https://stoicismpod.com/" xmlUrl="https://feeds.megaphone.fm/GLSS1396629297" />
+      <opml type="link" version="RSS" language="en" title="Strike Force Five" text="Strike Force Five" htmlUrl="" xmlUrl="https://feeds.megaphone.fm/strike-force-five" />
+      <opml type="link" version="RSS" language="en" title="The Silver King’s War" text="The Silver King’s War" htmlUrl="https://thesilverkingswar.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/1653988.rss" />
+      <opml type="link" version="RSS" language="en" title="The Geekdom Fancast" text="The Geekdom Fancast" htmlUrl="http://thegeekdomfancast.podomatic.com/" xmlUrl="https://thegeekdomfancast.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="The Explorers Podcast" text="The Explorers Podcast" htmlUrl="http://www.explorerspodcast.com/" xmlUrl="http://feeds.megaphone.fm/ADL4434397541" />
+    </outline>
+  </body>
+</opml>

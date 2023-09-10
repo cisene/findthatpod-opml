@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-087.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #087</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 27 Nov 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 27 Nov 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #087" htmlUrl="https://findthatpod.com/find-that-pod-87/" dateCreated="Fri, 27 Nov 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="The Poison Room" text="The Poison Room" htmlUrl="https://poisonroom.com/" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:696538284/sounds.rss" />
+      <opml type="link" version="RSS" language="en" title="Alienating the Audience" text="Alienating the Audience" htmlUrl="https://alienating.libsyn.com/website" xmlUrl="https://alienating.libsyn.com/rss" />
+      <opml type="link" version="RSS" language="en" title="Art of the Score" text="Art of the Score" htmlUrl="http://www.artofthescore.com.au/" xmlUrl="http://www.artofthescore.com.au/podcast?format=rss" />
+      <opml type="link" version="RSS" language="en" title="The Skeptic’s Guide to the Universe" text="The Skeptic’s Guide to the Universe" htmlUrl="https://www.theskepticsguide.org/" xmlUrl="https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu" />
+      <opml type="link" version="RSS" language="en" title="Not Suitable for Adults" text="Not Suitable for Adults" htmlUrl="https://www.spreaker.com/show/not-suitable-for-adults" xmlUrl="https://www.spreaker.com/show/4312352/episodes/feed" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-070.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #070</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 31 Jul 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 31 Jul 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #070" htmlUrl="https://findthatpod.com/find-that-pod-70/" dateCreated="Fri, 31 Jul 2020 00:00:00 +0100">
+      <opml type="link" version="RSS" language="en" title="Snap Judgement" text="Snap Judgement" htmlUrl="https://snapjudgment.org/" xmlUrl="https://snap.feed.snapjudgment.org" />
+      <opml type="link" version="RSS" language="en" title="Sequels That Should Have Been Made" text="Sequels That Should Have Been Made" htmlUrl="https://www.sequelsmade.com/" xmlUrl="https://feeds.buzzsprout.com/336836.rss" />
+      <opml type="link" version="RSS" language="en" title="Product Hunt Radio" text="Product Hunt Radio" htmlUrl="https://www.producthunt.com/radio" xmlUrl="https://feeds.simplecast.com/iCV67fGr" />
+      <opml type="link" version="RSS" language="en" title="30 Minute Expert" text="30 Minute Expert" htmlUrl="https://30minuteexpertpodcast.com/" xmlUrl="https://feed.podbean.com/the30minuteexpertpodcast/feed.xml" />
+      <opml type="link" version="RSS" language="en" title="What a Day" text="What a Day" htmlUrl="https://crooked.com/podcast-series/what-a-day/" xmlUrl="https://feeds.feedburner.com/what-a-day" />
+    </outline>
+  </body>
+</opml>
