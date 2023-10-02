@@ -1,0 +1,209 @@
+---
+opml:
+  filename: findthatpod-the-best-food-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-food-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Food Podcasts'
+  dateCreated: '2023-09-28 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Food Podcasts'
+    pubDate:  '2023-09-28'
+    htmlUrl:  'https://findthatpod.com/best-food-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Food People by Bon Appétit'
+        htmlUrl:  'http://www.bonappetit.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/CNE1090782353'
+
+    - podcast:
+        title:    'Home Cooking'
+        htmlUrl:  'https://homecooking.show/'
+        xmlUrl:   'http://feeds.feedburner.com/homecookingshow'
+
+    - podcast:
+        title:    'A Hot Dog Is a Sandwich'
+        htmlUrl:  'http://mythicalkitchen.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/hot-dog'
+
+    - podcast:
+        title:    'Gastropod'
+        htmlUrl:  'https://gastropod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/VMP6255701211'
+
+    - podcast:
+        title:    'The Fantastic History of Food'
+        htmlUrl:  'https://www.spreaker.com/show/the-fantastic-history-of-food'
+        xmlUrl:   'https://www.spreaker.com/show/3591729/episodes/feed'
+
+    - podcast:
+        title:    'Eat Drink Asia'
+        htmlUrl:  'https://www.scmp.com/podcasts/article/2178854/eat-drink-asia'
+        xmlUrl:   'https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329436'
+
+    - podcast:
+        title:    'Recipe Club'
+        htmlUrl:  'https://www.theringer.com/recipe-club-podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/dave-chang-recipe-club'
+
+    - podcast:
+        title:    'The Sporkful'
+        htmlUrl:  'https://www.sporkful.com/'
+        xmlUrl:   'https://feeds.simplecast.com/n91GPFY5'
+
+    - podcast:
+        title:    'Savor'
+        htmlUrl:  'https://www.iheart.com/podcast/105-savor-28019899/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6aea3686-8d70-4e8d-a848-ae2701747e15/6115b625-6e6f-4ab9-bf43-ae2701747e28/podcast.rss'
+
+    - podcast:
+        title:    'Gravy'
+        htmlUrl:  'http://www.southernfoodways.org/gravy'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG7691102500'
+
+    - podcast:
+        title:    'Off Menu with Ed Gamble and James Acaster'
+        htmlUrl:  'https://www.offmenupodcast.co.uk/'
+        xmlUrl:   'https://rss.acast.com/offmenu'
+
+    - podcast:
+        title:    'The Storied Recipe'
+        htmlUrl:  'https://thestoriedrecipe.com/'
+        xmlUrl:   'https://thestoriedrecipe.com/feed/podcast/'
+
+    - podcast:
+        title:    'Christopher Kimball’s Milk Street Radio'
+        htmlUrl:  'http://www.177milkstreet.com/radio/about'
+        xmlUrl:   'https://rss.acast.com/christopher-kimballs-milk-street-radio'
+
+    - podcast:
+        title:    'Food Court with Richard Blais'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-food-court-with-richard-b-58971657/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/53bd1a6b-76d3-4d26-bda8-ae2b001563eb/df5aa001-4c15-43ac-b9f4-ae2b0015640b/podcast.rss'
+
+    - podcast:
+        title:    'Burnt Toast'
+        htmlUrl:  'https://food52.com/p/burnt-toast'
+        xmlUrl:   'https://feeds.simplecast.com/N5LwlPiD'
+
+    - podcast:
+        title:    'The Slow Melt: A Podcast about Chocolate'
+        htmlUrl:  'https://audioboom.com/channels/4897269-the-slow-melt-a-podcast-about-chocolate'
+        xmlUrl:   'https://audioboom.com/channels/4897269.rss'
+
+    - podcast:
+        title:    'The Feast'
+        htmlUrl:  'http://www.thefeastpodcast.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG3538244133'
+
+    - podcast:
+        title:    'Dinner SOS'
+        htmlUrl:  'http://www.bonappetit.com/'
+        xmlUrl:   'http://feeds.megaphone.fm/BNA1294372600'
+
+    - podcast:
+        title:    'Proof'
+        htmlUrl:  'https://www.americastestkitchen.com/proof'
+        xmlUrl:   'https://rss.art19.com/proof'
+
+    - podcast:
+        title:    'Salt + Spine'
+        htmlUrl:  'https://saltandspine.substack.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/257102.rss'
+
+    - podcast:
+        title:    'Good Food'
+        htmlUrl:  'https://www.kcrw.com/culture/shows/good-food'
+        xmlUrl:   'https://www.kcrw.com/culture/shows/good-food/rss.xml'
+
+    - podcast:
+        title:    'Dinner Sisters'
+        htmlUrl:  'http://www.dinnersisters.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/922129.rss'
+
+    - podcast:
+        title:    'The Food that Binds'
+        htmlUrl:  'http://www.jenniferzyman.com/'
+        xmlUrl:   'https://pinecast.com/feed/the-food-that-binds'
+
+    - podcast:
+        title:    'Every Day is a Food Day'
+        htmlUrl:  'https://yumday.co/podcast/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1456522.rss'
+
+    - podcast:
+        title:    'Extra Spicy'
+        htmlUrl:  'https://sfchronicle.com/spicy'
+        xmlUrl:   'https://feeds.megaphone.fm/extraspicy'
+
+    - podcast:
+        title:    'Food People are the Best People'
+        htmlUrl:  'https://cms.megaphone.fm/channel/foodpeoplearethebestpeople'
+        xmlUrl:   'https://pinecast.com/feed/food-people-are-the-best-people'
+
+    - podcast:
+        title:    'The Splendid Table'
+        htmlUrl:  'https://www.splendidtable.org/'
+        xmlUrl:   'https://feeds.publicradio.org/public_feeds/the-splendid-table/itunes/rss.rss'
+
+    - podcast:
+        title:    'A Taste of the Past'
+        htmlUrl:  'https://a-taste-of-the-past.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/D9RDEA3I'
+
+    - podcast:
+        title:    'The Food Chain'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p028z2z0'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p028z2z0.rss'
+
+    - podcast:
+        title:    'The Dave Chang Show'
+        htmlUrl:  'https://www.theringer.com/the-dave-chang-show'
+        xmlUrl:   'https://feeds.megaphone.fm/the-dave-chang-show'
+
+    - podcast:
+        title:    'I’ll Have What She’s Having'
+        htmlUrl:  'https://shows.acast.com/ill-have-what-shes-having-with-sophie-wyburd-hannah-crosbie'
+        xmlUrl:   'https://feeds.acast.com/public/shows/62c40a011cadf800128d8b11'
+
+    - podcast:
+        title:    'This is TASTE'
+        htmlUrl:  'https://art19.com/shows/the-taste-podcast'
+        xmlUrl:   'https://rss.art19.com/the-taste-podcast'
+
+    - podcast:
+        title:    'Life on a Plate'
+        htmlUrl:  'https://www.waitrose.com/podcast'
+        xmlUrl:   'https://rss.acast.com/life-on-a-plate'
+
+    - podcast:
+        title:    'Desert Island Dishes'
+        htmlUrl:  'https://desertislanddishes.co/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/60dc377c1f5e91001249f601'
+
+    - podcast:
+        title:    'A Hungry Society'
+        htmlUrl:  'https://heritageradionetwork.org/feed/podcast/a-hungry-society'
+        xmlUrl:   'https://feeds.simplecast.com/t5aXod8l'
+
+    - podcast:
+        title:    'Come for Supper'
+        htmlUrl:  'http://www.studio71uk.com/'
+        xmlUrl:   'https://rss.acast.com/supper'
+
+    - podcast:
+        title:    'Food Tribe'
+        htmlUrl:  'http://www.foodtribeblog.co.uk/'
+        xmlUrl:   'https://foodtribe.libsyn.com/rss'
+
+    - podcast:
+        title:    'Copper & Heat'
+        htmlUrl:  'https://www.copperandheat.com/'
+        xmlUrl:   'https://feeds.simplecast.com/6tPVj8he'
