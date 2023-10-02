@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-138.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #138</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 26 Nov 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 26 Nov 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #138" htmlUrl="https://findthatpod.com/find-that-pod-138/" dateCreated="Fri, 26 Nov 2021 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The Rumor" text="The Rumor" htmlUrl="https://www.bluewirepods.com/podcast/the-rumor" xmlUrl="https://bwpod.co/1fTwui" />
+      <outline type="link" version="RSS" language="en" title="A Cosmic Journey" text="A Cosmic Journey" htmlUrl="https://www.acosmicjourneypod.com/" xmlUrl="https://feeds.buzzsprout.com/1334575.rss" />
+      <outline type="link" version="RSS" language="en" title="Brains" text="Brains" htmlUrl="https://www.brainspodcast.com/" xmlUrl="https://feeds.transistor.fm/brains" />
+      <outline type="link" version="RSS" language="en" title="The History of Poland" text="The History of Poland" htmlUrl="https://www.historyofpolandpodcast.com/" xmlUrl="https://historyofpoland.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Pivot" text="Pivot" htmlUrl="https://podcasts.voxmedia.com/show/pivot" xmlUrl="https://feeds.megaphone.fm/pivot" />
+    </outline>
+  </body>
+</opml>

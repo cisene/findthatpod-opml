@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-125.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #125</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 27 Aug 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 27 Aug 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #125" htmlUrl="https://findthatpod.com/find-that-pod-125/" dateCreated="Fri, 27 Aug 2021 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The Golden Goats" text="The Golden Goats" htmlUrl="https://goldengoats.buzzsprout.com/" xmlUrl="https://feeds.buzzsprout.com/1716866.rss" />
+      <outline type="link" version="RSS" language="en" title="Is We Dumb?" text="Is We Dumb?" htmlUrl="https://www.youtube.com/c/BadMagicProductions/featured" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/a2afcc86-c58c-4697-92c9-ac80012bf1f0/fd697a8c-f366-4d59-b60c-ac80012bf203/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Aftershock" text="Aftershock" htmlUrl="https://www.iheart.com/podcast/1119-aftershock-83996090/" xmlUrl="https://feeds.megaphone.fm/HSW6066586935" />
+      <outline type="link" version="RSS" language="en" title="You Must Remember This" text="You Must Remember This" htmlUrl="http://www.youmustrememberthispodcast.com/" xmlUrl="https://feeds.megaphone.fm/YMRT7068253588" />
+      <outline type="link" version="RSS" language="en" title="The Common Descent Podcast" text="The Common Descent Podcast" htmlUrl="https://commondescentpodcast.wordpress.com/" xmlUrl="https://feed.podbean.com/commondescentpodcast/feed.xml" />
+    </outline>
+  </body>
+</opml>

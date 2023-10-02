@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-013.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #013</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 28 Jun 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 28 Jun 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #013" htmlUrl="https://findthatpod.com/edition-13/" dateCreated="Fri, 28 Jun 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The Femsplainers" text="The Femsplainers" htmlUrl="http://femsplainers.com/" xmlUrl="https://femsplainers.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Strong Songs" text="Strong Songs" htmlUrl="http://strongsongspodcast.com/" xmlUrl="http://strongsongs.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Nice Try! - Utopian" text="Nice Try! - Utopian" htmlUrl="https://www.curbed.com/2019/5/7/18514684/nice-try-podcast-utopian-avery-trufelman" xmlUrl="https://feeds.megaphone.fm/nicetry" />
+      <outline type="link" version="RSS" language="en" title="But Why: A Podcast for Curious Kids" text="But Why: A Podcast for Curious Kids" htmlUrl="https://www.npr.org/podcasts/474377890/but-why-a-podcast-for-curious-kids" xmlUrl="https://podcasts.vpr.net/but-why" />
+      <outline type="link" version="RSS" language="en" title="Dear Sugars" text="Dear Sugars" htmlUrl="https://www.wbur.org/dearsugar" xmlUrl="https://rss.wbur.org/dearsugar/podcast" />
+    </outline>
+  </body>
+</opml>

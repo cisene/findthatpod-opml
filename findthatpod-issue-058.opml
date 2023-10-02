@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-058.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #058</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 08 May 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 08 May 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #058" htmlUrl="https://findthatpod.com/find-that-pod-58/" dateCreated="Fri, 08 May 2020 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The One You Feed" text="The One You Feed" htmlUrl="https://www.oneyoufeed.net/" xmlUrl="https://rss.art19.com/the-one-you-feed" />
+      <outline type="link" version="RSS" language="en" title="Marketing Scoop" text="Marketing Scoop" htmlUrl="https://www.semrush.com/podcast/" xmlUrl="https://searchmarketingscoop.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="How I Survived" text="How I Survived" htmlUrl="https://pacific-content.com/podcasts/" xmlUrl="https://rss.acast.com/how-i-survived" />
+      <outline type="link" version="RSS" language="en" title="PODCAST-19" text="PODCAST-19" htmlUrl="https://fivethirtyeight.com/tag/podcast-19/" xmlUrl="https://feeds.megaphone.fm/ESP8096836191" />
+      <outline type="link" version="RSS" language="en" title="Warrior Kid Podcast" text="Warrior Kid Podcast" htmlUrl="https://jockopodcast.com/2018/04/13/warrior-kid-podcast-1-ask-uncle-jake/" xmlUrl="https://warriorkid.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>

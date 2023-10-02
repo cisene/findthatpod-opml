@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-167.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #167</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 17 Jun 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 17 Jun 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #167" dateCreated="Fri, 17 Jun 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Sidedoor" text="Sidedoor" htmlUrl="https://www.si.edu/sidedoor" xmlUrl="http://feeds.si.edu/SmithsonianSidedoor" />
+      <outline type="link" version="RSS" language="en" title="Oversharing" text="Oversharing" htmlUrl="http://betches.com/" xmlUrl="https://feeds.megaphone.fm/BMLLC4876983588" />
+      <outline type="link" version="RSS" language="en" title="Pulling The Thread with Elise Loehnen" text="Pulling The Thread with Elise Loehnen" htmlUrl="http://theelisepodcast.com/" xmlUrl="https://feeds.megaphone.fm/pulling-the-thread" />
+      <outline type="link" version="RSS" language="en" title="The Super-Massive Podcast" text="The Super-Massive Podcast" htmlUrl="https://audioboom.com/channels/5014098" xmlUrl="https://audioboom.com/channels/5014098.rss" />
+      <outline type="link" version="RSS" language="en" title="History is Gay" text="History is Gay" htmlUrl="http://www.historyisgaypodcast.com/" xmlUrl="https://historyisgay.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="A Year in Film: A Hollywood Suite Podcast" text="A Year in Film: A Hollywood Suite Podcast" htmlUrl="https://hollywoodsuite.ca/" xmlUrl="https://feeds.acast.com/public/shows/60ef4308c443e50019ce3c3f" />
+    </outline>
+  </body>
+</opml>

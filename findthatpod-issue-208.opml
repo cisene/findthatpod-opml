@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-208.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #208</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 28 Apr 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 28 Apr 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #208" dateCreated="Fri, 28 Apr 2023 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Indigenous Earth Community" text="Indigenous Earth Community" htmlUrl="https://indigenousearth.podbean.com/" xmlUrl="https://feed.podbean.com/IndigenousEarth/feed.xml" />
+      <outline type="link" version="RSS" language="en" title="Humans vs. Machines" text="Humans vs. Machines" htmlUrl="https://www.aventine.org/" xmlUrl="https://feeds.megaphone.fm/CAD3729446646" />
+      <outline type="link" version="RSS" language="en" title="Talking Bull" text="Talking Bull" htmlUrl="https://www.redbullracing.com/int-en/podcast-shows/talking-bull" xmlUrl="https://www.spreaker.com/show/3263736/episodes/feed" />
+      <outline type="link" version="RSS" language="en" title="Worst Foot Forward" text="Worst Foot Forward" htmlUrl="https://www.worstfootforwardpodcast.com/" xmlUrl="https://worstfootforward.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="The Dead Ladies Show" text="The Dead Ladies Show" htmlUrl="https://deadladiesshow.com/" xmlUrl="https://deadladiesshow.com/category/podcast/feed/" />
+    </outline>
+  </body>
+</opml>

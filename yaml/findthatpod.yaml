@@ -12,6 +12,99 @@ head:
 
 body:
 
+  - issue:    230
+    title:    'Find That Pod #230'
+    pubDate:  '2023-09-29'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Modern Mom Probs'
+        htmlUrl:  'https://modernmomprobs.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1953626.rss'
+
+    - podcast:
+        title:    'Killer in the Family'
+        htmlUrl:  'https://killerinthefamilypodcast.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2124896.rss'
+
+    - podcast:
+        title:    'Good Bad Billionaire'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p0g7xj36'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p0g7xj36.rss'
+
+    - podcast:
+        title:    'Batman: The Audio Adventures'
+        htmlUrl:  'https://www.hbomax.com/batman-audio-adventures'
+        xmlUrl:   'https://omny.fm/shows/batman-the-audio-adventures/playlists/podcast.rss'
+
+    - podcast:
+        title:    'Braaains'
+        htmlUrl:  'http://sites.libsyn.com/400970/braaainspodcast'
+        xmlUrl:   'https://feeds.libsyn.com/400970/rss'
+
+  - issue:    229
+    title:    'Find That Pod #229'
+    pubDate:  '2023-09-22'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Fear, A Love Story'
+        htmlUrl:  'https://shows.acast.com/fear-a-love-story'
+        xmlUrl:   'https://feeds.acast.com/public/shows/6320c4a3b48c38001202746f'
+
+    - podcast:
+        title:    'A Very British Cult'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/m001kvf8'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/m001kvf8.rss'
+
+    - podcast:
+        title:    'The Laundry'
+        htmlUrl:  'https://www.strise.ai/the-laundry-podcast'
+        xmlUrl:   'https://feeds.acast.com/public/shows/61d2e6951b91cf0012c357bf'
+
+    - podcast:
+        title:    'The Investigators'
+        htmlUrl:  'https://investigatorspodcast.com/'
+        xmlUrl:   'https://audioboom.com/channels/5018464.rss'
+
+    - podcast:
+        title:    'Amazing War Stories'
+        htmlUrl:  'http://www.amazingwarstories.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/amazing-war-stories'
+
+  - issue:    228
+    title:    'Find That Pod #228'
+    pubDate:  '2023-09-15'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Audio Branding'
+        htmlUrl:  'https://audiobrandingpodcast.com/'
+        xmlUrl:   'https://feeds.captivate.fm/audiobranding/'
+
+    - podcast:
+        title:    '60 Songs That Explian the ‘90s'
+        htmlUrl:  'https://www.theringer.com/60-songs-that-explain-the-90s'
+        xmlUrl:   'https://feeds.megaphone.fm/60-songs'
+
+    - podcast:
+        title:    'Grown, A Podcast From the Moth'
+        htmlUrl:  'http://grownpod.com/'
+        xmlUrl:   'https://feed.grown.themoth.org/'
+
+    - podcast:
+        title:    'Game-Changing History'
+        htmlUrl:  'https://www.gamechanginghistory.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1876089.rss'
+
+    - podcast:
+        title:    'The New Gurus'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/m001g9sq'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/m001g9sq.rss'
+
   - issue:    227
     title:    'Find That Pod #227'
     pubDate:  '2023-09-08'

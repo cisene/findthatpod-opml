@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-217.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #217</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 30 Jun 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 30 Jun 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #217" dateCreated="Fri, 30 Jun 2023 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="I Love my Kid But..." text="I Love my Kid But..." htmlUrl="https://wondery.com/shows/i-love-my-kid-but/" xmlUrl="https://rss.art19.com/i-love-my-kid-but" />
+      <outline type="link" version="RSS" language="en" title="Who Shat on the Floor at my Wedding?" text="Who Shat on the Floor at my Wedding?" htmlUrl="https://www.whoshatontheflooratmywedding.com/" xmlUrl="https://feeds.acast.com/public/shows/5f9c2cf7e4bd0c0d0a4cd1c8" />
+      <outline type="link" version="RSS" language="en" title="The Subverse" text="The Subverse" htmlUrl="https://www.darknlight.com/podcast/" xmlUrl="https://thesubverse.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="The Set" text="The Set" htmlUrl="https://shows.cadence13.com/podcast/theset" xmlUrl="https://feeds.megaphone.fm/the-set" />
+      <outline type="link" version="RSS" language="en" title="Holy Week" text="Holy Week" htmlUrl="https://www.theatlantic.com/podcasts/holy-week" xmlUrl="https://feeds.megaphone.fm/holyweek" />
+    </outline>
+  </body>
+</opml>

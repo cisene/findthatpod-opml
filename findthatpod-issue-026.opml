@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-026.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #026</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 27 Sep 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 27 Sep 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #026" htmlUrl="https://findthatpod.com/find-that-pod-26/" dateCreated="Fri, 27 Sep 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Imagined Life" text="Imagined Life" htmlUrl="https://art19.com/shows/imagined-life" xmlUrl="https://rss.art19.com/imagined-life" />
+      <outline type="link" version="RSS" language="en" title="Pessimists Archive Podcast" text="Pessimists Archive Podcast" htmlUrl="https://pessimists.co/" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:220006686/sounds.rss" />
+      <outline type="link" version="RSS" language="en" title="You Need a Budget" text="You Need a Budget" htmlUrl="https://www.youneedabudget.com/podcasts/" xmlUrl="https://youneedabudget.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Shmanners" text="Shmanners" htmlUrl="https://www.maximumfun.org/shows/shmanners" xmlUrl="https://feeds.simplecast.com/rRcaqFt4" />
+      <outline type="link" version="RSS" language="en" title="American Scandal" text="American Scandal" htmlUrl="https://wondery.com/shows/american-scandal/" xmlUrl="https://rss.art19.com/american-scandal" />
+    </outline>
+  </body>
+</opml>

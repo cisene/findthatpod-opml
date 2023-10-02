@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-019.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #019</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 09 Aug 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 09 Aug 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #019" htmlUrl="https://findthatpod.com/edition-19/" dateCreated="Fri, 09 Aug 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Freelance Pod" text="Freelance Pod" htmlUrl="https://suchandrika.com/freelance-pod/" xmlUrl="https://freelancepod.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="The Portal" text="The Portal" htmlUrl="http://art19.com/shows/the-portal" xmlUrl="https://rss.art19.com/the-portal" />
+      <outline type="link" version="RSS" language="en" title="This is Your Life in Silicon Valley" text="This is Your Life in Silicon Valley" htmlUrl="http://www.thisisyourlifeinsiliconvalley.com/" xmlUrl="https://feeds.simplecast.com/ZCFElhzI" />
+      <outline type="link" version="RSS" language="en" title="Overheard at National Geographic" text="Overheard at National Geographic" htmlUrl="https://www.nationalgeographic.com/podcasts/overheard/" xmlUrl="https://feeds.megaphone.fm/ESP6921732651" />
+      <outline type="link" version="RSS" language="en" title="Future Perfect" text="Future Perfect" htmlUrl="https://www.vox.com/future-perfect-podcast" xmlUrl="https://feeds.megaphone.fm/futureperfect" />
+    </outline>
+  </body>
+</opml>

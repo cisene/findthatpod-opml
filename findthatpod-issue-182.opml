@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-182.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #182</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 14 Oct 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 14 Oct 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #182" dateCreated="Fri, 14 Oct 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="A Wee Natter" text="A Wee Natter" htmlUrl="https://www.solidradio.co.uk/" xmlUrl="https://anchor.fm/s/ba310870/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="YXE Underground" text="YXE Underground" htmlUrl="http://www.yxeunderground.com/" xmlUrl="https://feeds.simplecast.com/Vl5dVz8Q" />
+      <outline type="link" version="RSS" language="en" title="Russian Resistance" text="Russian Resistance" htmlUrl="http://papersupport.ru/russian_resistance_podcast?utm_source=platforms" xmlUrl="https://feeds.simplecast.com/qpODJHLZ" />
+      <outline type="link" version="RSS" language="en" title="Rachel Maddow Presents: Ultra" text="Rachel Maddow Presents: Ultra" htmlUrl="https://rachel-maddow-presents-ultra.simplecast.com/" xmlUrl="https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra" />
+      <outline type="link" version="RSS" language="en" title="Science Night" text="Science Night" htmlUrl="https://www.scinight.com/" xmlUrl="https://feeds.fireside.fm/sciencenight/rss" />
+    </outline>
+  </body>
+</opml>

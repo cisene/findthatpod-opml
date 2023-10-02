@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-030.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #030</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 25 Oct 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 25 Oct 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #030" htmlUrl="https://findthatpod.com/find-that-pod-30/" dateCreated="Fri, 25 Oct 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The Dream" text="The Dream" htmlUrl="https://www.stitcher.com/podcast/stitcher/the-dream" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/5090fbc5-4e0d-4b52-9f28-aa3200e14bba/f75dd646-aa8d-4472-9b9a-aa3200e14bbf/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Those Conspiracy Guys" text="Those Conspiracy Guys" htmlUrl="https://thoseconspiracyguys.com/" xmlUrl="http://www.spreaker.com/show/2176105/episodes/feed" />
+      <outline type="link" version="RSS" language="en" title="So I Married a Movie Geek" text="So I Married a Movie Geek" htmlUrl="https://soimarriedamoviegeek.podbean.com/" xmlUrl="https://soimarriedamoviegeek.podbean.com/feed.xml" />
+      <outline type="link" version="RSS" language="en" title="History of the ’90s" text="History of the ’90s" htmlUrl="https://curiouscast.ca/podcast/466/history-of-the-90s/" xmlUrl="https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/3164bc6f-23d3-435e-92c4-aa6a012d02b6/72253a5d-9601-4cbe-98d1-aa6a012d02cc/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Incel" text="Incel" htmlUrl="http://crawlspace-media.com/shows#/incel/" xmlUrl="https://anchor.fm/s/cc0afc4/podcast/rss" />
+    </outline>
+  </body>
+</opml>

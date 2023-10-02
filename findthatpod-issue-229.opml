@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-229.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #229</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 22 Sep 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 22 Sep 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #229" dateCreated="Fri, 22 Sep 2023 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Fear, A Love Story" text="Fear, A Love Story" htmlUrl="https://shows.acast.com/fear-a-love-story" xmlUrl="https://feeds.acast.com/public/shows/6320c4a3b48c38001202746f" />
+      <outline type="link" version="RSS" language="en" title="A Very British Cult" text="A Very British Cult" htmlUrl="http://www.bbc.co.uk/programmes/m001kvf8" xmlUrl="https://podcasts.files.bbci.co.uk/m001kvf8.rss" />
+      <outline type="link" version="RSS" language="en" title="The Laundry" text="The Laundry" htmlUrl="https://www.strise.ai/the-laundry-podcast" xmlUrl="https://feeds.acast.com/public/shows/61d2e6951b91cf0012c357bf" />
+      <outline type="link" version="RSS" language="en" title="The Investigators" text="The Investigators" htmlUrl="https://investigatorspodcast.com/" xmlUrl="https://audioboom.com/channels/5018464.rss" />
+      <outline type="link" version="RSS" language="en" title="Amazing War Stories" text="Amazing War Stories" htmlUrl="http://www.amazingwarstories.com/" xmlUrl="https://feeds.megaphone.fm/amazing-war-stories" />
+    </outline>
+  </body>
+</opml>

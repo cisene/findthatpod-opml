@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-107.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #107</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 23 Apr 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 23 Apr 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #107" htmlUrl="https://findthatpod.com/find-that-pod-107/" dateCreated="Fri, 23 Apr 2021 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Choose Your Struggle" text="Choose Your Struggle" htmlUrl="https://kite.link/Choose-Your-Struggle" xmlUrl="https://feeds.transistor.fm/choose-your-struggle" />
+      <outline type="link" version="RSS" language="en" title="Real Dictators" text="Real Dictators" htmlUrl="https://www.noiser.com/realdictators" xmlUrl="https://feeds.megaphone.fm/NSR6187882468" />
+      <outline type="link" version="RSS" language="en" title="Mayim Bialik’s Breakdown" text="Mayim Bialik’s Breakdown" htmlUrl="https://www.bialikbreakdown.com/" xmlUrl="https://feeds.simplecast.com/nrh9UCNg" />
+      <outline type="link" version="RSS" language="en" title="Maintenance Phase" text="Maintenance Phase" htmlUrl="http://maintenancephase.com/" xmlUrl="https://feeds.buzzsprout.com/1411126.rss" />
+      <outline type="link" version="RSS" language="en" title="Spy Affair" text="Spy Affair" htmlUrl="https://wondery.com/shows/spy-affair/" xmlUrl="https://rss.art19.com/spy-affair" />
+    </outline>
+  </body>
+</opml>

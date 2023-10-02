@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-003.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #003</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 19 Apr 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 19 Apr 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #003" htmlUrl="https://findthatpod.com/edition-3/" dateCreated="Fri, 19 Apr 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Art of Manliness Podcast" text="Art of Manliness Podcast" htmlUrl="https://www.artofmanliness.com/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/6081eee7-c459-4e12-a1ab-aadc000fc4a7/413a6904-4d72-4be8-9421-aadc000fc4ba/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Beautiful Anonymous" text="Beautiful Anonymous" htmlUrl="https://www.earwolf.com/show/beautiful-anonymous/" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/1debd8bf-df05-4686-a3cd-aaa90117279d/dd05b701-6cf6-42a3-aa86-aaa9011727b0/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Footnoting History" text="Footnoting History" htmlUrl="https://www.footnotinghistory.com/" xmlUrl="https://footnotinghistory.podbean.com/feed.xml" />
+      <outline type="link" version="RSS" language="en" title="Spycast" text="Spycast" htmlUrl="https://audioboom.com/channel/spycast" xmlUrl="https://audioboom.com/channels/4634320.rss" />
+      <outline type="link" version="RSS" language="en" title="Unemployable" text="Unemployable" htmlUrl="https://unemployable.com/podcast/" xmlUrl="https://www.spreaker.com/show/3469652/episodes/feed" />
+    </outline>
+  </body>
+</opml>

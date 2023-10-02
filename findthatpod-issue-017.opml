@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-017.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #017</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 26 Jul 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 26 Jul 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #017" htmlUrl="https://findthatpod.com/edition-17/" dateCreated="Fri, 26 Jul 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Stuff You Missed in History Class" text="Stuff You Missed in History Class" htmlUrl="https://www.missedinhistory.com/" xmlUrl="https://feeds.megaphone.fm/stuffyoumissedinhistoryclass" />
+      <outline type="link" version="RSS" language="en" title="The Rewatchables" text="The Rewatchables" htmlUrl="https://www.theringer.com/the-rewatchables" xmlUrl="https://feeds.megaphone.fm/the-rewatchables" />
+      <outline type="link" version="RSS" language="en" title="The Origins Podcast" text="The Origins Podcast" htmlUrl="https://theoriginspodcast.com/" xmlUrl="https://originspodcast.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Far From Home" text="Far From Home" htmlUrl="https://farfromhomepodcast.org/" xmlUrl="http://feeds.farfromhomepodcast.org/FarFromHomePodcast" />
+      <outline type="link" version="RSS" language="en" title="Her Stem Story" text="Her Stem Story" htmlUrl="https://herstemstory.com/" xmlUrl="https://herstemstory.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>

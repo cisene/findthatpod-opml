@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-068.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #068</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 17 Jul 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 17 Jul 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #068" htmlUrl="https://findthatpod.com/find-that-pod-68/" dateCreated="Fri, 17 Jul 2020 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Staying In with Emily &amp; Kumail" text="Staying In with Emily &amp; Kumail" htmlUrl="https://www.stitcher.com/podcast/sony-music-podcasts/staying-in-with-emily-kumail" xmlUrl="https://feeds.megaphone.fm/stayingin" />
+      <outline type="link" version="RSS" language="en" title="The Economist – Money Talks" text="The Economist – Money Talks" htmlUrl="https://www.economist.com/podcasts/" xmlUrl="https://rss.acast.com/theeconomistmoneytalks" />
+      <outline type="link" version="RSS" language="en" title="Hope Through History" text="Hope Through History" htmlUrl="https://shows.cadence13.com/podcast/hope-through-history" xmlUrl="https://feeds.megaphone.fm/hope-through-history" />
+      <outline type="link" version="RSS" language="en" title="The Happiness Lab" text="The Happiness Lab" htmlUrl="https://www.happinesslab.fm/" xmlUrl="https://feeds.megaphone.fm/happinesslab" />
+      <outline type="link" version="RSS" language="en" title="Shameless Sex" text="Shameless Sex" htmlUrl="https://www.shamelesssex.com/" xmlUrl="https://shamelesssex.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>

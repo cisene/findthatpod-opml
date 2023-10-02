@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-187.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #187</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 18 Nov 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 18 Nov 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #187" dateCreated="Fri, 18 Nov 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The Anthill: Uncharted Brain" text="The Anthill: Uncharted Brain" htmlUrl="https://theconversation.com/uk/topics/the-conversation-weekly-98901" xmlUrl="https://feeds.acast.com/public/shows/60087127b9687759d637bade/" />
+      <outline type="link" version="RSS" language="en" title="The Knowable Podcast" text="The Knowable Podcast" htmlUrl="https://knowablemagazine.org/podcast" xmlUrl="https://knowable.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Women Who Travel" text="Women Who Travel" htmlUrl="https://www.facebook.com/groups/271882099953039/" xmlUrl="https://feeds.megaphone.fm/women-who-travel" />
+      <outline type="link" version="RSS" language="en" title="Famous &amp; Gravy" text="Famous &amp; Gravy" htmlUrl="http://famousandgravy.com/" xmlUrl="https://feeds.libsyn.com/434286/rss" />
+      <outline type="link" version="RSS" language="en" title="The History of English Podcast" text="The History of English Podcast" htmlUrl="https://historyofenglishpodcast.com/" xmlUrl="https://historyofenglishpodcast.com/feed/podcast/" />
+    </outline>
+  </body>
+</opml>

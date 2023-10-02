@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-130.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #130</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 01 Oct 2021 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 01 Oct 2021 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #130" htmlUrl="https://findthatpod.com/find-that-pod-130/" dateCreated="Fri, 01 Oct 2021 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Coffee &amp; Convos" text="Coffee &amp; Convos" htmlUrl="https://www.podomatic.com/podcasts/coffeeandconvos" xmlUrl="https://coffeeandconvos.podomatic.com/rss2.xml" />
+      <outline type="link" version="RSS" language="en" title="Bald and Blonde" text="Bald and Blonde" htmlUrl="https://baldandblonde.live/" xmlUrl="https://anchor.fm/s/3062f360/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="X-Ray Vision" text="X-Ray Vision" htmlUrl="https://crooked.com/podcast-series/x-ray-vision/" xmlUrl="https://feeds.megaphone.fm/xray-vision" />
+      <outline type="link" version="RSS" language="en" title="Cerebro" text="Cerebro" htmlUrl="https://www.connorgoldsmith.com/cerebro" xmlUrl="https://anchor.fm/s/32c3670c/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="The Constant: A History of Getting Things Wrong" text="The Constant: A History of Getting Things Wrong" htmlUrl="https://www.constantpodcast.com/" xmlUrl="https://feeds.blubrry.com/feeds/the_constant.xml" />
+    </outline>
+  </body>
+</opml>

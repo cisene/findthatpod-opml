@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-183.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #183</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 21 Oct 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 21 Oct 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #183" dateCreated="Fri, 21 Oct 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="History&#39;s Trainwrecks" text="History&#39;s Trainwrecks" htmlUrl="https://www.historystrainwrecks.com/" xmlUrl="https://access.acast.com/rss/60a3be0e6196e1001b05895b/default" />
+      <outline type="link" version="RSS" language="en" title="On with Kara Swisher" text="On with Kara Swisher" htmlUrl="http://nymag.com/" xmlUrl="https://feeds.megaphone.fm/VMP1684715893" />
+      <outline type="link" version="RSS" language="en" title="LadyGang" text="LadyGang" htmlUrl="https://www.podcastone.com/ladygang-podcast" xmlUrl="http://www.podcastone.com/podcast?categoryID2=836" />
+      <outline type="link" version="RSS" language="en" title="Conscious Business Leaders" text="Conscious Business Leaders" htmlUrl="http://consciousbusinessleaderspodcast.com/" xmlUrl="https://feeds.buzzsprout.com/2019563.rss" />
+      <outline type="link" version="RSS" language="en" title="Mentally Gil: Conversations with Creators" text="Mentally Gil: Conversations with Creators" htmlUrl="https://mentallygil.simplecast.com/" xmlUrl="https://feeds.simplecast.com/6HPU2m_2" />
+    </outline>
+  </body>
+</opml>

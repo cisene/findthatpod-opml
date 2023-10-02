@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-194.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #194</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 20 Jan 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 20 Jan 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #194" dateCreated="Fri, 20 Jan 2023 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Defending Democracy" text="Defending Democracy" htmlUrl="https://democracydocket.com/" xmlUrl="https://anchor.fm/s/d61b2cf0/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="Nailed It" text="Nailed It" htmlUrl="https://www.buzzsprout.com/2013077" xmlUrl="https://feeds.buzzsprout.com/2013077.rss" />
+      <outline type="link" version="RSS" language="en" title="The Doctor&#39;s Art" text="The Doctor&#39;s Art" htmlUrl="http://thedoctorsart.com/" xmlUrl="https://feeds.buzzsprout.com/1936215.rss" />
+      <outline type="link" version="RSS" language="en" title="Practical AI" text="Practical AI" htmlUrl="https://changelog.com/practicalai" xmlUrl="https://changelog.com/practicalai/feed" />
+      <outline type="link" version="RSS" language="en" title="Euro Trash" text="Euro Trash" htmlUrl="https://rss.com/podcasts/eurotrash" xmlUrl="https://media.rss.com/eurotrash/feed.xml" />
+    </outline>
+  </body>
+</opml>

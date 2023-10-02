@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-192.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #192</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 06 Jan 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 06 Jan 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #192" dateCreated="Fri, 06 Jan 2023 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Love to Sew" text="Love to Sew" htmlUrl="http://lovetosewpodcast.com/" xmlUrl="https://lovetosew.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="The Psychology of Your 20&#39;s" text="The Psychology of Your 20&#39;s" htmlUrl="https://sbeghenjemma.wixsite.com/20spsychologypodcast" xmlUrl="https://anchor.fm/s/e7698d8/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="Pale Blue Pod" text="Pale Blue Pod" htmlUrl="https://pale-blue-pod.captivate.fm/" xmlUrl="https://feeds.captivate.fm/pale-blue-pod/" />
+      <outline type="link" version="RSS" language="en" title="Unexplained Encounters" text="Unexplained Encounters" htmlUrl="https://www.eeriecast.com/" xmlUrl="https://feeds.megaphone.fm/darknessprevails" />
+      <outline type="link" version="RSS" language="en" title="12 Ghosts" text="12 Ghosts" htmlUrl="https://www.grimandmild.com/12ghosts" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2abab27a-80f1-4c98-bb29-af5600eadca3/ae16dca6-8773-4e9b-afa9-af5600eb4896/podcast.rss" />
+    </outline>
+  </body>
+</opml>

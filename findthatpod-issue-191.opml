@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-191.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #191</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 16 Dec 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 16 Dec 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #191" dateCreated="Fri, 16 Dec 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Wheel of Risk" text="Wheel of Risk" htmlUrl="https://allianz-trade.us/podcast" xmlUrl="https://www.omnycontent.com/d/playlist/2ddbef40-4166-4f48-8dde-a883003a7eb7/cb5ee003-6e28-4380-93d1-af4d00e1f603/f430ced6-88f8-4b54-aac0-af4d00e28f71/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Grim &amp; Mild Presents" text="Grim &amp; Mild Presents" htmlUrl="https://www.grimandmild.com/presents" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e13abe25-88fd-46b8-b06a-ae3900513259/5e49b3f3-dc10-4a2d-81e3-ae3900513270/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Noclip" text="Noclip" htmlUrl="https://www.noclip.video/" xmlUrl="https://noclippodcast.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="In Machines We Trust" text="In Machines We Trust" htmlUrl="https://www.technologyreview.com/in-machines-we-trust/" xmlUrl="https://feeds.megaphone.fm/inmachineswetrust" />
+      <outline type="link" version="RSS" language="en" title="Parkdale Haunt" text="Parkdale Haunt" htmlUrl="https://frequencypodcastnetwork.com/podcasts/parkdale-haunt/" xmlUrl="https://feeds.simplecast.com/340clW6H" />
+    </outline>
+  </body>
+</opml>

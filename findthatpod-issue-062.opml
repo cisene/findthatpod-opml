@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-062.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #062</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 05 Jun 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 05 Jun 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #062" htmlUrl="https://findthatpod.com/find-that-pod-62/" dateCreated="Fri, 05 Jun 2020 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Code Switch" text="Code Switch" htmlUrl="https://www.npr.org/podcasts/510312/codeswitch" xmlUrl="https://feeds.npr.org/510312/podcast.xml" />
+      <outline type="link" version="RSS" language="en" title="The Stoop" text="The Stoop" htmlUrl="http://www.thestoop.org/" xmlUrl="https://thestoop.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="You Had Me at Black" text="You Had Me at Black" htmlUrl="http://www.youhadmeatblack.com/" xmlUrl="https://feeds.simplecast.com/g9d_VeW9" />
+      <outline type="link" version="RSS" language="en" title="The Nod" text="The Nod" htmlUrl="https://gimletmedia.com/shows/the-nod" xmlUrl="https://feeds.megaphone.fm/thenod" />
+      <outline type="link" version="RSS" language="en" title="Higher Learning with Van Lathan and Rachel Lindsay" text="Higher Learning with Van Lathan and Rachel Lindsay" htmlUrl="https://www.theringer.com/higher-learning-van-lathan-rachel-lindsay" xmlUrl="https://feeds.megaphone.fm/higherlearning" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-185.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #185</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 04 Nov 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 04 Nov 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #185" dateCreated="Fri, 04 Nov 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Why We Mine" text="Why We Mine" htmlUrl="https://omny.fm/shows/why-we-mine" xmlUrl="https://www.omnycontent.com/d/playlist/2ddbef40-4166-4f48-8dde-a883003a7eb7/cb548ee6-a4a8-4aec-bbfb-af1700ec3f48/771c8e7b-2c21-44c0-a0e9-af1700ecd119/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="The Frozen Frights Podcast" text="The Frozen Frights Podcast" htmlUrl="https://www.spreaker.com/show/the-frozen-frights-podcast" xmlUrl="https://www.spreaker.com/show/1606861/episodes/feed" />
+      <outline type="link" version="RSS" language="en" title="Jesus Pancake" text="Jesus Pancake" htmlUrl="https://jesus-pancake.captivate.fm/" xmlUrl="https://feeds.captivate.fm/jesus-pancake/" />
+      <outline type="link" version="RSS" language="en" title="The Chronic Illness Recovery Podcast" text="The Chronic Illness Recovery Podcast" htmlUrl="https://www.cfshealth.com/podcasts/the-chronic-illness-recovery-podcast" xmlUrl="https://app.kajabi.com/podcasts/2147504668/feed" />
+      <outline type="link" version="RSS" language="en" title="Watch This Tonight" text="Watch This Tonight" htmlUrl="https://www.spreaker.com/show/watch-this-tonight" xmlUrl="https://www.spreaker.com/show/5626962/episodes/feed" />
+    </outline>
+  </body>
+</opml>

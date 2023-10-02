@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-193.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #193</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 13 Jan 2023 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 13 Jan 2023 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #193" dateCreated="Fri, 13 Jan 2023 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Lived Through That" text="Lived Through That" htmlUrl="https://www.hipphoto.com/" xmlUrl="https://anchor.fm/s/59f14970/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="The Comics That We Love" text="The Comics That We Love" htmlUrl="https://www.patreon.com/tctwl" xmlUrl="https://feeds.buzzsprout.com/1854034.rss" />
+      <outline type="link" version="RSS" language="en" title="Bad Bad Thing" text="Bad Bad Thing" htmlUrl="https://www.podcastone.com/pd/Bad-Bad-Thing" xmlUrl="https://www.podcastone.com/podcast?categoryID2=2208" />
+      <outline type="link" version="RSS" language="en" title="Who Would Win" text="Who Would Win" htmlUrl="https://redcircle.com/shows/who-would-win" xmlUrl="https://feeds.redcircle.com/039a442b-50c4-41f7-9565-27f5f6465f34" />
+      <outline type="link" version="RSS" language="en" title="Sold a Story" text="Sold a Story" htmlUrl="https://features.apmreports.org/sold-a-story/" xmlUrl="https://feeds.publicradio.org/public_feeds/sold-a-story/itunes/rss.rss" />
+    </outline>
+  </body>
+</opml>

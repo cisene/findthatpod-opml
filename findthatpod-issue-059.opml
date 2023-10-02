@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-059.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #059</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 15 May 2020 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 15 May 2020 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #059" htmlUrl="https://findthatpod.com/find-that-pod-59/" dateCreated="Fri, 15 May 2020 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Election Profit Makers" text="Election Profit Makers" htmlUrl="http://www.electionprofitmakers.com/" xmlUrl="https://feeds.megaphone.fm/epm" />
+      <outline type="link" version="RSS" language="en" title="WTFamicon" text="WTFamicon" htmlUrl="https://anchor.fm/wtfamicom" xmlUrl="https://anchor.fm/s/ba2d734/podcast/rss" />
+      <outline type="link" version="RSS" language="en" title="Core Intuition" text="Core Intuition" htmlUrl="https://coreint.org/" xmlUrl="https://coreint.org/podcast.xml" />
+      <outline type="link" version="RSS" language="en" title="STORY PIRATES" text="STORY PIRATES" htmlUrl="https://www.storypirates.com/podcast" xmlUrl="https://feeds.megaphone.fm/storypirates" />
+      <outline type="link" version="RSS" language="en" title="Wind of Change" text="Wind of Change" htmlUrl="https://crooked.com/podcast-series/wind-of-change/" xmlUrl="https://feeds.megaphone.fm/wind-of-change-wide" />
+    </outline>
+  </body>
+</opml>

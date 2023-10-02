@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-014.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #014</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 05 Jul 2019 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 05 Jul 2019 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #014" htmlUrl="https://findthatpod.com/edition-14/" dateCreated="Fri, 05 Jul 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Hurry Slowly" text="Hurry Slowly" htmlUrl="https://hurryslowly.co/" xmlUrl="https://hurryslowly.co/feed/podcast/" />
+      <outline type="link" version="RSS" language="en" title="Endless Thread" text="Endless Thread" htmlUrl="https://www.wbur.org/endlessthread" xmlUrl="https://rss.wbur.org/endlessthread/podcast" />
+      <outline type="link" version="RSS" language="en" title="Cinemaholics" text="Cinemaholics" htmlUrl="https://cinemaholics.com/category/podcasts/cinemaholics/" xmlUrl="https://www.omnycontent.com/d/playlist/62a95110-0493-4086-bf8e-a709016cf065/89b0b2fe-f2c5-4984-a984-a709016e9cdd/194e163b-22ff-4b98-b76e-a7090171d6b2/podcast.rss" />
+      <outline type="link" version="RSS" language="en" title="Friendly Fire" text="Friendly Fire" htmlUrl="http://art19.com/shows/friendly-fire" xmlUrl="http://feeds.feedburner.com/FriendlyFirePod" />
+      <outline type="link" version="RSS" language="en" title="Wheel Bearings" text="Wheel Bearings" htmlUrl="https://wheelbearings.media/" xmlUrl="https://rss.wbur.org/dearsugar/podcast" />
+    </outline>
+  </body>
+</opml>

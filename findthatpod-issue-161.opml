@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: https://b19.se/data/findthatpod-issue-161.opml -->
+<opml version="2.0">
+  <head>
+    <title>Find That Pod #161</title>
+    <url>https://findthatpod.com/</url>
+    <dateCreated>Fri, 06 May 2022 00:00:00 +0100</dateCreated>
+    <dateModified>Fri, 06 May 2022 00:00:00 +0100</dateModified>
+    <ownerName>FindThatPod</ownerName>
+    <ownerEmail>info@findthatpod.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Find That Pod #161" dateCreated="Fri, 06 May 2022 00:00:00 +0100">
+      <outline type="link" version="RSS" language="en" title="The Rest is History" text="The Rest is History" htmlUrl="https://play.acast.com/s/the-rest-is-history-podcast" xmlUrl="https://rss.acast.com/the-rest-is-history-podcast" />
+      <outline type="link" version="RSS" language="en" title="A History of Rock Music in 500 Songs" text="A History of Rock Music in 500 Songs" htmlUrl="https://500songs.com/" xmlUrl="https://500songs.com/feed/podcast" />
+      <outline type="link" version="RSS" language="en" title="The Burned Photo" text="The Burned Photo" htmlUrl="https://qcodemedia.com/" xmlUrl="https://feeds.megaphone.fm/QCD4145050405" />
+      <outline type="link" version="RSS" language="en" title="The Deck" text="The Deck" htmlUrl="https://the-deck-74c938a0.simplecast.com/" xmlUrl="https://feeds.simplecast.com/ZH32N6UM" />
+      <outline type="link" version="RSS" language="en" title="Unlocking the Fountain" text="Unlocking the Fountain" htmlUrl="https://www.cbc.ca/listen/cbc-podcasts/411-unlocking-bryson-s-brain" xmlUrl="https://www.cbc.ca/podcasting/includes/brysonsbrain.xml" />
+      <outline type="link" version="RSS" language="en" title="5-4" text="5-4" htmlUrl="https://shows.acast.com/5fc574d8d429ec34a8292b1c" xmlUrl="https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c" />
+    </outline>
+  </body>
+</opml>
