@@ -1,0 +1,134 @@
+---
+opml:
+  filename: findthatpod-the-best-celebrity-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-celebrity-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Celebrity Podcasts'
+  dateCreated: '2023-09-20 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Celebrity Podcasts'
+    pubDate:  '2023-09-20'
+    htmlUrl:  'https://findthatpod.com/best-celebrity-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Conan O’Brien Needs a Friend'
+        htmlUrl:  'https://teamcoco.com/'
+        xmlUrl:   'https://feeds.simplecast.com/dHoohVNH'
+
+    - podcast:
+        title:    'Storytime with Seth Rogen'
+        htmlUrl:  'https://www.earwolf.com/'
+        xmlUrl:   'https://feeds.simplecast.com/ZK9BGVQN'
+
+    - podcast:
+        title:    'Life is Short with Justin Long'
+        htmlUrl:  'https://wondery.com/shows/justin-long/'
+        xmlUrl:   'https://rss.art19.com/life-is-short-with-justin-long'
+
+    - podcast:
+        title:    'The Problem With Jon Stewart'
+        htmlUrl:  'https://apple.co/-JonStewart'
+        xmlUrl:   'https://rss.art19.com/the-problem-with-jon-stewart'
+
+    - podcast:
+        title:    'Sibling Revelry with Kate Hudson and Oliver Hudson'
+        htmlUrl:  'https://sibling-revelry.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/g0DNrkcL'
+
+    - podcast:
+        title:    'The Big Podcast with Shaq'
+        htmlUrl:  'https://www.warnermediagroup.com/podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/c98748fd-e0b9-405c-a73a-ace701128c02/14f2093f-3514-4125-aca6-ace80100a604/podcast.rss'
+
+    - podcast:
+        title:    'Unqualified is Anna Faris'
+        htmlUrl:  'http://www.unqualified.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/61c22b43dcbb9a0013922893'
+
+    - podcast:
+        title:    'The Martha Stewart Podcast'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-the-important-things-with-92746733/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f56106f4-6e2e-4f10-a2d1-aead011a8964/a28cdd96-fcaa-4990-a918-aead011b0d05/podcast.rss'
+
+    - podcast:
+        title:    'Literally! with Rob Lowe'
+        htmlUrl:  'https://teamcoco.com/'
+        xmlUrl:   'https://feeds.simplecast.com/_SOsoLHg'
+
+    - podcast:
+        title:    'Smartless'
+        htmlUrl:  'https://wondery.com/shows/smartless/'
+        xmlUrl:   'https://rss.art19.com/smartless'
+
+    - podcast:
+        title:    'Don’t Ask Tig'
+        htmlUrl:  'https://www.dontasktig.org/'
+        xmlUrl:   'https://feeds.publicradio.org/public_feeds/dont-ask-tig/itunes/rss.rss'
+
+    - podcast:
+        title:    'Levar Burton Reads'
+        htmlUrl:  'https://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/LDNgBXht'
+
+    - podcast:
+        title:    'Office Ladies'
+        htmlUrl:  'https://www.earwolf.com/'
+        xmlUrl:   'https://feeds.simplecast.com/PxEW_ipK'
+
+    - podcast:
+        title:    'Oprah’s Super Soul'
+        htmlUrl:  'https://oprah.com/'
+        xmlUrl:   'https://feeds.simplecast.com/N0SFSFAS'
+
+    - podcast:
+        title:    'High Low with EmRata'
+        htmlUrl:  'https://www.highlow.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/highlowemrata'
+
+    - podcast:
+        title:    'Armchair Expert with Dax Shepard'
+        htmlUrl:  'https://armchairexpertpod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/armchair-expert-wide'
+
+    - podcast:
+        title:    'Getting Curious with Jonathan Van Ness'
+        htmlUrl:  'https://jonathanvanness.com/podcasts/'
+        xmlUrl:   'https://feeds.megaphone.fm/gettingcurious'
+
+    - podcast:
+        title:    'Work in Progress with Sophia Bush'
+        htmlUrl:  'https://wondery.com/shows/work-in-progress-with-sophia-bush'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e53aefd3-699f-4685-9a84-aed700f383fa/4d18e085-1e4c-46bc-af68-aed700f3868f/podcast.rss'
+
+    - podcast:
+        title:    'I Weigh With Jameela Jamil'
+        htmlUrl:  'https://www.earwolf.com/'
+        xmlUrl:   'https://feeds.simplecast.com/rV3n0fRF'
+
+    - podcast:
+        title:    'WTF with Marc Maron'
+        htmlUrl:  'http://wtfpod.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/62a222737c02140013aa4c03'
+
+    - podcast:
+        title:    'Fly on the Wall with Dana Carvey and David Spade'
+        htmlUrl:  'http://cadence13.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/fly-on-the-wall'
+
+    - podcast:
+        title:    'Dua Lipa: At Your Service'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p0cgz10v'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p0cgz10v.rss'
+
+    - podcast:
+        title:    'Inside of You with Michael Rosenbaum'
+        htmlUrl:  'http://www.insideofyoupodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/wwo4842114073'
