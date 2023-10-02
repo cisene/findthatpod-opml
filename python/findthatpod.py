@@ -101,7 +101,7 @@ def ProcessEach():
     # Items
     for item in issue['contents']:
       podcast = item['podcast']
-      opml.append(f"      <opml type=\"link\" version=\"RSS\" language=\"en\" title=\"{htmlEncode(podcast['title'])}\" text=\"{htmlEncode(podcast['title'])}\" htmlUrl=\"{htmlEncode(podcast['htmlUrl'])}\" xmlUrl=\"{htmlEncode(podcast['xmlUrl'])}\" />")
+      opml.append(f"      <outline type=\"link\" version=\"RSS\" language=\"en\" title=\"{htmlEncode(podcast['title'])}\" text=\"{htmlEncode(podcast['title'])}\" htmlUrl=\"{htmlEncode(podcast['htmlUrl'])}\" xmlUrl=\"{htmlEncode(podcast['xmlUrl'])}\" />")
 
     # end outline
     opml.append(f"    </outline>")
