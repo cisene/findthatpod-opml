@@ -131,7 +131,7 @@ def ProcessItems(config):
       else:
         podcast_xmlUrl = htmlEncode(str(podcast['xmlUrl']))
 
-      opml += f"      <opml type=\"{podcast_type}\" version=\"{podcast_version}\" language=\"{podcast_language}\" title=\"{podcast_title}\" text=\"{podcast_title}\" htmlUrl=\"{podcast_htmlUrl}\" xmlUrl=\"{podcast_xmlUrl}\" />\n"
+      opml += f"      <outline type=\"{podcast_type}\" version=\"{podcast_version}\" language=\"{podcast_language}\" title=\"{podcast_title}\" text=\"{podcast_title}\" htmlUrl=\"{podcast_htmlUrl}\" xmlUrl=\"{podcast_xmlUrl}\" />\n"
 
     opml += "    </outline>\n"
 
