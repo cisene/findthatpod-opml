@@ -1,0 +1,269 @@
+---
+opml:
+  filename: findthatpod-the-best-pocasts-about-scams.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-podcasts-about-scams.opml
+
+head:
+  title: 'FindThatPod - The Best Podcasts About Scams'
+  dateCreated: '2023-09-14 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Podcasts About Scams'
+    pubDate:  '2023-09-14'
+    htmlUrl:  'https://findthatpod.com/best-podcasts-about-scams/'
+    contents:
+
+    - podcast:
+        title:    'Swindled'
+        htmlUrl:  'http://www.swindledpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADL8288293115'
+
+    - podcast:
+        title:    'Sweet Bobby'
+        htmlUrl:  'https://shows.acast.com/sweet-bobby-new'
+        xmlUrl:   'https://feeds.acast.com/public/shows/64e5c027d3554a001131c921'
+
+    - podcast:
+        title:    'Pretend – A True Crime Podcast About Con Artists'
+        htmlUrl:  'http://www.pretendradio.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADV1293150108'
+
+    - podcast:
+        title:    'The Opportunist'
+        htmlUrl:  'https://kastmedia.com/podcasts/the-opportunist/'
+        xmlUrl:   'https://feed.cdnstream1.com/zjb/feed/download/60/87/5c/60875c33-9a32-4710-9a8d-7911f650d7c7.xml'
+
+    - podcast:
+        title:    'Queen of the Con'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-queen-of-the-con-87114857/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/56fdafe4-fb54-425f-90f3-ae2d0142ad44/377ed552-7b8a-4681-b3af-ae2d0142ad61/podcast.rss'
+
+    - podcast:
+        title:    'Scam Economy'
+        htmlUrl:  'https://podcasts.bcast.fm/scam-economy'
+        xmlUrl:   'https://feeds.bcast.fm/scam-economy'
+
+    - podcast:
+        title:    'The Dream'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/the-dream'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d1a662e7-59d9-45ef-b78f-af5d01370da4/545f16c0-b1a5-4522-8e5c-af5d01370dc0/podcast.rss'
+
+    - podcast:
+        title:    'Scamfluencers'
+        htmlUrl:  'http://wondery.com/shows/scamfluencers/'
+        xmlUrl:   'https://rss.art19.com/scamfluencers'
+
+    - podcast:
+        title:    'Fake Heiress'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/m000c9mb'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/m000c9mb.rss'
+
+    - podcast:
+        title:    'Twin Flames'
+        htmlUrl:  'https://wondery.com/shows/twin-flames/'
+        xmlUrl:   'https://rss.art19.com/twin-flames'
+
+    - podcast:
+        title:    'Cheat!'
+        htmlUrl:  'https://somethinelse.com/projects/cheat-2/'
+        xmlUrl:   'https://feeds.megaphone.fm/cheatpodcast'
+
+    - podcast:
+        title:    'The Grift'
+        htmlUrl:  'http://www.thegriftpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/thegrift'
+
+    - podcast:
+        title:    'Scam Goddess'
+        htmlUrl:  'https://teamcoco.com/podcasts/scam-goddess'
+        xmlUrl:   'https://feeds.simplecast.com/4YELvXgu'
+
+    - podcast:
+        title:    'Dirty John'
+        htmlUrl:  'https://wondery.com/shows/dirty-john-remastered/'
+        xmlUrl:   'https://feeds.simplecast.com/C0h5kjnu'
+
+    - podcast:
+        title:    'Chasing Charlie'
+        htmlUrl:  'https://play.acast.com/s/chasingcharlie'
+        xmlUrl:   'https://rss.acast.com/chasingcharlie'
+
+    - podcast:
+        title:    'American Greed'
+        htmlUrl:  'https://www.cnbc.com/'
+        xmlUrl:   'https://feeds.simplecast.com/nExD7jTI'
+
+    - podcast:
+        title:    'The Perfect Scam'
+        htmlUrl:  'https://www.aarp.org/podcasts/the-perfect-scam'
+        xmlUrl:   'https://perfectscam.libsyn.com/rss'
+
+    - podcast:
+        title:    'Who The Hell is Hamish?'
+        htmlUrl:  'https://www.theaustralian.com.au/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/f1c92d94-1cab-46b5-a2a2-ac2a00524f7b/7e7cada2-a5f4-4839-b5f1-ac2a00524f7b/podcast.rss'
+
+    - podcast:
+        title:    'Oh My Fraud'
+        htmlUrl:  'http://ohmyfraud.com/'
+        xmlUrl:   'https://feeds.transistor.fm/oh-my-fraud'
+
+    - podcast:
+        title:    'Exit Scam'
+        htmlUrl:  'http://exitscam.show/'
+        xmlUrl:   'https://feeds.megaphone.fm/CAD9217580361'
+
+    - podcast:
+        title:    'The Pope’s Long Con'
+        htmlUrl:  'https://www.lpm.org/podcast/the-popes-long-con'
+        xmlUrl:   'https://feeds.lpm.org/longconpodcast'
+
+    - podcast:
+        title:    'California City'
+        htmlUrl:  'https://laist.com/podcasts/california-city'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/acc8cc57-ff7c-44c5-9bd6-ab0900fbdc43/468867c8-0c9c-4462-8a67-ab650177a908/da574bfc-98e2-46a8-9993-ab65017807e6/podcast.rss'
+
+    - podcast:
+        title:    'Chameleon: Gallery of Lies'
+        htmlUrl:  'https://campsidemedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/chameleon'
+
+    - podcast:
+        title:    'Filthy Ritual'
+        htmlUrl:  'https://filthy-ritual.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/filthy-ritual/'
+
+    - podcast:
+        title:    'Gangster Capitalism'
+        htmlUrl:  'https://shows.cadence13.com/podcast/gangster-capitalism'
+        xmlUrl:   'http://feeds.feedburner.com/gangster-capitalism'
+
+    - podcast:
+        title:    'Nice Try'
+        htmlUrl:  'https://podcasting.voxmedia.com/show/nice-try'
+        xmlUrl:   'https://feeds.megaphone.fm/nicetry'
+
+    - podcast:
+        title:    'The Dropout'
+        htmlUrl:  'https://www.abcaudio.com/podcasts/the-dropout'
+        xmlUrl:   'https://feeds.megaphone.fm/ESP5480008395'
+
+    - podcast:
+        title:    'Grifthorse'
+        htmlUrl:  'https://soundcloud.com/grifthorse'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:672551222/sounds.rss'
+
+    - podcast:
+        title:    'Persona: The French Deception'
+        htmlUrl:  'http://wondery.com/shows/persona/'
+        xmlUrl:   'https://rss.art19.com/the-french-deception'
+
+    - podcast:
+        title:    'The Immaculate Deception'
+        htmlUrl:  'http://somethinelse.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/theimmaculatedeception'
+
+    - podcast:
+        title:    'Scam City'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/scamcity'
+        xmlUrl:   'https://anchor.fm/s/958c8bc/podcast/rss'
+
+    - podcast:
+        title:    'Dr.Death | S3: Miracle Man'
+        htmlUrl:  'https://wondery.com/shows/dr-death/season/3/'
+        xmlUrl:   'https://rss.art19.com/dr-death-s3-miracle-man'
+
+    - podcast:
+        title:    'Red Collar'
+        htmlUrl:  'https://redcollarpodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/1GqOQk93'
+
+    - podcast:
+        title:    'Decoding the Gurus'
+        htmlUrl:  'https://decoding-the-gurus.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/decoding-the-gurus/'
+
+    - podcast:
+        title:    'Lie, Cheat & Steal'
+        htmlUrl:  'https://www.bodytapeintl.com/lie-cheat-steal/'
+        xmlUrl:   'https://www.bodytapeintl.com/lie-cheat-steal?format=rss'
+
+    - podcast:
+        title:    'Fed Up'
+        htmlUrl:  'http://wondery.com/shows/fed-up/'
+        xmlUrl:   'https://rss.art19.com/fedup'
+
+    - podcast:
+        title:    'The Missing Cryptoqueen'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p07nkd84'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p07nkd84.rss'
+
+    - podcast:
+        title:    'Strangeville'
+        htmlUrl:  'https://www.vaultstudios.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/strangeville'
+
+    - podcast:
+        title:    'Madness Madness!'
+        htmlUrl:  'https://madnessmadness.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1573279.rss'
+
+    - podcast:
+        title:    'Have You Seen This Man?'
+        htmlUrl:  'https://www.abcaudio.com/podcasts/have-you-seen-this-man'
+        xmlUrl:   'https://feeds.megaphone.fm/ESP3661071450'
+
+    - podcast:
+        title:    'Q Clearance'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-q-clearance-the-hunt-for-72308028/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/18A45217-0A6C-45AC-8AC4-AE280140AD99/6ACC000A-ADBB-4397-B48C-AE280140ADA7/podcast.rss'
+
+    - podcast:
+        title:    'Billionaire Boys Club'
+        htmlUrl:  'https://wondery.com/shows/billionaire-boys-club/'
+        xmlUrl:   'https://rss.art19.com/billionaire-boys-club'
+
+    - podcast:
+        title:    'Fraudsters'
+        htmlUrl:  'https://www.lastpodcastnetwork.com/'
+        xmlUrl:   'https://feeds.simplecast.com/3YtSHXzs'
+
+    - podcast:
+        title:    'The Gateway: Teal Swan'
+        htmlUrl:  'https://www.iheart.com/podcast/8-the-gateway-teal-swan-29359806/'
+        xmlUrl:   'https://feeds.megaphone.fm/thegateway'
+
+    - podcast:
+        title:    'Scams & Cons'
+        htmlUrl:  'https://www.scamsandcons.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1781911.rss'
+
+    - podcast:
+        title:    'Klooghless'
+        htmlUrl:  'https://www.instagram.com/klooghless/'
+        xmlUrl:   'https://feeds.megaphone.fm/klooghless'
+
+    - podcast:
+        title:    'Blood Money'
+        htmlUrl:  'https://blood-money.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/wjbl4LWN'
+
+    - podcast:
+        title:    'Sympathy Pains'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-sympathy-pains-95154480/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/256c5bea-7a15-43bc-bd17-ae600134fb78/fc6a7cd0-5546-46c4-a60a-ae6001359c95/podcast.rss'
+
+    - podcast:
+        title:    'World’s Greatest Con'
+        htmlUrl:  'https://worldsgreatestcon.fireside.fm/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/630fb274cbfa130012217d46'
+
+    - podcast:
+        title:    'Liar, Liar: Melissa Caddick and the Missing Millions'
+        htmlUrl:  'https://www.smh.com.au/podcast/liar-liar-melissa-caddick-missing-millions'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/88b564ea-a9a6-4751-910a-a5d800019396/4d9d2a28-c449-46ff-817f-ae66004009bb/645b1796-dbb2-4f46-bed4-ae660041c457/podcast.rss'
