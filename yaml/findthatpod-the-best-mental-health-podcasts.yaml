@@ -1,0 +1,270 @@
+---
+opml:
+  filename: findthatpod-the-best-mental-health-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-mental-health-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Mental Health Podcasts'
+  dateCreated: '2023-10-11 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Mental Health Podcasts'
+    pubDate:  '2023-10-11'
+    htmlUrl:  'https://findthatpod.com/best-mental-health-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Owning It: The Anxiety Podcast'
+        htmlUrl:  'https://play.acast.com/s/owningittheanxietypodcast'
+        xmlUrl:   'https://rss.acast.com/owningittheanxietypodcast'
+
+    - podcast:
+        title:    'Ten Percent Happier with Dan Harris'
+        htmlUrl:  'https://www.tenpercent.com/podcast'
+        xmlUrl:   'https://rss.art19.com/ten-percent-happier'
+
+    - podcast:
+        title:    'The OCD Stories'
+        htmlUrl:  'http://theocdstories.com/'
+        xmlUrl:   'https://theocdstories.libsyn.com/rss'
+
+    - podcast:
+        title:    'Dear Therapists with Lori Gottlieb and Guy Winch'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-dear-therapists-68853191/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/40d70f44-0da7-469d-be6a-ae390045e52d/7a5e26f6-f408-4130-b280-ae390045e53b/podcast.rss'
+
+    - podcast:
+        title:    'Terrible, Thanks for Asking'
+        htmlUrl:  'https://www.ttfa.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/CAD2653318100'
+
+    - podcast:
+        title:    'The Happiness Lab with Dr. Laurie Santos'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss'
+
+    - podcast:
+        title:    'Where Should We Begin'
+        htmlUrl:  'https://estherperel.com/podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/ep-wswb'
+
+    - podcast:
+        title:    'Therapy for Black Girls'
+        htmlUrl:  'https://therapyforblackgirls.com/podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss'
+
+    - podcast:
+        title:    'The Trauma Therapist'
+        htmlUrl:  'https://www.spreaker.com/show/the-trauma-therapist'
+        xmlUrl:   'https://www.spreaker.com/show/5739761/episodes/feed'
+
+    - podcast:
+        title:    'The Hilarious World of Depression'
+        htmlUrl:  'https://www.hilariousworld.org/'
+        xmlUrl:   'https://feeds.publicradio.org/public_feeds/the-hilarious-world-of-depression/itunes/rss'
+
+    - podcast:
+        title:    'Griefcast'
+        htmlUrl:  'https://twitter.com/thegriefcast'
+        xmlUrl:   'http://rss.acast.com/griefcast'
+
+    - podcast:
+        title:    'Other People’s Problems'
+        htmlUrl:  'https://www.cbc.ca/radio/opp'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/opp.xml'
+
+    - podcast:
+        title:    'Mentally Gil: Conversations with Creators'
+        htmlUrl:  'https://mentallygil.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/6HPU2m_2'
+
+    - podcast:
+        title:    'Mood Ring'
+        htmlUrl:  'https://www.moodringshow.org/'
+        xmlUrl:   'https://feeds.publicradio.org/public_feeds/mood-ring/itunes/rss.rss'
+
+    - podcast:
+        title:    'Big Mood, Little Mood with Daniel M. Lavery'
+        htmlUrl:  'http://slate.com/prudiepod'
+        xmlUrl:   'https://feeds.megaphone.fm/SM3958815784'
+
+    - podcast:
+        title:    'Well…Adjusting'
+        htmlUrl:  'https://well-adjusting.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/_eWdM88H'
+
+    - podcast:
+        title:    'Roadmap to Joy: A Mental Health Podcast'
+        htmlUrl:  'https://www.embarkbh.com/mental-health-podcasts-embark/'
+        xmlUrl:   'https://feeds.captivate.fm/roadmap-to-joy-mental-health-podcast/'
+
+    - podcast:
+        title:    'The Hardcore Self Help Podcast with Duff the Psych'
+        htmlUrl:  'https://duffthepsych.com/'
+        xmlUrl:   'https://hardcoreselfhelp.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Struggle Bus: Self-Care, Mental Health, and Other Hilarious Stuff'
+        htmlUrl:  'https://strugglebus.libsyn.com/webpage'
+        xmlUrl:   'https://strugglebus.libsyn.com/rss'
+
+    - podcast:
+        title:    'Soberful'
+        htmlUrl:  'https://soberful.libsyn.com/website'
+        xmlUrl:   'https://soberful.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Psychology of Self-Injury'
+        htmlUrl:  'https://the-psychology-of-self-injury.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/NQxB3Ibb'
+
+    - podcast:
+        title:    'Friends with Mental Health Benefits'
+        htmlUrl:  'https://theshineapp.com/shine-at-work'
+        xmlUrl:   'https://anchor.fm/s/8e28ff08/podcast/rss'
+
+    - podcast:
+        title:    'Anxiety Slayer with Shann and Ananga'
+        htmlUrl:  'https://anxietyslayer.com/'
+        xmlUrl:   'https://anxietyslayer.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Therapy Chat'
+        htmlUrl:  'https://redcircle.com/shows/therapy-chat'
+        xmlUrl:   'https://feeds.redcircle.com/303d5792-3fd7-4731-b268-57d1f542269b'
+
+    - podcast:
+        title:    'Not Another Anxiety Show'
+        htmlUrl:  'http://www.notanotheranxietyshow.com/'
+        xmlUrl:   'https://notanotheranxietyshow.libsyn.com/rss'
+
+    - podcast:
+        title:    'Latinx Therapy'
+        htmlUrl:  'https://www.latinxtherapy.com/'
+        xmlUrl:   'https://latinxtherapy.libsyn.com/rss'
+
+    - podcast:
+        title:    'Happier With Gretchen Rubin'
+        htmlUrl:  'http://www.gretchenrubin.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/happier'
+
+    - podcast:
+        title:    'Mentally Yours'
+        htmlUrl:  'https://www.metro.co.uk/mentallyyours'
+        xmlUrl:   'https://feeds.acast.com/public/shows/65080fe5f41896001174f4da'
+
+    - podcast:
+        title:    'Mental Health: Hope and Recovery'
+        htmlUrl:  'https://mindbodyspirit.fm/shows/mental-health-hope-and-recovery/'
+        xmlUrl:   'https://feeds.megaphone.fm/mentalhealthhoperecovery'
+
+    - podcast:
+        title:    'Into the Fold: Issues in Mental Health'
+        htmlUrl:  'https://hogg.utexas.edu/intothefold'
+        xmlUrl:   'https://feeds.castos.com/vdn54'
+
+    - podcast:
+        title:    'Inside Mental Health'
+        htmlUrl:  'http://psychcentral.com/show'
+        xmlUrl:   'https://feeds.megaphone.fm/RED2429845607'
+
+    - podcast:
+        title:    'Closer to Fine'
+        htmlUrl:  'https://www.spreaker.com/show/closer-to-fine-podcast'
+        xmlUrl:   'https://www.spreaker.com/show/5144020/episodes/feed'
+
+    - podcast:
+        title:    'Help Me Be Me'
+        htmlUrl:  'https://www.yaywithme.com/helpmebeme'
+        xmlUrl:   'https://feeds.megaphone.fm/HSW9496253302'
+
+    - podcast:
+        title:    'All in the Mind'
+        htmlUrl:  'https://www.abc.net.au/listen/programs/allinthemind/'
+        xmlUrl:   'https://www.abc.net.au/feeds/2888650/podcast.xml'
+
+    - podcast:
+        title:    'Mindful Metal Jacket'
+        htmlUrl:  'https://sites.libsyn.com/466707'
+        xmlUrl:   'https://feeds.libsyn.com/466707/rss'
+
+    - podcast:
+        title:    'The One You Feed'
+        htmlUrl:  'http://oneyoufeed.net/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1d49cbad-dffb-4b8f-bea4-aea001380113/2f40a9d9-0fdd-49fb-8444-aea001380134/podcast.rss'
+
+    - podcast:
+        title:    'Two Shrinks Pod'
+        htmlUrl:  'https://www.twoshrinkspod.com/podcasts/'
+        xmlUrl:   'https://www.twoshrinkspod.com/podcasts?format=rss'
+
+    - podcast:
+        title:    'Emotional Badass'
+        htmlUrl:  'https://www.emotionalbadass.com/podcast/the-power-of-play-a-path-to-healing-anxiety-depression-and-ptsd'
+        xmlUrl:   'https://feeds.megaphone.fm/emotionalbadass'
+
+    - podcast:
+        title:    'The Overwhelmed Brain'
+        htmlUrl:  'https://theoverwhelmedbrain.com/'
+        xmlUrl:   'https://theoverwhelmedbrain.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Fear Podcast'
+        htmlUrl:  'http://www.thefearpodcast.com/'
+        xmlUrl:   'https://anchor.fm/s/1fc45c60/podcast/rss'
+
+    - podcast:
+        title:    'Beat Your Genes Podcast'
+        htmlUrl:  'https://sites.libsyn.com/462585/site'
+        xmlUrl:   'https://feeds.libsyn.com/462585/rss'
+
+    - podcast:
+        title:    'My Good Bad Brain'
+        htmlUrl:  'http://www.patreon.com/mygoodbadbrain'
+        xmlUrl:   'https://feed.pippa.io/public/shows/5ad5b1c9c0065722283c6ca3'
+
+    - podcast:
+        title:    'Stress Mastery Podcast'
+        htmlUrl:  'http://livingrightwithbillcortright.libsyn.com/website'
+        xmlUrl:   'https://thestressmasterypodcast.com/rss'
+
+    - podcast:
+        title:    'Insane in The Men Brain'
+        htmlUrl:  'https://www.facebook.com/menbrainpodcast/'
+        xmlUrl:   'https://rss.acast.com/insaneinthemenbrain'
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
