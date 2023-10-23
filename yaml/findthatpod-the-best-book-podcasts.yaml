@@ -1,0 +1,290 @@
+---
+opml:
+  filename: findthatpod-the-best-book-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-book-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Book Podcasts'
+  dateCreated: '2023-10-12 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Book Podcasts'
+    pubDate:  '2023-10-12'
+    htmlUrl:  'https://findthatpod.com/best-book-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'If Books Could Kill'
+        htmlUrl:  'https://www.patreon.com/IfBooksPod'
+        xmlUrl:   'https://feeds.buzzsprout.com/2040953.rss'
+
+    - podcast:
+        title:    'Book Friends Forever Podcast'
+        htmlUrl:  'https://soundcloud.com/bookfriendsforever'
+        xmlUrl:   'https://hachetteaudiopodcasts.libsyn.com/rss'
+
+    - podcast:
+        title:    'It’s Lit (Unabridged)'
+        htmlUrl:  'https://beta.prx.org/series/40954'
+        xmlUrl:   'https://itslitpodcast.pbs.org/'
+
+    - podcast:
+        title:    'What Should I Read Next?'
+        htmlUrl:  'https://whatshouldireadnextpodcast.com/'
+        xmlUrl:   'https://rss.art19.com/what-should-i-read-next'
+
+    - podcast:
+        title:    'Novel Pairings'
+        htmlUrl:  'https://novelpairings.libsyn.com/website'
+        xmlUrl:   'https://novelpairings.libsyn.com/rss'
+
+    - podcast:
+        title:    'NPR’s Book of the Day'
+        htmlUrl:  'https://www.npr.org/podcasts/510364/daily-books'
+        xmlUrl:   'https://feeds.npr.org/510364/podcast.xml'
+
+    - podcast:
+        title:    'Can’t Lit'
+        htmlUrl:  'http://cantlit.libsyn.com/webpage'
+        xmlUrl:   'https://cantlit.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Stacks'
+        htmlUrl:  'http://www.thestackspodcast.com/'
+        xmlUrl:   'https://rss.art19.com/the-stacks'
+
+    - podcast:
+        title:    'Well-Read Black Girl with Glory Edim'
+        htmlUrl:  'https://www.pushkin.fm/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0b032a63-ffbe-42bd-9221-ae3c0021f28c/de8a2554-4be3-4400-be0f-ae3c0021f29a/podcast.rss'
+
+    - podcast:
+        title:    'Is This Just Fantasy?'
+        htmlUrl:  'https://rss.com/podcasts/is-this-just-fantasy'
+        xmlUrl:   'https://media.rss.com/is-this-just-fantasy/feed.xml'
+
+    - podcast:
+        title:    'Books Unbound'
+        htmlUrl:  'https://booksunboundpodcast.com/'
+        xmlUrl:   'https://anchor.fm/s/f88016c/podcast/rss'
+
+    - podcast:
+        title:    'Get Booked'
+        htmlUrl:  'https://bookriot.com/listen/shows/getbooked/'
+        xmlUrl:   'https://feeds.megaphone.fm/RNMG5536851874'
+
+    - podcast:
+        title:    'The SSR Podcast'
+        htmlUrl:  'https://www.ssrpodcast.com/listen/'
+        xmlUrl:   'https://www.ssrpodcast.com/listen?format=rss'
+
+    - podcast:
+        title:    'Moms Don’t Have Time to Read Books'
+        htmlUrl:  'http://www.zibbyowens.com/'
+        xmlUrl:   'https://zibbyowens.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Overdue'
+        htmlUrl:  'https://headgum.com/overdue'
+        xmlUrl:   'https://rss.art19.com/overdue'
+
+    - podcast:
+        title:    'Two Book Bitches'
+        htmlUrl:  'http://www.twobookbitches.com/'
+        xmlUrl:   'https://anchor.fm/s/2642ca68/podcast/rss'
+
+    - podcast:
+        title:    'Professional Book Nerds'
+        htmlUrl:  'https://professionalbooknerds.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/probooknerds'
+
+    - podcast:
+        title:    'Remember Reading Podcast'
+        htmlUrl:  'http://rememberreading.com/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:555467364/sounds.rss'
+
+    - podcast:
+        title:    'Read or Dead'
+        htmlUrl:  'https://bookriot.com/listen/shows/readordead/'
+        xmlUrl:   'https://feeds.megaphone.fm/RNMG7489085038'
+
+    - podcast:
+        title:    'Celebrity Book Club'
+        htmlUrl:  'https://celebbookpod.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1225466.rss'
+
+    - podcast:
+        title:    'Fictional'
+        htmlUrl:  'https://fictional.fm/'
+        xmlUrl:   'https://fictional.libsyn.com/rss'
+
+    - podcast:
+        title:    'Book Fight'
+        htmlUrl:  'http://bookfightpod.com/'
+        xmlUrl:   'https://bookfightpod.libsyn.com/rss'
+
+    - podcast:
+        title:    'So Many Damn Books'
+        htmlUrl:  'https://www.somanydamnbooks.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/LIT7295419126'
+
+    - podcast:
+        title:    'The Librarian Is In'
+        htmlUrl:  'https://www.nypl.org/librarianisin'
+        xmlUrl:   'https://thelibrarianisin.libsyn.com/rss'
+
+    - podcast:
+        title:    'The New Yorker: Fiction'
+        htmlUrl:  'https://www.wnyc.org/shows/new-yorker-fiction'
+        xmlUrl:   'https://www.wnyc.org/feeds/shows/new-yorker-fiction'
+
+    - podcast:
+        title:    'The Worst Bestsellers'
+        htmlUrl:  'https://www.frowl.org/worstbestsellers'
+        xmlUrl:   'https://www.frowl.org/worstbestsellers/?feed=podcast'
+
+    - podcast:
+        title:    'Bookworm'
+        htmlUrl:  'https://bookworm.fm/'
+        xmlUrl:   'https://bookworm.fm/feed/podcast'
+
+    - podcast:
+        title:    'Harper Audio Presents'
+        htmlUrl:  'https://www.stitcher.com/podcast/harperaudio-presents'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:73637897/sounds.rss'
+
+    - podcast:
+        title:    'Between the Covers: Conversations with Writers in Fiction, Nonfiction & Poetry'
+        htmlUrl:  'https://tinhouse.com/podcasts/'
+        xmlUrl:   'https://feeds.podcastmirror.com/between-the-covers'
+
+    - podcast:
+        title:    'The Bookstore'
+        htmlUrl:  'http://thebookstorepodcast.com/'
+        xmlUrl:   'https://thebookstore.libsyn.com/rss'
+
+    - podcast:
+        title:    'Backlisted'
+        htmlUrl:  'https://www.backlisted.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLT2438307082'
+
+    - podcast:
+        title:    'The Penguin Podcast'
+        htmlUrl:  'https://www.penguin.co.uk/podcasts'
+        xmlUrl:   'http://rss.acast.com/thepenguinpodcast'
+
+    - podcast:
+        title:    'Strong Sense of Place'
+        htmlUrl:  'https://strongsenseofplace.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP6154643668'
+
+    - podcast:
+        title:    'Currently Reading'
+        htmlUrl:  'http://currentlyreadingpodcast.com/'
+        xmlUrl:   'https://currentlyreadingpodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Book Review'
+        htmlUrl:  'https://www.nytimes.com/column/book-review-podcast'
+        xmlUrl:   'https://feeds.simplecast.com/MssIhx9y'
+
+    - podcast:
+        title:    'The Guardian Books podcast'
+        htmlUrl:  'https://www.theguardian.com/books/series/books'
+        xmlUrl:   'https://www.theguardian.com/books/series/books/podcast.xml'
+
+    - podcast:
+        title:    'Poured Over'
+        htmlUrl:  'https://www.bn.com/PouredOverPod'
+        xmlUrl:   'https://pouredover.libsyn.com/rss'
+
+    - podcast:
+        title:    'LA Review of Books'
+        htmlUrl:  'https://lareviewofbooks.org/'
+        xmlUrl:   'https://feeds.feedburner.com/Lareviewofbooks'
+
+    - podcast:
+        title:    'New Books in Science'
+        htmlUrl:  'https://newbooksnetwork.com/category/science-technology/science/'
+        xmlUrl:   'https://feeds.megaphone.fm/LIT2591788808'
+
+    - podcast:
+        title:    'Reading Glasses'
+        htmlUrl:  'https://www.maximumfun.org/shows/reading-glasses'
+        xmlUrl:   'https://feeds.simplecast.com/SMcNunjG'
+
+    - podcast:
+        title:    'Audio Book Club'
+        htmlUrl:  'https://slate.com/podcasts/audio-book-club'
+        xmlUrl:   'https://feeds.megaphone.fm/slatesaudiobookclub'
+
+    - podcast:
+        title:    'Book Shambles'
+        htmlUrl:  'https://www.cosmicshambles.com/bookshambles'
+        xmlUrl:   'https://feeds.feedburner.com/BookShambles'
+
+    - podcast:
+        title:    'Marlon and Jake Read Dead People'
+        htmlUrl:  'https://www.readitforward.com/deadpeoplepod/'
+        xmlUrl:   'https://feeds.simplecast.com/edQh_7xR'
+
+    - podcast:
+        title:    'Literary Friction'
+        htmlUrl:  'https://www.nts.live/shows/literaryfriction'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:47550828/sounds.rss'
+
+    - podcast:
+        title:    'Obscure with Michael Ian Black'
+        htmlUrl:  'https://art19.com/shows/obscure'
+        xmlUrl:   'https://rss.art19.com/obscure'
+
+    - podcast:
+        title:    'Literature and History'
+        htmlUrl:  'https://literatureandhistory.com/'
+        xmlUrl:   'https://literatureandhistory.libsyn.com/rss'
+
+    - podcast:
+        title:    'LeVar Burton Reads'
+        htmlUrl:  'https://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/LDNgBXht'
+
+    - podcast:
+        title:    'The Great Books'
+        htmlUrl:  'https://www.nationalreview.com/podcasts/the-great-books/'
+        xmlUrl:   'https://feeds.simplecast.com/zxeOB9tN'
+
+    - podcast:
+        title:    'Celebrity Memoir Book Club'
+        htmlUrl:  'https://audioboom.com/channels/5097081-celebrity-memoir-book-club'
+        xmlUrl:   'https://audioboom.com/channels/5097081.rss'
+
+    - podcast:
+        title:    'Between the Lines'
+        htmlUrl:  'https://betweenthelinesfictionpodcast.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1811217.rss'
+
+    - podcast:
+        title:    'The Book Pile'
+        htmlUrl:  'https://thebookpile.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1505809.rss'
+
+    - podcast:
+        title:    'Banned Book Club'
+        htmlUrl:  'http://bannedbookclubpodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1421332.rss'
+
+    - podcast:
+        title:    'On the Road with Penguin Classics'
+        htmlUrl:  'https://www.penguin.co.uk/podcasts.html'
+        xmlUrl:   'https://rss.acast.com/on-the-road-with-penguin-classics'
+
+    - podcast:
+        title:    'Book Talk, etc.'
+        htmlUrl:  'http://www.booktalketc.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1749254.rss'
+
