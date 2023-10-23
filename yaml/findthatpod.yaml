@@ -12,6 +12,101 @@ head:
 
 body:
 
+  - issue:    233
+    title:    'Find That Pod #233'
+    pubDate:  '2023-10-20'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Consciously Clueless'
+        htmlUrl:  'https://www.buzzsprout.com/1156151'
+        xmlUrl:   'https://feeds.buzzsprout.com/1156151.rss'
+
+    - podcast:
+        title:    'Terrible Book Club'
+        htmlUrl:  'http://terriblebookclub.com/'
+        xmlUrl:   'https://terriblebooklub.libsyn.com/rss'
+
+    - podcast:
+        title:    'Elucidations'
+        htmlUrl:  'https://elucidations.vercel.app/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/57b498490b5f3f772a76004a'
+
+    - podcast:
+        title:    'In Our Own World'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-in-our-own-world-95154540/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/345cf182-fce1-45ba-a483-ae6d00dbe023/5ccfb987-1cbb-4352-8390-ae6d00dc70c0/podcast.rss'
+
+    - podcast:
+        title:    'Death on the Lot'
+        htmlUrl:  'https://www.sonymusic.com/podcasts/'
+        xmlUrl:   'https://feeds.megaphone.fm/deathatthewing'
+
+
+  - issue:    232
+    title:    'Find That Pod #232'
+    pubDate:  '2023-10-13'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Arnold’s Pump Club'
+        htmlUrl:  'https://schwarzenegger.ck.page/19c6c79315'
+        xmlUrl:   'https://anchor.fm/s/dde7a828/podcast/rss'
+
+    - podcast:
+        title:    'We The Museum'
+        htmlUrl:  'http://wethemuseum.com/'
+        xmlUrl:   'https://feeds.transistor.fm/we-the-museum'
+
+    - podcast:
+        title:    'The Last Soviet'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-the-last-soviet-108523790/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4f05a7eb-1ed7-4b53-8019-af9c01368a92/6f514d4b-3ed7-4f4a-861d-af9c013703a8/podcast.rss'
+
+    - podcast:
+        title:    'City Dweller'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/citydweller'
+        xmlUrl:   'https://anchor.fm/s/5e86ef58/podcast/rss'
+
+    - podcast:
+        title:    'Your Mama’s Kitchen'
+        htmlUrl:  'https://feeds.acast.com/public/shows/michelle-obama-the-light-podcast'
+        xmlUrl:   'https://feeds.acast.com/public/shows/6401362e2dee360011d16890'
+
+  - issue:    231
+    title:    'Find That Pod #231'
+    pubDate:  '2023-10-06'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Lifeblood'
+        htmlUrl:  'http://lifebloodaudiodrama.wordpress.com/'
+        xmlUrl:   'https://anchor.fm/s/dae4ba58/podcast/rss'
+
+    - podcast:
+        title:    'Mistopian'
+        htmlUrl:  'https://www.mistopianpod.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2173588.rss'
+
+    - podcast:
+        title:    'Magnificent Jerk'
+        htmlUrl:  'https://apple.co/MagnificentJerk'
+        xmlUrl:   'https://rss.art19.com/magnificent-jerk'
+
+    - podcast:
+        title:    'Unusual Women'
+        htmlUrl:  'http://www.elementalwomenproductions.com/'
+        xmlUrl:   'https://anchor.fm/s/b9c4aa4/podcast/rss'
+
+    - podcast:
+        title:    'Sports R Dumb'
+        htmlUrl:  'https://redcircle.com/shows/sports-r-dumb'
+        xmlUrl:   'https://feeds.redcircle.com/f922f5b2-4d13-45b2-86f7-a801c0ed690e'
+
+
   - issue:    230
     title:    'Find That Pod #230'
     pubDate:  '2023-09-29'
