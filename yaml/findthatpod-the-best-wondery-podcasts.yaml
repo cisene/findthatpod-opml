@@ -1,0 +1,214 @@
+---
+opml:
+  filename: findthatpod-the-best-wondery-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod-the-best-wondery-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Wondery Podcasts'
+  dateCreated: '2023-10-16 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Wondery Podcasts'
+    pubDate:  '2023-10-16'
+    htmlUrl:  'https://findthatpod.com/best-wondery-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Business Wars'
+        htmlUrl:  'https://www.wondery.com/shows/business-wars/'
+        xmlUrl:   'https://rss.art19.com/business-wars'
+
+    - podcast:
+        title:    'WeCrashed'
+        htmlUrl:  'https://wondery.com/shows/we-crashed/'
+        xmlUrl:   'https://rss.art19.com/wecrashed'
+
+    - podcast:
+        title:    'How I Built This'
+        htmlUrl:  'https://wondery.com/shows/how-i-built-this/'
+        xmlUrl:   'https://rss.art19.com/how-i-built-this'
+
+    - podcast:
+        title:    'Secret Sauce'
+        htmlUrl:  'https://wondery.com/shows/Secret-Sauce/'
+        xmlUrl:   'https://rss.art19.com/secret-sauce'
+
+    - podcast:
+        title:    'Spellcaster: The Fall of Sam Bankman-Fried'
+        htmlUrl:  'https://wondery.com/shows/spellcaster/'
+        xmlUrl:   'https://rss.art19.com/spellcaster'
+
+    - podcast:
+        title:    'American History Tellers'
+        htmlUrl:  'https://wondery.com/shows/american-history-tellers/'
+        xmlUrl:   'https://rss.art19.com/american-history-tellers'
+
+    - podcast:
+        title:    'Tides of History'
+        htmlUrl:  'https://wondery.com/shows/tides-of-history/'
+        xmlUrl:   'https://rss.art19.com/tides-of-history'
+
+    - podcast:
+        title:    'The Fall of Rome Podcast'
+        htmlUrl:  'https://wondery.com/shows/the-fall-of-rome-podcast/'
+        xmlUrl:   'https://rss.art19.com/the-fall-of-rome-podcast'
+
+    - podcast:
+        title:    'The History Chicks'
+        htmlUrl:  'https://wondery.com/shows/history-chicks/'
+        xmlUrl:   'https://rss.art19.com/the-history-chicks'
+
+    - podcast:
+        title:    '1865'
+        htmlUrl:  'https://wondery.com/shows/1865/'
+        xmlUrl:   'https://rss.art19.com/1865'
+
+    - podcast:
+        title:    'Dr. Death'
+        htmlUrl:  'https://wondery.com/shows/dr-death/'
+        xmlUrl:   'https://rss.art19.com/dr-death'
+
+    - podcast:
+        title:    'Man in The Window: The Golden State Killer'
+        htmlUrl:  'https://wondery.com/shows/man-in-the-window/'
+        xmlUrl:   'https://anchor.fm/s/158b0424/podcast/rss'
+
+    - podcast:
+        title:    'Spy Affair'
+        htmlUrl:  'https://wondery.com/shows/spy-affair'
+        xmlUrl:   'https://rss.art19.com/spy-affair'
+
+    - podcast:
+        title:    'The Vanished Podcast'
+        htmlUrl:  'https://wondery.com/shows/the-vanished-podcast/'
+        xmlUrl:   'https://rss.art19.com/the-vanished-podcast-wondery'
+
+    - podcast:
+        title:    'The Generation Why Podcast'
+        htmlUrl:  'https://wondery.com/shows/generation-why/'
+        xmlUrl:   'https://rss.art19.com/generation-why-podcast'
+
+    - podcast:
+        title:    'This is Actually Happening'
+        htmlUrl:  'https://wondery.com/shows/this-is-actually-happening/'
+        xmlUrl:   'https://rss.art19.com/this-is-actually-happening-podcast'
+
+    - podcast:
+        title:    'The Apology Line'
+        htmlUrl:  'https://wondery.com/shows/the-apology-line/'
+        xmlUrl:   'https://rss.art19.com/apology-line'
+
+    - podcast:
+        title:    'Guru: The Dark Side of Enlightenment'
+        htmlUrl:  'https://wondery.com/shows/guru/'
+        xmlUrl:   'https://rss.art19.com/guru'
+
+    - podcast:
+        title:    'Persona: The French Deception'
+        htmlUrl:  'http://wondery.com/shows/persona/'
+        xmlUrl:   'https://rss.art19.com/the-french-deception'
+
+    - podcast:
+        title:    'Scamfluencers'
+        htmlUrl:  'http://wondery.com/shows/scamfluencers/'
+        xmlUrl:   'https://rss.art19.com/scamfluencers'
+
+    - podcast:
+        title:    'Against the Odds'
+        htmlUrl:  'https://wondery.com/shows/against-the-odds/'
+        xmlUrl:   'https://rss.art19.com/against-the-odds'
+
+    - podcast:
+        title:    'Even the Rich'
+        htmlUrl:  'https://www.wondery.com/shows/even-the-rich'
+        xmlUrl:   https://rss.art19.com/even-the-rich'
+
+    - podcast:
+        title:    'Fed Up'
+        htmlUrl:  'http://wondery.com/shows/fed-up/'
+        xmlUrl:   'https://rss.art19.com/fedup'
+
+    - podcast:
+        title:    'Twin Flames'
+        htmlUrl:  'https://wondery.com/shows/twin-flames/'
+        xmlUrl:   'https://rss.art19.com/twin-flames'
+
+    - podcast:
+        title:    'Operator'
+        htmlUrl:  'https://wondery.com/shows/operator/'
+        xmlUrl:   'https://rss.art19.com/operator'
+
+    - podcast:
+        title:    'Diss and Tell'
+        htmlUrl:  'https://wondery.com/shows/diss-and-tell/'
+        xmlUrl:   'https://rss.art19.com/diss-and-tell'
+
+    - podcast:
+        title:    'American Innovations'
+        htmlUrl:  'http://wondery.com/shows/american-innovations'
+        xmlUrl:   'https://rss.art19.com/american-innovations-podcast'
+
+    - podcast:
+        title:    'Sean Carroll’s Mindscape'
+        htmlUrl:  'https://www.preposterousuniverse.com/podcast/'
+        xmlUrl:   'https://rss.art19.com/sean-carrolls-mindscape'
+
+    - podcast:
+        title:    'Imagined Life'
+        htmlUrl:  'https://wondery.com/shows/Imagined-Life/'
+        xmlUrl:   'https://rss.art19.com/imagined-life'
+
+    - podcast:
+        title:    'Academy'
+        htmlUrl:  'http://wondery.com/shows/academy'
+        xmlUrl:   'https://rss.art19.com/academy'
+
+    - podcast:
+        title:    'The Lead'
+        htmlUrl:  'https://wondery.com/shows/the-lead/'
+        xmlUrl:   'https://rss.art19.com/the-lead'
+
+    - podcast:
+        title:    'Life is Short with Justin Long'
+        htmlUrl:  'https://wondery.com/shows/justin-long/'
+        xmlUrl:   'https://rss.art19.com/life-is-short-with-justin-long'
+
+    - podcast:
+        title:    'Bad Dates with Jameela Jamil'
+        htmlUrl:  'https://wondery.com/shows/bad-dates/'
+        xmlUrl:   'https://rss.art19.com/bad-dates'
+
+    - podcast:
+        title:    'Smartless'
+        htmlUrl:  'https://wondery.com/shows/smartless/'
+        xmlUrl:   'https://rss.art19.com/smartless'
+
+    - podcast:
+        title:    'The Big Flop'
+        htmlUrl:  'https://wondery.com/shows/the-big-flop/'
+        xmlUrl:   'https://rss.art19.com/the-big-flop'
+
+    - podcast:
+        title:    'I Love My Kid, But…'
+        htmlUrl:  'https://wondery.com/shows/i-love-my-kid-but/'
+        xmlUrl:   'https://rss.art19.com/i-love-my-kid-but'
+
+    - podcast:
+        title:    'Dying For Sex'
+        htmlUrl:  'https://wondery.com/shows/Dying-For-Sex/'
+        xmlUrl:   'https://rss.art19.com/dying-for-sex'
+
+    - podcast:
+        title:    'Daily Stoic'
+        htmlUrl:  'https://wondery.com/shows/the-daily-stoic/'
+        xmlUrl:   'https://rss.art19.com/the-daily-stoic'
+
+    - podcast:
+        title:    'What Should I Read Next?'
+        htmlUrl:  'http://whatshouldireadnextpodcast.com/'
+        xmlUrl:   'https://rss.art19.com/what-should-i-read-next'
