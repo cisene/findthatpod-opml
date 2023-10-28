@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    234
+    title:    'Find That Pod #234'
+    pubDate:  '2023-10-27'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Love Talker'
+        htmlUrl:  'https://redcircle.com/shows/the-love-talker'
+        xmlUrl:   'https://feeds.redcircle.com/a9a5b6cb-1f16-40e6-a761-1f6b9e544f06'
+
+    - podcast:
+        title:    'Fuzzy Memories'
+        htmlUrl:  'https://fuzzy-memories.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/fuzzy-memories/'
+
+    - podcast:
+        title:    'Tetragrammaton with Rick Rubin'
+        htmlUrl:  'https://tetragrammaton.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/tetragrammaton'
+
+    - podcast:
+        title:    'The Pursuit of Dadliness'
+        htmlUrl:  'https://the-pursuit-of-dadliness.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/lfAky6hU'
+
+    - podcast:
+        title:    'The Doctor’s Kitchen Podcast'
+        htmlUrl:  'https://thedoctorskitchen.com/'
+        xmlUrl:   'https://rss.acast.com/the-doctors-kitchen-podcast'
+
   - issue:    233
     title:    'Find That Pod #233'
     pubDate:  '2023-10-20'
