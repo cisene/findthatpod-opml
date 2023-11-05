@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    235
+    title:    'Find That Pod #235'
+    pubDate:  '2023-11-03'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Sandcastles'
+        htmlUrl:  'https://www.wavemakermedia.org/'
+        xmlUrl:   'https://feeds.transistor.fm/sandcastles'
+
+    - podcast:
+        title:    'Marketing Over Coffee'
+        htmlUrl:  'http://www.marketingovercoffee.com/'
+        xmlUrl:   'https://marketingovercoffee.libsyn.com/rss'
+
+    - podcast:
+        title:    'Hollywood Gold'
+        htmlUrl:  'https://www.spreaker.com/show/hollywood-gold'
+        xmlUrl:   'https://www.spreaker.com/show/5670584/episodes/feed'
+
+    - podcast:
+        title:    'Ctrl Alt Delete'
+        htmlUrl:  'http://emmagannon.co.uk/'
+        xmlUrl:   'http://rss.acast.com/ctrlaltdelete'
+
+    - podcast:
+        title:    'The Game Plan'
+        htmlUrl:  'https://www.thegameplan.show/'
+        xmlUrl:   'https://anchor.fm/s/93ede5c/podcast/rss'
+
   - issue:    234
     title:    'Find That Pod #234'
     pubDate:  '2023-10-27'
