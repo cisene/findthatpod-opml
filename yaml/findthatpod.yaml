@@ -12,6 +12,68 @@ head:
 
 body:
 
+  - issue:    237
+    title:    'Find That Pod #237'
+    pubDate:  '2023-11-17'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Hovering'
+        htmlUrl:  'https://www.hoveringpodcast.com.au/'
+        xmlUrl:   'https://media.rss.com/hovering/feed.xml'
+
+    - podcast:
+        title:    'The Stupid History Minute'
+        htmlUrl:  'https://www.spreaker.com/show/the-stupid-history-minute'
+        xmlUrl:   'https://www.spreaker.com/show/4965707/episodes/feed'
+
+    - podcast:
+        title:    'Love, Janessa'
+        htmlUrl:  'https://www.cbc.ca/listen/cbc-podcasts'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/lovejanessa.xml'
+
+    - podcast:
+        title:    'Script Apart'
+        htmlUrl:  'https://www.scriptapart.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1160435.rss'
+
+    - podcast:
+        title:    'What I Had Heard Was'
+        htmlUrl:  'https://wihhw.com/'
+        xmlUrl:   'https://anchor.fm/s/1ff9dda4/podcast/rss'
+
+  - issue:    236
+    title:    'Find That Pod #236'
+    pubDate:  '2023-11-10'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'What Now? with Trevor Noah'
+        htmlUrl:  ''
+        xmlUrl:   'https://feeds.megaphone.fm/GLT9681566788'
+
+    - podcast:
+        title:    'The Bestseller Experiment'
+        htmlUrl:  'https://bestsellerexperiment.com/'
+        xmlUrl:   'https://bestsellerexperiment.libsyn.com/rss'
+
+    - podcast:
+        title:    'Anthrodish'
+        htmlUrl:  'https://anthrodish.com/'
+        xmlUrl:   'https://anthrodish.libsyn.com/rss'
+
+    - podcast:
+        title:    'Worlds Turned Upside Down'
+        htmlUrl:  'https://www.r2studios.org/show/worlds-turned-upside-down/'
+        xmlUrl:   'https://feeds.libsyn.com/480009/rss'
+
+    - podcast:
+        title:    'MarsCorp'
+        htmlUrl:  'http://definitelyhuman.co.uk/'
+        xmlUrl:   'http://rss.acast.com/marscorp'
+
   - issue:    235
     title:    'Find That Pod #235'
     pubDate:  '2023-11-03'
