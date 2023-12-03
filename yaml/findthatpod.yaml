@@ -12,6 +12,68 @@ head:
 
 body:
 
+  - issue:    239
+    title:    'Find That Pod #239'
+    pubDate:  '2023-12-01'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Don’t Drink the Milk'
+        htmlUrl:  'https://www.dw.com/en/dont-drink-the-milk/program-66631697'
+        xmlUrl:   'https://rss.dw.com/xml/podcast_dont_drink_the_milk'
+
+    - podcast:
+        title:    'IAP Radio'
+        htmlUrl:  'https://www.podomatic.com/podcasts/baddrunks'
+        xmlUrl:   'https://baddrunks.podomatic.com/rss2.xml'
+
+    - podcast:
+        title:    'Media Storm'
+        htmlUrl:  'https://mediastormpodcast.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/617688f40abaa9001a388c5a'
+
+    - podcast:
+        title:    'Connection Request'
+        htmlUrl:  'https://connectrequest.podbean.com/'
+        xmlUrl:   'https://connectrequest.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Borrowed and Banned'
+        htmlUrl:  'https://www.bklynlibrary.org/podcasts/introducing-borrowed-and'
+        xmlUrl:   'https://feeds.libsyn.com/165497/rss'
+
+  - issue:    238
+    title:    'Find That Pod #238'
+    pubDate:  '2023-11-24'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Audit'
+        htmlUrl:  'https://the.levernews.com/podcasts/#the-audit'
+        xmlUrl:   'https://feeds.transistor.fm/the-audit'
+
+    - podcast:
+        title:    'Age of Miracles'
+        htmlUrl:  'https://ageofmiracles.co/'
+        xmlUrl:   'https://feeds.megaphone.fm/ageofmiracles'
+
+    - podcast:
+        title:    'A CRISPR Bite'
+        htmlUrl:  'https://a-crispr-bite.simplecast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2240386.rss'
+
+    - podcast:
+        title:    'Forward Obsessed'
+        htmlUrl:  'https://forwardobsessed.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/forwardobsessed/feed.xml'
+
+    - podcast:
+        title:    'Well That’s Interesting'
+        htmlUrl:  'https://anchor.fm/wellthatsinteresting'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML8460025943'
+
   - issue:    237
     title:    'Find That Pod #237'
     pubDate:  '2023-11-17'
