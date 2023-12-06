@@ -1,7 +1,7 @@
 ---
 opml:
   filename: findthatpod.opml
-  origin: https://b19.se/data/findthatpod.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod.opml
 
 head:
   title: 'FindThatPod - Podcast Collection'

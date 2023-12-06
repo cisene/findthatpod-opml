@@ -57,7 +57,7 @@ def ProcessEach():
     opml.append(f"<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
     
     # Source reference
-    opml.append(f"<!-- Source: https://b19.se/data/{opml_filename} -->")
+    opml.append(f"<!-- Source: https://b19.se/data/opml/findthatpod/{opml_filename} -->")
     
     # Begin OPML
     opml.append(f"<opml version=\"2.0\">")
@@ -132,7 +132,7 @@ def ProcessItems():
 
   opml = []
   opml.append(f"<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
-  opml.append(f"<!-- Source: https://b19.se/data/findthatpod.opml -->")
+  opml.append(f"<!-- Source: https://b19.se/data/findthatpod/findthatpod.opml -->")
   opml.append(f"<opml version=\"2.0\">")
 
   head_title = config['head']['title']
