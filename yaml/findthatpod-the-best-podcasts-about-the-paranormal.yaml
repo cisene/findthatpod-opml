@@ -1,0 +1,110 @@
+---
+opml:
+  filename: findthatpod-the-best-pocasts-about-the-paranormal.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-the-paranormal.opml
+
+head:
+  title: 'FindThatPod - The Best Podcasts About the Paranormal'
+  dateCreated: '2023-08-09 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Podcasts About the Paranormal'
+    pubDate:  '2023-08-09'
+    htmlUrl:  'https://findthatpod.com/the-best-podcasts-about-the-paranormal/'
+    contents:
+
+    - podcast:
+        title:    'New England Legends Podcast'
+        htmlUrl:  'https://ournewenglandlegends.com/'
+        xmlUrl:   'https://newenglandlegends.libsyn.com/rss'
+
+    - podcast:
+        title:    'Monsters Among Us'
+        htmlUrl:  'https://www.monstersamonguspodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD6797102910'
+
+    - podcast:
+        title:    'Unexplained'
+        htmlUrl:  'https://art19.com/shows/unexplained-podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4be3ef45-824a-44b3-b437-b038010038fc/3eb75c81-5ed8-4148-bb7b-b03801003947/podcast.rss'
+
+    - podcast:
+        title:    'HauntedAF'
+        htmlUrl:  'https://www.hauntedaf.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/246013.rss'
+
+    - podcast:
+        title:    'Bigfoot Collectors Club'
+        htmlUrl:  'https://www.woodelfmedia.com/shows/bigfootcollectorsclub'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD9168650163'
+
+    - podcast:
+        title:    'The Strange and Unusual Podcast'
+        htmlUrl:  'https://wondery.com/shows/the-strange-and-unusual-podcast/'
+        xmlUrl:   'https://rss.art19.com/the-strange-and-unusual-podcast'
+
+    - podcast:
+        title:    'Ghost Town: Strange History, True Crime & the Paranormal'
+        htmlUrl:  'https://www.ghosttownpod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/STU2614667164'
+
+    - podcast:
+        title:    'Quite Unusual'
+        htmlUrl:  'https://www.quiteunusualpod.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/968464.rss'
+
+    - podcast:
+        title:    'Astonishing Legends'
+        htmlUrl:  'http://www.astonishinglegends.com/'
+        xmlUrl:   'https://audioboom.com/channels/4322549.rss'
+
+    - podcast:
+        title:    'Two Girls One Ghost'
+        htmlUrl:  'https://twogirlsoneghost.com/'
+        xmlUrl:   'https://audioboom.com/channels/4935409.rss'
+
+    - podcast:
+        title:    'Ghosted! by Roz Hernandez'
+        htmlUrl:  'https://wondery.com/shows/ghosted-by-roz-hernandez/'
+        xmlUrl:   'https://rss.art19.com/ghosted'
+
+    - podcast:
+        title:    'This Paranormal Life'
+        htmlUrl:  'https://thisparanormallife.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/632b315e017d670016959dad'
+
+    - podcast:
+        title:    'Talking Strange Paranormal Podcast'
+        htmlUrl:  'https://denofgeek.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/DOGL2715212377'
+
+    - podcast:
+        title:    'The Grave Talks'
+        htmlUrl:  'http://www.thegravetalks.com/'
+        xmlUrl:   'https://audioboom.com/channels/4943119.rss'
+
+    - podcast:
+        title:    'Supernatural with Ashley Flowers'
+        htmlUrl:  'https://www.iheart.com/podcast/409-supernatural-with-ashley-f-58406346/'
+        xmlUrl:   'https://feeds.simplecast.com/kC8PV5p6'
+
+    - podcast:
+        title:    'Lore'
+        htmlUrl:  'http://www.lorepodcast.com/about'
+        xmlUrl:   'https://feeds.libsyn.com/65267/rss'
+
+    - podcast:
+        title:    'Blurry Photos'
+        htmlUrl:  'https://www.spreaker.com/show/blurry-photos_1'
+        xmlUrl:   'https://www.spreaker.com/show/5857485/episodes/feed'
+
+    - podcast:
+        title:    'The Cryptid Factor'
+        htmlUrl:  'http://www.thecryptidfactor.com/'
+        xmlUrl:   'https://audioboom.com/channels/4961702.rss'
+
