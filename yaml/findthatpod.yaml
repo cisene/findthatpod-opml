@@ -12,6 +12,38 @@ head:
 
 body:
 
+  - issue:    240
+    title:    'Find That Pod #240'
+    pubDate:  '2023-12-08'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'In Retrospect'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-in-retrospect-with-susie-122206786/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/390af18b-ae50-4cce-883c-b060011a8cb8/7668b2d4-af38-4a02-a6b8-b0600131f233/podcast.rss'
+
+    - podcast:
+        title:    'Freelance to Founder'
+        htmlUrl:  'http://millo.co/podcasts/freelancetofounder'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG2662696523'
+
+    - podcast:
+        title:    'Dan Snow’s History Hit'
+        htmlUrl:  'https://www.historyhit.com/podcasts/'
+        xmlUrl:   'http://rss.acast.com/dansnowshistoryhit'
+
+    - podcast:
+        title:    'The AI Breakdown'
+        htmlUrl:  'https://sites.libsyn.com/468519'
+        xmlUrl:   'https://feeds.megaphone.fm/NLWLLC5739737478'
+
+    - podcast:
+        title:    'Outgrow The Grind'
+        htmlUrl:  'https://www.outgrowthegrind.co/'
+        xmlUrl:   'https://outgrowthegrind.libsyn.com/rss'
+
+
   - issue:    239
     title:    'Find That Pod #239'
     pubDate:  '2023-12-01'
