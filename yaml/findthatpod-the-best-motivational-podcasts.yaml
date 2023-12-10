@@ -1,0 +1,210 @@
+---
+opml:
+  filename: findthatpod-the-best-motivational-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-motivational-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Motivational Podcasts'
+  dateCreated: '2023-11-01 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'The Best Motivational Podcasts'
+    pubDate:  '2023-11-01'
+    htmlUrl:  'https://findthatpod.com/best-motivational-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Tiny Leaps, Big Changes'
+        htmlUrl:  'http://tlbc.co/'
+        xmlUrl:   'https://anchor.fm/s/bd0fbb4/podcast/rss'
+
+    - podcast:
+        title:    'The School of Greatness'
+        htmlUrl:  'https://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/AAvup9Zz'
+
+    - podcast:
+        title:    'Date Yourself Instead'
+        htmlUrl:  'https://stan.store/dateyourselfinstead/p/get-started-with-this-amazing-course-xfj81'
+        xmlUrl:   'https://anchor.fm/s/b5d1c468/podcast/rss'
+
+    - podcast:
+        title:    'The Tao of Self-Confidence'
+        htmlUrl:  'https://thetaoofselfconfidence.com/'
+        xmlUrl:   'https://feeds.simplecast.com/bhwNv2ez'
+
+    - podcast:
+        title:    'Good Life Project'
+        htmlUrl:  'https://wondery.com/shows/Good-Life-Project/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/61de0665cc27c20014ea15cf'
+
+    - podcast:
+        title:    'The Goal Digger Podcast'
+        htmlUrl:  'http://www.goaldiggerpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/YAP4895144602'
+
+    - podcast:
+        title:    'Weekly Motivation by Ben Lionel Scott'
+        htmlUrl:  'http://benlionelscott.com/'
+        xmlUrl:   'https://benlionelscott.com/_podcast/_.xml'
+
+    - podcast:
+        title:    'The Daily Stoic'
+        htmlUrl:  'https://wondery.com/shows/the-daily-stoic/'
+        xmlUrl:   'https://rss.art19.com/the-daily-stoic'
+
+    - podcast:
+        title:    'The Science of Success'
+        htmlUrl:  'https://art19.com/shows/the-science-of-success'
+        xmlUrl:   'https://rss.art19.com/the-science-of-success'
+
+    - podcast:
+        title:    'The Mindvalley Show with Vishen'
+        htmlUrl:  'http://www.mindvalley.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EVOLD2756221281'
+
+    - podcast:
+        title:    'Jocko Podcast'
+        htmlUrl:  'https://redcircle.com/shows/jocko-podcast'
+        xmlUrl:   'https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74'
+
+    - podcast:
+        title:    'Help Me Be Me'
+        htmlUrl:  'https://www.yaywithme.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/HSW9496253302'
+
+    - podcast:
+        title:    'Outgrow The Grind'
+        htmlUrl:  'https://www.outgrowthegrind.co/'
+        xmlUrl:   'https://outgrowthegrind.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Daily Motivation'
+        htmlUrl:  'http://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/fFPK3rs_'
+
+    - podcast:
+        title:    'Ten Percent Happier with Dan Harris'
+        htmlUrl:  'https://www.tenpercent.com/podcast'
+        xmlUrl:   'https://rss.art19.com/ten-percent-happier'
+
+    - podcast:
+        title:    'The Mindset Mentor'
+        htmlUrl:  'http://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/rpKQEwel'
+
+    - podcast:
+        title:    'Meaningful Work, Meaningful Life Podcast'
+        htmlUrl:  'https://www.francinebeleyi.com/podcast/'
+        xmlUrl:   'https://mwml.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Side Hustle Pro'
+        htmlUrl:  'https://sidehustlepro.co/'
+        xmlUrl:   'https://sidehustlepro.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Positive Mindset Podcast'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/positive-mindset-podcast'
+        xmlUrl:   'https://anchor.fm/s/29c9b48/podcast/rss'
+
+    - podcast:
+        title:    'The Nick Bare Podcast'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/thenickbarepodcast'
+        xmlUrl:   'https://anchor.fm/s/88a9008c/podcast/rss'
+
+    - podcast:
+        title:    'The Lifehack Show'
+        htmlUrl:  'http://www.lifehack.org/'
+        xmlUrl:   'https://anchor.fm/s/bfb8f50/podcast/rss'
+
+    - podcast:
+        title:    'Impact Theory with Tom Bilyeu'
+        htmlUrl:  'https://www.spreaker.com/show/impact-theory-with-tom-bilyeu'
+        xmlUrl:   'https://feeds.megaphone.fm/ITLLC7422673968'
+
+    - podcast:
+        title:    'Hurdle'
+        htmlUrl:  'http://hurdle.us/'
+        xmlUrl:   'https://anchor.fm/s/c154238/podcast/rss'
+
+    - podcast:
+        title:    'On Purpose with Jay Shetty'
+        htmlUrl:  'https://www.iheart.com/podcast/867-on-purpose-with-jay-shetty-30589432/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32f1779e-bc01-4d36-89e6-afcb01070c82/e0c8382f-48d4-42bb-89d5-afcb01075cb4/podcast.rss'
+
+    - podcast:
+        title:    'Happier with Gretchen Rubin'
+        htmlUrl:  'http://www.gretchenrubin.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/happier'
+
+    - podcast:
+        title:    'Optimal Living Daily: Healthy Habits & Motivation'
+        htmlUrl:  'https://oldpodcast.com/'
+        xmlUrl:   'https://anchor.fm/s/bc72238/podcast/rss'
+
+    - podcast:
+        title:    'How to Fail With Elizabeth Day'
+        htmlUrl:  'https://www.spreaker.com/show/how-to-fail-with-elizabeth-day_1'
+        xmlUrl:   'https://podcast.global.com/show/5309142/episodes/feed'
+
+    - podcast:
+        title:    'The Rich Roll Podcast'
+        htmlUrl:  'https://www.richroll.com/blog/'
+        xmlUrl:   'https://feeds.megaphone.fm/the-rich-roll-podcast'
+
+    - podcast:
+        title:    'The Jordan Harbinger Show'
+        htmlUrl:  'https://www.jordanharbinger.com/'
+        xmlUrl:   'http://www.podcastone.com/podcast?categoryID2=1237'
+
+    - podcast:
+        title:    'The Tim Ferriss Show'
+        htmlUrl:  'https://tim.blog/podcast'
+        xmlUrl:   'https://rss.art19.com/tim-ferriss-show'
+
+    - podcast:
+        title:    'Rise Together Podcast'
+        htmlUrl:  'https://mrdavehollis.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/risetogether'
+
+    - podcast:
+        title:    'On Being with Krista Tippett'
+        htmlUrl:  'https://onbeing.org/'
+        xmlUrl:   'https://feeds.simplecast.com/AuAxH_Bf'
+
+    - podcast:
+        title:    'The One You Feed'
+        htmlUrl:  'http://oneyoufeed.net/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1d49cbad-dffb-4b8f-bea4-aea001380113/2f40a9d9-0fdd-49fb-8444-aea001380134/podcast.rss'
+
+    - podcast:
+        title:    'Motivation Daily by Motiversity'
+        htmlUrl:  'https://motiversity.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/6114541c545d640012cfb625'
+
+    - podcast:
+        title:    'We Can Do Hard Things with Glennon Doyle'
+        htmlUrl:  'http://wecandohardthingspodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/wcdht'
+
+    - podcast:
+        title:    'Deep Questions with Cal Newport'
+        htmlUrl:  'https://www.buzzsprout.com/1121972'
+        xmlUrl:   'https://feeds.buzzsprout.com/1121972.rss'
+
+    - podcast:
+        title:    'The Happiness Lab with Dr. Laurie Santos'
+        htmlUrl:  'https://www.pushkin.fm/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss'
+
+    - podcast:
+        title:    'The Genius Life'
+        htmlUrl:  'http://maxlugavere.com/podcast-1'
+        xmlUrl:   'https://thegeniuslife.libsyn.com/rss'
+
