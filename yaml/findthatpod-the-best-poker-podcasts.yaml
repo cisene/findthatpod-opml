@@ -1,0 +1,124 @@
+---
+opml:
+  filename: findthatpod-the-best-poker-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-poker-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Poker Podcasts'
+  dateCreated: '2023-11-14 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'The Best Poker Podcasts'
+    pubDate:  '2023-11-14'
+    htmlUrl:  'https://findthatpod.com/best-poker-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Ante Up Poker Magazine'
+        htmlUrl:  'https://anteupmagazine.com/'
+        xmlUrl:   'https://anteupmagazine.com/feed/podcast/'
+
+    - podcast:
+        title:    'Cracking Aces'
+        htmlUrl:  'https://www.barstoolsports.com/shows/87388113/cracking-aces'
+        xmlUrl:   'https://crackingaces.libsyn.com/rss'
+
+    - podcast:
+        title:    'Only Friends'
+        htmlUrl:  'https://solveforwhy.io/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:434343945/sounds.rss'
+
+    - podcast:
+        title:    'Just Hands Poker'
+        htmlUrl:  'http://www.justhandspoker.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/52817.rss'
+
+    - podcast:
+        title:    'Third Man Walking'
+        htmlUrl:  'https://crushlivepoker.com/podcasts/category/third-man-walking'
+        xmlUrl:   'https://crushlivepoker.com/podcasts/rss/category/third-man-walking'
+
+    - podcast:
+        title:    'DAT Poker Podcast'
+        htmlUrl:  'https://www.youtube.com/watch?v=5kCC3pG9cS0&list=PL3N4X2KgtefdQ8BHnZQ8aEu4dHBqFgfyd&pp=iAQB'
+        xmlUrl:   'https://datpodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Poker Grid'
+        htmlUrl:  'https://thepokergrid.com/'
+        xmlUrl:   'https://thepokergrid.com/feed/podcast/'
+
+    - podcast:
+        title:    'Poker Stories'
+        htmlUrl:  'http://www.cardplayer.com/'
+        xmlUrl:   'https://feeds.simplecast.com/lCCroP2Z'
+
+    - podcast:
+        title:    'The Breakdown Poker Podcast with The Poker Guys'
+        htmlUrl:  'https://soundcloud.com/user-594538171'
+        xmlUrl:   'https://anchor.fm/s/91cfeae0/podcast/rss'
+
+    - podcast:
+        title:    'Crush Live Poker Podcast'
+        htmlUrl:  'https://crushlivepoker.com/podcasts/category/free-clp-podcast'
+        xmlUrl:   'https://crushlivepoker.com/podcasts/rss/category/free-clp-podcast'
+
+    - podcast:
+        title:    'Poker On The Mind Podcast'
+        htmlUrl:  'https://www.spreaker.com/show/poker-on-the-mind-podcast'
+        xmlUrl:   'https://www.spreaker.com/show/2232661/episodes/feed'
+
+    - podcast:
+        title:    'Poker in the Ears'
+        htmlUrl:  'https://www.pokerstars.com/podcast/'
+        xmlUrl:   'http://s1.rationalcdn.com/vendors/tv/podcasts/eptnotlive.rss'
+
+    - podcast:
+        title:    'Upswing Poker Level-Up'
+        htmlUrl:  'https://www.buzzsprout.com/2098393'
+        xmlUrl:   'https://feeds.buzzsprout.com/2098393.rss'
+
+    - podcast:
+        title:    'Smart Poker Study Podcast'
+        htmlUrl:  'http://www.smartpokerstudy.com/'
+        xmlUrl:   'https://smartpokerstudy.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Chip Race'
+        htmlUrl:  'https://timbre-player.sharp-stream.com/embed/feed/podcast_99'
+        xmlUrl:   'https://feeds.sharp-stream.com/content/the_chip_race_podcast/feed-files/the_chip_race.xml'
+
+    - podcast:
+        title:    'The Heart of Poker'
+        htmlUrl:  'https://karascott.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/karascott/feed.xml'
+
+    - podcast:
+        title:    'The Tournament Poker Edge Podcast'
+        htmlUrl:  'http://www.tournamentpokeredge.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2642.rss'
+
+    - podcast:
+        title:    'The Poker Zoo Podcast'
+        htmlUrl:  'https://persuadeo.nl/'
+        xmlUrl:   'https://persuadeo.nl/feed/podcast/'
+
+    - podcast:
+        title:    'Chasing Poker Greatness'
+        htmlUrl:  'https://chasingpokergreatness.com/'
+        xmlUrl:   'https://www.spreaker.com/show/4098476/episodes/feed'
+
+    - podcast:
+        title:    'Thinking Poker'
+        htmlUrl:  'https://www.thinkingpoker.net/blog/'
+        xmlUrl:   'https://feeds.feedburner.com/ThinkingPokerPodcastFeed'
+
+    - podcast:
+        title:    'The Red Chip Poker Podcast'
+        htmlUrl:  'https://redchippoker.com/'
+        xmlUrl:   'https://redchippoker.libsyn.com/rss'
