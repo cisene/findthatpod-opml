@@ -30,6 +30,93 @@ def formatDateString(data):
   datestr = dt.strftime("%a, %d %b %Y %H:%M:%S")
   return datestr
 
+def ProcessLast():
+  global config
+
+  if config == None:
+    print("config is empty")
+    exit(0)
+
+  for issue in config['body']:
+    opml = []
+
+    opml_filename = f"findthatpod-issue-{issue['issue']:03}.opml"
+
+    opml_fullpath = f"../{opml_filename}"
+
+    if(os.path.isfile(opml_fullpath)):
+      continue
+
+    # Declare XML
+    opml.append(f"<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
+    
+    # Source reference
+    opml.append(f"<!-- Source: https://b19.se/data/opml/findthatpod/{opml_filename} -->")
+    
+    # Begin OPML
+    opml.append(f"<opml version=\"2.0\">")
+
+    # Begin head
+    opml.append(f"  <head>");
+
+    # Title
+    opml.append(f"    <title>Find That Pod #{issue['issue']:03}</title>")
+    
+    # URL
+    opml.append(f"    <url>{config['head']['url']}</url>")
+
+    # Date created
+    opml.append(f"    <dateCreated>{formatDateString(issue['pubDate'])} +0100</dateCreated>")
+
+    # Date modified
+    opml.append(f"    <dateModified>{formatDateString(issue['pubDate'])} +0100</dateModified>")
+
+    # OwnerName
+    opml.append(f"    <ownerName>{htmlEncode(config['head']['ownerName'])}</ownerName>")
+
+    # OwnerEmail
+    opml.append(f"    <ownerEmail>{htmlEncode(config['head']['ownerEmail'])}</ownerEmail>")
+
+    # End head
+    opml.append(f"  </head>");
+
+    # Begin body
+    opml.append(f"  <body>");
+
+
+    file_creation_time = f"{formatDateString(issue['pubDate'])} +0100"
+    file_ctime = int( datetime.strptime(file_creation_time, '%a, %d %b %Y %H:%M:%S %z').timestamp() )
+
+    if issue['htmlUrl'] != None:
+      opml.append(f"    <outline text=\"Find That Pod #{issue['issue']:03}\" htmlUrl=\"{htmlEncode(issue['htmlUrl'])}\" dateCreated=\"{formatDateString(issue['pubDate'])} +0100\">")
+    else:
+      opml.append(f"    <outline text=\"Find That Pod #{issue['issue']:03}\" dateCreated=\"{formatDateString(issue['pubDate'])} +0100\">")
+
+    # Items
+    for item in issue['contents']:
+      podcast = item['podcast']
+      opml.append(f"      <outline type=\"link\" version=\"RSS\" language=\"en\" title=\"{htmlEncode(podcast['title'])}\" text=\"{htmlEncode(podcast['title'])}\" htmlUrl=\"{htmlEncode(podcast['htmlUrl'])}\" xmlUrl=\"{htmlEncode(podcast['xmlUrl'])}\" />")
+
+    # end outline
+    opml.append(f"    </outline>")
+
+    # enn body
+    opml.append(f"  </body>");
+
+    # end OPML
+    opml.append(f"</opml>");
+
+    opml_rendered = "\n".join(opml)
+
+    with open(opml_fullpath, "w") as f:
+      f.write(opml_rendered)
+
+    print(f"Wrote {opml_fullpath} ..")
+
+    # Adjust creation/modified time to episode pubDate
+    os.utime(opml_fullpath, (file_ctime, file_ctime))
+
+    break
 
 def ProcessEach():
   global config
@@ -226,6 +313,8 @@ def ProcessItems():
   with open(OUTPUT_FILENAME, "w") as f:
     f.write(opml_rendered)
 
+  print(f"Wrote {OUTPUT_FILENAME} ..")
+
   return
 
 
@@ -245,7 +334,8 @@ def main():
 
   LoadYamlConfig(SOURCE_YAML)
   ProcessItems()
-  ProcessEach()
+  #ProcessEach()
+  ProcessLast()
 
 if __name__ == '__main__':
   main()
