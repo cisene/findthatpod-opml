@@ -1,0 +1,285 @@
+---
+opml:
+  filename: findthatpod-the-best-comedy-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-comedy-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Comedy Podcasts'
+  dateCreated: '2023-12-07 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'The Best Comedy Podcasts'
+    pubDate:  '2023-12-07'
+    htmlUrl:  'https://findthatpod.com/the-best-comedy-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'The Nikki Glaser Podcast'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-the-nikki-glaser-podcast-79573913/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0D8967BB-212C-4F2E-85BB-AE2700380CA7/2558CDDF-28C7-463D-B70B-AE2700380CC3/podcast.rss'
+
+    - podcast:
+        title:    'Conan O’Brien Needs a Friend'
+        htmlUrl:  'https://teamcoco.com/'
+        xmlUrl:   'https://feeds.simplecast.com/dHoohVNH'
+
+    - podcast:
+        title:    'Are Your Garbage?'
+        htmlUrl:  'https://areyougarbage.podbean.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPC7413106767'
+
+    - podcast:
+        title:    'And That’s Why We Drink'
+        htmlUrl:  'https://www.andthatswhywedrink.com/'
+        xmlUrl:   'https://feeds.simplecast.com/gZ2lwpze'
+
+    - podcast:
+        title:    'Last Podcast On The Left'
+        htmlUrl:  'https://www.lastpodcastnetwork.com/'
+        xmlUrl:   'https://feeds.simplecast.com/dCXMIpJz'
+
+    - podcast:
+        title:    'The Always Sunny Podcast'
+        htmlUrl:  'https://the-always-sunny-pod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPC3838283892'
+
+    - podcast:
+        title:    'Let’s Stop There'
+        htmlUrl:  'https://letsstopthere.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/letsstopthere/feed.xml'
+
+    - podcast:
+        title:    'This Is Important'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-this-is-important-72394656/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/A41BD365-C6BC-4966-9AC2-AE28005326F5/6097C5B8-233A-45BF-8F11-AE2800532703/podcast.rss'
+
+    - podcast:
+        title:    'Tuesdays with Stories!'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/shelby-royston'
+        xmlUrl:   'https://anchor.fm/s/1e310d8/podcast/rss'
+
+    - podcast:
+        title:    'You Made it Weird with Pete Holmes'
+        htmlUrl:  ''
+        xmlUrl:   'https://feeds.feedburner.com/YouMadeItWeird'
+
+    - podcast:
+        title:    'Emergency Intercom'
+        htmlUrl:  'https://www.studio71.com/us/podcasts/'
+        xmlUrl:   'https://feeds.megaphone.fm/emergencyintercom'
+
+    - podcast:
+        title:    'This Past Weekend w/ Theo Von'
+        htmlUrl:  'https://art19.com/shows/this-past-weekend'
+        xmlUrl:   'https://feeds.megaphone.fm/thispastweekend'
+
+    - podcast:
+        title:    'The Basement Yard'
+        htmlUrl:  'https://basementyard.libsyn.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPC9330816620'
+
+    - podcast:
+        title:    'Comedy Bang Bang: The Podcast'
+        htmlUrl:  'https://www.earwolf.com/show/comedy-bang-bang/'
+        xmlUrl:   'https://feeds.simplecast.com/byb4nhvN'
+
+    - podcast:
+        title:    'Stiff Socks'
+        htmlUrl:  'https://audioboom.com/channels/5023281-stiff-socks'
+        xmlUrl:   'https://audioboom.com/channels/5023281.rss'
+
+    - podcast:
+        title:    'Valley Heat'
+        htmlUrl:  'https://valleyheatpodcast.com/'
+        xmlUrl:   'https://feed.podbean.com/valleyheat/feed.xml'
+
+    - podcast:
+        title:    'How Did This Get Made?'
+        htmlUrl:  'https://www.earwolf.com/show/how-did-this-get-made/'
+        xmlUrl:   'https://feeds.simplecast.com/Ao0C24M8'
+
+    - podcast:
+        title:    'Beach Too Sandy, Water Too Wet'
+        htmlUrl:  'https://www.beachtoosandy.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/beachtoosandywatertoowet'
+
+    - podcast:
+        title:    'Trashy Divorces'
+        htmlUrl:  'https://trashydivorces.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/trashydivorces'
+
+    - podcast:
+        title:    'The Nateland Podcast'
+        htmlUrl:  'https://audioboom.com/channels/5090626-the-nateland-podcast'
+        xmlUrl:   'https://audioboom.com/channels/5090626.rss'
+
+    - podcast:
+        title:    'Smartless'
+        htmlUrl:  'https://wondery.com/shows/smartless/'
+        xmlUrl:   'https://rss.art19.com/smartless'
+
+    - podcast:
+        title:    'Threedom'
+        htmlUrl:  'https://www.earwolf.com/show/threedom/'
+        xmlUrl:   'https://feeds.simplecast.com/XSy42e1F'
+
+    - podcast:
+        title:    'Storytime with Seth Rogen'
+        htmlUrl:  'https://www.earwolf.com/show/storytime-with-seth-rogen/'
+        xmlUrl:   'https://feeds.simplecast.com/ZK9BGVQN'
+
+    - podcast:
+        title:    'The Dollop'
+        htmlUrl:  'http://dolloppodcast.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss'
+
+    - podcast:
+        title:    'Normal Gossip'
+        htmlUrl:  'http://defector.com/'
+        xmlUrl:   'https://publicfeeds.net/f/3492/feed-rss.xml'
+
+    - podcast:
+        title:    'My Brother, My Brother And Me'
+        htmlUrl:  'http://www.mbmbam.com/'
+        xmlUrl:   'https://feeds.simplecast.com/wjQvYtdl'
+
+    - podcast:
+        title:    'TigerBelly'
+        htmlUrl:  'https://art19.com/shows/tigerbelly'
+        xmlUrl:   'https://feeds.megaphone.fm/tigerbelly'
+
+    - podcast:
+        title:    'The Brilliant Idiots'
+        htmlUrl:  'https://soundcloud.com/thebrilliantidiots'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud%3Ausers%3A88794716/sounds.rss'
+
+    - podcast:
+        title:    'Bad Friends'
+        htmlUrl:  'https://www.badfriendspod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPC1602991613'
+
+    - podcast:
+        title:    'Snax Pax'
+        htmlUrl:  'https://snaxpax.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/snaxpax/feed.xml'
+
+    - podcast:
+        title:    'Dynamic Banter!'
+        htmlUrl:  'https://headgum.com/dynamic-banter'
+        xmlUrl:   'https://rss.art19.com/dynamic-banter'
+
+    - podcast:
+        title:    'The Really Good Podcast'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/bobbi-althoff'
+        xmlUrl:   'https://anchor.fm/s/e24424dc/podcast/rss'
+
+    - podcast:
+        title:    'Your Mom’s House with Christina P. and Tom Segura'
+        htmlUrl:  'https://ymhstudios.com/yourmomshouse/'
+        xmlUrl:   'https://feeds.simplecast.com/RpkoyXpU'
+
+    - podcast:
+        title:    'StraightioLab'
+        htmlUrl:  'https://www.iheart.com/podcast/263-straightiolab-97815943/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0c221bad-4dc8-419f-b554-aee6011ef1a7/f6ada493-0cfd-44b6-ac5c-aee6011ef1ee/podcast.rss'
+
+    - podcast:
+        title:    'I’ve Had It'
+        htmlUrl:  'https://www.podcastone.com/pd/Ive-Had-It'
+        xmlUrl:   'https://www.podcastone.com/podcast?categoryID2=2332'
+
+    - podcast:
+        title:    'Who shat on the floor at my wedding?'
+        htmlUrl:  'https://www.whoshatontheflooratmywedding.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/5f9c2cf7e4bd0c0d0a4cd1c8'
+
+    - podcast:
+        title:    'Sounds Like a Cult'
+        htmlUrl:  'https://www.soundslikeacult.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/68d92120-7856-4a29-a76e-ae1d01586dee/e9d57c13-1dd2-4dac-9886-ae1d01586dfd/podcast.rss'
+
+    - podcast:
+        title:    'The Big Flop'
+        htmlUrl:  'https://wondery.com/shows/the-big-flop/'
+        xmlUrl:   'https://rss.art19.com/the-big-flop'
+
+    - podcast:
+        title:    'Help I Sexted My Boss'
+        htmlUrl:  'http://www.sextedmyboss.com/'
+        xmlUrl:   'https://rss.acast.com/sextedmyboss'
+
+    - podcast:
+        title:    'Handsome'
+        htmlUrl:  'https://art19.com/shows/handsome'
+        xmlUrl:   'https://rss.art19.com/handsome'
+
+    - podcast:
+        title:    'Doughboys'
+        htmlUrl:  'https://headgum.com/doughboys'
+        xmlUrl:   'https://rss.art19.com/doughboys'
+
+    - podcast:
+        title:    'High School Sucked'
+        htmlUrl:  'https://www.instagram.com/highschoolsucked/'
+        xmlUrl:   'https://rss.acast.com/high-school-sucked'
+
+    - podcast:
+        title:    'The Harland Highway'
+        htmlUrl:  'http://harlandwilliams.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/f14656f9-079a-4f19-914d-b06901674fa3/062f07f6-8405-46bb-a21f-b0890181fa44/1c9f2c0e-63a1-4ed1-9912-b0890181fa6e/podcast.rss'
+
+    - podcast:
+        title:    'Monday Morning Podcast'
+        htmlUrl:  'https://allthingscomedy.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/caa92bb1-73cc-4abc-8b6d-aca8005d0d23/471fc444-1378-4268-86ea-aca8005d0d3b/podcast.rss'
+
+    - podcast:
+        title:    'Wheel of Misfortune'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p08m3z73'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p08m3z73.rss'
+
+    - podcast:
+        title:    'Uhh Yeah Dude'
+        htmlUrl:  'http://uhhyeahdude.com/'
+        xmlUrl:   'http://feeds.feedburner.com/uhhyeahdude/podcast'
+
+    - podcast:
+        title:    'Hello From The Magic Tavern'
+        htmlUrl:  'https://art19.com/shows/hello-from-magic-tavern'
+        xmlUrl:   'https://rss.art19.com/hello-from-magic-tavern'
+
+    - podcast:
+        title:    'Entry Level with Brooks Wheelan'
+        htmlUrl:  'https://allthingscomedy.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/7c7e0e1d-d2d5-4955-9fa6-aca9000228a9/fec89de0-6c1e-4292-ae46-aca9000228b7/podcast.rss'
+
+    - podcast:
+        title:    'Couples Therapy'
+        htmlUrl:  'https://www.couplestherapypod.com/'
+        xmlUrl:   'https://rss.acast.com/couplestherapy'
+
+    - podcast:
+        title:    'Dead Eyes'
+        htmlUrl:  'https://art19.com/shows/dead-eyes'
+        xmlUrl:   'https://rss.art19.com/dead-eyes'
+
+    - podcast:
+        title:    '2 Bears, 1 Cave'
+        htmlUrl:  'https://ymhstudios.com/2bears/'
+        xmlUrl:   'https://feeds.simplecast.com/xyBuzW92'
+
+    - podcast:
+        title:    'Whiskey Ginger with Andrew Santino'
+        htmlUrl:  'http://andrewsantino.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPC6596839207'
+
+    - podcast:
+        title:    'Ear Biscuits with Rhett & Link'
+        htmlUrl:  'https://shows.cadence13.com/podcast/ear-biscuits'
+        xmlUrl:   'https://feeds.megaphone.fm/ear-biscuits'
+
