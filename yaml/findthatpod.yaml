@@ -44,12 +44,6 @@ body:
         htmlUrl:  'http://www.lemonadamedia.com/'
         xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6aac65d3-f88d-4796-9066-b0600116430e/b0ff8093-76d7-4f13-97e3-b060011a0abc/podcast.rss'
 
-    - podcast:
-        title:    ''
-        htmlUrl:  ''
-        xmlUrl:   ''
-
-
   - issue:    240
     title:    'Find That Pod #240'
     pubDate:  '2023-12-08'
