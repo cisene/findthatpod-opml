@@ -111,7 +111,7 @@ def ProcessLast():
     with open(opml_fullpath, "w") as f:
       f.write(opml_rendered)
 
-    print(f"Wrote {opml_fullpath} ..")
+    #print(f"Wrote {opml_fullpath} ..")
 
     # Adjust creation/modified time to episode pubDate
     os.utime(opml_fullpath, (file_ctime, file_ctime))
@@ -313,7 +313,7 @@ def ProcessItems():
   with open(OUTPUT_FILENAME, "w") as f:
     f.write(opml_rendered)
 
-  print(f"Wrote {OUTPUT_FILENAME} ..")
+  #print(f"Wrote {OUTPUT_FILENAME} ..")
 
   return
 
