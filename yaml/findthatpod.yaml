@@ -12,6 +12,36 @@ head:
 
 body:
 
+  - issue:    242
+    title:    'Find That Pod #242'
+    pubDate:  '2023-12-22'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Wicked Ever After'
+        htmlUrl:  'https://wickedeverafter.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1850972.rss'
+
+    - podcast:
+        title:    'Halfwits & Failed Crits'
+        htmlUrl:  'https://www.halfwitpodcasts.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/780782.rss'
+
+    - podcast:
+        title:    'The Beet: A Podcast for Plant Lovers'
+        htmlUrl:  'https://epicgardening.libsyn.com/'
+        xmlUrl:   'https://epicgardening.libsyn.com/rss'
+
+    - podcast:
+        title:    'Pale Blue Pod'
+        htmlUrl:  'https://palebluepod.com/'
+        xmlUrl:   'https://feeds.libsyn.com/487331/rss'
+
+    - podcast:
+        title:    'Good Inside With Dr. Becky'
+        htmlUrl:  'https://good-inside.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Y5N0xWWZ'
 
   - issue:    241
     title:    'Find That Pod #241'
