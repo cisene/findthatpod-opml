@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    243
+    title:    'Find That Pod #243'
+    pubDate:  '2024-01-05'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Visionaries Audio Drama'
+        htmlUrl:  'https://www.visionariesaudiodrama.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/visionariesaudiodrama'
+
+    - podcast:
+        title:    'The Cultworthy Cinema Podcast'
+        htmlUrl:  'https://rss.com/podcasts/the-cultworthy-podcast'
+        xmlUrl:   'https://media.rss.com/the-cultworthy-podcast/feed.xml'
+
+    - podcast:
+        title:    'And Then They Were Gone'
+        htmlUrl:  'https://andthentheyweregone.com/'
+        xmlUrl:   'https://www.spreaker.com/show/5360779/episodes/feed'
+
+    - podcast:
+        title:    'The Not Null Podcast'
+        htmlUrl:  'https://www.thenotnullpodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2119275.rss'
+
+    - podcast:
+        title:    'Eliza: A Robot Story'
+        htmlUrl:  'https://www.pankhursttrust.org/news/eliza-robot-story'
+        xmlUrl:   'https://feeds.megaphone.fm/NSR4757638249'
+
   - issue:    242
     title:    'Find That Pod #242'
     pubDate:  '2023-12-22'
