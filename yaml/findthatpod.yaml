@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    244
+    title:    'Find That Pod #244'
+    pubDate:  '2024-01-12'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Modem Mischief'
+        htmlUrl:  'http://modemmischief.com/'
+        xmlUrl:   'https://modemmischief.libsyn.com/rss'
+
+    - podcast:
+        title:    'History’s Trainwrecks'
+        htmlUrl:  'https://www.historystrainwrecks.com/'
+        xmlUrl:   'https://access.acast.com/rss/60a3be0e6196e1001b05895b/default'
+
+    - podcast:
+        title:    'The Bar is Ankle High'
+        htmlUrl:  'https://www.thebarisanklehigh.com/'
+        xmlUrl:   'https://feed.podbean.com/thebarisanklehigh/feed.xml'
+
+    - podcast:
+        title:    'TLDR'
+        htmlUrl:  'https://wealthsimple-tldr-podcast.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/3Tb7al4A'
+
+    - podcast:
+        title:    'ZOE Science & Nutrition'
+        htmlUrl:  'https://joinzoe.com/'
+        xmlUrl:   'https://feeds.captivate.fm/zoescienceandnutrition/'
+
   - issue:    243
     title:    'Find That Pod #243'
     pubDate:  '2024-01-05'
