@@ -12,6 +12,99 @@ head:
 
 body:
 
+  - issue:    247
+    title:    'Find That Pod #247'
+    pubDate:  '2024-02-02'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dakota Spotlight'
+        htmlUrl:  'https://dakotaspotlight.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EELCL3827885072'
+
+    - podcast:
+        title:    'Disorder'
+        htmlUrl:  'https://natoandtheglobalenduringdisorder.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/disorder'
+
+    - podcast:
+        title:    'Very Special Episodes'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-very-special-episodes-145325754/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a9f8aaf1-b12b-40b8-85aa-b08f0126e2b6/1581fee1-5f5c-4277-9efe-b08f0127bab2/podcast.rss'
+
+    - podcast:
+        title:    'Never Post'
+        htmlUrl:  'http://neverpo.st/'
+        xmlUrl:   'https://feeds.transistor.fm/never-post'
+
+    - podcast:
+        title:    'Unbiased Science'
+        htmlUrl:  'http://www.unbiasedscipod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML4885290081'
+
+  - issue:    246
+    title:    'Find That Pod #246'
+    pubDate:  '2024-01-26'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Standup Comedy “Your Host And MC”'
+        htmlUrl:  'http://www.standupcomedyyourhostandmc.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/838567.rss'
+
+    - podcast:
+        title:    'Unf*cking The Future'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-unfcking-the-future-140099654/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0943498a-0234-43dc-9a82-b04a00f4834c/e6f59291-5dcf-45d6-b6b5-b04a00f538bd/podcast.rss'
+
+    - podcast:
+        title:    'Dinner’s On Me'
+        htmlUrl:  'https://www.sonymusic.com/sonymusic/jesse-tyler-ferguson-sony-music-partner-for-dinners-on-me-podcast/'
+        xmlUrl:   'https://feeds.megaphone.fm/dinnersonme'
+
+    - podcast:
+        title:    'Nobody Should Believe Me'
+        htmlUrl:  'https://www.nobodyshouldbelieveme.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TNM5589419131'
+
+    - podcast:
+        title:    'The Outlaw Ocean'
+        htmlUrl:  'https://www.theoutlawocean.com/the-outlaw-ocean-podcast/'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/outlawocean.xml'
+
+  - issue:    245
+    title:    'Find That Pod #245'
+    pubDate:  '2024-01-19'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Art of Listening'
+        htmlUrl:  'https://www.theartoflistening.me/'
+        xmlUrl:   'https://feeds.transistor.fm/the-art-of-listening'
+
+    - podcast:
+        title:    'Lazo’s Podcast'
+        htmlUrl:  'https://linktr.ee/FLOWPodcast'
+        xmlUrl:   'https://feed.pod.co/flow'
+
+    - podcast:
+        title:    'Conversations with Musicians'
+        htmlUrl:  'https://leahroseman.com/'
+        xmlUrl:   'https://anchor.fm/s/5e523de4/podcast/rss'
+
+    - podcast:
+        title:    'I’m Not Allowed to Watch the News'
+        htmlUrl:  'https://shows.acast.com/im-not-allowed-to-watch-the-news'
+        xmlUrl:   'https://feeds.acast.com/public/shows/628a4d31c2b25700124b366d'
+
+    - podcast:
+        title:    'That UFO Podcast'
+        htmlUrl:  'http://www.thatufopodcast.com/'
+        xmlUrl:   'https://audioboom.com/channels/5024014.rss'
+
   - issue:    244
     title:    'Find That Pod #244'
     pubDate:  '2024-01-12'
