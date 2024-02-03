@@ -12,6 +12,36 @@ head:
 
 body:
 
+  - issue:    247
+    title:    'Find That Pod #247'
+    pubDate:  '2024-02-02'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dakota Spotlight'
+        htmlUrl:  'https://dakotaspotlight.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EELCL3827885072'
+
+    - podcast:
+        title:    'Disorder'
+        htmlUrl:  'https://natoandtheglobalenduringdisorder.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/disorder'
+
+    - podcast:
+        title:    'Very Special Episodes'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-very-special-episodes-145325754/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a9f8aaf1-b12b-40b8-85aa-b08f0126e2b6/1581fee1-5f5c-4277-9efe-b08f0127bab2/podcast.rss'
+
+    - podcast:
+        title:    'Never Post'
+        htmlUrl:  'http://neverpo.st/'
+        xmlUrl:   'https://feeds.transistor.fm/never-post'
+
+    - podcast:
+        title:    'Unbiased Science'
+        htmlUrl:  'http://www.unbiasedscipod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML4885290081'
 
   - issue:    246
     title:    'Find That Pod #246'
