@@ -12,6 +12,38 @@ head:
 
 body:
 
+
+  - issue:    246
+    title:    'Find That Pod #246'
+    pubDate:  '2024-01-26'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Standup Comedy “Your Host And MC”'
+        htmlUrl:  'http://www.standupcomedyyourhostandmc.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/838567.rss'
+
+    - podcast:
+        title:    'Unf*cking The Future'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-unfcking-the-future-140099654/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0943498a-0234-43dc-9a82-b04a00f4834c/e6f59291-5dcf-45d6-b6b5-b04a00f538bd/podcast.rss'
+
+    - podcast:
+        title:    'Dinner’s On Me'
+        htmlUrl:  'https://www.sonymusic.com/sonymusic/jesse-tyler-ferguson-sony-music-partner-for-dinners-on-me-podcast/'
+        xmlUrl:   'https://feeds.megaphone.fm/dinnersonme'
+
+    - podcast:
+        title:    'Nobody Should Believe Me'
+        htmlUrl:  'https://www.nobodyshouldbelieveme.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TNM5589419131'
+
+    - podcast:
+        title:    'The Outlaw Ocean'
+        htmlUrl:  'https://www.theoutlawocean.com/the-outlaw-ocean-podcast/'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/outlawocean.xml'
+
   - issue:    245
     title:    'Find That Pod #245'
     pubDate:  '2024-01-19'
