@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    248
+    title:    'Find That Pod #248'
+    pubDate:  '2024-02-09'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Plodding Through The Presidents'
+        htmlUrl:  'https://www.ploddingthroughthepresidents.com/podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML7069797889'
+
+    - podcast:
+        title:    'One Strange Thing'
+        htmlUrl:  'https://onestrangethingpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/onestrangething'
+
+    - podcast:
+        title:    'Rescued by a Dog'
+        htmlUrl:  'http://www.laurabama.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2054902.rss'
+
+    - podcast:
+        title:    'The Nightingale of Iran'
+        htmlUrl:  'https://www.nightingaleofiran.com/'
+        xmlUrl:   'https://publicfeeds.net/f/5934/feed-rss.xml'
+
+    - podcast:
+        title:    'Funny Medicine'
+        htmlUrl:  'https://rss.com/podcasts/funnymedicinepodcast'
+        xmlUrl:   'https://media.rss.com/funnymedicinepodcast/feed.xml'
+
   - issue:    247
     title:    'Find That Pod #247'
     pubDate:  '2024-02-02'
