@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    249
+    title:    'Find That Pod #249'
+    pubDate:  '2024-02-16'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Parenting is a Joke with Ophira Eisenberg'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-parenting-is-a-joke-102629737/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/5b353023-5e03-4ca4-8e1f-aef300fe10dc/a265f220-85e1-4f15-b48e-aef300fea47a/podcast.rss'
+
+    - podcast:
+        title:    'Dear Daughter'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/w13xtvlp'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/w13xtvlp.rss'
+
+    - podcast:
+        title:    'Significant Others'
+        htmlUrl:  'https://teamcoco.com/podcasts/significant-others'
+        xmlUrl:   'https://feeds.simplecast.com/U1oFUzZu'
+
+    - podcast:
+        title:    'Think Fast Talk Smart'
+        htmlUrl:  'https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast'
+        xmlUrl:   'https://rss.art19.com/think-fast-talk-smart'
+
+    - podcast:
+        title:    'We’re Here to Help'
+        htmlUrl:  'https://art19.com/shows/were-here-to-help'
+        xmlUrl:   'https://rss.art19.com/were-here-to-help'
+
   - issue:    248
     title:    'Find That Pod #248'
     pubDate:  '2024-02-09'
