@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    250
+    title:    'Find That Pod #250'
+    pubDate:  '2024-02-23'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dakota Spotlight'
+        htmlUrl:  'https://dakotaspotlight.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EELCL3827885072'
+
+    - podcast:
+        title:    'Open Pike Night'
+        htmlUrl:  'http://openpike.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1953060.rss'
+
+    - podcast:
+        title:    'The High Roller Heist'
+        htmlUrl:  'https://wavland.media/'
+        xmlUrl:   'https://feeds.simplecast.com/RAjplJNI'
+
+    - podcast:
+        title:    'Strict Scrutiny'
+        htmlUrl:  'https://crooked.com/podcast-series/strict-scrutiny/'
+        xmlUrl:   'https://feeds.simplecast.com/EyrYWMW2'
+
+    - podcast:
+        title:    'The Runcast with John Richards'
+        htmlUrl:  'https://www.kexp.org/podcasts/weekly-mix/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8dbc3b-941c-445b-a311-aa400020390f/02c3cab1-f35c-4281-94a8-aa400020391d/podcast.rss'
+
   - issue:    249
     title:    'Find That Pod #249'
     pubDate:  '2024-02-16'
