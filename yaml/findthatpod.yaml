@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    251
+    title:    'Find That Pod #251'
+    pubDate:  '2024-03-01'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Blue Sky'
+        htmlUrl:  'https://theoptimisminstitute.com/'
+        xmlUrl:   'https://anchor.fm/s/d9f025d8/podcast/rss'
+
+    - podcast:
+        title:    'Just Creepy: Scary Stories'
+        htmlUrl:  'https://justcreepy.net/'
+        xmlUrl:   'https://anchor.fm/s/cb11d70/podcast/rss'
+
+    - podcast:
+        title:    'The Children’s Hour'
+        htmlUrl:  'https://www.childrenshour.org/category/podcast/'
+        xmlUrl:   'https://www.childrenshour.org/category/podcast/feed/podcast/'
+
+    - podcast:
+        title:    'Therapy Gecko'
+        htmlUrl:  'https://www.twitch.tv/lyleforever'
+        xmlUrl:   'https://feeds.simplecast.com/cPBbMHcs'
+
+    - podcast:
+        title:    'Something You Should Know'
+        htmlUrl:  'http://www.somethingyoushouldknow.net/'
+        xmlUrl:   'https://feeds.megaphone.fm/WWO9761275037'
+
   - issue:    250
     title:    'Find That Pod #250'
     pubDate:  '2024-02-23'
