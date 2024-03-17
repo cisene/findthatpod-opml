@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    253
+    title:    'Find That Pod #253'
+    pubDate:  '2024-03-15'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Fodor’s Guide to Espionage'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-fodors-guide-to-espionage-156143732/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f8d5c3b9-994f-4aa9-bef2-b0d700fb8a65/1129abd0-9443-4b73-a494-b0d700fc4861/podcast.rss'
+
+    - podcast:
+        title:    'Finally! A Show'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-finally-a-show-155525329/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bc41982e-6d6d-4740-b09b-b118014cbbc8/0302021f-0f60-4a4b-8932-b118014d0e40/podcast.rss'
+
+    - podcast:
+        title:    'Who Trolled Amber?'
+        htmlUrl:  'https://www.tortoisemedia.com/sweet-bobby/'
+        xmlUrl:   'https://rss.acast.com/sweet-bobby'
+
+    - podcast:
+        title:    'Commons'
+        htmlUrl:  'http://canadalandshow.com/commons'
+        xmlUrl:   'https://feeds.acast.com/public/shows/62f989eeb8b6580013a258d4'
+
+    - podcast:
+        title:    'Things You Can’t Live Without'
+        htmlUrl:  'https://shows.acast.com/things-you-cant-live-without'
+        xmlUrl:   'https://feeds.acast.com/public/shows/65d489ef5c901e001776a7f4'
+
   - issue:    252
     title:    'Find That Pod #252'
     pubDate:  '2024-03-08'
