@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    252
+    title:    'Find That Pod #252'
+    pubDate:  '2024-03-08'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Last City'
+        htmlUrl:  'https://wondery.com/shows/the-last-city/'
+        xmlUrl:   'https://rss.art19.com/the-last-city'
+
+    - podcast:
+        title:    'What The Fraud?'
+        htmlUrl:  'https://shows.acast.com/what-the-fraud'
+        xmlUrl:   'https://feeds.acast.com/public/shows/65c9ee33056405001663c974'
+
+    - podcast:
+        title:    'WikiHole with D’Arcy Carden'
+        htmlUrl:  'https://wondery.com/shows/wikihole-with-darcy-carden/'
+        xmlUrl:   'https://rss.art19.com/wikihole'
+
+    - podcast:
+        title:    'Save The Last Pod'
+        htmlUrl:  'http://savethelastpod.libsyn.com/site'
+        xmlUrl:   'https://feeds.libsyn.com/483036/rss'
+
+    - podcast:
+        title:    'Buzzcast'
+        htmlUrl:  'https://buzzcast.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/231452.rss'
+
   - issue:    251
     title:    'Find That Pod #251'
     pubDate:  '2024-03-01'
