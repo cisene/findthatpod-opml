@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    255
+    title:    'Find That Pod #255'
+    pubDate:  '2024-03-29'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Beauty Unveiled'
+        htmlUrl:  'https://www.drangelasturm.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/6572af18-78c7-4e94-a642-af0f0102cd27/b5abbc7c-e597-4d39-9741-b12500345cf0/0cf95fce-a7ef-4c34-bfa5-b12500372dbf/podcast.rss'
+
+    - podcast:
+        title:    'To Die For'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-to-die-for-157352863/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/866e1c5c-cb08-4bca-8ca2-b1260137d267/adc6e906-c7d0-4922-899e-b12601389641/podcast.rss'
+
+    - podcast:
+        title:    'Power User with Taylor Lorenz'
+        htmlUrl:  'https://podcasts.voxmedia.com/show/power-user-with-taylor-lorenz'
+        xmlUrl:   'https://feeds.megaphone.fm/VMP2996299779'
+
+    - podcast:
+        title:    'In Her Ellement'
+        htmlUrl:  'https://in-her-ellement.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/in-her-ellement/'
+
+    - podcast:
+        title:    'Monsters Inside Me'
+        htmlUrl:  'https://www.discovery.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/64f0c3716ded990010ae93f7'
+
   - issue:    254
     title:    'Find That Pod #254'
     pubDate:  '2024-03-22'
