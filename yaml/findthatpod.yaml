@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    254
+    title:    'Find That Pod #254'
+    pubDate:  '2024-03-22'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dakota Spotlight'
+        htmlUrl:  'https://dakotaspotlight.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EELCL3827885072'
+
+    - podcast:
+        title:    'The Butterfly King'
+        htmlUrl:  'https://www.exactlyrightmedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ERM2408277255'
+
+    - podcast:
+        title:    'Blocks Podcast'
+        htmlUrl:  'https://www.nealbrennan.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPC1688414199'
+
+    - podcast:
+        title:    'Psychedelics Today'
+        htmlUrl:  'http://psychedelicstoday.com/'
+        xmlUrl:   'https://psychedelicstoday.libsyn.com/rss'
+
+    - podcast:
+        title:    'Tell Me What Happened'
+        htmlUrl:  'https://www.onstar.com/us/en/tell-me-what-happened-podcast'
+        xmlUrl:   'https://feeds.pacific-content.com/tellmewhathappened'
+
   - issue:    253
     title:    'Find That Pod #253'
     pubDate:  '2024-03-15'
