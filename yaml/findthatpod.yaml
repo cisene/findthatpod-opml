@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    262
+    title:    'Find That Pod #262'
+    pubDate:  '2024-05-17'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Killer in the Family'
+        htmlUrl:  'https://killerinthefamilypodcast.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2124896.rss'
+
+    - podcast:
+        title:    'Italian, For Sure'
+        htmlUrl:  'http://www.italianforsure.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/italianforsure'
+
+    - podcast:
+        title:    'Eclipsing History'
+        htmlUrl:  'https://casit.bgsu.edu/eclipsinghistory'
+        xmlUrl:   'https://casit.bgsu.edu/eclipsinghistory/items/browse?output=podcast'
+
+    - podcast:
+        title:    'Grief Is My Side Hustle'
+        htmlUrl:  'https://meghanrjarvis.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/meghanrjarvis/feed.xml'
+
+    - podcast:
+        title:    'Evaporated: Gone with the Gods'
+        htmlUrl:  'https://www.sonymusic.com/podcasts/'
+        xmlUrl:   'https://feeds.megaphone.fm/evaporatedgwtg'
+
   - issue:    261
     title:    'Find That Pod #261'
     pubDate:  '2024-05-10'
