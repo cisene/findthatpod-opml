@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    258
+    title:    'Find That Pod #258'
+    pubDate:  '2024-04-19'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Three'
+        htmlUrl:  'https://wavland.media/'
+        xmlUrl:   'https://feeds.simplecast.com/q8EXDCJg'
+
+    - podcast:
+        title:    'Soul Boom'
+        htmlUrl:  'https://www.soulboom.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/soulboom'
+
+    - podcast:
+        title:    'The Inquisition'
+        htmlUrl:  'https://qyg58y.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/qyg58y/feed.xml'
+
+    - podcast:
+        title:    'Hey Riddle Riddle'
+        htmlUrl:  'https://art19.com/shows/hey-riddle-riddle'
+        xmlUrl:   'https://rss.art19.com/hey-riddle-riddle'
+
+    - podcast:
+        title:    'Hollywood Exiles'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/w13xtvsk'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/w13xtvsk.rss'
+
   - issue:    257
     title:    'Find That Pod #257'
     pubDate:  '2024-04-12'
