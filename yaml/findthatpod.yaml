@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    261
+    title:    'Find That Pod #261'
+    pubDate:  '2024-05-10'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Leaving Eden'
+        htmlUrl:  'https://www.patreon.com/LeavingEdenPodcast'
+        xmlUrl:   'https://feeds.acast.com/public/shows/63c9c9b1fc40ca0011135c4c'
+
+    - podcast:
+        title:    'Scene on Radio'
+        htmlUrl:  'http://www.sceneonradio.org/'
+        xmlUrl:   'http://feeds.sceneonradio.org/SceneOnRadio'
+
+    - podcast:
+        title:    'Fail Better with David Duchovny'
+        htmlUrl:  'https://lemonadamedia.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/89cff1ac-62ad-4005-b66f-b1540162fcb4/f26c966a-c6b5-49d4-91cd-b154016527e5/podcast.rss'
+
+    - podcast:
+        title:    'Midnight Burger'
+        htmlUrl:  'https://www.weopenatsix.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/midnightburger'
+
+    - podcast:
+        title:    'Rabbits'
+        htmlUrl:  'http://rabbitspodcast.com/'
+        xmlUrl:   'https://rabbits.libsyn.com/rss'
+
   - issue:    260
     title:    'Find That Pod #260'
     pubDate:  '2024-05-03'
