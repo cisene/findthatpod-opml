@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    260
+    title:    'Find That Pod #260'
+    pubDate:  '2024-05-03'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Let Me Google That'
+        htmlUrl:  'https://www.redbubble.com/shop/ap/97516320'
+        xmlUrl:   'https://anchor.fm/s/98fda0/podcast/rss'
+
+    - podcast:
+        title:    'Work Party'
+        htmlUrl:  'https://dearmedia.com/shows/work-party/'
+        xmlUrl:   'https://rss.art19.com/work-party'
+
+    - podcast:
+        title:    'Gen Z @ Work'
+        htmlUrl:  'https://www.buzzsprout.com/2302694'
+        xmlUrl:   'https://feeds.buzzsprout.com/2302694.rss'
+
+    - podcast:
+        title:    'Body Electric'
+        htmlUrl:  'https://www.npr.org/podcasts/510375/body-electric'
+        xmlUrl:   'https://feeds.npr.org/510375/podcast.xml'
+
+    - podcast:
+        title:    'The World in Brief from the Economist'
+        htmlUrl:  'https://www.economist.com/audio/podcasts/the-world-in-brief'
+        xmlUrl:   'https://access.acast.com/rss/theeconomistmorningbriefing/default'
+
   - issue:    259
     title:    'Find That Pod #259'
     pubDate:  '2024-04-26'
