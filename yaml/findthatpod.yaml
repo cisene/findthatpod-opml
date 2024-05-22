@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    256
+    title:    'Find That Pod #256'
+    pubDate:  '2024-04-05'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Navigating Narcissism'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-navigating-narcissism-98632373/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/00ae14e4-c6ef-4388-8ffd-ae9e00d897ef/f680eb4d-db48-43cf-b9d2-ae9e00e42bba/podcast.rss'
+
+    - podcast:
+        title:    'The 80s Movie Podcast'
+        htmlUrl:  'https://the80smoviepodcast.com/'
+        xmlUrl:   'https://feed.podbean.com/the80smoviepodcast/feed.xml'
+
+    - podcast:
+        title:    'Conflicted: A History Podcast'
+        htmlUrl:  'https://evergreenpodcasts.com/conflicted'
+        xmlUrl:   'https://feeds.megaphone.fm/conflicted'
+
+    - podcast:
+        title:    'Design Better'
+        htmlUrl:  'http://designbetterpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/designbetter'
+
+    - podcast:
+        title:    'Other People’s Pockets'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/other-peoples-pockets'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/21d348e2-6e72-476d-806b-af4f015def96/582297fc-00ee-4dfc-b745-af4f015e2178/podcast.rss'
+
   - issue:    255
     title:    'Find That Pod #255'
     pubDate:  '2024-03-29'
