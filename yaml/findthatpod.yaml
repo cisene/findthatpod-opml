@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    257
+    title:    'Find That Pod #257'
+    pubDate:  '2024-04-12'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Mission Implausible'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-mission-implausible-146774875/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/485bef61-b08e-4849-88be-b0fa0111de37/93e2b79d-acec-404d-abfe-b0fa01125f97/podcast.rss'
+
+    - podcast:
+        title:    'HyperThetical'
+        htmlUrl:  'https://www.filmnation.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/hyperthetical'
+
+    - podcast:
+        title:    'Womanica'
+        htmlUrl:  'https://www.iheart.com/podcast/966-womanica-45926723/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f8636539-32d9-4082-a23a-afb001398707/d8c24a0b-3078-43ca-9714-afb0013988a4/podcast.rss'
+
+    - podcast:
+        title:    'The Signal'
+        htmlUrl:  'https://www.realm.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP5286247776'
+
+    - podcast:
+        title:    'Family Trips with the Meyers Brothers'
+        htmlUrl:  'https://family-trips-with-the-meyers-brothers.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/mJyHMcz_'
+
   - issue:    256
     title:    'Find That Pod #256'
     pubDate:  '2024-04-05'
