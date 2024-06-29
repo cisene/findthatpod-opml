@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    267
+    title:    'Find That Pod #267'
+    pubDate:  '2024-06-21'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Vertical Farming Podcast'
+        htmlUrl:  'http://verticalfarmingpodcast.com/'
+        xmlUrl:   'https://feeds.captivate.fm/vertical-farming-podcast/'
+
+    - podcast:
+        title:    'Desert Oracle Radio'
+        htmlUrl:  'http://desertoracle.com/radio'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/33bd51d8-cd0c-4607-84d5-af0901305df5/d53a0c5a-2f7f-4b69-8f9d-af090132fd33/be70cec1-18b9-4f9a-8092-af090132fd41/podcast.rss'
+
+    - podcast:
+        title:    'Living Understaffed'
+        htmlUrl:  'https://redcircle.com/shows/living-understaffed'
+        xmlUrl:   'https://feeds.redcircle.com/a3a00ec8-3913-49ce-bbf2-bbcee12de7bf'
+
+    - podcast:
+        title:    'The Episodic Table of Elements'
+        htmlUrl:  'https://episodictable.com/'
+        xmlUrl:   'https://feeds.podcastmirror.com/episodictable'
+
+    - podcast:
+        title:    'History Gap'
+        htmlUrl:  'https://audioboom.com/channels/5118860-history-gap'
+        xmlUrl:   'https://audioboom.com/channels/5118860.rss'
+
   - issue:    266
     title:    'Find That Pod #266'
     pubDate:  '2024-06-14'
