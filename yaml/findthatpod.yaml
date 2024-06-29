@@ -12,37 +12,6 @@ head:
 
 body:
 
-  - issue:    266
-    title:    'Find That Pod #266'
-    pubDate:  '2024-06-14'
-    htmlUrl:  null
-    contents:
-
-    - podcast:
-        title:    'Broomgate: A Curling Scandal'
-        htmlUrl:  'https://www.cbc.ca/radio/podcastnews'
-        xmlUrl:   'https://www.cbc.ca/podcasting/includes/broomgate.xml'
-
-    - podcast:
-        title:    'We Have Concerns'
-        htmlUrl:  'http://wehaveconcerns.com/'
-        xmlUrl:   'https://feeds.simplecast.com/2V4dK4EE'
-
-    - podcast:
-        title:    'Machines Like Us'
-        htmlUrl:  'https://www.theglobeandmail.com/podcasts/machines-like-us/'
-        xmlUrl:   'https://feeds.simplecast.com/FJSi7gLl'
-
-    - podcast:
-        title:    'The Dork Forest'
-        htmlUrl:  'https://audioboom.com/channels/2631769-the-dork-forest'
-        xmlUrl:   'https://audioboom.com/channels/2631769.rss'
-
-    - podcast:
-        title:    'The Place That Thaws'
-        htmlUrl:  'https://www.aptnnews.ca/theplacethatthaws/'
-        xmlUrl:   'https://feeds.libsyn.com/510718/rss'
-
   - issue:    265
     title:    'Find That Pod #265'
     pubDate:  '2024-06-07'
