@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    265
+    title:    'Find That Pod #265'
+    pubDate:  '2024-06-07'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Intercepted'
+        htmlUrl:  'https://theintercept.com/podcasts'
+        xmlUrl:   'https://rss.acast.com/intercepted-with-jeremy-scahill'
+
+    - podcast:
+        title:    'The Big Dig'
+        htmlUrl:  'https://www.wgbh.org/podcasts/the-big-dig'
+        xmlUrl:   'https://feeds.wgbh.org/4614/feed-rss.xml'
+
+    - podcast:
+        title:    'Pack One Bag'
+        htmlUrl:  'https://lemonadamedia.com/show/pack-one-bag/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/dd5f2758-c8d6-48d6-810d-b17301634451/9cbca931-9d79-432f-8020-b173016648b0/podcast.rss'
+
+    - podcast:
+        title:    'City Space'
+        htmlUrl:  'https://tgam.ca/cityspace'
+        xmlUrl:   'https://feeds.simplecast.com/AfSKuWVN'
+
+    - podcast:
+        title:    'The Weirdest Thing I Learned This Week'
+        htmlUrl:  'https://www.popsci.com/weird'
+        xmlUrl:   'https://feeds.megaphone.fm/RECU9765916949'
+
   - issue:    264
     title:    'Find That Pod #264'
     pubDate:  '2024-05-31'
