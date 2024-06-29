@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    264
+    title:    'Find That Pod #264'
+    pubDate:  '2024-05-31'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Robinson’s Podcast'
+        htmlUrl:  'https://linktr.ee/robinsonerhardt'
+        xmlUrl:   'https://anchor.fm/s/a8f55520/podcast/rss'
+
+    - podcast:
+        title:    'I Think You Should Read'
+        htmlUrl:  'https://shows.acast.com/i-think-you-should-read'
+        xmlUrl:   'https://feeds.acast.com/public/shows/65cf37fbd18c7b0016eae0af'
+
+    - podcast:
+        title:    'Focus on Africa'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p02nrtyw'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p02nrtyw.rss'
+
+    - podcast:
+        title:    'Can’t Afford Therapy'
+        htmlUrl:  'https://sites.libsyn.com/455814'
+        xmlUrl:   'https://feeds.libsyn.com/455814/rss'
+
+    - podcast:
+        title:    'Business Dad'
+        htmlUrl:  'https://sevensevensix.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/business-dad'
+
   - issue:    263
     title:    'Find That Pod #263'
     pubDate:  '2024-05-24'
