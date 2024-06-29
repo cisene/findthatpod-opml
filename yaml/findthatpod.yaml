@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    263
+    title:    'Find That Pod #263'
+    pubDate:  '2024-05-24'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Imaginary Worlds'
+        htmlUrl:  'https://www.imaginaryworldspodcast.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADV7475920787'
+
+    - podcast:
+        title:    'Nobody Panic'
+        htmlUrl:  'https://twitter.com/nobodypanicpod'
+        xmlUrl:   'https://rss.acast.com/nobodypanic'
+
+    - podcast:
+        title:    'What’s Your Problem?'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/whats-your-problem'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/beacef48-19d2-4f52-b9e8-ae3c0021f347/podcast.rss'
+
+    - podcast:
+        title:    'Click Here'
+        htmlUrl:  'http://www.recordedfuture.com/podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/CYBW9338304051'
+
+    - podcast:
+        title:    'Didn’t I Just Feed You'
+        htmlUrl:  'https://redcircle.com/shows/didnt-i-just-feed-you'
+        xmlUrl:   'https://feeds.redcircle.com/6b23a449-dab0-452f-abfd-315d35f20eae'
+
   - issue:    262
     title:    'Find That Pod #262'
     pubDate:  '2024-05-17'
