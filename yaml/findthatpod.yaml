@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    268
+    title:    'Find That Pod #268'
+    pubDate:  '2024-06-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'I Know Dino: The Big Dinosaur Podcast'
+        htmlUrl:  'https://iknowdino.com/'
+        xmlUrl:   'https://rss.art19.com/i-know-dino'
+
+    - podcast:
+        title:    'Dakota Spotlight: You Killed Chris'
+        htmlUrl:  'https://dakotaspotlight.com/season-10-you-killed-chris-a-friends-fight-for-justice/'
+        xmlUrl:   'https://feeds.megaphone.fm/EELCL3827885072'
+
+    - podcast:
+        title:    'The Program Audio Series'
+        htmlUrl:  'https://programaudioseries.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/62713b2fba62b7001272b4f9'
+
+    - podcast:
+        title:    'Good on Paper'
+        htmlUrl:  'https://www.theatlantic.com/podcasts/good-on-paper/'
+        xmlUrl:   'https://feeds.megaphone.fm/atlanticgoodonpaper'
+
+    - podcast:
+        title:    'Being Roman with Mary Beard'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p0gq54cg'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p0gq54cg.rss'
+
   - issue:    267
     title:    'Find That Pod #267'
     pubDate:  '2024-06-21'
