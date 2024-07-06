@@ -50,8 +50,6 @@ I had this code and a chunk of YAML laying around on a server and thought it wou
 | [FindThatPod - The Best Video Game Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-video-game-podcasts.opml)                              |
 | [FindThatPod - The Best Wondery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wondery-podcasts.opml)                                    |
 
-
-
 ## Weekly issues 
 
 
@@ -318,3 +316,10 @@ I had this code and a chunk of YAML laying around on a server and thought it wou
 | [Find That Pod #260](https://b19.se/data/opml/findthatpod/findthatpod-issue-260.opml) |
 | [Find That Pod #261](https://b19.se/data/opml/findthatpod/findthatpod-issue-261.opml) |
 | [Find That Pod #262](https://b19.se/data/opml/findthatpod/findthatpod-issue-262.opml) |
+| [Find That Pod #263](https://b19.se/data/opml/findthatpod/findthatpod-issue-263.opml) |
+| [Find That Pod #264](https://b19.se/data/opml/findthatpod/findthatpod-issue-264.opml) |
+| [Find That Pod #265](https://b19.se/data/opml/findthatpod/findthatpod-issue-265.opml) |
+| [Find That Pod #266](https://b19.se/data/opml/findthatpod/findthatpod-issue-266.opml) |
+| [Find That Pod #267](https://b19.se/data/opml/findthatpod/findthatpod-issue-267.opml) |
+| [Find That Pod #268](https://b19.se/data/opml/findthatpod/findthatpod-issue-268.opml) |
+| [Find That Pod #269](https://b19.se/data/opml/findthatpod/findthatpod-issue-269.opml) |
