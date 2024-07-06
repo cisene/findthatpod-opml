@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    269
+    title:    'Find That Pod #269'
+    pubDate:  '2024-07-05'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Documentary Podcast'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p02nq0lx'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p02nq0lx.rss'
+
+    - podcast:
+        title:    'Your Stupid Opinions'
+        htmlUrl:  'https://wondery.com/shows/your-stupid-opinions/'
+        xmlUrl:   'https://rss.art19.com/your-stupid-opinions'
+
+    - podcast:
+        title:    'Conversations'
+        htmlUrl:  'https://www.abc.net.au/listen/programs/conversations/'
+        xmlUrl:   'https://www.abc.net.au/feeds/7711104/podcast.xml'
+
+    - podcast:
+        title:    'All About Change'
+        htmlUrl:  'https://allaboutchangepodcast.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/ee6bda95-79f6-42a4-9b90-ac1b01528026/953a443c-67fc-4e67-8995-ac1c0145ffaf/d3638779-a777-43f8-9726-ac1c0145ffbd/podcast.rss'
+
+    - podcast:
+        title:    'Open to Debate'
+        htmlUrl:  'http://opentodebate.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/PNP1207584390'
+
   - issue:    268
     title:    'Find That Pod #268'
     pubDate:  '2024-06-28'
