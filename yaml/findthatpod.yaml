@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    270
+    title:    'Find That Pod #270'
+    pubDate:  '2024-07-12'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Crash Course Pods: The Universe'
+        htmlUrl:  'https://crash-course-pods-the-universe.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/ASAdCBih'
+
+    - podcast:
+        title:    'Ghost in the Machine'
+        htmlUrl:  'https://shows.acast.com/ghost-in-the-machine'
+        xmlUrl:   'https://feeds.acast.com/public/shows/6585f23688f900001625890c'
+
+    - podcast:
+        title:    'The Bowery Boys: New York City History'
+        htmlUrl:  'https://the-bowery-boys-new-york-city-history.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/mkeh0Frc'
+
+    - podcast:
+        title:    'Important, Not Important'
+        htmlUrl:  'https://podcast.importantnotimportant.com/'
+        xmlUrl:   'https://feeds.captivate.fm/important-not-important/'
+
+    - podcast:
+        title:    'The Time Traveler’s Guide to Not Getting Caught'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/time-travelers-guide'
+        xmlUrl:   'https://anchor.fm/s/efb3d7c0/podcast/rss'
+
   - issue:    269
     title:    'Find That Pod #269'
     pubDate:  '2024-07-05'
