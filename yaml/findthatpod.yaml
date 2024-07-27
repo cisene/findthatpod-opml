@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    271
+    title:    'Find That Pod #271'
+    pubDate:  '2024-07-19'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Life Shift'
+        htmlUrl:  'https://www.thelifeshiftpodcast.com/'
+        xmlUrl:   'https://feeds.captivate.fm/thelifeshift/'
+
+    - podcast:
+        title:    'SNAFU with Ed Helms'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-snafu-102539700/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cca4a312-f307-4ecb-b14f-aed7010422f6/2a05ffa6-0933-4af4-83f3-aed701046cfa/podcast.rss'
+
+    - podcast:
+        title:    'Preconceived'
+        htmlUrl:  'http://www.preconceivedpodcast.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/661405e8eaef9600162c0847'
+
+    - podcast:
+        title:    'The Place That Thaws'
+        htmlUrl:  'https://www.aptnnews.ca/theplacethatthaws/'
+        xmlUrl:   'https://feeds.libsyn.com/510718/rss'
+
+    - podcast:
+        title:    'Hacking Humans'
+        htmlUrl:  'https://thecyberwire.com/podcasts/hacking-humans'
+        xmlUrl:   'https://feeds.megaphone.fm/hacking-humans'
+
   - issue:    270
     title:    'Find That Pod #270'
     pubDate:  '2024-07-12'
