@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    272
+    title:    'Find That Pod #272'
+    pubDate:  '2024-07-26'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'HyperThetical'
+        htmlUrl:  'https://www.filmnation.com/library/hyperthetical'
+        xmlUrl:   'https://feeds.megaphone.fm/hyperthetical'
+
+    - podcast:
+        title:    'The Lady Vanishes'
+        htmlUrl:  'https://7news.com.au/theladyvanishes'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/bb1969f3-af92-4326-90ba-b0aa0173055a/188a282c-5143-42c6-91b1-b0aa01730576/podcast.rss'
+
+    - podcast:
+        title:    'Symptomatic'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-symptomatic-a-medical-mys-102740051/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2970caf2-2c49-4f0d-b9ce-af1e00e12802/1a3b08d0-3272-4c93-8d9f-af1e00e3cb7f/podcast.rss'
+
+    - podcast:
+        title:    'The Glitch'
+        htmlUrl:  'https://podshape.com/the-glitch/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/1861b69b-a607-4f13-b9b2-af8701628fdd/666e5d4f-e205-484b-b0fe-af8701628fef/podcast.rss'
+
+    - podcast:
+        title:    'Vanishing Postcards'
+        htmlUrl:  'https://www.vanishingpostcards.com/'
+        xmlUrl:   'https://anchor.fm/s/42fb4784/podcast/rss'
+
   - issue:    271
     title:    'Find That Pod #271'
     pubDate:  '2024-07-19'
