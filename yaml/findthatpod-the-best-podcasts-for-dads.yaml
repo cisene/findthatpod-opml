@@ -1,0 +1,74 @@
+---
+opml:
+  filename: findthatpod-the-best-podcasts-for-dads.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dads.opml
+
+head:
+  title: 'FindThatPod - The Best Podcasts for Dads'
+  dateCreated: '2024-06-06 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Podcasts for Dads'
+    pubDate:  '2024-06-06'
+    htmlUrl:  'https://findthatpod.com/best-podcasts-for-dads/'
+    contents:
+
+    - podcast:
+        title:    'How Other Dads Dad'
+        htmlUrl:  'https://howotherdadsdad.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/9bfa899f-1537-4f49-9078-af1d003b72eb/9d7d5ca1-7080-4895-ab3e-af1d003b7e53/2cd83c6a-40c4-4671-a257-af1d003f615e/podcast.rss'
+
+    - podcast:
+        title:    'The DadLands'
+        htmlUrl:  'https://thedadlands.io/'
+        xmlUrl:   'https://thedadlands.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Daily Dad'
+        htmlUrl:  'https://art19.com/shows/the-daily-dad'
+        xmlUrl:   'https://feeds.buzzsprout.com/424261.rss'
+
+    - podcast:
+        title:    'Paternal'
+        htmlUrl:  'https://www.paternalpodcast.com/'
+        xmlUrl:   'https://paternalpodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'Top Dad'
+        htmlUrl:  'https://linktr.ee/TopDad'
+        xmlUrl:   'https://feeds.buzzsprout.com/1312174.rss'
+
+    - podcast:
+        title:    'Dumb Dad Podcast'
+        htmlUrl:  'https://bleav.com/shows/dumb-dad-podcast/'
+        xmlUrl:   'https://feeds.simplecast.com/q0i44sw5'
+
+    - podcast:
+        title:    'The Dad Edge Podcast'
+        htmlUrl:  'https://thedadedge.com/podcast/'
+        xmlUrl:   'https://gooddadproject.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Modern Dads Podcast'
+        htmlUrl:  'http://www.citydadsgroup.com/'
+        xmlUrl:   'https://themoderndads.libsyn.com/rss'
+
+    - podcast:
+        title:    'Dear Old Dads'
+        htmlUrl:  'https://sites.libsyn.com/418103'
+        xmlUrl:   'https://feeds.libsyn.com/418103/rss'
+
+    - podcast:
+        title:    'Business Dad'
+        htmlUrl:  'https://sevensevensix.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/business-dad'
+
+    - podcast:
+        title:    'Dads With Daughters'
+        htmlUrl:  'http://fatheringtogether.org/'
+        xmlUrl:   'https://dadswithdaughters.libsyn.com/rss'

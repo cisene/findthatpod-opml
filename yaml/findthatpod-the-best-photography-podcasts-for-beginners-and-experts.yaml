@@ -1,0 +1,155 @@
+---
+opml:
+  filename: findthatpod-the-best-photography-podcasts-for-beginners-and-experts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-photography-podcasts-for-beginners-and-experts.opml
+
+head:
+  title: 'FindThatPod - The Best Photography Podcasts for Beginners and Experts'
+  dateCreated: '2024-05-13 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Photography Podcasts for Beginners and Experts'
+    pubDate:  '2024-05-13'
+    htmlUrl:  'https://findthatpod.com/best-photography-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'The Lensrentals Podcast'
+        htmlUrl:  'https://lensrentals.libsyn.com/website'
+        xmlUrl:   'https://lensrentals.libsyn.com/rss'
+
+    - podcast:
+        title:    'Frames Photography Podcast'
+        htmlUrl:  'https://readframes.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/703279.rss'
+
+    - podcast:
+        title:    'Beyond the Lens'
+        htmlUrl:  'https://www.buzzsprout.com/1953496'
+        xmlUrl:   'https://feeds.buzzsprout.com/1953496.rss'
+
+    - podcast:
+        title:    'This Week in Photo'
+        htmlUrl:  'https://thisweekinphoto.com/category/twip-episodes/'
+        xmlUrl:   'https://feeds.podcastmirror.com/twip'
+
+    - podcast:
+        title:    'PhotoBizX'
+        htmlUrl:  'https://photobizx.com/'
+        xmlUrl:   'https://photobizx.com/feed/podcast/'
+
+    - podcast:
+        title:    'Behind the Shot'
+        htmlUrl:  'https://behindtheshot.tv/'
+        xmlUrl:   'https://behindtheshot.tv/feed/podcast/'
+
+    - podcast:
+        title:    'Sunny 16 Podcast'
+        htmlUrl:  'https://sunny16.podbean.com/'
+        xmlUrl:   'https://sunny16.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Visual Revolutionary'
+        htmlUrl:  'https://www.visualrevolutionary.com/'
+        xmlUrl:   'https://visualrevolutionary.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Candid Frame'
+        htmlUrl:  'https://www.ibarionex.net/thecandidframe'
+        xmlUrl:   'https://thecandidframe.libsyn.com/rss'
+
+    - podcast:
+        title:    'The PetaPixel Podcast'
+        htmlUrl:  'https://petapixel.com/podcast/'
+        xmlUrl:   'https://anchor.fm/s/e3085708/podcast/rss'
+
+    - podcast:
+        title:    'The Mastering Portrait Photography Podcast'
+        htmlUrl:  'https://masteringportraitphotography.com/'
+        xmlUrl:   'https://feed.podbean.com/masteringportraitphotography/feed.xml'
+
+    - podcast:
+        title:    'Wild Women in Photography'
+        htmlUrl:  'https://www.wildwomanphotography.com/wild-women-in-photography-podcast/'
+        xmlUrl:   'https://feed.podbean.com/wildwomeninphotography/feed.xml'
+
+    - podcast:
+        title:    'The Martin Bailey Photography Podcast'
+        htmlUrl:  'https://martinbaileyphotography.com/blog/'
+        xmlUrl:   'https://martinbaileyphotography.com/podcast.xml'
+
+    - podcast:
+        title:    'LensWork – Photography and the Creative Process'
+        htmlUrl:  'https://www.lenswork.com/'
+        xmlUrl:   'https://www.lenswork.com/podcast.xml'
+
+    - podcast:
+        title:    'Shoot Edit Chat Repeat'
+        htmlUrl:  'https://shooteditchatrepeat.com/'
+        xmlUrl:   'https://shooteditchatrepeat.libsyn.com/rss'
+
+    - podcast:
+        title:    'The FujiCast: Photography Podcast'
+        htmlUrl:  'https://www.fujicast.co.uk/'
+        xmlUrl:   'https://thefujicast.libsyn.com/rss'
+
+    - podcast:
+        title:    'B&H Photography Podcast'
+        htmlUrl:  'https://www.bhphotovideo.com/explora/podcast'
+        xmlUrl:   'https://bhphotopodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'Landscape Photography World'
+        htmlUrl:  'https://gswinbourne.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/landscapephotographyworld/feed.xml'
+
+    - podcast:
+        title:    'Classic Camera Revival'
+        htmlUrl:  'https://classiccamerarevival.podbean.com/'
+        xmlUrl:   'https://classiccamerarevival.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'A Photographic Life'
+        htmlUrl:  'http://www.unitednationsofphotography.com/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:67007406/sounds.rss'
+
+    - podcast:
+        title:    'F-Stop Collaborate and Listen'
+        htmlUrl:  'https://www.mattpaynephotography.com/page/f-stop-collaborate-and-listen/'
+        xmlUrl:   'https://fstopandlisten.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'The Photowalk'
+        htmlUrl:  'https://www.photowalk.show/'
+        xmlUrl:   'https://breathepictures.libsyn.com/rss'
+
+    - podcast:
+        title:    'Your Photography Podcast'
+        htmlUrl:  'http://www.phillphoto.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1422436.rss'
+
+    - podcast:
+        title:    'The Beginner Photography Podcast'
+        htmlUrl:  'https://www.beginnerphotographypodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1946034.rss'
+
+    - podcast:
+        title:    'FroKnowsPhoto Podcast'
+        htmlUrl:  'http://froknowsphoto.libsyn.com/'
+        xmlUrl:   'https://froknowsphoto.libsyn.com/rss'
+
+    - podcast:
+        title:    'Workflows – Photography Podcast'
+        htmlUrl:  'https://workflowspodcast.com/'
+        xmlUrl:   'https://feeds.transistor.fm/workflows'
+
+    - podcast:
+        title:    'Lens Shark Photography Podcast'
+        htmlUrl:  'https://www.lensshark.com/'
+        xmlUrl:   'https://feeds.blubrry.com/feeds/lensshark.xml'
+

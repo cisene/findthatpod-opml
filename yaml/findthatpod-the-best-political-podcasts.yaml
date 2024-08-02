@@ -1,0 +1,199 @@
+---
+opml:
+  filename: findthatpod-the-best-political-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-political-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Political Podcasts'
+  dateCreated: '2024-06-24 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Political Podcasts'
+    pubDate:  '2024-06-24'
+    htmlUrl:  'https://findthatpod.com/best-political-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Hacks on Tap'
+        htmlUrl:  'https://www.hacksontap.com/'
+        xmlUrl:   'https://audioboom.com/channels/5050689.rss'
+
+    - podcast:
+        title:    'Political Gab Fest'
+        htmlUrl:  'https://slate.com/podcasts/political-gabfest'
+        xmlUrl:   'https://feeds.megaphone.fm/slatespoliticalgabfest'
+
+    - podcast:
+        title:    'Rational Security'
+        htmlUrl:  'https://www.lawfareblog.com/topic/rational-security'
+        xmlUrl:   'https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d'
+
+    - podcast:
+        title:    'Citations Needed'
+        htmlUrl:  'https://www.facebook.com/citationsneeded/'
+        xmlUrl:   'https://citationsneeded.libsyn.com/rss'
+
+    - podcast:
+        title:    'Skepticrat'
+        htmlUrl:  'https://audioboom.com/channels/4846754-the-skepticrat'
+        xmlUrl:   'https://audioboom.com/channels/4846754.rss'
+
+    - podcast:
+        title:    'The Gist'
+        htmlUrl:  'http://www.mikepesca.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/slatesthegist'
+
+    - podcast:
+        title:    'The Al Franken Podcast'
+        htmlUrl:  'https://art19.com/shows/the-al-franken-podcast'
+        xmlUrl:   'https://rss.art19.com/the-al-franken-podcast'
+
+    - podcast:
+        title:    'The Bulwark'
+        htmlUrl:  'https://audioboom.com/channels/5114286-the-bulwark-podcast'
+        xmlUrl:   'https://audioboom.com/channels/5114286.rss'
+
+    - podcast:
+        title:    'Red Scare'
+        htmlUrl:  'https://redscarepodcast.libsyn.com/'
+        xmlUrl:   'https://redscarepodcast.libsyn.com/rsss'
+
+    - podcast:
+        title:    'Know Your Enemy'
+        htmlUrl:  'https://know-your-enemy-1682b684.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/MQHnVVgK'
+
+    - podcast:
+        title:    'The Necessary Conversation'
+        htmlUrl:  'https://thenecessaryconversation.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2035895.rss'
+
+    - podcast:
+        title:    'The Ezra Klein Show'
+        htmlUrl:  'https://www.nytimes.com/ezra-klein-podcast'
+        xmlUrl:   'https://feeds.simplecast.com/82FI35Px'
+
+    - podcast:
+        title:    'The Axe Files with David Axelrod'
+        htmlUrl:  'https://www.cnn.com/audio/podcasts/axe-files'
+        xmlUrl:   'https://feeds.megaphone.fm/WMHY9284588779'
+
+    - podcast:
+        title:    'The NPR Politics Podcast'
+        htmlUrl:  'https://www.npr.org/podcasts/510310/npr-politics-podcast'
+        xmlUrl:   'https://feeds.npr.org/510310/podcast.xml'
+
+    - podcast:
+        title:    'The Fifth Column'
+        htmlUrl:  'https://www.wethefifth.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/815642.rss'
+
+    - podcast:
+        title:    'Head in the Office'
+        htmlUrl:  'https://www.patreon.com/headintheofficepod'
+        xmlUrl:   'https://anchor.fm/s/5f5032c8/podcast/rss'
+
+    - podcast:
+        title:    'FiveThirtyEight Politics'
+        htmlUrl:  'https://fivethirtyeight.com/podcasts/'
+        xmlUrl:   'https://feeds.megaphone.fm/ESP8794877317'
+
+    - podcast:
+        title:    'Left, Right & Center'
+        htmlUrl:  'https://www.kcrw.com/news/shows/left-right-center'
+        xmlUrl:   'https://leftrightandcenter-feed.kcrw.com/'
+
+    - podcast:
+        title:    'Checks and Balances from The Economist'
+        htmlUrl:  'https://www.economist.com/'
+        xmlUrl:   'https://access.acast.com/rss/checksandbalance/default'
+
+    - podcast:
+        title:    'The Josh Marshall Podcast'
+        htmlUrl:  'https://art19.com/shows/the-josh-marshall-podcast'
+        xmlUrl:   'https://rss.art19.com/the-josh-marshall-podcast'
+
+    - podcast:
+        title:    'Ones and Tooze'
+        htmlUrl:  'https://shows.acast.com/ones-and-tooze'
+        xmlUrl:   'https://feeds.megaphone.fm/FGP6717686883'
+
+    - podcast:
+        title:    'Pod Save America'
+        htmlUrl:  'https://crooked.com/podcast-series/pod-save-america/'
+        xmlUrl:   'https://feeds.simplecast.com/dxZsm5kX'
+
+    - podcast:
+        title:    'The Vital Center'
+        htmlUrl:  'https://the-vital-center.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/YDSekSAD'
+
+    - podcast:
+        title:    'PBS Washington Week with The Atlantic'
+        htmlUrl:  'https://www.pbs.org/weta/washingtonweek/podcast'
+        xmlUrl:   'http://feeds.pbs.org/pbs/weta/washingtonweek-audio'
+
+    - podcast:
+        title:    'The Smerconish Podcast'
+        htmlUrl:  'https://the-smerconish-podcast.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Dv1m2CJC'
+
+    - podcast:
+        title:    'American Prestige'
+        htmlUrl:  'https://www.americanprestigepod.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/814188.rss'
+
+    - podcast:
+        title:    'The Political Scene | The New Yorker'
+        htmlUrl:  'https://the-political-scene-the-new-yorker.simplecast.com/'
+        xmlUrl:   'http://feeds.feedburner.com/tnypoliticalscene'
+
+    - podcast:
+        title:    'This Day in Esoteric Political History'
+        htmlUrl:  'http://www.thisdaypod.com/'
+        xmlUrl:   'https://thisday.feed.electionhistory.show/'
+
+    - podcast:
+        title:    'The Political Orphanage'
+        htmlUrl:  'http://www.mightyheaton.com/'
+        xmlUrl:   'https://politicalorphanage.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Daily Punch'
+        htmlUrl:  'https://punchbowl.news/'
+        xmlUrl:   'https://feeds.megaphone.fm/daily-punch'
+
+    - podcast:
+        title:    'Matter of Opinion'
+        htmlUrl:  'https://www.nytimes.com/column/matter-of-opinion'
+        xmlUrl:   'https://feeds.simplecast.com/2xzUiHxw'
+
+    - podcast:
+        title:    'Chapo Trap House'
+        htmlUrl:  'https://www.patreon.com/chapotraphouse'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss'
+
+    - podcast:
+        title:    'The Weeds'
+        htmlUrl:  'https://www.vox.com/the-weeds'
+        xmlUrl:   'https://feeds.megaphone.fm/theweeds'
+
+    - podcast:
+        title:    'All In with Chris Hayes'
+        htmlUrl:  'https://www.nbcnews.com/'
+        xmlUrl:   'https://podcastfeeds.nbcnews.com/all-in-with-chris-hayes'
+
+    - podcast:
+        title:    'Breaking Battlegrounds'
+        htmlUrl:  'https://breakingbattlegrounds.substack.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/260675.rss'
+
+    - podcast:
+        title:    'The Purple Principle'
+        htmlUrl:  'https://purpleprinciple.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/thepurpleprinciplepodcast'

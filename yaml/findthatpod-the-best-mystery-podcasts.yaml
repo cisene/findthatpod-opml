@@ -1,0 +1,204 @@
+---
+opml:
+  filename: findthatpod-the-best-mystery-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-mystery-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Mystery Podcasts'
+  dateCreated: '2024-06-28 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Mystery Podcasts'
+    pubDate:  '2024-08-28'
+    htmlUrl:  'https://findthatpod.com/best-mystery-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Limetown'
+        htmlUrl:  'http://www.limetown.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/PPY5621646923'
+
+    - podcast:
+        title:    'Strange and Unexplained with Daisy Eagan'
+        htmlUrl:  'https://audioboom.com/channels/5041901-strange-and-unexplained-with-daisy-eagan'
+        xmlUrl:   'https://audioboom.com/channels/5041901.rss'
+
+    - podcast:
+        title:    'The Deca Tapes'
+        htmlUrl:  'https://www.thedecatapes.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP7220818085'
+
+    - podcast:
+        title:    'Solve This Murder'
+        htmlUrl:  'https://solvethismurder.podbean.com/'
+        xmlUrl:   'https://www.solvethismurder.com/feed.xml'
+
+    - podcast:
+        title:    'Scary Mysteries'
+        htmlUrl:  'https://www.youtube.com/scarymysteries'
+        xmlUrl:   'https://feeds.megaphone.fm/GLSS3114741091'
+
+    - podcast:
+        title:    'Your Own Backyard'
+        htmlUrl:  'http://yourownbackyardpodcast.com/'
+        xmlUrl:   'https://yourownbackyard.libsyn.com/rss'
+
+    - podcast:
+        title:    'Unfound'
+        htmlUrl:  'http://theunfoundpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/UNFO2592385014'
+
+    - podcast:
+        title:    'Unexplained'
+        htmlUrl:  'https://art19.com/shows/unexplained-podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4be3ef45-824a-44b3-b437-b038010038fc/3eb75c81-5ed8-4148-bb7b-b03801003947/podcast.rss'
+
+    - podcast:
+        title:    'Unexplained Encounters'
+        htmlUrl:  'https://www.eeriecast.com/podcasts/unexplained-encounters'
+        xmlUrl:   'https://feeds.megaphone.fm/darknessprevails'
+
+    - podcast:
+        title:    'All Things Unexplained'
+        htmlUrl:  'https://allthingsunexplained.com/'
+        xmlUrl:   'https://feeds.transistor.fm/all-things-unexplained'
+
+    - podcast:
+        title:    'Hey Riddle Riddle'
+        htmlUrl:  'https://art19.com/shows/hey-riddle-riddle'
+        xmlUrl:   'https://rss.art19.com/hey-riddle-riddle'
+
+    - podcast:
+        title:    'CBS Radio Mystery Theater'
+        htmlUrl:  'https://redcircle.com/shows/cbs-radio-mystery-theater'
+        xmlUrl:   'https://feeds.redcircle.com/87728bfc-6a8d-4cef-832d-b9aa59c8641e'
+
+    - podcast:
+        title:    'Passenger List'
+        htmlUrl:  'https://www.passengerlist.org/'
+        xmlUrl:   'https://feed.passengerlist.org/'
+
+    - podcast:
+        title:    'All Aussie Mystery Hour'
+        htmlUrl:  'https://www.pedestrian.tv/tag/all-aussie-mystery-hour/'
+        xmlUrl:   'https://feeds.megaphone.fm/DTKTE4684138059'
+
+    - podcast:
+        title:    'The Strange and Unusual Podcast'
+        htmlUrl:  'https://wondery.com/shows/the-strange-and-unusual-podcast/'
+        xmlUrl:   'https://rss.art19.com/the-strange-and-unusual-podcast'
+
+    - podcast:
+        title:    'Unexplainable'
+        htmlUrl:  'https://www.vox.com/unexplainable'
+        xmlUrl:   'https://feeds.megaphone.fm/VMP9331026707'
+
+    - podcast:
+        title:    'The Vanished Podcast'
+        htmlUrl:  'https://wondery.com/shows/the-vanished-podcast/'
+        xmlUrl:   'https://rss.art19.com/the-vanished-podcast-wondery'
+
+    - podcast:
+        title:    'Mysterious Radio: Paranormal, UFO & Lore Interviews'
+        htmlUrl:  'https://www.mysteriousradio.com/'
+        xmlUrl:   'https://www.spreaker.com/show/6231475/episodes/feed'
+
+    - podcast:
+        title:    'Chameleon: Wild Boys'
+        htmlUrl:  'https://www.campsidemedia.com/stories/chameleon-wild-boys'
+        xmlUrl:   'https://feeds.megaphone.fm/chameleonwildboys'
+
+    - podcast:
+        title:    'Lore'
+        htmlUrl:  'http://www.lorepodcast.com/about'
+        xmlUrl:   'https://feeds.libsyn.com/65267/rss'
+
+    - podcast:
+        title:    'Last Seen'
+        htmlUrl:  'https://www.wbur.org/podcasts/lastseen'
+        xmlUrl:   'https://rss.wbur.org/lastseen/podcast'
+
+    - podcast:
+        title:    'Dark Histories'
+        htmlUrl:  'http://darkhistories.com/'
+        xmlUrl:   'https://darkhistories.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'Nostalgic Mystery Radio'
+        htmlUrl:  'https://nostalgicmysteryradio.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1791917.rss'
+
+    - podcast:
+        title:    'Missing in Alaska'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-missing-in-alaska-62503099/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9e960f05-790e-4faa-894c-ae320081de6d/1a65fde3-8bc7-4195-bb15-ae320081de9c/podcast.rss'
+
+    - podcast:
+        title:    'Mystery History Podcast'
+        htmlUrl:  'http://mysteryhistorypodcast.com/'
+        xmlUrl:   'https://anchor.fm/s/1ed933fc/podcast/rss'
+
+    - podcast:
+        title:    '1001 Heroes, Legends, Histories & Mysteries Podcast'
+        htmlUrl:  'http://1001storiespodcast.com/'
+        xmlUrl:   'https://feeds.libsyn.com/529192/rss'
+
+    - podcast:
+        title:    'Deadly Manners'
+        htmlUrl:  'http://deadlymanners.libsyn.com/website'
+        xmlUrl:   'https://deadlymanners.libsyn.com/rss'
+
+    - podcast:
+        title:    'Finding Drago | Finding Desperado'
+        htmlUrl:  'https://www.abc.net.au/radio/programs/finding-drago/'
+        xmlUrl:   'https://www.abc.net.au/feeds/10544590/podcast.xml'
+
+    - podcast:
+        title:    'The Fourth Ambit'
+        htmlUrl:  'https://www.ambitgroup.com/'
+        xmlUrl:   'https://www.ambitgroup.com/podcast/'
+
+    - podcast:
+        title:    'Mysterious Universe'
+        htmlUrl:  'https://mysteriousuniverse.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/mupod'
+
+    - podcast:
+        title:    'The White Vault'
+        htmlUrl:  'http://thewhitevault.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP7754210900'
+
+    - podcast:
+        title:    'The Left Right Game'
+        htmlUrl:  'https://qcodemedia.com/theleftrightgame'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD2477597834'
+
+    - podcast:
+        title:    'Locations Unknown'
+        htmlUrl:  'https://www.spreaker.com/podcast/locations-unknown--6183838'
+        xmlUrl:   'https://www.spreaker.com/show/6183838/episodes/feed'
+
+    - podcast:
+        title:    'Stuff They Don’t Want You To Know'
+        htmlUrl:  'https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2E824128-FBD5-4C9E-9A57-AE2F0056B0C4/66D98A23-900C-44B0-A40B-AE2F0056B0DB/podcast.rss'
+
+    - podcast:
+        title:    'Wind of Change'
+        htmlUrl:  'https://crooked.com/podcast-series/wind-of-change/'
+        xmlUrl:   'https://feeds.megaphone.fm/wind-of-change-wide'
+
+    - podcast:
+        title:    'The Confessionals'
+        htmlUrl:  'https://www.theconfessionalspodcast.com/'
+        xmlUrl:   'https://audioboom.com/channels/5002796.rss'
+
+    - podcast:
+        title:    'Paranormal Mysteries'
+        htmlUrl:  'https://www.paranormalmysteriespodcast.com/'
+        xmlUrl:   'https://www.spreaker.com/show/2321086/episodes/feed'

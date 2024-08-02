@@ -1,0 +1,60 @@
+---
+opml:
+  filename: findthatpod-the-best-chess-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-chess-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Chess Podcasts'
+  dateCreated: '2024-05-07 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Chess Podcasts'
+    pubDate:  '2024-05-07'
+    htmlUrl:  'https://findthatpod.com/best-chess-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Chess Journeys: Tales of Adult Improvement'
+        htmlUrl:  'https://www.youtube.com/channel/UCyGXHChyrL8tOKEwlQrq3bg'
+        xmlUrl:   'https://anchor.fm/s/64138288/podcast/rss'
+
+    - podcast:
+        title:    'Chicken Chess Club'
+        htmlUrl:  'https://chickenchessclub.com/'
+        xmlUrl:   'https://feeds.captivate.fm/thechickenchessclub/'
+
+    - podcast:
+        title:    'How to Chess'
+        htmlUrl:  'https://rss.com/podcasts/howtochess'
+        xmlUrl:   'https://feeds.captivate.fm/how-to-chess/'
+
+    - podcast:
+        title:    'Perpetual Chess'
+        htmlUrl:  'https://www.perpetualchesspod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/BLU4811105299'
+
+    - podcast:
+        title:    'C-Squared'
+        htmlUrl:  'https://rss.com/podcasts/csquared'
+        xmlUrl:   'https://media.rss.com/csquared/feed.xml'
+
+    - podcast:
+        title:    'The Chess Experience'
+        htmlUrl:  'https://thechessexperience.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1927819.rss'
+
+    - podcast:
+        title:    'ChessFeels: A Chess & Psychology Podcast'
+        htmlUrl:  'https://chessfeels.transistor.fm/'
+        xmlUrl:   'https://feeds.transistor.fm/chessfeels-conversations-about-chess-psychology-mental-health'
+
+    - podcast:
+        title:    'The Chess Angle'
+        htmlUrl:  'https://www.thechessangle.com/'
+        xmlUrl:   'https://feeds.libsyn.com/507973/rss'
+

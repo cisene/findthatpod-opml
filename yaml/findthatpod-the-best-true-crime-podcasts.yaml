@@ -12,6 +12,193 @@ head:
 
 body:
 
+
+  - issue:    2024
+    title:    'The Best True Crime Podcasts'
+    pubDate:  '2024-04-24'
+    htmlUrl:  'https://findthatpod.com/the-best-true-crime-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Crime Junkie'
+        htmlUrl:  'https://crimejunkiepodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/qm_9xx0g'
+
+    - podcast:
+        title:    'Real Crime Profile'
+        htmlUrl:  'https://wondery.com/shows/real-crime-profile/'
+        xmlUrl:   'https://rss.art19.com/real-crime-profile-wondery'
+
+    - podcast:
+        title:    'Southern Fried True Crime'
+        htmlUrl:  'https://www.spreaker.com/show/southern-fried-true-crime'
+        xmlUrl:   'https://www.spreaker.com/show/2975465/episodes/feed'
+
+    - podcast:
+        title:    'The Dating Game Killer'
+        htmlUrl:  'https://wondery.com/shows/the-dating-game-killer/'
+        xmlUrl:   'https://rss.art19.com/the-dating-game-killer'
+
+    - podcast:
+        title:    'Casefile'
+        htmlUrl:  'https://audioboom.com/channels/4940872-casefile-true-crime'
+        xmlUrl:   'https://audioboom.com/channels/4940872.rss'
+
+    - podcast:
+        title:    'Crime Countdown'
+        htmlUrl:  'https://www.parcast.com/crimecountdown'
+        xmlUrl:   'https://feeds.megaphone.fm/crimecountdown'
+
+    - podcast:
+        title:    'Criminal'
+        htmlUrl:  'http://thisiscriminal.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/VMP7924981569'
+
+    - podcast:
+        title:    'Women & Crime'
+        htmlUrl:  'https://womenandcrimepodcast.com/episodes/'
+        xmlUrl:   'https://feeds.megaphone.fm/DIR9134059435'
+
+    - podcast:
+        title:    'Crimetown'
+        htmlUrl:  'https://www.gimletmedia.com/show/crimetown'
+        xmlUrl:   'https://feeds.megaphone.fm/crimetown'
+
+    - podcast:
+        title:    'Mafia'
+        htmlUrl:  'https://audioboom.com/channels/4943124-mafia'
+        xmlUrl:   'https://audioboom.com/channels/4943124.rss'
+
+    - podcast:
+        title:    'Dr. Death'
+        htmlUrl:  'https://wondery.com/shows/dr-death/'
+        xmlUrl:   'https://rss.art19.com/dr-death'
+
+    - podcast:
+        title:    'The Vanished'
+        htmlUrl:  'https://wondery.com/shows/the-vanished-podcast/'
+        xmlUrl:   'https://rss.art19.com/the-vanished-podcast-wondery'
+
+    - podcast:
+        title:    'The Trail Went Cold'
+        htmlUrl:  'https://www.trailwentcold.com/'
+        xmlUrl:   'https://www.trailwentcold.com/feed/podcast/'
+
+    - podcast:
+        title:    'Lady Killers with Lucy Worsley'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/m0016pq3'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/m0016pq3.rss'
+
+    - podcast:
+        title:    'Who the Hell is Hamish?'
+        htmlUrl:  'https://www.theaustralian.com.au/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/f1c92d94-1cab-46b5-a2a2-ac2a00524f7b/7e7cada2-a5f4-4839-b5f1-ac2a00524f7b/podcast.rss'
+
+    - podcast:
+        title:    'Can I Tell You a Secret?'
+        htmlUrl:  'https://www.theguardian.com/society/series/canitellyouasecret'
+        xmlUrl:   'https://www.theguardian.com/society/series/canitellyouasecret/podcast.xml'
+
+    - podcast:
+        title:    'Park Predators'
+        htmlUrl:  'https://parkpredators.com/'
+        xmlUrl:   'https://feeds.simplecast.com/T0BOyX6l'
+
+    - podcast:
+        title:    'Uncover'
+        htmlUrl:  'https://www.cbc.ca/radio/uncover'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/uncover.xml'
+
+    - podcast:
+        title:    'Crime Beat'
+        htmlUrl:  'https://curiouscast.ca/podcast/crime-beat/'
+        xmlUrl:   'https://feeds.megaphone.fm/CORU2869407328'
+
+    - podcast:
+        title:    'Morbid'
+        htmlUrl:  'https://wondery.com/shows/morbid-a-true-crime-podcast/'
+        xmlUrl:   'https://rss.art19.com/morbid-a-true-crime-podcast'
+
+    - podcast:
+        title:    'Someone Knows Something'
+        htmlUrl:  'https://www.cbc.ca/radio/sks'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/sks.xml'
+
+    - podcast:
+        title:    'Bear Brook'
+        htmlUrl:  'https://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/RGpV1rjX'
+
+    - podcast:
+        title:    'Last Seen'
+        htmlUrl:  'https://www.wbur.org/podcasts/lastseen'
+        xmlUrl:   'https://rss.wbur.org/lastseen/podcast'
+
+    - podcast:
+        title:    'Your Own Backyard'
+        htmlUrl:  'http://yourownbackyardpodcast.com/'
+        xmlUrl:   'https://yourownbackyard.libsyn.com/rss'
+
+    - podcast:
+        title:    'Suspect'
+        htmlUrl:  'https://wondery.com/shows/suspect/'
+        xmlUrl:   'https://rss.art19.com/suspect'
+
+    - podcast:
+        title:    'The Trojan Horse Affair'
+        htmlUrl:  'https://trojan-horse.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/B9KgArY4'
+
+    - podcast:
+        title:    'Swindled'
+        htmlUrl:  'http://www.swindledpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ADL8288293115'
+
+    - podcast:
+        title:    'Sweet Bobby'
+        htmlUrl:  'https://shows.acast.com/sweet-bobby-new'
+        xmlUrl:   'https://feeds.acast.com/public/shows/64e5c027d3554a001131c921'
+
+    - podcast:
+        title:    'Small Town Dicks'
+        htmlUrl:  'http://www.smalltowndicks.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/60dde52498deac00124abd6b'
+
+    - podcast:
+        title:    'Cheat!'
+        htmlUrl:  'https://listen.sonymusic-podcasts.link/TCTC5324?sid=sonymusic&c=PaZ0r9sUtOJH-rzQXhbmmA&h=812c35eda25fa1e5b'
+        xmlUrl:   'https://feeds.megaphone.fm/cheatpodcast'
+
+    - podcast:
+        title:    'Cold'
+        htmlUrl:  'https://thecoldpodcast.com/'
+        xmlUrl:   'https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2XLqJysy'
+
+    - podcast:
+        title:    'To Live and Die in LA'
+        htmlUrl:  'http://livediela.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/to-live-and-die-in-la'
+
+    - podcast:
+        title:    'Hunting Warhead'
+        htmlUrl:  'https://www.cbc.ca/radio/podcasts/hunting-warhead/index.html'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/huntingwarhead.xml'
+
+    - podcast:
+        title:    'The Lazarus Heist'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/w13xtvg9'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/w13xtvg9.rss'
+
+    - podcast:
+        title:    'I’m Not a Monster'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p08yblkf'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p08yblkf.rss'
+
+    - podcast:
+        title:    'Chameleon: Hollywood Con Queen'
+        htmlUrl:  'https://listen.sonymusic-podcasts.link/TCTC93085?sid=sonymusic'
+        xmlUrl:   'https://feeds.megaphone.fm/chameleonconqueen'
+
   - issue:    2021
     title:    'The Best True Crime Podcasts in 2021'
     pubDate:  '2020-09-30'

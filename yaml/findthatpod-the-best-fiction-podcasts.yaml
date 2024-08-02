@@ -12,6 +12,252 @@ head:
 
 body:
 
+  - issue:    2024
+    title:    'The Best Fiction Podcasts'
+    pubDate:  '2024-07-18'
+    htmlUrl:  'https://findthatpod.com/best-fiction-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Limetown'
+        htmlUrl:  'http://www.limetown.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/PPY5621646923'
+
+    - podcast:
+        title:    'The Magnus Archives'
+        htmlUrl:  'https://www.rustyquill.com/'
+        xmlUrl:   'http://rss.acast.com/themagnusarchives'
+
+    - podcast:
+        title:    'Welcome to Night Vale'
+        htmlUrl:  'http://welcometonightvale.com/'
+        xmlUrl:   'http://feeds.nightvalepresents.com/welcometonightvalepodcast'
+
+    - podcast:
+        title:    'The Penumbra Podcast'
+        htmlUrl:  'https://redcircle.com/shows/the-penumbra-podcast'
+        xmlUrl:   'https://feeds.redcircle.com/9ce22fa0-973d-4775-819f-bb8596c6aca0'
+
+    - podcast:
+        title:    'Archive 81'
+        htmlUrl:  'http://archive81.com/'
+        xmlUrl:   'https://archive81.libsyn.com/rss'
+
+    - podcast:
+        title:    'Alice Isn’t Dead'
+        htmlUrl:  'http://www.aliceisntdead.com/'
+        xmlUrl:   'https://feeds.nightvalepresents.com/aliceisntdeadpodcast'
+
+    - podcast:
+        title:    'The Lovecraft Investigations'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p06spb8w'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p06spb8w.rss'
+
+    - podcast:
+        title:    'Video Palace'
+        htmlUrl:  'http://shudder.com/'
+        xmlUrl:   'https://rss.art19.com/video-palace'
+
+    - podcast:
+        title:    'The White Vault'
+        htmlUrl:  'http://thewhitevault.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP7754210900'
+
+    - podcast:
+        title:    'Wolf 359'
+        htmlUrl:  'http://www.wolf359.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/wolf359radio'
+
+    - podcast:
+        title:    'Copperheart'
+        htmlUrl:  'http://copperheart.libsyn.com/website'
+        xmlUrl:   'https://copperheart.libsyn.com/rss'
+
+    - podcast:
+        title:    'Midnight Burger'
+        htmlUrl:  'https://www.weopenatsix.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/midnightburger'
+
+    - podcast:
+        title:    'The Left Right Game'
+        htmlUrl:  'https://qcodemedia.com/theleftrightgame'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD2477597834'
+
+    - podcast:
+        title:    'Wrong Station'
+        htmlUrl:  'http://www.wrongstation.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TWRS4873563754'
+
+    - podcast:
+        title:    'Old Gods of Appalachia'
+        htmlUrl:  'http://www.oldgodsofappalachia.com/'
+        xmlUrl:   'https://rss.acast.com/old-gods-of-appalachia'
+
+    - podcast:
+        title:    'Counterbalance'
+        htmlUrl:  'https://trilunis.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SBP4371894823'
+
+    - podcast:
+        title:    'Adventures in New America'
+        htmlUrl:  'http://adventuresinnewamerica.com/'
+        xmlUrl:   'https://anchor.fm/s/4bd40bfc/podcast/rss'
+
+    - podcast:
+        title:    'Boston Harbor Horror Presents'
+        htmlUrl:  'https://www.asylum94.com/'
+        xmlUrl:   'https://bostonhorror.libsyn.com/rss'
+
+    - podcast:
+        title:    'Ghost Wax'
+        htmlUrl:  'https://www.spreaker.com/podcast/ghost-wax--6153883'
+        xmlUrl:   'https://www.spreaker.com/show/6153883/episodes/feed'
+
+    - podcast:
+        title:    'The Black Tapes'
+        htmlUrl:  'http://theblacktapespodcast.com/'
+        xmlUrl:   'https://theblacktapes.libsyn.com/rss'
+
+    - podcast:
+        title:    'Desert Skies'
+        htmlUrl:  'https://desertskiespodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/desertskies'
+
+    - podcast:
+        title:    'Impact Winter'
+        htmlUrl:  'https://art19.com/shows/impact-winter'
+        xmlUrl:   'https://rss.art19.com/impact-winter'
+
+    - podcast:
+        title:    'Valley Heat'
+        htmlUrl:  'https://valleyheatpodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/kKMR_wuB'
+
+    - podcast:
+        title:    'Last Known Position'
+        htmlUrl:  'https://qcodemedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD5848091261'
+
+    - podcast:
+        title:    'Wooden Overcoats'
+        htmlUrl:  'https://www.woodenovercoats.com/episodes/'
+        xmlUrl:   'https://feeds.megaphone.fm/woodenovercoats'
+
+    - podcast:
+        title:    'Mabel'
+        htmlUrl:  'http://www.mabelpodcast.com/'
+        xmlUrl:   'https://mabel.libsyn.com/rss'
+
+    - podcast:
+        title:    'Within the Wires'
+        htmlUrl:  'http://withinthewires.com/'
+        xmlUrl:   'https://feeds.nightvalepresents.com/withinthewires'
+
+    - podcast:
+        title:    'Imaginary Advice'
+        htmlUrl:  'http://www.imaginaryadvice.com/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:9262193/sounds.rss'
+
+    - podcast:
+        title:    'King Falls AM'
+        htmlUrl:  'https://audioboom.com/channel/kingfallsam'
+        xmlUrl:   'https://feeds.libsyn.com/474897/rss'
+
+    - podcast:
+        title:    'From Now'
+        htmlUrl:  'https://qcodemedia.com/from-now'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD7924418919'
+
+    - podcast:
+        title:    'The Truth'
+        htmlUrl:  'http://thetruthpodcast.com/'
+        xmlUrl:   'http://feeds.thetruthpodcast.com/thetruthapm'
+
+    - podcast:
+        title:    'The Amelia Project'
+        htmlUrl:  'https://ameliapodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/amelia'
+
+    - podcast:
+        title:    'Case 63'
+        htmlUrl:  'https://gimletmedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLT7513443834'
+
+    - podcast:
+        title:    'Ad Lucem'
+        htmlUrl:  'https://qcodemedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD4692055088'
+
+    - podcast:
+        title:    'Blum'
+        htmlUrl:  'https://www.spreaker.com/podcast/blum--5881806'
+        xmlUrl:   'https://www.spreaker.com/show/5881806/episodes/feed'
+
+    - podcast:
+        title:    'DUST'
+        htmlUrl:  'https://watchdust.com/audio'
+        xmlUrl:   'https://rss.acast.com/dustpodcast'
+
+    - podcast:
+        title:    'We Fix Space Junk'
+        htmlUrl:  'https://battlebird.productions/'
+        xmlUrl:   'https://feeds.megaphone.fm/wefixspacejunk'
+
+    - podcast:
+        title:    'Hello From The Magic Tavern'
+        htmlUrl:  'https://art19.com/shows/hello-from-magic-tavern'
+        xmlUrl:   'https://rss.art19.com/hello-from-magic-tavern'
+
+    - podcast:
+        title:    'Sandra'
+        htmlUrl:  'https://www.gimletmedia.com/sandra'
+        xmlUrl:   'https://feeds.megaphone.fm/sandra'
+
+    - podcast:
+        title:    'Darkest Night'
+        htmlUrl:  'http://www.darkestnightpod.com/'
+        xmlUrl:   'https://darkestnight.libsyn.com/rss'
+
+    - podcast:
+        title:    'Small Victories'
+        htmlUrl:  'https://www.wgcproductions.com/shows/small-victories'
+        xmlUrl:   'https://feeds.transistor.fm/small-victories'
+
+    - podcast:
+        title:    'Hi Nay'
+        htmlUrl:  'https://shows.acast.com/hi-nay'
+        xmlUrl:   'https://feeds.acast.com/public/shows/hi-nay'
+
+    - podcast:
+        title:    'Passenger List'
+        htmlUrl:  'https://www.passengerlist.org/'
+        xmlUrl:   'https://feed.passengerlist.org/'
+
+    - podcast:
+        title:    'Blackout'
+        htmlUrl:  'https://qcodemedia.com/blackout'
+        xmlUrl:   'https://feeds.megaphone.fm/QCEOS5292368649'
+
+    - podcast:
+        title:    'The Bright Sessions'
+        htmlUrl:  'http://thebrightsessions.com/'
+        xmlUrl:   'https://feeds.libsyn.com/487859/rss'
+
+    - podcast:
+        title:    'Sorry About The Murder'
+        htmlUrl:  'https://www.sorryaboutthemurder.ca/'
+        xmlUrl:   'https://feeds.megaphone.fm/sorryaboutthemurder'
+
+    - podcast:
+        title:    'Borrasca'
+        htmlUrl:  'https://qcodemedia.com/borrasca'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD2333202365'
+
+    - podcast:
+        title:    'Strange Air'
+        htmlUrl:  'https://www.strangeairpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/strangeair'
+
   - issue:    2021
     title:    'The Best Fiction Podcasts in 2021'
     pubDate:  '2021-06-06'

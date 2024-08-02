@@ -1,0 +1,114 @@
+---
+opml:
+  filename: findthatpod-the-best-sex-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-sex-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Sex Podcasts'
+  dateCreated: '2024-02-05 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Sex Podcasts'
+    pubDate:  '2024-02-05'
+    htmlUrl:  'https://findthatpod.com/the-best-sex-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Dying for Sex'
+        htmlUrl:  'https://wondery.com/shows/Dying-For-Sex/'
+        xmlUrl:   'https://rss.art19.com/dying-for-sex'
+
+    - podcast:
+        title:    'Guys We F****d'
+        htmlUrl:  'https://luminarypodcasts.com/listen/corinne-fisher-and-krystyna-hutchinson/guys-we-f-d/61ef47bf-07ce-4c3e-b175-e846e8f5707f'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/F419FE2B-A674-461E-B326-AE3900513296/C4643461-DBD9-49E0-A65F-AE39005132A4/podcast.rss'
+
+    - podcast:
+        title:    'Private Parts Unknown'
+        htmlUrl:  'https://www.privatepartsunknown.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EDGY5280373877'
+
+    - podcast:
+        title:    'Bawdy Storytelling'
+        htmlUrl:  'https://bawdystorytelling.com/'
+        xmlUrl:   'https://bawdystorytelling.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Manwhore Podcast'
+        htmlUrl:  'https://www.manwhorepod.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLSS1806855574'
+
+    - podcast:
+        title:    'Sex With Dr. Jess'
+        htmlUrl:  'https://www.sexwithdrjess.com/'
+        xmlUrl:   'https://anchor.fm/s/3fd8fccc/podcast/rss'
+
+    - podcast:
+        title:    'Why Are People Into That?!'
+        htmlUrl:  'https://whyarepeopleintothat.com/'
+        xmlUrl:   'https://rss.acast.com/yapit'
+
+    - podcast:
+        title:    'Turn Me On'
+        htmlUrl:  'https://play.acast.com/s/turn-me-on'
+        xmlUrl:   'https://rss.acast.com/turn-me-on'
+
+    - podcast:
+        title:    'Sex and Other Human Activities'
+        htmlUrl:  'https://soundcloud.com/sexandotherhumanactivity'
+        xmlUrl:   'https://feeds.feedburner.com/wordpress/DosF'
+
+    - podcast:
+        title:    'Savage Lovecast'
+        htmlUrl:  'http://www.savagelovecast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SLT6250292033'
+
+    - podcast:
+        title:    'Fangasm'
+        htmlUrl:  'https://www.fangasmpodcast.com/episodes/'
+        xmlUrl:   'https://www.fangasmpodcast.com/episodes?format=rss'
+
+    - podcast:
+        title:    'Shameless Sex'
+        htmlUrl:  'http://www.shamelesssex.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/EDGY9552475281'
+
+    - podcast:
+        title:    'Horizontal with Lila'
+        htmlUrl:  'https://horizontalwithlila.com/'
+        xmlUrl:   'https://horizontalwithlila.libsyn.com/rss'
+
+    - podcast:
+        title:    'Sex with Emily'
+        htmlUrl:  'https://www.sexwithemily.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/CFP9686758960'
+
+    - podcast:
+        title:    'Close Encounters'
+        htmlUrl:  'https://www.theguardian.com/lifeandstyle/series/close-encounters'
+        xmlUrl:   'https://www.theguardian.com/lifeandstyle/series/close-encounters/podcast.xml'
+
+    - podcast:
+        title:    'The Bad Girls Bible'
+        htmlUrl:  'https://badgirlsbible.com/'
+        xmlUrl:   'https://badgirlsbible.libsyn.com/rss'
+
+    - podcast:
+        title:    'Authentic Sex with Juliet Allen'
+        htmlUrl:  'http://www.juliet-allen.com/'
+        xmlUrl:   'https://authenticsex.libsyn.com/rss'
+
+    - podcast:
+        title:    'Sex and Psychology Podcast'
+        htmlUrl:  'https://www.sexandpsychology.com/blog/series/sex-and-psychology-podcast/'
+        xmlUrl:   'https://www.sexandpsychology.com/feed/podcast/'
+
+    - podcast:
+        title:    'Embodied'
+        htmlUrl:  'https://www.wunc.org/podcast/embodied-podcast'
+        xmlUrl:   'https://embodied.feed.wunc.org/'

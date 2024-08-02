@@ -1,0 +1,100 @@
+---
+opml:
+  filename: findthatpod-the-best-crypto-podcasts-for-investors-and-speculators.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-crypto-podcasts-for-investors-and-speculators.opml
+
+head:
+  title: 'FindThatPod - The Best Best Crypto Podcasts for Investors and Speculators'
+  dateCreated: '2024-05-28 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Crypto Podcasts for Investors and Speculators'
+    pubDate:  '2024-05-28'
+    htmlUrl:  'https://findthatpod.com/best-crypto-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'The Money Movement with Jeremy Allaire'
+        htmlUrl:  'https://podcasts.bcast.fm/the-money-movement-with-jeremy-allaire'
+        xmlUrl:   'https://feeds.bcast.fm/the-money-movement-with-jeremy-allaire'
+
+    - podcast:
+        title:    'The Bitcoin Breakout'
+        htmlUrl:  'https://thebitcoinbreakout.com/'
+        xmlUrl:   'https://thebitcoinbreakout.com/feed/podcast/'
+
+    - podcast:
+        title:    'Thinking Crypto'
+        htmlUrl:  'https://www.thinkingcrypto.com/'
+        xmlUrl:   'https://www.spreaker.com/show/3464539/episodes/feed'
+
+    - podcast:
+        title:    'Crypto 101'
+        htmlUrl:  'https://redcircle.com/shows/crypto-101'
+        xmlUrl:   'https://feeds.redcircle.com/0db3d0cf-03b2-46da-b6df-5755ad63a6d5'
+
+    - podcast:
+        title:    'The Pomp Podcast'
+        htmlUrl:  'https://anthonypompliano.com/podcast/'
+        xmlUrl:   'https://anchor.fm/s/b4841110/podcast/rss'
+
+    - podcast:
+        title:    'Bankless'
+        htmlUrl:  'http://podcast.banklesshq.com/'
+        xmlUrl:   'https://bankless.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Defiant – DeFi Podcast'
+        htmlUrl:  'https://thedefiant.io/'
+        xmlUrl:   'https://anchor.fm/s/1bee9344/podcast/rss'
+
+    - podcast:
+        title:    'The “What is Money” Show'
+        htmlUrl:  'https://whatismoneypodcast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/MLdpYXYI'
+
+    - podcast:
+        title:    'What Bitcoin Did with Peter McCormack'
+        htmlUrl:  'https://www.whatbitcoindid.com/podcast/'
+        xmlUrl:   'https://www.whatbitcoindid.com/podcast?format=rss'
+
+    - podcast:
+        title:    'The Bad Crypto Podcast'
+        htmlUrl:  'http://badcryptopodcast.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/8edea6b9-fca4-41a1-83ee-aa76002b9dd8/8f677bef-192a-4471-a50b-abcd002a30ee/5ec27e5e-3d28-4913-b240-abcd002a3106/podcast.rss'
+
+    - podcast:
+        title:    'Empire'
+        htmlUrl:  'https://blockworks.co/podcasts/empire/'
+        xmlUrl:   'https://feeds.megaphone.fm/empire'
+
+    - podcast:
+        title:    'Stephan Livera Podcast'
+        htmlUrl:  'https://www.stephanlivera.com/'
+        xmlUrl:   'https://anchor.fm/s/7d083a4/podcast/rss'
+
+    - podcast:
+        title:    'Token Metrics Podcast'
+        htmlUrl:  'http://tokenmetrics.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2224561.rss'
+
+    - podcast:
+        title:    'Epicenter'
+        htmlUrl:  'https://epicenter.tv/'
+        xmlUrl:   'https://feeds.simplecast.com/lKmQDG9R'
+
+    - podcast:
+        title:    'Tech Path Crypto Investing'
+        htmlUrl:  'https://www.paulbarronnetwork.com/'
+        xmlUrl:   'https://www.spreaker.com/show/4747781/episodes/feed'
+
+    - podcast:
+        title:    'Unchained'
+        htmlUrl:  'https://unchainedpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/LSHML4761942757'
+
