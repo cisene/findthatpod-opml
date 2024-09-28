@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    273
+    title:    'Find That Pod #273'
+    pubDate:  '2024-08-02'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Fandom on the Rocks'
+        htmlUrl:  'https://gleeontherocks.com/'
+        xmlUrl:   'https://anchor.fm/s/12d248dc/podcast/rss'
+
+    - podcast:
+        title:    'Flashpoint'
+        htmlUrl:  'https://iheart.com/podcast/191750215'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/872cf3ad-848e-45db-a024-b193014039bf/5f063faf-fd42-49a6-a4d7-b193014295e2/podcast.rss'
+
+    - podcast:
+        title:    'Hysterical'
+        htmlUrl:  'https://wondery.com/shows/hysterical'
+        xmlUrl:   'https://rss.art19.com/hysterical'
+
+    - podcast:
+        title:    'Every Single Sci-Fi Film Ever*'
+        htmlUrl:  'https://www.everyscififilm.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2306420.rss'
+
+    - podcast:
+        title:    'Embedded: Tested'
+        htmlUrl:  'https://www.cbc.ca/radio/podcastnews'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/tested.xml'
+
   - issue:    272
     title:    'Find That Pod #272'
     pubDate:  '2024-07-26'
