@@ -10,7 +10,69 @@ head:
   ownerEmail: info@findthatpod.com
   url: https://findthatpod.com/
 
+template:
+  - issue:    999
+    title:    'Find That Pod #999'
+    pubDate:  '1970-01-01'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
+    - podcast:
+        title:    ''
+        htmlUrl:  ''
+        xmlUrl:   ''
+
 body:
+  - issue:    275
+    title:    'Find That Pod #275'
+    pubDate:  '2024-08-16'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Global Pillage'
+        htmlUrl:  'https://www.globalpillage.net/'
+        xmlUrl:   'https://rss.acast.com/globalpillage'
+
+    - podcast:
+        title:    'Wild Card with Rachel Martin'
+        htmlUrl:  'https://www.npr.org/podcasts/510379/wild-card-with-rachel-martin'
+        xmlUrl:   'https://feeds.npr.org/510379/podcast.xml'
+
+    - podcast:
+        title:    'Killing Justice'
+        htmlUrl:  'https://crooked.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/killingjustice'
+
+    - podcast:
+        title:    'Traceroute'
+        htmlUrl:  'https://origins.dev/'
+        xmlUrl:   'https://feeds.captivate.fm/traceroute/'
+
+    - podcast:
+        title:    'Machines Like Us'
+        htmlUrl:  'https://www.theglobeandmail.com/podcasts/machines-like-us/'
+        xmlUrl:   'https://feeds.simplecast.com/FJSi7gLl'
 
   - issue:    274
     title:    'Find That Pod #274'
