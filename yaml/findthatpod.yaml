@@ -12,6 +12,37 @@ head:
 
 body:
 
+  - issue:    274
+    title:    'Find That Pod #274'
+    pubDate:  '2024-08-09'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Salad With a Side of Fries'
+        htmlUrl:  'https://saladwithfries.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/pR8BNoi7'
+
+    - podcast:
+        title:    'Surfing Corporate'
+        htmlUrl:  'http://surfingcorporate.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML6702124985'
+
+    - podcast:
+        title:    'Make Me Smart'
+        htmlUrl:  'https://www.marketplace.org/shows/make-me-smart/'
+        xmlUrl:   'https://www.marketplace.org/feed/podcast/make-me-smart'
+
+    - podcast:
+        title:    'Beyond All Repair'
+        htmlUrl:  'https://www.wbur.org/podcasts/violation'
+        xmlUrl:   'https://rss.wbur.org/violation/podcast'
+
+    - podcast:
+        title:    'Handsome'
+        htmlUrl:  'https://art19.com/shows/handsome'
+        xmlUrl:   'https://rss.art19.com/handsome'
+
   - issue:    273
     title:    'Find That Pod #273'
     pubDate:  '2024-08-02'
