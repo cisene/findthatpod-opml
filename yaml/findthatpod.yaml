@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    281
+    title:    'Find That Pod #281'
+    pubDate:  '2024-09-27'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Think Fast Talk Smart: Communication Techniques'
+        htmlUrl:  'https://fastersmarter.io/'
+        xmlUrl:   'https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques'
+
+    - podcast:
+        title:    'The Spy Who'
+        htmlUrl:  'https://wondery.com/shows/the-spy-who/'
+        xmlUrl:   'https://rss.art19.com/the-spy-who'
+
+    - podcast:
+        title:    'The Big Fib'
+        htmlUrl:  'https://gzmshows.com/shows/listing/the-big-fib/'
+        xmlUrl:   'https://feeds.megaphone.fm/EDEUA3248340476'
+
+    - podcast:
+        title:    'Altered States'
+        htmlUrl:  'https://medium.com/prxofficial/uc-berkeley-center-for-the-science-of-psychedelics-and-prx-launch-altered-states-466f0bbeeabd'
+        xmlUrl:   'https://publicfeeds.net/f/7617/feed-rss.xml'
+
+    - podcast:
+        title:    'The Science of Coffee'
+        htmlUrl:  'https://www.filterstories.org/'
+        xmlUrl:   'https://www.spreaker.com/show/5684874/episodes/feed'
+
   - issue:    280
     title:    'Find That Pod #280'
     pubDate:  '2024-09-20'
