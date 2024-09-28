@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    277
+    title:    'Find That Pod #277'
+    pubDate:  '2024-08-30'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dear Alana,'
+        htmlUrl:  'http://dearalana.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/edf8da6f-41bb-4c0f-89b1-b050016df7b4/beeac361-764a-49d5-b888-b050016e462d/podcast.rss'
+
+    - podcast:
+        title:    'Trauma Rewired'
+        htmlUrl:  'https://www.podpage.com/trauma-rewired/'
+        xmlUrl:   'https://illuminatedwithjennifer.libsyn.com/rss'
+
+    - podcast:
+        title:    'MoneyWise'
+        htmlUrl:  'https://joinhampton.com/moneywise-podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/MOBI7139430498'
+
+    - podcast:
+        title:    'Dwarkesh Podcast'
+        htmlUrl:  'https://www.dwarkeshpatel.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/69345.rss'
+
+    - podcast:
+        title:    'The Lion and The Sun: A Modern History of Iran'
+        htmlUrl:  'https://thelionandthesun.org/'
+        xmlUrl:   'https://thelionandthesun.org/feed/podcast/'
+
   - issue:    276
     title:    'Find That Pod #276'
     pubDate:  '2024-08-23'
