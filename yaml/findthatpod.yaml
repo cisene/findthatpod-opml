@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    278
+    title:    'Find That Pod #278'
+    pubDate:  '2024-09-06'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'In the Making'
+        htmlUrl:  'https://www.behance.net/wireframepodcast'
+        xmlUrl:   'https://feeds.simplecast.com/IWd_z6c8'
+
+    - podcast:
+        title:    'This is Uncomfortable'
+        htmlUrl:  'https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais/'
+        xmlUrl:   'https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais'
+
+    - podcast:
+        title:    'Dear Prudence'
+        htmlUrl:  'https://slate.com/podcasts/dear-prudence'
+        xmlUrl:   'https://feeds.megaphone.fm/SLT2638050842'
+
+    - podcast:
+        title:    'Scared All The Time'
+        htmlUrl:  'http://www.scaredallthetimepodcast.com/'
+        xmlUrl:   'https://audioboom.com/channels/5118224.rss'
+
+    - podcast:
+        title:    'Paul Giamatti’s CHINWAG with Stephen Asma'
+        htmlUrl:  'https://chinwagpod.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/chinwag'
+
   - issue:    277
     title:    'Find That Pod #277'
     pubDate:  '2024-08-30'
