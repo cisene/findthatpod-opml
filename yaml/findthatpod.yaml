@@ -43,6 +43,38 @@ template:
         xmlUrl:   ''
 
 body:
+
+  - issue:    280
+    title:    'Find That Pod #280'
+    pubDate:  '2024-09-20'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Bigfoot Society'
+        htmlUrl:  'https://www.spreaker.com/show/bigfoot-society'
+        xmlUrl:   'https://www.spreaker.com/show/5828342/episodes/feed'
+
+    - podcast:
+        title:    'Money Crimes with Nicole Lapin'
+        htmlUrl:  'https://www.pavestudios.com/crimehouse'
+        xmlUrl:   'https://feeds.megaphone.fm/moneycrimes'
+
+    - podcast:
+        title:    'Panic World'
+        htmlUrl:  'https://www.garbageday.email/'
+        xmlUrl:   'https://anchor.fm/s/f499c1b4/podcast/rss'
+
+    - podcast:
+        title:    'Knead to Know'
+        htmlUrl:  'http://www.kneadtoknowpod.com/'
+        xmlUrl:   'https://feeds.simplecast.com/Jgo_ww7S'
+
+    - podcast:
+        title:    'In The Dark'
+        htmlUrl:  'https://www.newyorker.com/inthedark'
+        xmlUrl:   'https://publicfeeds.net/f/5770/in-the-dark'
+
   - issue:    279
     title:    'Find That Pod #279'
     pubDate:  '2024-09-13'
