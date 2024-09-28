@@ -43,6 +43,36 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    279
+    title:    'Find That Pod #279'
+    pubDate:  '2024-09-13'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'This is Taste'
+        htmlUrl:  'https://art19.com/shows/the-taste-podcast'
+        xmlUrl:   'https://rss.art19.com/the-taste-podcast'
+
+    - podcast:
+        title:    'Noble'
+        htmlUrl:  'https://www.wavland.media/'
+        xmlUrl:   'https://feeds.simplecast.com/vmQnidN1'
+
+    - podcast:
+        title:    'How to Do Everything'
+        htmlUrl:  'https://www.npr.org/podcasts/510384/how-to-do-everything'
+        xmlUrl:   'https://feeds.npr.org/510384/podcast.xml'
+
+    - podcast:
+        title:    'Employee of the Month'
+        htmlUrl:  'http://www.employeeofthemonthshow.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/SLT6894849677'
+
+    - podcast:
+        title:    'Dream Sequence'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-dream-sequence-194186120/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/73ab9706-937d-4cc0-8bc7-b1a900d9901c/6ee041c6-4ac8-45ce-9b6d-b1a900e3b7de/podcast.rss'
 
   - issue:    278
     title:    'Find That Pod #278'
