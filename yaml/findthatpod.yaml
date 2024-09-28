@@ -43,6 +43,38 @@ template:
         xmlUrl:   ''
 
 body:
+
+  - issue:    276
+    title:    'Find That Pod #276'
+    pubDate:  '2024-08-23'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dungeon Masters'
+        htmlUrl:  'https://qcodemedia.com/dungeon-masters'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD9312075181'
+
+    - podcast:
+        title:    'Flightless Bird'
+        htmlUrl:  'https://flightless-bird.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/ww4AILG4'
+
+    - podcast:
+        title:    'Violence Week'
+        htmlUrl:  'https://redcircle.com/shows/violenceweek'
+        xmlUrl:   'https://feeds.redcircle.com/f5e197bb-615a-4296-ab4f-00656cd81d2b'
+
+    - podcast:
+        title:    'Black History, For Real'
+        htmlUrl:  'https://wondery.com/shows/black-history-for-real'
+        xmlUrl:   'https://rss.art19.com/black-history-for-real'
+
+    - podcast:
+        title:    'Don’t Drink The Milk - The Curious History of Things'
+        htmlUrl:  'https://www.dw.com/en/dont-drink-the-milk/program-66631697?maca=en-podcast_dont_drink_the_milk-35517-xml-mrss'
+        xmlUrl:   'https://rss.dw.com/xml/podcast_dont_drink_the_milk'
+
   - issue:    275
     title:    'Find That Pod #275'
     pubDate:  '2024-08-16'
