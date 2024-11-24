@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    283
+    title:    'Find That Pod #283'
+    pubDate:  '2024-10-11'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Weird Little Guys'
+        htmlUrl:  'https://iheart.com/podcast/201395214'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/62ce32da-c3ea-45e9-a31c-b1b00134dbcd/9543cfef-9641-4bf0-9ce1-b1b001351bbe/podcast.rss'
+
+    - podcast:
+        title:    'Should Have Listened to My Mother'
+        htmlUrl:  'https://shltmm.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/VucfpI9q'
+
+    - podcast:
+        title:    'Tiny Expeditions - A Podcast about Genetics, DNA and Inheritance'
+        htmlUrl:  'http://tinyexpeditions.org/'
+        xmlUrl:   'https://feeds.buzzsprout.com/804728.rss'
+
+    - podcast:
+        title:    'Humans in Public Health'
+        htmlUrl:  'https://humans-in-public-health.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/humans-in-public-health/'
+
+    - podcast:
+        title:    'Niche to Meet You'
+        htmlUrl:  'https://www.nichetomeetyou.show/'
+        xmlUrl:   'https://feeds.captivate.fm/nichetomeetyou/'
+
   - issue:    282
     title:    'Find That Pod #282'
     pubDate:  '2024-10-04'
