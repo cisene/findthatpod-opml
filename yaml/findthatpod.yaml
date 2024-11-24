@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    282
+    title:    'Find That Pod #282'
+    pubDate:  '2024-10-04'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Autocracy in America'
+        htmlUrl:  'https://www.theatlantic.com/podcasts/autocracy-in-america'
+        xmlUrl:   'https://feeds.megaphone.fm/autocracyinamerica'
+
+    - podcast:
+        title:    'Wartime Stories'
+        htmlUrl:  'https://art19.com/shows/wartime-stories'
+        xmlUrl:   'https://rss.art19.com/wartime-stories'
+
+    - podcast:
+        title:    'Worlds Collide - The Podcast About Moving Abroad'
+        htmlUrl:  'https://worldscollidepodcast.wixsite.com/my-site-1'
+        xmlUrl:   'https://feeds.captivate.fm/worlds-collide-trailer/'
+
+    - podcast:
+        title:    'Playing God?'
+        htmlUrl:  'http://bioethics.jhu.edu/playing-god'
+        xmlUrl:   'https://feeds.transistor.fm/playing-god'
+
+    - podcast:
+        title:    'The Missing 49 Million'
+        htmlUrl:  'https://www.news.com.au/topics/the-missing-49M'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/63ea9f56-23a2-40f6-878d-b19d00127bea/bf20a8e4-c217-4d95-90b1-b19d00132daa/podcast.rss'
+
   - issue:    281
     title:    'Find That Pod #281'
     pubDate:  '2024-09-27'
