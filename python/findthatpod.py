@@ -334,7 +334,7 @@ def main():
 
   LoadYamlConfig(SOURCE_YAML)
   ProcessItems()
-  ProcessEach()
+  #ProcessEach()
   ProcessLast()
 
 if __name__ == '__main__':
