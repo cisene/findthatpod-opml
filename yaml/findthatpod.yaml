@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    284
+    title:    'Find That Pod #284'
+    pubDate:  '2024-10-18'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Chess Piece: The Elián González Story'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-chess-piece-the-elian-gonzalez-story-217523454/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9da9f081-7ead-4ee8-b575-b1d50144ee8d/8ad1b7cd-3b0d-4ce2-bc1a-b1d50147ab8c/podcast.rss'
+
+    - podcast:
+        title:    'Kill List'
+        htmlUrl:  'https://wondery.com/shows/kill-list/'
+        xmlUrl:   'https://rss.art19.com/kill-list'
+
+    - podcast:
+        title:    'The Science of Birds'
+        htmlUrl:  'https://scienceofbirds.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/937816.rss'
+
+    - podcast:
+        title:    'Shell Game'
+        htmlUrl:  'https://www.shellgame.co/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/87225.rss'
+
+    - podcast:
+        title:    'Sightings'
+        htmlUrl:  'https://www.sightingspodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/sightings'
+
   - issue:    283
     title:    'Find That Pod #283'
     pubDate:  '2024-10-11'
