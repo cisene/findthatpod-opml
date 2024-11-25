@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    285
+    title:    'Find That Pod #285'
+    pubDate:  '2024-10-25'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Life in Seven Songs'
+        htmlUrl:  'http://www.lifeinsevensongs.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG7263596309'
+
+    - podcast:
+        title:    'Science Wise'
+        htmlUrl:  'https://www.sciencewisepodcast.org/'
+        xmlUrl:   'https://feeds.captivate.fm/science-wise/'
+
+    - podcast:
+        title:    '6 Degrees of Cats'
+        htmlUrl:  'https://the6degreesofcatspodcast.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/the6degreesofcatspodcast/feed.xml'
+
+    - podcast:
+        title:    'Empire City: The Untold Origin Story of the NYPD'
+        htmlUrl:  'https://wondery.com/shows/empire-city/'
+        xmlUrl:   'https://rss.art19.com/empire-city'
+
+    - podcast:
+        title:    'Question Everything with Brian Reed'
+        htmlUrl:  'https://www.kcrw.com/culture/shows/question-everything'
+        xmlUrl:   'https://feeds.megaphone.fm/questioneverything'
+
   - issue:    284
     title:    'Find That Pod #284'
     pubDate:  '2024-10-18'
