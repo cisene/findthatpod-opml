@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    286
+    title:    'Find That Pod #286'
+    pubDate:  '2024-11-01'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Scamtown'
+        htmlUrl:  'http://apple.co/Scamtown'
+        xmlUrl:   'https://rss.art19.com/scamtown'
+
+    - podcast:
+        title:    'Channels with Peter Kafka'
+        htmlUrl:  'http://podcasts.voxmedia.com/show/channels-with-peter-kafka'
+        xmlUrl:   'https://feeds.megaphone.fm/recodemedia'
+
+    - podcast:
+        title:    'Let’s Talk Offline'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-lets-talk-offline-208453411/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bae1522a-04ec-4e84-811f-b1d20128adba/ecea8c77-e8a6-4e86-856c-b1d20128f9fb/podcast.rss'
+
+    - podcast:
+        title:    'The Best Idea Yet'
+        htmlUrl:  'https://wondery.com/shows/the-best-idea-yet/'
+        xmlUrl:   'https://rss.art19.com/the-best-idea-yet'
+
+    - podcast:
+        title:    'Fortress Europe'
+        htmlUrl:  'https://www.podmasters.co.uk/'
+        xmlUrl:   'https://feeds.megaphone.fm/NSR8616373103'
+
   - issue:    285
     title:    'Find That Pod #285'
     pubDate:  '2024-10-25'
