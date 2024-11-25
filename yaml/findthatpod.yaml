@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    288
+    title:    'Find That Pod #288'
+    pubDate:  '2024-11-15'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Money Stuff: The Podcast'
+        htmlUrl:  'https://www.iheart.com/podcast/164725399'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ee4336cb-155f-4488-90e0-b1400134e40e/77e6a3a7-290d-4a82-8164-b14001353ef2/podcast.rss'
+
+    - podcast:
+        title:    'Second Act Stories'
+        htmlUrl:  'http://www.secondactstories.org/'
+        xmlUrl:   'https://secondactstories.libsyn.com/rss'
+
+    - podcast:
+        title:    'How Wild'
+        htmlUrl:  'https://www.npr.org/podcasts/510383/how-wild'
+        xmlUrl:   'https://feeds.npr.org/510383/podcast.xml'
+
+    - podcast:
+        title:    'Necessary Tomorrows'
+        htmlUrl:  'https://www.aljazeera.com/podcasts/necessary-tomorrows'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/6c576a47-8ba5-424d-a511-b0cb0112a67f/67ca9b90-7262-4c13-862f-b0cb01156e30/podcast.rss'
+
+    - podcast:
+        title:    'My So-Called Midlife with Reshma Saujani'
+        htmlUrl:  'https://lemonadamedia.com/podcast/embracing-your-crone-age-with-cheryl-strayed/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/b9c53598-57d7-4e8c-88bc-b1fb0160745c/f6311fc0-019f-4ca9-be04-b1fb01615b58/podcast.rss'
+
   - issue:    287
     title:    'Find That Pod #287'
     pubDate:  '2024-11-08'
