@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    287
+    title:    'Find That Pod #287'
+    pubDate:  '2024-11-08'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Dan Carlin’s Hardcore History'
+        htmlUrl:  'https://www.dancarlin.com/hardcore-history-series/'
+        xmlUrl:   'http://feeds.libsyn.com/19573/rss'
+
+    - podcast:
+        title:    'Fall of Civilizations'
+        htmlUrl:  'https://fallofcivilizationspodcast.com/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss'
+
+    - podcast:
+        title:    'History on Fire'
+        htmlUrl:  'http://historyonfirepodcast.com/episodes/'
+        xmlUrl:   'https://historyonfirepodcast.com/episodes?format=rss'
+
+    - podcast:
+        title:    'Behind the Bastards'
+        htmlUrl:  'https://www.iheart.com/podcast/105-behind-the-bastards-29236323/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/E5F91208-CC7E-4726-A312-AE280140AD11/D64F756D-6D5E-4FAE-B24F-AE280140AD36/podcast.rss'
+
+    - podcast:
+        title:    'Tides of History'
+        htmlUrl:  'https://wondery.com/shows/tides-of-history/'
+        xmlUrl:   'https://rss.art19.com/tides-of-history'
+
   - issue:    286
     title:    'Find That Pod #286'
     pubDate:  '2024-11-01'
