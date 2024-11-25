@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    289
+    title:    'Find That Pod #289'
+    pubDate:  '2024-11-22'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Your Next Listen'
+        htmlUrl:  'https://www.simonandschuster.com/p/your-next-listen'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/a70a6df5-a5b3-417a-92b5-b221016809f7/6afab309-9bd1-4834-bb11-b2210169010d/podcast.rss'
+
+    - podcast:
+        title:    'The Feeling Station'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/tendai-maphosa'
+        xmlUrl:   'https://anchor.fm/s/129b90a8/podcast/rss'
+
+    - podcast:
+        title:    'Less Radical'
+        htmlUrl:  'https://cancerculture.substack.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/1655971.rss'
+
+    - podcast:
+        title:    'Grimm, Grimmer, Grimmest'
+        htmlUrl:  'https://pinna.fm/library/kids-shows/pinna-podcasts/grimm-grimmer-grimmest'
+        xmlUrl:   'https://feeds.megaphone.fm/PNA9230679490'
+
+    - podcast:
+        title:    'The Colin & Samir Show'
+        htmlUrl:  'http://youtube.com/colinandsamir'
+        xmlUrl:   'https://feeds.megaphone.fm/LI6529969937'
+
   - issue:    288
     title:    'Find That Pod #288'
     pubDate:  '2024-11-15'
