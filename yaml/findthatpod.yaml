@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    290
+    title:    'Find That Pod #290'
+    pubDate:  '2024-11-29'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Hyperfixed'
+        htmlUrl:  'https://www.hyperfixedpod.com/'
+        xmlUrl:   'https://feed.hyperfixedpod.com/'
+
+    - podcast:
+        title:    'Dive Club'
+        htmlUrl:  'https://rss.com/podcasts/diveclub'
+        xmlUrl:   'https://media.rss.com/diveclub/feed.xml'
+
+    - podcast:
+        title:    'A Fine Mess'
+        htmlUrl:  'https://weareevokemedia.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG4329837593'
+
+    - podcast:
+        title:    'The Man Who Calculated Death'
+        htmlUrl:  'https://wondery.com/shows/the-man-who-calculated-death/'
+        xmlUrl:   'https://rss.art19.com/the-man-who-calculated-death'
+
+    - podcast:
+        title:    'Kill List'
+        htmlUrl:  'https://wondery.com/shows/kill-list/'
+        xmlUrl:   'https://rss.art19.com/kill-list'
+
   - issue:    289
     title:    'Find That Pod #289'
     pubDate:  '2024-11-22'
