@@ -72,6 +72,8 @@ I just created something I would like to consume myself, lists without links are
 
 | Weekly issues                                                                         | Date       |
 | ------------------------------------------------------------------------------------- | ---------- |
+| [Find That Pod #291](https://b19.se/data/opml/findthatpod/findthatpod-issue-291.opml) | 2024-12-06 |
+| [Find That Pod #290](https://b19.se/data/opml/findthatpod/findthatpod-issue-290.opml) | 2024-11-29 |
 | [Find That Pod #289](https://b19.se/data/opml/findthatpod/findthatpod-issue-289.opml) | 2024-11-22 |
 | [Find That Pod #288](https://b19.se/data/opml/findthatpod/findthatpod-issue-288.opml) | 2024-11-15 |
 | [Find That Pod #287](https://b19.se/data/opml/findthatpod/findthatpod-issue-287.opml) | 2024-11-08 |
