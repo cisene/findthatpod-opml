@@ -62,6 +62,18 @@ I just created something I would like to consume myself, lists without links are
 | [FindThatPod - The Best Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts.opml) | 2024-07-18 |
 | [FindThatPod - The Best Comic Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comic-book-podcasts.opml) | 2024-07-25 |
 | [FindThatPod - The Best Podcasts About AI](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-ai.opml) | 2024-07-25 |
+| [FindThatPod - The Best Travel Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml) | 2024-08-22 |
+| FindThatPod - The Best Art Podcasts | 2024-09-11 |
+| FindThatPod - The Best Podcast for Entrepreneurs | 2024-09-19 |
+| FindThatPod - The Best Philosophy Podcasts | 2024-09-26 |
+| FindThatPod - The Best Running Podcasts | 2024-10-03 |
+| FindThatPod - The Best Fitness Podcasts | 2024-10-15 |
+| FindThatPod - The Best Podcasts About Cults | 2024-10-30 |
+| FindThatPod - The Best Cooking Podcasts | 2024-10-31 |
+| FindThatPod - The Best Tennis Podcasts | 2024-11-14 |
+| FindThatPod - The Best Meditation Podcasts | 2024-11-14 |
+| FindThatPod - The Best Podcasts for Men | 2024-11-21 |
+| FindThatPod - The Best Marriage Podcasts | 2024-12-05 |
 
 
 

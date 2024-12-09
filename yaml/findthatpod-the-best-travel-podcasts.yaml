@@ -1,0 +1,204 @@
+---
+opml:
+  filename: findthatpod-the-best-travel-podcasts.opml
+  origin: https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml
+
+head:
+  title: 'FindThatPod - The Best Travel Podcasts'
+  dateCreated: '2023-10-12 00:00:00'
+  ownerName: FindThatPod
+  ownerEmail: info@findthatpod.com
+  url: https://findthatpod.com/
+
+body:
+
+  - issue:    1
+    title:    'Best Travel Podcasts'
+    pubDate:  '2024-08-22'
+    htmlUrl:  'https://findthatpod.com/best-travel-podcasts/'
+    contents:
+
+    - podcast:
+        title:    'Layovers'
+        htmlUrl:  'https://layovers.to/'
+        xmlUrl:   'https://feedpress.me/layovers'
+
+    - podcast:
+        title:    'Not Lost'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/not-lost'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/52ba07f6-e223-4902-8468-ae77011f91e4/76573528-e53d-4235-901b-ae77011f91fc/podcast.rss'
+
+    - podcast:
+        title:    'City of the Rails'
+        htmlUrl:  'https://www.iheart.com/podcast/867-city-of-the-rails-107110388/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/059ec724-0bb9-4321-b675-af70011ebdcd/f6f1909e-9c28-4699-aa65-af7001280b48/podcast.rss'
+
+    - podcast:
+        title:    'You Should Have Been There'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/youshouldhavebeenthere'
+        xmlUrl:   'https://anchor.fm/s/f10c214/podcast/rss'
+
+    - podcast:
+        title:    'Abroad in Japan'
+        htmlUrl:  'https://shows.acast.com/abroadinjapan'
+        xmlUrl:   'https://rss.acast.com/abroadinjapan'
+
+    - podcast:
+        title:    'Field Trip'
+        htmlUrl:  'https://www.washingtonpost.com/podcasts/field-trip/'
+        xmlUrl:   'https://podcast.posttv.com/itunes/field-trip.xml'
+
+    - podcast:
+        title:    'Greetings From Somewhere'
+        htmlUrl:  'https://shows.acast.com/greetings-from-somewhere'
+        xmlUrl:   'https://rss.acast.com/greetings-from-somewhere'
+
+    - podcast:
+        title:    'The Big Travel Podcast'
+        htmlUrl:  'https://www.thebigtravelpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/AUDD9396950735'
+
+    - podcast:
+        title:    'Travel with Rick Steves'
+        htmlUrl:  'https://www.ricksteves.com/'
+        xmlUrl:   'http://www.ricksteves.com/rss/podcast'
+
+    - podcast:
+        title:    '2 Beers Till Takeoff'
+        htmlUrl:  'https://anchor.fm/2beerstilltakeoff'
+        xmlUrl:   'https://anchor.fm/s/4ef83ca4/podcast/rss'
+
+    - podcast:
+        title:    'Amateur Traveler Travel Podcast'
+        htmlUrl:  'https://amateurtraveler.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLSS1857986358'
+
+    - podcast:
+        title:    '80 Days: An Exploration Podcast'
+        htmlUrl:  'https://80dayspodcast.com/'
+        xmlUrl:   'https://80dayspodcast.com/category/podcast-episodes/feed/'
+
+    - podcast:
+        title:    'Wonders of the World'
+        htmlUrl:  'https://wonderspodcast.com/'
+        xmlUrl:   'https://wonderspodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'Zero To Travel Podcast'
+        htmlUrl:  'https://zerototravel.com/travel-podcast/'
+        xmlUrl:   'https://feeds.megaphone.fm/ZTTIA6764283121'
+
+    - podcast:
+        title:    'The Travel Diaries'
+        htmlUrl:  'https://thetraveldiariespodcast.com/'
+        xmlUrl:   'https://rss.acast.com/thetraveldiaries'
+
+    - podcast:
+        title:    'Out Of Office: A Travel Podcast'
+        htmlUrl:  'https://www.outofofficepod.com/'
+        xmlUrl:   'https://outofofficepod.libsyn.com/rss'
+
+    - podcast:
+        title:    'Untold Italy Travel Podcast'
+        htmlUrl:  'https://www.spreaker.com/show/untold-italy-travel-podcast'
+        xmlUrl:   'https://www.spreaker.com/show/5930920/episodes/feed'
+
+    - podcast:
+        title:    'Rails, Ales & Old Towns: A Europe Travel Podcast'
+        htmlUrl:  'https://railsalesoldtowns.podbean.com/'
+        xmlUrl:   'https://railsalesoldtowns.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'The Atlas Obscura Podcast'
+        htmlUrl:  'https://www.stitcher.com/'
+        xmlUrl:   'https://feeds.simplecast.com/xKJ93w_w'
+
+    - podcast:
+        title:    'Far From Home'
+        htmlUrl:  'https://farfromhomepodcast.org/'
+        xmlUrl:   'https://feeds.feedburner.com/FarFromHomePodcast'
+
+    - podcast:
+        title:    'Counting Countries'
+        htmlUrl:  'https://globalgaz.com/counting-countries/'
+        xmlUrl:   'https://countingcountries.libsyn.com/rss'
+
+    - podcast:
+        title:    'Betty in the Sky with a Suitcase!'
+        htmlUrl:  'https://bettyinthesky.com/'
+        xmlUrl:   'https://betty.libsyn.com/rss'
+
+    - podcast:
+        title:    'Vanishing Postcards'
+        htmlUrl:  'https://www.vanishingpostcards.com/'
+        xmlUrl:   'https://anchor.fm/s/42fb4784/podcast/rss'
+
+    - podcast:
+        title:    'Extra Pack of Peanuts'
+        htmlUrl:  'https://extrapackofpeanuts.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/extrapackofpeanuts/feed.xml'
+
+    - podcast:
+        title:    'JUMP with Traveling Jackie'
+        htmlUrl:  'https://redcircle.com/shows/jump-with-traveling-jackie9597'
+        xmlUrl:   'https://feeds.redcircle.com/150b3078-8571-4621-bc57-09ec2482b6d5'
+
+    - podcast:
+        title:    'The Thoughtful Travel Podcast'
+        htmlUrl:  'https://omny.fm/shows/the-thoughtful-travel-podcast-1'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/6efc4c6b-15e2-4db8-8c29-a7ba00789602/e9ed44d0-116a-47da-a617-a7ba007991d6/efc73303-b81c-4c70-8ef4-a7ba007991e0/podcast.rss'
+
+    - podcast:
+        title:    'Armchair Explorer'
+        htmlUrl:  'http://www.armchair-explorer.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG5874436158'
+
+    - podcast:
+        title:    'Wanderlust: Off the Page'
+        htmlUrl:  'https://wanderlustoffthepage.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1850617.rss'
+
+    - podcast:
+        title:    'Travel Goals Podcast'
+        htmlUrl:  'https://pipandthecity.com/travel-podcast/'
+        xmlUrl:   'https://travelgoalspodcast.libsyn.com/rss'
+
+    - podcast:
+        title:    'Alice in Wanderland'
+        htmlUrl:  'https://alice-in-wanderland.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/7LyqsNwV'
+
+    - podcast:
+        title:    'The First Mile'
+        htmlUrl:  'https://thefirstmile.podbean.com/'
+        xmlUrl:   'https://feed.podbean.com/thefirstmile/feed.xml'
+
+    - podcast:
+        title:    'Where to Go'
+        htmlUrl:  'https://www.dk.com/travel'
+        xmlUrl:   'https://feeds.acast.com/public/shows/5f3ba7270747431056a5497d'
+
+    - podcast:
+        title:    'The Rough Guide to Everywhere'
+        htmlUrl:  'http://www.roughguides.com/'
+        xmlUrl:   'https://feeds.soundcloud.com/users/soundcloud:users:79079492/sounds.rss'
+
+    - podcast:
+        title:    'Curious Tourism: Responsible Travel Podcast'
+        htmlUrl:  'https://www.pinatravels.org/responsibletravelpod'
+        xmlUrl:   'https://feeds.captivate.fm/curious-tourism/'
+
+    - podcast:
+        title:    'Travel That Matters'
+        htmlUrl:  'https://www.curtco.com/travelthatmatters'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/4fab3663-bc0e-42da-bca1-ab68000eb109/a81eab75-69e0-4876-93e6-ad34013b70d6/dc28538a-5032-4b91-88f6-ad3401592635/podcast.rss'
+
+    - podcast:
+        title:    'Whiskey and a Map: True Stories of Adventure'
+        htmlUrl:  'https://adventureandexplorationpodcast.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1349236.rss'
+
+    - podcast:
+        title:    'Destination: Eat Drink'
+        htmlUrl:  'https://radiomisfits.com/podcasts/destination-eat-drink/'
+        xmlUrl:   'https://radiomisfits.com/feed/ded/'
