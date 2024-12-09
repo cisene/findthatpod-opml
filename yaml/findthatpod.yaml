@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    291
+    title:    'Find That Pod #291'
+    pubDate:  '2024-12-06'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Man in the Black Mask'
+        htmlUrl:  'https://www.nbcnews.com/themanintheblackmask'
+        xmlUrl:   'https://podcastfeeds.nbcnews.com/the-man-in-the-black-mask'
+
+    - podcast:
+        title:    'The Fantastic History of Food'
+        htmlUrl:  'https://www.spreaker.com/show/the-fantastic-history-of-food'
+        xmlUrl:   'https://www.spreaker.com/show/3591729/episodes/feed'
+
+    - podcast:
+        title:    'Sold a Story'
+        htmlUrl:  'https://features.apmreports.org/sold-a-story/'
+        xmlUrl:   'https://legacyfeeds.publicradio.org/apm-reports/sold-a-story/rss.xml'
+
+    - podcast:
+        title:    'Public Health is Dead'
+        htmlUrl:  'https://public-health-is-dead.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/MBGJ7Bcg'
+
+    - podcast:
+        title:    'Cited'
+        htmlUrl:  'https://dartsandletters.ca/category/cited-podcast/'
+        xmlUrl:   'https://feeds.podcastmirror.com/citedpodcast'
+
   - issue:    290
     title:    'Find That Pod #290'
     pubDate:  '2024-11-29'
