@@ -43,6 +43,36 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    293
+    title:    'Find That Pod #293'
+    pubDate:  '2025-01-03'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Tiny Matters'
+        htmlUrl:  'https://www.acs.org/content/acs/en/pressroom/tiny-matters.html'
+        xmlUrl:   'https://feeds.buzzsprout.com/2243575.rss'
+
+    - podcast:
+        title:    'What Went Wrong'
+        htmlUrl:  'https://art19.com/shows/what-went-wrong'
+        xmlUrl:   'https://rss.art19.com/what-went-wrong'
+
+    - podcast:
+        title:    '16 Sunsets'
+        htmlUrl:  'https://sixteensunsets.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/66f6efa8bc593991488340be'
+
+    - podcast:
+        title:    'The Last Archive'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/the-last-archive'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/podcast.rss'
+
+    - podcast:
+        title:    'Marooned'
+        htmlUrl:  'https://visitmarooned.com/'
+        xmlUrl:   'https://feeds.libsyn.com/486009/rss'
 
   - issue:    292
     title:    'Find That Pod #292'
