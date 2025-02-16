@@ -43,6 +43,37 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    297
+    title:    'Find That Pod #297'
+    pubDate:  '2025-01-31'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'What’s Your Map?'
+        htmlUrl:  'https://oculi-mundi.com/'
+        xmlUrl:   'https://audioboom.com/channels/5139633.rss'
+
+    - podcast:
+        title:    'We Came to the Forest'
+        htmlUrl:  'https://wondery.com/shows/we-came-to-the-forest/'
+        xmlUrl:   'https://rss.art19.com/we-came-to-the-forest'
+
+    - podcast:
+        title:    'Historical Records'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-historical-records-212884903/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/88f08e26-2b32-4038-9b36-b1d201415424/199752c1-6944-4343-9e51-b1d20141ec68/podcast.rss'
+
+    - podcast:
+        title:    'Past Present Future'
+        htmlUrl:  'https://www.ppfideas.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML2708405200'
+
+    - podcast:
+        title:    'Frugalpreneur: Building a Business on a Bootstrapped Budget'
+        htmlUrl:  'https://www.frugal.show/'
+        xmlUrl:   'https://feeds.captivate.fm/frugalpreneurpodcast/'
+
   - issue:    296
     title:    'Find That Pod #296'
     pubDate:  '2025-01-24'
