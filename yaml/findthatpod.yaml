@@ -43,6 +43,37 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    299
+    title:    'Find That Pod #299'
+    pubDate:  '2025-02-14'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The History of English'
+        htmlUrl:  'https://historyofenglishpodcast.com/'
+        xmlUrl:   'https://historyofenglishpodcast.com/feed/podcast/'
+
+    - podcast:
+        title:    'Obscurum: Invasion of the Drones'
+        htmlUrl:  'https://www.obscurumseries.com/podcast'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3148c5e2-f828-4fc7-b649-b25f01049060/b425260e-c070-4ff1-a31c-b25f0104916d/podcast.rss'
+
+    - podcast:
+        title:    'The Children’s Hour'
+        htmlUrl:  'https://www.childrenshour.org/'
+        xmlUrl:   'https://feeds.blubrry.com/feeds/childrenshour.xml'
+
+    - podcast:
+        title:    'The Sleep Retreat'
+        htmlUrl:  'https://thesleepretreatpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/thesleepretreat'
+
+    - podcast:
+        title:    'Strangers on a Bench'
+        htmlUrl:  'https://shows.acast.com/strangers-on-a-bench'
+        xmlUrl:   'https://feeds.acast.com/public/shows/66f5255eae48e0cfdb0b36bb'
+
   - issue:    298
     title:    'Find That Pod #298'
     pubDate:  '2025-02-07'
