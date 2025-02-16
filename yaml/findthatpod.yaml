@@ -43,6 +43,37 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    296
+    title:    'Find That Pod #296'
+    pubDate:  '2025-01-24'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Rebel On Main'
+        htmlUrl:  'https://rebelonmain.com/'
+        xmlUrl:   'https://feed.podbean.com/rebelonmain/feed.xml'
+
+    - podcast:
+        title:    'DICEBERG Ahead!'
+        htmlUrl:  'https://www.dicebergahead.com/'
+        xmlUrl:   'https://feeds.libsyn.com/438903/rss'
+
+    - podcast:
+        title:    'The Disagreement'
+        htmlUrl:  'https://www.thedisagreement.com/'
+        xmlUrl:   'https://feeds.simplecast.com/v6BlCTPM'
+
+    - podcast:
+        title:    'The Koe Cast'
+        htmlUrl:  'https://thedankoe.com/blog'
+        xmlUrl:   'https://anchor.fm/s/560a5ae0/podcast/rss'
+
+    - podcast:
+        title:    'The Telepathy Tapes'
+        htmlUrl:  'https://thetelepathytapes.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/BOOJE7456615667'
+
   - issue:    295
     title:    'Find That Pod #295'
     pubDate:  '2025-01-17'
