@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    292
+    title:    'Find That Pod #292'
+    pubDate:  '2024-12-13'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Smosh Reads Reddit Stories'
+        htmlUrl:  'https://smosh.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/smoshreadsredditstories'
+
+    - podcast:
+        title:    'Eye of the Duck'
+        htmlUrl:  'https://eyeoftheduckpod.com/'
+        xmlUrl:   'https://rss.art19.com/eye-of-the-duck'
+
+    - podcast:
+        title:    'Bunker 8'
+        htmlUrl:  'https://bunker8.buzzsprout.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2405574.rss'
+
+    - podcast:
+        title:    'Uncared For'
+        htmlUrl:  'https://lemonadamedia.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/25027779-3635-4b22-9b89-af4200f83736/d9787df2-1f5e-4669-a169-af4200f9a3a0/podcast.rss'
+
+    - podcast:
+        title:    'Forever Ago'
+        htmlUrl:  'https://www.brainson.org/collection/forever-ago-podcast'
+        xmlUrl:   'https://feeds.publicradio.org/public_feeds/forever-ago'
+
   - issue:    291
     title:    'Find That Pod #291'
     pubDate:  '2024-12-06'
