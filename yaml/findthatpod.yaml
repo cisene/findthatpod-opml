@@ -43,6 +43,37 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    298
+    title:    'Find That Pod #298'
+    pubDate:  '2025-02-07'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Solve for X: Innovations to Change the World'
+        htmlUrl:  'https://solveforx.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/R_xRoQ8w'
+
+    - podcast:
+        title:    'Daniel & Kelly’s Extraordinary Universe'
+        htmlUrl:  'https://www.iheart.com/podcast/105-daniel-and-jorge-explain-t-29862087/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f5d5fac6-77be-47e6-9aee-ae32006cd8c3/b26cbbeb-86eb-4b97-9b34-ae32006cd8d6/podcast.rss'
+
+    - podcast:
+        title:    'Hardcore Literature'
+        htmlUrl:  'https://benjaminmcevoy.libsyn.com/website'
+        xmlUrl:   'https://benjaminmcevoy.libsyn.com/rss'
+
+    - podcast:
+        title:    'The Black Hum'
+        htmlUrl:  'https://shows.acast.com/the-black-hum'
+        xmlUrl:   'https://feeds.acast.com/public/shows/67211a0aa73223e19b231026'
+
+    - podcast:
+        title:    'Drum Tower'
+        htmlUrl:  'https://shows.acast.com/drumtower'
+        xmlUrl:   'https://access.acast.com/rss/633ebf6dfc7f5a0012acdc97'
+
   - issue:    297
     title:    'Find That Pod #297'
     pubDate:  '2025-01-31'
