@@ -43,6 +43,37 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    295
+    title:    'Find That Pod #295'
+    pubDate:  '2025-01-17'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Climate Rising'
+        htmlUrl:  'https://www.hbs.edu/environment/podcast/Pages/default.aspx'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG7476737324'
+
+    - podcast:
+        title:    'Mortal Giants'
+        htmlUrl:  'https://www.nationalobserver.com/podcast/mortal-giants'
+        xmlUrl:   'https://feeds.acast.com/public/shows/67008c00ee0f87f81d92f529'
+
+    - podcast:
+        title:    'The Confessions of Anthony Raimondi'
+        htmlUrl:  'https://art19.com/shows/do-you-know-mordechai'
+        xmlUrl:   'https://rss.art19.com/do-you-know-mordechai'
+
+    - podcast:
+        title:    'Bananas - Funny news from around the world with Scotty Landes and Kurt Braunohler'
+        htmlUrl:  'https://www.exactlyrightmedia.com/bananas'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/01c4ac79-45f5-4e50-8d8a-b24b002d7403/e982b50f-b20f-41bb-8381-b24b002d7419/podcast.rss'
+
+    - podcast:
+        title:    'Sixteenth Minute (of Fame)'
+        htmlUrl:  'https://www.iheart.com/podcast/172216473'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/38de5e2a-0671-4ac8-87e3-b10d014842e1/7d5c7cf0-f27f-42fa-ac39-b10d0148bed0/podcast.rss'
+
   - issue:    294
     title:    'Find That Pod #294'
     pubDate:  '2025-01-10'
