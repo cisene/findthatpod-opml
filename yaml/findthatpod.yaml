@@ -43,6 +43,37 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    294
+    title:    'Find That Pod #294'
+    pubDate:  '2025-01-10'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Surrender Not The Flame - Muein Mystery School Adventures'
+        htmlUrl:  'https://www.muein-adventures.com/episodes/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2392260.rss'
+
+    - podcast:
+        title:    'Evil Genius with Russell Kane'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p0605sx6'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p0605sx6.rss'
+
+    - podcast:
+        title:    'Bite Back with Abbey Sharp'
+        htmlUrl:  'https://bite-back-with-abbey-sharp.simplecast.com/'
+        xmlUrl:   'https://feeds.simplecast.com/RlbEUM8I'
+
+    - podcast:
+        title:    'Small Things Big Climate'
+        htmlUrl:  'https://thestar.com/podcasts/small-things-big-climate'
+        xmlUrl:   'https://feeds.libsyn.com/554112/rss'
+
+    - podcast:
+        title:    'Behind The Money'
+        htmlUrl:  'http://ft.com/behindthemoney'
+        xmlUrl:   'https://rss.acast.com/behindthemoney'
+
   - issue:    293
     title:    'Find That Pod #293'
     pubDate:  '2025-01-03'
