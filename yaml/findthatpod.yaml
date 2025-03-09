@@ -43,6 +43,38 @@ template:
         xmlUrl:   ''
 
 body:
+
+  - issue:    300
+    title:    'Find That Pod #300'
+    pubDate:  '2025-02-21'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'It’s a Continent'
+        htmlUrl:  'https://www.itsacontinent.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/WIZD2114847582'
+
+    - podcast:
+        title:    'UnReality'
+        htmlUrl:  'https://audioboom.com/channels/5093481-unreality'
+        xmlUrl:   'https://audioboom.com/channels/5093481.rss'
+
+    - podcast:
+        title:    'Do You Copy?'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/do-you-copy'
+        xmlUrl:   'https://anchor.fm/s/e13dfd88/podcast/rss'
+
+    - podcast:
+        title:    'Blood Vines'
+        htmlUrl:  'https://wondery.com/shows/blood-vines/'
+        xmlUrl:   'https://rss.art19.com/blood-vines'
+
+    - podcast:
+        title:    'Based on a True Story'
+        htmlUrl:  'https://www.basedonatruestorypodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/LEFE6783117506'
+
   - issue:    299
     title:    'Find That Pod #299'
     pubDate:  '2025-02-14'
