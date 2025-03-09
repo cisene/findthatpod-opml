@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    301
+    title:    'Find That Pod #301'
+    pubDate:  '2025-02-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Weirder After Dark'
+        htmlUrl:  'https://podcasters.spotify.com/pod/show/weirderafterdark'
+        xmlUrl:   'https://anchor.fm/s/fdc76c28/podcast/rss'
+
+    - podcast:
+        title:    'Greatest Escapes'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-greatest-escapes-259897937/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b83acfd8-6fe3-4378-a2b0-b22f010190e7/8727585c-7899-4859-a97a-b22f01019434/podcast.rss'
+
+    - podcast:
+        title:    'Fascinating with Sasha Tobago'
+        htmlUrl:  'https://www.sashatobago.com/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/66cd280d17a962f5d7a4db7d'
+
+    - podcast:
+        title:    'The World with Richard Engel & Yalda Hakim'
+        htmlUrl:  'https://www.spreaker.com/podcast/the-world-with-richard-engel-and-yalda-hakim--6313331'
+        xmlUrl:   'https://podcast.global.com/show/6313331/episodes/feed'
+
+    - podcast:
+        title:    'Incubation'
+        htmlUrl:  'https://www.pushkin.fm/podcasts/incubation'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/01a1b6d1-ba0d-48dc-976a-b05f0137ad78/af88ca42-e27d-4eaa-a7d5-b05f01387fa4/podcast.rss'
+
   - issue:    300
     title:    'Find That Pod #300'
     pubDate:  '2025-02-21'
