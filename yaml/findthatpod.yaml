@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    302
+    title:    'Find That Pod #302'
+    pubDate:  '2025-03-07'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Just Breathe: Parenting Your LGBTQ Teen'
+        htmlUrl:  'https://chrysalismama.com/podcast'
+        xmlUrl:   'https://feeds.captivate.fm/just-breathe-parenting/'
+
+    - podcast:
+        title:    'Chance Encounters'
+        htmlUrl:  'https://www.cnn.com/audio/podcasts/chance-encounters'
+        xmlUrl:   'https://feeds.megaphone.fm/WMHY9066087460'
+
+    - podcast:
+        title:    'Scam Inc'
+        htmlUrl:  'https://www.economist.com/audio/podcasts/scam-inc'
+        xmlUrl:   'https://access.acast.com/rss/672ceccb61e4ef810ff282c0/default'
+
+    - podcast:
+        title:    'Civics & Coffee'
+        htmlUrl:  'https://www.civicsandcoffee.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/1268555.rss'
+
+    - podcast:
+        title:    'Metropolis'
+        htmlUrl:  'https://luxradium.org/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2397806.rss'
+
   - issue:    301
     title:    'Find That Pod #301'
     pubDate:  '2025-02-28'
