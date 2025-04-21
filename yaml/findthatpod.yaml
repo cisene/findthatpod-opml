@@ -43,6 +43,38 @@ template:
         xmlUrl:   ''
 
 body:
+
+  - issue:    305
+    title:    'Find That Pod #305'
+    pubDate:  '2025-03-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'History Dispatches'
+        htmlUrl:  'https://historydispatches.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/ARML6613457202'
+
+    - podcast:
+        title:    'Scratch & Win'
+        htmlUrl:  'https://www.wgbh.org/podcasts/scratch-win'
+        xmlUrl:   'https://feeds.wgbh.org/4614/feed-rss.xml'
+
+    - podcast:
+        title:    'Someone is Killing the Wolfhounds'
+        htmlUrl:  'https://www.voyagemedia.fm/shows/'
+        xmlUrl:   'https://feeds.megaphone.fm/someoneiskillingthewolfhounds'
+
+    - podcast:
+        title:    'Scam Factory'
+        htmlUrl:  'https://wondery.com/shows/scam-factory/'
+        xmlUrl:   'https://rss.art19.com/scam-factory'
+
+    - podcast:
+        title:    'REDACTED: Declassified Mysteries with Luke Lamana'
+        htmlUrl:  'https://wondery.com/shows/redacted/'
+        xmlUrl:   'https://rss.art19.com/redacted-declassified-mysteries'
+
   - issue:    304
     title:    'Find That Pod #304'
     pubDate:  '2025-03-21'
