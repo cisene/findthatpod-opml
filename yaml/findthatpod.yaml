@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    306
+    title:    'Find That Pod #306'
+    pubDate:  '2025-04-04'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Good Hang with Amy Poehler'
+        htmlUrl:  'https://www.theringer.com/podcasts/good-hang-with-amy-poehler'
+        xmlUrl:   'https://feeds.megaphone.fm/good-hang-with-amy-poehler'
+
+    - podcast:
+        title:    'A Better Paradise'
+        htmlUrl:  'http://www.abetterparadise.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/QCD7748641850'
+
+    - podcast:
+        title:    'Otherwise Objectionable'
+        htmlUrl:  'https://rss.com/podcasts/otherwise-objectionable'
+        xmlUrl:   'https://media.rss.com/otherwise-objectionable/feed.xml'
+
+    - podcast:
+        title:    'ScienceStuff'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-sciencestuff-269210018/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cd3a03ee-0899-478b-a26a-b28e0149e547/285bd8ba-ef5e-40da-89a1-b28e0149eeb9/podcast.rss'
+
+    - podcast:
+        title:    'Useless Information Podcast'
+        htmlUrl:  'http://www.uselessinformation.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/useless-information'
+
   - issue:    305
     title:    'Find That Pod #305'
     pubDate:  '2025-03-28'
