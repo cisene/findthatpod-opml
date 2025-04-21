@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    303
+    title:    'Find That Pod #303'
+    pubDate:  '2020-03-14'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Just Breathe: Parenting Your LGBTQ Teen'
+        htmlUrl:  'https://chrysalismama.com/podcast'
+        xmlUrl:   'https://feeds.captivate.fm/just-breathe-parenting/'
+
+    - podcast:
+        title:    'Magical Overthinkers'
+        htmlUrl:  'https://www.studio71.com/us/podcasts/'
+        xmlUrl:   'https://feeds.megaphone.fm/magicaloverthinkers'
+
+    - podcast:
+        title:    'Money Unplugged with Chris Hill'
+        htmlUrl:  'http://www.moneyunpluggedpod.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2441054.rss'
+
+    - podcast:
+        title:    'Rebel Spirit'
+        htmlUrl:  'https://www.iheart.com/podcast/186856705'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/21fad3fc-d494-424f-9dec-b1920128ba62/a6578695-21bf-40cc-a75a-b192012bc541/podcast.rss'
+
+    - podcast:
+        title:    'The Numberphile Podcast'
+        htmlUrl:  'https://www.numberphile.com/podcast/'
+        xmlUrl:   'https://www.numberphile.com/podcast?format=rss'
+
   - issue:    302
     title:    'Find That Pod #302'
     pubDate:  '2025-03-07'
