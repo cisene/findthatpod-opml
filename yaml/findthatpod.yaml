@@ -43,6 +43,36 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    304
+    title:    'Find That Pod #304'
+    pubDate:  '2025-03-21'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Oceans: Life Under Water'
+        htmlUrl:  'https://crowdnetwork.co.uk/podcasts/oceans-life-under-water/'
+        xmlUrl:   'https://feeds.megaphone.fm/AUDD1002009900'
+
+    - podcast:
+        title:    'Diabolical Lies'
+        htmlUrl:  'https://www.diabolicalliespod.com/podcast'
+        xmlUrl:   'https://api.substack.com/feed/podcast/2836327.rss'
+
+    - podcast:
+        title:    'What Could Go Right?'
+        htmlUrl:  'https://theprogressnetwork.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG9895805104'
+
+    - podcast:
+        title:    'Weird Little Guys'
+        htmlUrl:  'https://iheart.com/podcast/201395214'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/62ce32da-c3ea-45e9-a31c-b1b00134dbcd/9543cfef-9641-4bf0-9ce1-b1b001351bbe/podcast.rss'
+
+    - podcast:
+        title:    'Modern Relationships'
+        htmlUrl:  'https://eriktorenberg.com/'
+        xmlUrl:   'https://rss.flightcast.com/pfl89dvox13mflw476ye9q2l.xml'
 
   - issue:    303
     title:    'Find That Pod #303'
