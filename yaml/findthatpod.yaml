@@ -11,6 +11,7 @@ head:
   url: https://findthatpod.com/
 
 template:
+
   - issue:    999
     title:    'Find That Pod #999'
     pubDate:  '1970-01-01'
@@ -43,6 +44,37 @@ template:
         xmlUrl:   ''
 
 body:
+
+  - issue:    308
+    title:    'Find That Pod #308'
+    pubDate:  '2025-04-18'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Love-ly'
+        htmlUrl:  'https://immigrantlypod.com/love-ly'
+        xmlUrl:   'https://feeds.megaphone.fm/ALMIR5388284817'
+
+    - podcast:
+        title:    'Divine Intervention'
+        htmlUrl:  'https://divineinterventionpodcast.podbean.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2bf1d753-40f6-48e2-b6f6-b28b010da204/c92e63d4-54ed-4c3f-a213-b28b010da228/podcast.rss'
+
+    - podcast:
+        title:    'Aftermath: Hunt for the Anthrax Killer'
+        htmlUrl:  'https://www.cbc.ca/listen/cbc-podcasts/1742-aftermath-hunt-for-the-anthrax-killer'
+        xmlUrl:   'https://www.cbc.ca/podcasting/includes/aftermath.xml'
+
+    - podcast:
+        title:    'Cement City'
+        htmlUrl:  'https://www.cementcity.org/'
+        xmlUrl:   'https://feeds.megaphone.fm/hope-through-history'
+
+    - podcast:
+        title:    'Good Bad Billionaire'
+        htmlUrl:  'http://www.bbc.co.uk/programmes/p0g7xj36'
+        xmlUrl:   'https://podcasts.files.bbci.co.uk/p0g7xj36.rss'
 
   - issue:    307
     title:    'Find That Pod #307'
