@@ -44,6 +44,37 @@ template:
 
 body:
 
+  - issue:    307
+    title:    'Find That Pod #307'
+    pubDate:  '2025-04-11'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Playful Musician'
+        htmlUrl:  'https://theplayfulmusician.com/'
+        xmlUrl:   'https://feeds.transistor.fm/the-playful-musician-with-steve-davidson'
+
+    - podcast:
+        title:    'The Gray Area with Sean Illing'
+        htmlUrl:  'https://www.vox.com/vox-conversations-podcast'
+        xmlUrl:   'https://feeds.megaphone.fm/theezrakleinshow'
+
+    - podcast:
+        title:    'Weird Work'
+        htmlUrl:  'https://www.weird.work/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/62f6a24f1a9b9f0012e05081'
+
+    - podcast:
+        title:    'A Race Around the World: Based on the True Adventures of Nellie Bly and Elizabeth Bisland'
+        htmlUrl:  'https://www.strangersabroadpodcast.com/'
+        xmlUrl:   'https://feeds.libsyn.com/484992/rss'
+
+    - podcast:
+        title:    'Keeping Records'
+        htmlUrl:  'https://headgum.com/keeping-records'
+        xmlUrl:   'https://feeds.megaphone.fm/GBLL1400017277'
+
   - issue:    306
     title:    'Find That Pod #306'
     pubDate:  '2025-04-04'
