@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    309
+    title:    'Find That Pod #309'
+    pubDate:  '2025-04-25'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Future Hindsight'
+        htmlUrl:  'http://sites.libsyn.com/113012/site'
+        xmlUrl:   'https://futurehindsight.libsyn.com/rss'
+
+    - podcast:
+        title:    'Who Smarted?'
+        htmlUrl:  'https://whosmarted.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/GLSS8637059451'
+
+    - podcast:
+        title:    'Missed Fortune'
+        htmlUrl:  'https://apple.co/Missed_Fortune'
+        xmlUrl:   'https://rss.art19.com/missed-fortune'
+
+    - podcast:
+        title:    'Something More Human'
+        htmlUrl:  'https://somethingmorehuman.co/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2270774.rss'
+
+    - podcast:
+        title:    'Titanic: Ship of Dreams'
+        htmlUrl:  'https://www.noiser.com/titanic-ship-of-dreams'
+        xmlUrl:   'https://feeds.megaphone.fm/NSR5279445529'
+
   - issue:    308
     title:    'Find That Pod #308'
     pubDate:  '2025-04-18'
