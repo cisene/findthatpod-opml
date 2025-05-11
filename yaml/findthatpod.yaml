@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    310
+    title:    'Find That Pod #310'
+    pubDate:  '2025-05-02'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Art Of Imperfect Adulting'
+        htmlUrl:  'https://www.imperfectadulting.com/'
+        xmlUrl:   'https://feeds.captivate.fm/imperfect-adulting/'
+
+    - podcast:
+        title:    'Close All Tabs'
+        htmlUrl:  'https://www.kqed.org/podcasts/closealltabs'
+        xmlUrl:   'https://feeds.megaphone.fm/KQINC6993880386'
+
+    - podcast:
+        title:    'Possible'
+        htmlUrl:  'https://www.possible.fm/'
+        xmlUrl:   'https://feeds.megaphone.fm/possible'
+
+    - podcast:
+        title:    'Vine: Six Seconds That Changed The World'
+        htmlUrl:  'https://vine-six-seconds-that.captivate.fm/'
+        xmlUrl:   'https://feeds.captivate.fm/vine-six-seconds-that/'
+
+    - podcast:
+        title:    'History for Weirdos'
+        htmlUrl:  'https://www.historyforweirdos.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/historyforweirdos'
+
   - issue:    309
     title:    'Find That Pod #309'
     pubDate:  '2025-04-25'
