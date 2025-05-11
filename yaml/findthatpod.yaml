@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    311
+    title:    'Find That Pod #311'
+    pubDate:  '2025-05-09'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'From Homeless to Mansion'
+        htmlUrl:  'http://homelesstomansion.com/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2457929.rss'
+
+    - podcast:
+        title:    'This Guy Sucked'
+        htmlUrl:  'https://art19.com/shows/this-guy-sucked'
+        xmlUrl:   'https://rss.art19.com/this-guy-sucked'
+
+    - podcast:
+        title:    'Sound Strategy with Lucas Dickey'
+        htmlUrl:  'https://www.soundstrategy.fm/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2461047.rss'
+
+    - podcast:
+        title:    'Grand Pricks'
+        htmlUrl:  'https://podcast.ausha.co/grand-pricks'
+        xmlUrl:   'https://feed.ausha.co/26WDMUnQaKqk'
+
+    - podcast:
+        title:    'The Hookup'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-the-hookup-264834252/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/227ab646-a931-4140-b041-b27a014cffe1/185f9796-58ea-4bb9-9d33-b27a014d04e2/podcast.rss'
+
   - issue:    310
     title:    'Find That Pod #310'
     pubDate:  '2025-05-02'
