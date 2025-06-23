@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    316
+    title:    'Find That Pod #316'
+    pubDate:  '2026-06-13'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'American Masters: Creative Spark'
+        htmlUrl:  'http://www.pbs.org/americanmasters'
+        xmlUrl:   'https://feeds.megaphone.fm/TPG3674920142'
+
+    - podcast:
+        title:    'Tomorrow’s Cure'
+        htmlUrl:  'https://tomorrowscure.com/'
+        xmlUrl:   'https://publicfeeds.net/f/7254/feed-rss.xml'
+
+    - podcast:
+        title:    'Merging Into Life'
+        htmlUrl:  'https://aaa.com/podcast/'
+        xmlUrl:   'https://feeds.cohostpodcasting.com/yREo2zn7'
+
+    - podcast:
+        title:    'The Wild with Chris Morgan'
+        htmlUrl:  'https://www.kuow.org/podcasts/thewild'
+        xmlUrl:   'http://feeds.kuow.org/thewildpodcast'
+
+    - podcast:
+        title:    'Incoming'
+        htmlUrl:  'https://www.incomingpodcast.com/'
+        xmlUrl:   'https://rss.art19.com/incoming'
+
   - issue:    315
     title:    'Find That Pod #315'
     pubDate:  '2025-06-06'
