@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    315
+    title:    'Find That Pod #315'
+    pubDate:  '2025-06-06'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Retirement Income School'
+        htmlUrl:  'https://www.retirementsolutionsfinancial.com/podcasts/retirement-income-school-safe-money-solutions-to-retire-financially-relaxed'
+        xmlUrl:   'https://app.kajabi.com/podcasts/2147950857/feed'
+
+    - podcast:
+        title:    'Rapid Response'
+        htmlUrl:  'https://mastersofscale.com/rapidresponse'
+        xmlUrl:   'https://rss.art19.com/masters-of-scale-rapid-response'
+
+    - podcast:
+        title:    'The Last City'
+        htmlUrl:  'https://wondery.com/shows/the-last-city/'
+        xmlUrl:   'https://rss.art19.com/the-last-city'
+
+    - podcast:
+        title:    'Tom Slick: Mystery Hunter'
+        htmlUrl:  'https://iheart.com/podcast/191766519'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f10e2093-bd0c-43e5-a275-b19600f0cded/a0c1bd9b-323d-4b52-8763-b19600f1ace8/podcast.rss'
+
+    - podcast:
+        title:    'Thanks Dad with Ego Nwodim'
+        htmlUrl:  'https://art19.com/shows/thanks-dad'
+        xmlUrl:   'https://rss.art19.com/thanks-dad'
+
   - issue:    314
     title:    'Find That Pod #314'
     pubDate:  '2025-05-30'
