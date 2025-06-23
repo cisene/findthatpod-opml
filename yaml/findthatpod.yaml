@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    313
+    title:    'Find That Pod #313'
+    pubDate:  '2005-05-23'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'The Unshakeables'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-the-unshakeables-143335977/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2e063e16-ff01-4204-a8f1-b0cb00e5fdcd/ffe5a090-fae7-455d-a2c6-b0cb00e950e2/podcast.rss'
+
+    - podcast:
+        title:    'Phonograph'
+        htmlUrl:  'https://beforeithadatheme.libsyn.com/website'
+        xmlUrl:   'https://beforeithadatheme.libsyn.com/rss'
+
+    - podcast:
+        title:    'No One Saw It Coming'
+        htmlUrl:  'https://www.abc.net.au/listen/programs/no-one-saw-it-coming/'
+        xmlUrl:   'https://www.abc.net.au/feeds/105017752/podcast.xml'
+
+    - podcast:
+        title:    'Murder on the Towpath with Soledad O’Brien'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-murder-on-the-towpath-wit-272685783/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/da51b742-b9ed-4409-abd4-b2b900f7a0eb/cfb5be8c-388b-4651-9517-b2b900f7ab2a/podcast.rss'
+
+    - podcast:
+        title:    'Proxy with Yowei Shaw'
+        htmlUrl:  'https://www.proxypodcast.com/'
+        xmlUrl:   'https://feed.proxypodcast.com/'
+
   - issue:    312
     title:    'Find That Pod #312'
     pubDate:  '2025-05-16'
