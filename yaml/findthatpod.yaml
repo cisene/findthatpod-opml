@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    317
+    title:    'Find That Pod #317'
+    pubDate:  '2025-06-20'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'Fur & Loathing'
+        htmlUrl:  'https://brazen.fm/fur-and-loathing/'
+        xmlUrl:   'https://feeds.megaphone.fm/furandloathing'
+
+    - podcast:
+        title:    'This Old Tree'
+        htmlUrl:  'https://www.thisoldtree.show/'
+        xmlUrl:   'https://feeds.buzzsprout.com/2044179.rss'
+
+    - podcast:
+        title:    'Wiser World'
+        htmlUrl:  'https://www.wiserworldpodcast.com/'
+        xmlUrl:   'https://feeds.megaphone.fm/wiserworld'
+
+    - podcast:
+        title:    'What We Spend'
+        htmlUrl:  'https://www.iheart.com/podcast/867-what-we-spend-271771145/'
+        xmlUrl:   'https://feeds.megaphone.fm/what-we-spend'
+
+    - podcast:
+        title:    'Titanic: Ship of Dreams'
+        htmlUrl:  'https://www.noiser.com/titanic-ship-of-dreams'
+        xmlUrl:   'https://feeds.megaphone.fm/NSR5279445529'
+
   - issue:    316
     title:    'Find That Pod #316'
     pubDate:  '2026-06-13'
