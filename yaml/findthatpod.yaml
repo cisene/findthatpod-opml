@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    314
+    title:    'Find That Pod #314'
+    pubDate:  '2025-05-30'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'A Podcast of Unnecessary Detail'
+        htmlUrl:  'https://festivalofthespokennerd.com/podcast/'
+        xmlUrl:   'https://feeds.acast.com/public/shows/61deed94f2acc80013aab8aa'
+
+    - podcast:
+        title:    'Uinta Triangle'
+        htmlUrl:  'https://lemonadamedia.com/show/uinta-triangle/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/ee9794af-ce3f-45d8-ab79-b2d80103fd2d/9a57aa95-fcff-43a8-a948-b2d8010403e3/podcast.rss'
+
+    - podcast:
+        title:    'The Green Elephant in the Room'
+        htmlUrl:  'https://sites.google.com/view/thegreenelephantintheroom'
+        xmlUrl:   'https://feeds.buzzsprout.com/214184.rss'
+
+    - podcast:
+        title:    'Deep Cover'
+        htmlUrl:  'https://www.deepcoverpod.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/909992ef-65aa-487b-ab34-ae32006cd6c4/9ba7a5cf-2d80-4ab2-84c4-ae32006cd6e0/podcast.rss'
+
+    - podcast:
+        title:    'Psychoactive'
+        htmlUrl:  'https://www.iheart.com/podcast/1119-psychoactive-84544756/'
+        xmlUrl:   'https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/543B69C4-AD60-46CE-A813-AE2F0056B25B/030A763B-C278-4E3A-9CBE-AE2F0056B26A/podcast.rss'
+
   - issue:    313
     title:    'Find That Pod #313'
     pubDate:  '2005-05-23'
