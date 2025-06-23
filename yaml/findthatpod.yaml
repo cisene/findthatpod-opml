@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    312
+    title:    'Find That Pod #312'
+    pubDate:  '2025-05-16'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title:    'American Potential'
+        htmlUrl:  'https://americanpotential.podbean.com/'
+        xmlUrl:   'https://americanpotential.podbean.com/feed.xml'
+
+    - podcast:
+        title:    'The Extraordinarians'
+        htmlUrl:  'https://art19.com/shows/the-extraordinarians'
+        xmlUrl:   'https://rss.art19.com/the-extraordinarians'
+
+    - podcast:
+        title:    'Imagine This...'
+        htmlUrl:  'https://www.bcg.com/featured-insights/podcasts/imagine-this'
+        xmlUrl:   'https://feeds.captivate.fm/bcg-imagine-this/'
+
+    - podcast:
+        title:    'Climbing the Walls'
+        htmlUrl:  'https://www.understood.org/en/podcasts/climbing-the-walls'
+        xmlUrl:   'https://feeds.simplecast.com/xXnZeZ8J'
+
+    - podcast:
+        title:    'Hasan Minhaj Doesn’t Know'
+        htmlUrl:  'https://hasanminhaj.com/'
+        xmlUrl:   'https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/f58aff55-6f94-4064-b522-b2b2012e62fe/a8b9e568-fae0-4bc6-82ec-b2b2012e6311/podcast.rss'
+
   - issue:    311
     title:    'Find That Pod #311'
     pubDate:  '2025-05-09'
