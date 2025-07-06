@@ -236,6 +236,138 @@ issues:
 - name: The Best Running Podcasts
   opml: findthatpod-the-best-running-podcasts.opml
   date: 2024-10-03
+  htmlUrl:
+  podcasts:
+
+  - podcast:
+    title: Nobody Asked Us with Des & Kara
+    htmlUrl: https://sites.libsyn.com/455619/desandkara
+    xmlUrl: https://feeds.libsyn.com/455619/rss
+
+  - podcast:
+    title: Running Rogue
+    htmlUrl: http://www.roguerunning.com/running-rogue-podcast
+    xmlUrl: https://runningrogue.libsyn.com/rss
+
+  - podcast:
+    title: The Running Channel Podcast
+    htmlUrl: https://runningchannel.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/runningchannel/
+
+  - podcast:
+    title: The Strength Running Podcast
+    htmlUrl: https://strengthrunning.com/
+    xmlUrl: https://strengthrunning.libsyn.com/rss
+
+  - podcast:
+    title: Trail Runner Nation
+    htmlUrl: http://trailrunnernation.com/
+    xmlUrl: https://trailrunnernation.libsyn.com/rss
+
+  - podcast:
+    title: The Running Explained Podcast
+    htmlUrl: https://www.runningexplained.com/
+    xmlUrl: https://anchor.fm/s/4c1b4b0c/podcast/rss
+
+  - podcast:
+    title: Inside Running Podcast
+    htmlUrl: https://insiderunningpodcast.podbean.com/
+    xmlUrl: https://insiderunningpodcast.podbean.com/feed.xml
+
+  - podcast:
+    title: Marathon Training Academy
+    htmlUrl: https://www.marathontrainingacademy.com/blog
+    xmlUrl: https://feeds.podcastmirror.com/mta
+
+  - podcast:
+    title: Ten Junk Miles
+    htmlUrl: http://tenjunkmiles.libsyn.com/podcast
+    xmlUrl: https://tenjunkmiles.libsyn.com/rss
+
+  - podcast:
+    title: The Drop
+    htmlUrl: https://www.believeintherun.com/
+    xmlUrl: https://anchor.fm/s/347e3928/podcast/rss
+
+  - podcast:
+    title: Fuel for the Sole
+    htmlUrl: https://podcasters.spotify.com/pod/show/fuelforthesole
+    xmlUrl: https://anchor.fm/s/579a0680/podcast/rss
+
+  - podcast:
+    title: Run to the Top Podcast | The Ultimate Guide to Running
+    htmlUrl: http://runnersconnect.net/running-podcast
+    xmlUrl: https://runnersconnect.libsyn.com/rss
+
+  - podcast:
+    title: Run It Three Ways
+    htmlUrl: https://podcasters.spotify.com/pod/show/run-it-three-ways
+    xmlUrl: https://anchor.fm/s/c79e08b4/podcast/rss
+
+  - podcast:
+    title: The Morning Shakeout
+    htmlUrl: http://themorningshakeout.com/
+    xmlUrl: https://feeds.acast.com/public/shows/61bb951645cc6900145d924a
+
+  - podcast:
+    title: The Women’s Running Podcast
+    htmlUrl: https://www.womensrunning.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/62b43f4eede4ad0012cb69aa
+
+  - podcast:
+    title: Running is BS
+    htmlUrl: https://runningisbs.podbean.com/
+    xmlUrl: https://runningisbs.podbean.com/feed.xml
+
+  - podcast:
+    title: The Extramilest Podcast
+    htmlUrl: https://www.extramilest.com/
+    xmlUrl: https://florisgierman.libsyn.com/rss/
+
+  - podcast:
+    title: Real Life Runners with Angie and Kevin Brown
+    htmlUrl: https://www.realliferunners.com/
+    xmlUrl: https://feeds.buzzsprout.com/2234821.rss
+
+  - podcast:
+    title: The Stronger Stride Podcast
+    htmlUrl: https://www.strongerstride.com.au/
+    xmlUrl: https://anchor.fm/s/44ddc57c/podcast/rss
+
+  - podcast:
+    title: Relaxed Running
+    htmlUrl: http://www.relaxedrunning.com/
+    xmlUrl: https://feeds.transistor.fm/relaxed-running
+
+  - podcast:
+    title: Run Culture Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/dane-simon-verwey
+    xmlUrl: https://anchor.fm/s/d9c9b60/podcast/rss
+
+  - podcast:
+    title: Another Mother Runner
+    htmlUrl: http://anothermotherrunner.com/
+    xmlUrl: https://feeds.megaphone.fm/AMR9916476147
+
+  - podcast:
+    title: Tread Lightly Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/tread-lightly-podca
+    xmlUrl: https://anchor.fm/s/da84ca30/podcast/rss
+
+  - podcast:
+    title: Run, Selfie, Repeat
+    htmlUrl: https://www.badassladygang.com/podcast
+    xmlUrl: https://runselfierepeat.libsyn.com/rss
+
+  - podcast:
+    title: Any Given Runday
+    htmlUrl: https://www.coachseanc.com/anygivenrunday
+    xmlUrl: https://feeds.buzzsprout.com/799352.rss
+
+  - podcast:
+    title: Doctors of Running Podcast
+    htmlUrl: https://www.doctorsofrunning.com/
+    xmlUrl: https://anchor.fm/s/25eaeb18/podcast/rss
 
 - name: The Best Philosophy Podcasts
   opml: findthatpod-the-best-philosophy-podcasts.opml
