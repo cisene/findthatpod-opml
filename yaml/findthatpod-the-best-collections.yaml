@@ -240,6 +240,88 @@ issues:
 - name: The Best Philosophy Podcasts
   opml: findthatpod-the-best-philosophy-podcasts.opml
   date: 2024-09-26
+  htmlUrl: https://findthatpod.com/best-philosophy-podcasts/
+  podcasts:
+
+  - podcast:
+    title: Philosophize This!
+    htmlUrl: http://www.philosophizethis.org/
+    xmlUrl: https://feeds.megaphone.fm/QCD6036500916
+
+  - podcast:
+    title: Philosophy For Our Times
+    htmlUrl: https://art19.com/shows/philosophy-for-our-times
+    xmlUrl: https://rss.art19.com/philosophy-for-our-times
+
+  - podcast:
+    title: Philosophy Bites
+    htmlUrl: http://www.philosophybites.com/
+    xmlUrl: https://philosophybites.libsyn.com/rss
+
+  - podcast:
+    title: The Partially Examined Life
+    htmlUrl: http://partiallyexaminedlife.com/
+    xmlUrl: https://partiallyexaminedlife.libsyn.com/rss
+
+  - podcast:
+    title: Philosopher’s Zone
+    htmlUrl: https://www.abc.net.au/listen/programs/philosopherszone/
+    xmlUrl: https://www.abc.net.au/feeds/2884506/podcast.xml
+
+  - podcast:
+    title: Elucidations
+    htmlUrl: https://elucidations.vercel.app/
+    xmlUrl: https://feeds.acast.com/public/shows/57b498490b5f3f772a76004a
+
+  - podcast:
+    title: 'In Our Time: Philosophy'
+    htmlUrl: http://www.bbc.co.uk/programmes/p01f0vzr
+    xmlUrl: https://podcasts.files.bbci.co.uk/p01f0vzr.rss
+
+  - podcast:
+    title: Very Bad Wizards
+    htmlUrl: http://sites.libsyn.com/474285/site
+    xmlUrl: https://feeds.libsyn.com/474285/rss
+
+  - podcast:
+    title: The History of Philosophy Without Any Gaps
+    htmlUrl: https://historyofphilosophy.net/
+    xmlUrl: https://feed.podbean.com/hopwag/feed.xml
+
+  - podcast:
+    title: Brain in a Vat
+    htmlUrl: https://podcasters.spotify.com/pod/show/braininavat
+    xmlUrl: https://anchor.fm/s/1e12c4c4/podcast/rss
+
+  - podcast:
+    title: Overthink
+    htmlUrl: https://www.overthinkpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1455199.rss
+
+  - podcast:
+    title: What’s Left of Philosophy
+    htmlUrl: http://patreon.com/leftofphilosophy
+    xmlUrl: https://feeds.buzzsprout.com/1413505.rss
+
+  - podcast:
+    title: Hotel Bar Sessions
+    htmlUrl: http://www.hotelbarpodcast.com/
+    xmlUrl: https://feeds.transistor.fm/hotel-bar-sessions
+
+  - podcast:
+    title: The Panpsycast Philosophy Podcast
+    htmlUrl: http://thepanpsycast.com/panpsycast2/
+    xmlUrl: https://thepanpsycast.libsyn.com/rss
+
+  - podcast:
+    title: Acid Horizon
+    htmlUrl: http://acidhorizonpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1064269.rss
+
+  - podcast:
+    title: Why Theory
+    htmlUrl: https://soundcloud.com/whytheory
+    xmlUrl: https://anchor.fm/s/fd1fcb44/podcast/rss
 
 - name: The Best Podcasts for Entrepreneurs
   opml: findthatpod-the-best-podcasts-for-entrepreneurs.opml
