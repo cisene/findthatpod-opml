@@ -49,7 +49,11 @@ def main():
       issue_pubDate = issue['date']
       issue_htmlUrl = issue['htmlUrl']
 
-      print(issue_pubDate)
+      opml_fullpath = f"../opml/{issue_opml}"
+
+      # Skip is file exists already
+      if os.path.isfile(opml_fullpath):
+        continue
 
       # Open OPML
       opml = etree.Element("opml", version = "2.0")

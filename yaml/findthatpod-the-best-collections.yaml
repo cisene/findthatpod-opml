@@ -228,6 +228,108 @@ issues:
 - name: The Best Podcasts About Cults
   opml: findthatpod-the-best-podcasts-about-cults.opml
   date: 2024-10-30
+  htmlUrl: https://findthatpod.com/best-podcasts-about-cults/
+  podcasts:
+
+  - title: Escaping NXIVM
+    htmlUrl: https://www.cbc.ca/radio/uncover/season1
+    xmlUrl: https://www.cbc.ca/podcasting/includes/escapingnxivm.xml
+
+  - title: Let’s Talk About Sects
+    htmlUrl: https://www.ltaspod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/293c3043-0316-4f41-80cf-037ced3466c1
+
+  - title: Deliver Us From Ervil
+    htmlUrl: https://www.iheart.com/podcast/1119-deliver-us-from-ervil-96084334/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss
+
+  - title: Oh No, Ross and Carrie
+    htmlUrl: http://maximumfun.org/shows/oh-no-ross-and-carrie
+    xmlUrl: https://feeds.simplecast.com/ftB6Gihc
+
+  - title: Good Cult
+    htmlUrl: https://play.cdnstream1.com/s/kast/good-cult
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/5f/cf/53/5fcf53ca-77b3-47b9-8ce9-1e6fa50bb30d.xml
+
+  - title: 'The Gateway: Teal Swan'
+    htmlUrl:
+    xmlUrl: https://feeds.megaphone.fm/thegateway
+
+  - title: Inside the Tribe
+    htmlUrl: https://diamantina.com.au/portfolio-item/inside-the-tribe/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f63dbbb8-78ca-4bd1-a10f-af900013dc12/d393153e-cf64-4559-85f4-af900013dc1b/podcast.rss
+
+  - title: The Commune
+    htmlUrl: https://www.stuff.co.nz/thecommune
+    xmlUrl: https://feeds.megaphone.fm/OUAOS5925172046
+
+  - title: The Cult Vault
+    htmlUrl: https://www.spreaker.com/show/the-cult-vault
+    xmlUrl: https://www.spreaker.com/show/5704277/episodes/feed
+
+  - title: Was I In A Cult?
+    htmlUrl: https://art19.com/shows/was-i-in-a-cult
+    xmlUrl: https://rss.art19.com/was-i-in-a-cult
+
+  - title: The Sunshine Place
+    htmlUrl: https://www.audacy.com/podcast/the-sunshine-place-808ba
+    xmlUrl: https://feeds.megaphone.fm/the-sunshine-place
+
+  - title: Generation Cult
+    htmlUrl: http://generationcult.com/
+    xmlUrl: https://generationcult.libsyn.com/rss
+
+  - title: 'Chameleon: Wild Boys'
+    htmlUrl: https://www.campsidemedia.com/stories/chameleon-wild-boys
+    xmlUrl: https://feeds.megaphone.fm/chameleonwildboys
+
+  - title: You Must Remember Manson
+    htmlUrl: https://podcasts.apple.com/us/podcast/you-must-remember-manson/id1315652782
+    xmlUrl: https://feeds.megaphone.fm/YMRT6702646133
+
+  - title: Filthy Ritual
+    htmlUrl: https://filthy-ritual.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/filthy-ritual/
+
+  - title: A Little Bit Culty
+    htmlUrl: http://www.alittlebitculty.com/
+    xmlUrl: https://feeds.libsyn.com/477021/rss
+
+  - title: 'Trust Me: Cults, Extreme Belief, and Manipulation'
+    htmlUrl: https://art19.com/shows/trust-me
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f804eed6-dd2f-4bf9-ba37-b2de011a8b27/462fb424-93c4-4e4b-8e00-b2de011a8b44/podcast.rss
+
+  - title: Timesuck with Dan Cummins
+    htmlUrl: https://www.badmagicproductions.com/pages/timesuck-podcast-2024
+    xmlUrl: https://feeds.simplecast.com/Llc7KL2K
+
+  - title: Conspirituality
+    htmlUrl: https://conspirituality.net/
+    xmlUrl: https://feeds.megaphone.fm/GLSS1122389842
+
+  - title: Sounds Like A Cult
+    htmlUrl: https://www.soundslikeacult.com/
+    xmlUrl: https://feeds.megaphone.fm/soundslikeacult
+
+  - title: Let’s Start A Cult
+    htmlUrl: https://www.letsstartacultpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/CULTIV5192865837
+
+  - title: The Cult Next Door
+    htmlUrl: https://www.spreaker.com/show/the-cult-next-door
+    xmlUrl: https://www.spreaker.com/show/5971327/episodes/feed
+
+  - title: End of Days
+    htmlUrl: http://www.bbc.co.uk/programmes/p06qc33m
+    xmlUrl: https://podcasts.files.bbci.co.uk/p06qc33m.rss
+
+  - title: IndoctriNation
+    htmlUrl: http://www.patreon.com/indoctrination
+    xmlUrl: https://anchor.fm/s/10060d514/podcast/rss
+
+  - title: Cult or Just Weird
+    htmlUrl: https://www.cultorjustweird.com/
+    xmlUrl: https://cultorjustweird.libsyn.com/rss
 
 - name: The Best Fitness Podcasts
   opml: findthatpod-the-best-fitness-podcasts.opml
