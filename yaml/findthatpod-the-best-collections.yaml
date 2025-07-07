@@ -204,6 +204,92 @@ issues:
 - name: The Best Gardening Podcasts
   opml: findthatpod-the-best-gardening-podcasts.opml
   date: 2025-01-16
+  htmlUrl: https://findthatpod.com/best-gardening-podcasts/
+  podcasts:
+
+  - title: The Joe Gardener Show
+    htmlUrl: https://joegardener.com/
+    xmlUrl: https://thejoegardenershow.libsyn.com/rss
+
+  - title: The Composter
+    htmlUrl: https://www.notillgrowers.com/the-composter
+    xmlUrl: http://feeds.libsyn.com/431631/rss
+
+  - title: The Collaborative Farming Podcast
+    htmlUrl: https://www.notillgrowers.com/collab
+    xmlUrl: http://feeds.libsyn.com/308990/rss
+
+  - title: The Winter Growers Podcast
+    htmlUrl: https://www.notillgrowers.com/winter-growers
+    xmlUrl: http://feeds.libsyn.com/308993/rss
+
+  - title: The Seed Farmer Podcast
+    htmlUrl: https://www.notillgrowers.com/seed-growers-1
+    xmlUrl: http://feeds.libsyn.com/412058/rss
+
+  - title: 'The Beet: A Podcast For Plant Lovers'
+    htmlUrl: https://www.spreaker.com/podcast/the-beet-a-podcast-for-plant-lovers--6105048
+    xmlUrl: https://feeds.megaphone.fm/EG9628819833
+
+  - title: The Beginner’s Garden with Jill McSheehy
+    htmlUrl: http://journeywithjill.net/
+    xmlUrl: https://journeywithjill.libsyn.com/rss
+
+  - title: Growing Greener
+    htmlUrl: https://growinggreener.libsyn.com/
+    xmlUrl: https://growinggreener.libsyn.com/rss
+
+  - title: Let’s Argue About Plants
+    htmlUrl: http://letsargueaboutplants.libsyn.com/website
+    xmlUrl: https://letsargueaboutplants.libsyn.com/rss
+
+  - title: Cultivating Place
+    htmlUrl: https://www.cultivatingplace.com/
+    xmlUrl: https://feedpress.me/cultivatingplace
+
+  - title: A Way to Garden
+    htmlUrl: https://robinhoodradioondemand.com/series/a-way-to-garden-with-margaret-roach/
+    xmlUrl: https://robinhoodradioondemand.com/feed/podcast/a-way-to-garden-with-margaret-roach/
+
+  - title: 'Two Minutes in the Garden: Gardening Tips, Science, Myths'
+    htmlUrl: https://empressofdirt.net/two-minutes-in-the-garden/
+    xmlUrl: https://empressofdirt.net/briefing/full.rss
+
+  - title: Garden Basics with Farmer Fred
+    htmlUrl: https://www.buzzsprout.com/1004629
+    xmlUrl: https://feeds.buzzsprout.com/1004629.rss
+
+  - title: BBC Gardeners’ World Magazine Podcast
+    htmlUrl: https://www.gardenersworld.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT9636953898
+
+  - title: Skinny Jean Gardener Podcast
+    htmlUrl: https://skinnyjeangardener.co.uk/podcast/
+    xmlUrl: https://skinnyjeangardener.co.uk/podcast?format=rss
+
+  - title: Roots and All – Gardening Podcast
+    htmlUrl: https://rootsandall.co.uk/
+    xmlUrl: https://rootsandall.libsyn.com/rss
+
+  - title: Garden Fundamentals Show
+    htmlUrl: https://www.gardenmyths.com/
+    xmlUrl: https://anchor.fm/s/f2aec4bc/podcast/rss
+
+  - title: Garden Talk with Mr. Grow It
+    htmlUrl: https://www.buzzsprout.com/1691170
+    xmlUrl: https://feeds.buzzsprout.com/1691170.rss
+
+  - title: Talking Gardens
+    htmlUrl: https://www.gardensillustrated.com/
+    xmlUrl: https://feeds.megaphone.fm/talkinggardens
+
+  - title: Gardening with the RHS
+    htmlUrl: https://www.rhs.org.uk/podcast
+    xmlUrl: https://feeds.megaphone.fm/PIXP1366629560
+
+  - title: Gardeners’ Corner
+    htmlUrl: http://www.bbc.co.uk/programmes/b007b5wg
+    xmlUrl: https://podcasts.files.bbci.co.uk/b007b5wg.rss
 
 - name: The Best Marriage Podcasts
   opml: findthatpod-the-best-marriage-podcasts.opml
