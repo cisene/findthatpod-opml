@@ -220,6 +220,80 @@ issues:
 - name: The Best Tennis Podcasts
   opml: findthatpod-the-best-tennis-podcasts.opml
   date: 2024-11-14
+  htmlUrl: https://findthatpod.com/best-tennis-podcasts/
+  podcasts:
+
+  - title: The Mini-Break
+    htmlUrl: https://bleav.com/shows/the-mini-break-podcast/
+    xmlUrl: https://feeds.simplecast.com/OiyRsoHN
+
+  - title: Tennis Unfiltered
+    htmlUrl: https://podcast.sport-social.co.uk/podcast/love-tennis/
+    xmlUrl: https://feeds.megaphone.fm/COMG1086494290
+
+  - title: Open Era
+    htmlUrl: https://www.openera.ca/
+    xmlUrl: https://www.spreaker.com/show/4188908/episodes/feed
+
+  - title: The Tennis Podcast
+    htmlUrl: http://www.tennispodcast.net/
+    xmlUrl: http://rss.acast.com/thetennispodcast
+
+  - title: Monday Match Analysis
+    htmlUrl: https://bleav.com/shows/monday-match-analysis/
+    xmlUrl: https://feeds.simplecast.com/49ZTmB7b
+
+  - title: Talk Tennis
+    htmlUrl: https://talktennis.podbean.com/
+    xmlUrl: https://feed.podbean.com/talktennis/feed.xml
+
+  - title: The Craig Shapiro Tennis Podcast
+    htmlUrl: https://shows.acast.com/craigtennispod
+    xmlUrl: https://feeds.acast.com/public/shows/5ebd4f3042ecff3e0017461b
+
+  - title: Three – A Tennis Show
+    htmlUrl: https://www.youtube.com/channel/UCQp3mWzlwl6Wdi_xsI6aFQg
+    xmlUrl: https://feeds.megaphone.fm/threeatennisshow
+
+  - title: Tennis and Bagels Podcast
+    htmlUrl: https://shows.acast.com/61ddcfd83a030a0012b56883
+    xmlUrl: https://feeds.acast.com/public/shows/61ddcfd83a030a0012b56883
+
+  - title: Tennis Weekly
+    htmlUrl: https://tennisweekly.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/630c9209217a210012b79258
+
+  - title: The Body Serve
+    htmlUrl: https://thebodyserve.podbean.com/
+    xmlUrl: https://thebodyserve.podbean.com/feed.xml
+
+  - title: Served with Andy Roddick
+    htmlUrl: http://www.servedpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP6052759157
+
+  - title: Doubles Only Tennis Podcast
+    htmlUrl: https://thetennistribe.com/
+    xmlUrl: https://feeds.buzzsprout.com/1375636.rss
+
+  - title: No Challenges Remaining
+    htmlUrl: https://nochallengesremaining.podbean.com/
+    xmlUrl: https://nochallengesremaining.podbean.com/feed.xml
+
+  - title: WTA Insider Podcast
+    htmlUrl: http://www.wtatennis.com/
+    xmlUrl: https://wtainsider.libsyn.com/rss
+
+  - title: The Tennis Files Podcast
+    htmlUrl: https://tennisfiles.com/
+    xmlUrl: https://feeds.captivate.fm/the-tennis-files-podcast/
+
+  - title: Second Serve Tennis
+    htmlUrl: https://secondservepodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1045900.rss
+
+  - title: Advantage Connors
+    htmlUrl: https://www.youtube.com/channel/UCb3d19jrwaH9pA2vKzGZuNA
+    xmlUrl: https://feeds.megaphone.fm/CTL3811272905
 
 - name: The Best Cooking Podcasts
   opml: findthatpod-the-best-cooking-podcasts.opml
