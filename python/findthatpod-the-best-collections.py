@@ -42,8 +42,13 @@ def main():
 
   LoadYamlConfig(SOURCE_YAML)
 
-  for issue in reversed(config['issues']):
+  #for issue in reversed(config['issues']):
+  for issue in config['issues']:
     if "podcasts" in issue:
+
+      if "htmlUrl" not in issue:
+        continue
+
       issue_title = issue['name']
       issue_opml = issue['opml']
       issue_pubDate = issue['date']
@@ -52,8 +57,10 @@ def main():
       opml_fullpath = f"../opml/{issue_opml}"
 
       # Skip is file exists already
-      if os.path.isfile(opml_fullpath):
-        continue
+      #if os.path.isfile(opml_fullpath):
+      #  continue
+
+
 
       # Open OPML
       opml = etree.Element("opml", version = "2.0")
@@ -127,9 +134,7 @@ def main():
       writeOPML(f"../opml/{issue_opml}", opml_contents)
 
       print(f"Wrote {issue_opml} ..")
-    else:
-      print(f"Skipped {issue['name']} ...")
-
+      break
 
 if __name__ == '__main__':
   main()
