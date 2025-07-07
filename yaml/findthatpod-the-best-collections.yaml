@@ -224,6 +224,104 @@ issues:
 - name: The Best Cooking Podcasts
   opml: findthatpod-the-best-cooking-podcasts.opml
   date: 2024-10-31
+  htmlUrl: https://findthatpod.com/best-cooking-podcasts/
+  podcasts:
+
+  - title: This is TASTE
+    htmlUrl: https://art19.com/shows/the-taste-podcast
+    xmlUrl: https://rss.art19.com/the-taste-podcast
+
+  - title: The Food Chain
+    htmlUrl: http://www.bbc.co.uk/programmes/p028z2z0
+    xmlUrl: https://podcasts.files.bbci.co.uk/p028z2z0.rss
+
+  - title: Pack Your Knives
+    htmlUrl: https://www.packyourknives.com/
+    xmlUrl: https://feeds.megaphone.fm/PDR5675322939
+
+  - title: The One Recipe
+    htmlUrl: https://www.splendidtable.org/theonerecipe
+    xmlUrl: https://feeds.publicradio.org/public_feeds/the-one-recipe
+
+  - title: Gastropod
+    htmlUrl: https://gastropod.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP6255701211
+
+  - title: Spilled Milk
+    htmlUrl: https://spilledmilkpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/rL4HTwhu
+
+  - title: The Splendid Table
+    htmlUrl: https://www.splendidtable.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/the-splendid-table
+
+  - title: Dinner SOS By Bon Appétit
+    htmlUrl: https://www.bonappetit.com/podcast/dinner-sos
+    xmlUrl: https://publicfeeds.net/f/5637/Dinner-SOS
+
+  - title: The Sporkful
+    htmlUrl: https://www.siriusxm.com/player/show-podcast/entity/fb369dfd-92ab-3bb9-80ec-77b3dacc95af?intcmp=AssetGroup:Any_NA_www:podcasts-_ListentoTheSporkful&visitorid=18703757435231843820387757678798516470
+    xmlUrl: https://feeds.simplecast.com/n91GPFY5
+
+  - title: A Hot Dog Is a Sandwich
+    htmlUrl: http://mythicalkitchen.com/
+    xmlUrl: https://feeds.megaphone.fm/hot-dog
+
+  - title: Savor
+    htmlUrl: https://www.iheart.com/podcast/105-savor-28019899/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6aea3686-8d70-4e8d-a848-ae2701747e15/6115b625-6e6f-4ab9-bf43-ae2701747e28/podcast.rss
+
+  - title: Gravy
+    htmlUrl: http://www.southernfoodways.org/gravy
+    xmlUrl: https://feeds.megaphone.fm/TPG7691102500
+
+  - title: Recipe Club
+    htmlUrl: https://www.theringer.com/podcasts/recipe-club
+    xmlUrl: https://feeds.megaphone.fm/dave-chang-recipe-club
+
+  - title: Christopher Kimball’s Milk Street Radio
+    htmlUrl: http://www.177milkstreet.com/radio/about
+    xmlUrl: https://publicfeeds.net/f/9135/feed-rss.xml
+
+  - title: Food Court with Richard Blais
+    htmlUrl: https://www.iheart.com/podcast/1119-food-court-with-richard-b-58971657/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/53bd1a6b-76d3-4d26-bda8-ae2b001563eb/df5aa001-4c15-43ac-b9f4-ae2b0015640b/podcast.rss
+
+  - title: Off Menu with Ed Gamble and James Acaster
+    htmlUrl: https://www.offmenupodcast.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4
+
+  - title: Austin All Day
+    htmlUrl: http://www.austinallday.com/
+    xmlUrl: https://feeds.buzzsprout.com/277806.rss
+
+  - title: Home Cooking
+    htmlUrl: https://homecooking.show/
+    xmlUrl: http://feeds.feedburner.com/homecookingshow
+
+  - title: Proof
+    htmlUrl: https://www.americastestkitchen.com/proof
+    xmlUrl: https://feeds.megaphone.fm/ARML1836404539
+
+  - title: Schmaltzy
+    htmlUrl: https://schmaltzy.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/8O7ckFvQ
+
+  - title: Radio Cherry Bombe
+    htmlUrl: https://cherrybombe.com/radio-cherry-bombe
+    xmlUrl: https://feeds.simplecast.com/b8n00peG
+
+  - title: Copper & Heat Radio
+    htmlUrl: https://www.copperandheat.com/
+    xmlUrl: https://feeds.simplecast.com/6tPVj8he
+
+  - title: Salt & Spine
+    htmlUrl: https://saltandspine.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/257102.rss
+
+  - title: The Storied Recipe
+    htmlUrl: https://thestoriedrecipe.com/
+    xmlUrl: https://thestoriedrecipe.com/feed/podcast/
 
 - name: The Best Podcasts About Cults
   opml: findthatpod-the-best-podcasts-about-cults.opml
