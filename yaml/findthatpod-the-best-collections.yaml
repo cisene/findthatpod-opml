@@ -212,6 +212,96 @@ issues:
 - name: The Best Podcasts for Men
   opml: findthatpod-the-best-podcasts-for-men.opml
   date: 2024-11-21
+  htmlUrl: https://findthatpod.com/best-podcasts-for-men/
+  podcasts:
+
+  - title: The Daily Stoic
+    htmlUrl: https://wondery.com/shows/the-daily-stoic/
+    xmlUrl: https://rss.art19.com/the-daily-stoic
+
+  - title: Now and Men
+    htmlUrl: https://mmasc.org.uk/
+    xmlUrl: https://feeds.captivate.fm/now-and-men/
+
+  - title: 'Detoxicity: By Men, About Men, For Everyone'
+    htmlUrl: https://detoxpod.podbean.com/
+    xmlUrl: https://feed.podbean.com/detoxpod/feed.xml
+
+  - title: The Knowledge Project with Shane Parrish
+    htmlUrl: https://fs.blog/knowledge-project/
+    xmlUrl: https://feeds.megaphone.fm/FSMI7575968096
+
+  - title: The Prof G Pod with Scott Galloway
+    htmlUrl: https://profgmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/WWO6655869236
+
+  - title: Jocko Podcast
+    htmlUrl: https://redcircle.com/shows/jocko-podcast
+    xmlUrl: https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+
+  - title: Man Up / Man Down
+    htmlUrl: http://sites.libsyn.com/438195/manupdown
+    xmlUrl: https://feeds.acast.com/public/shows/650303ea134edb0011f31baa
+
+  - title: The Man Enough Podcast
+    htmlUrl: https://manenough.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/man-enough
+
+  - title: The Art of Manliness
+    htmlUrl: http://www.artofmanliness.com/podcast/
+    xmlUrl: https://feeds.simplecast.com/azy33G8_
+
+  - title: Insane In The Men Brain
+    htmlUrl: https://www.facebook.com/menbrainpodcast/
+    xmlUrl: https://feeds.acast.com/public/shows/39d0e968-609b-480a-bd7a-4e29c86c377b
+
+  - title: The One You Feed
+    htmlUrl: https://art19.com/shows/the-one-you-feed-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1d49cbad-dffb-4b8f-bea4-aea001380113/2f40a9d9-0fdd-49fb-8444-aea001380134/podcast.rss
+
+  - title: WTF with Marc Maron
+    htmlUrl: http://wtfpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/62a222737c02140013aa4c03
+
+  - title: The Rich Roll Podcast
+    htmlUrl: https://www.richroll.com/blog/
+    xmlUrl: https://feeds.megaphone.fm/the-rich-roll-podcast
+
+  - title: The Modern Mann
+    htmlUrl: https://www.modernmann.co.uk/
+    xmlUrl: https://feeds.megaphone.fm/AUDD2318537181
+
+  - title: 10% Happier with Dan Harris
+    htmlUrl: http://www.danharris.com/
+    xmlUrl: https://feeds.libsyn.com/570160/rss
+
+  - title: Lads Anonymous
+    htmlUrl: https://podcast.sport-social.co.uk/podcast/lads-anonymous/
+    xmlUrl: https://feeds.megaphone.fm/COMG6675835674
+
+  - title: The Tim Ferriss Show
+    htmlUrl: https://tim.blog/podcast
+    xmlUrl: https://rss.art19.com/tim-ferriss-show
+
+  - title: ManTalks Podcast
+    htmlUrl: http://mantalks.com/podcast
+    xmlUrl: https://feeds.captivate.fm/mantalks-podcast/
+
+  - title: The Art of Charm
+    htmlUrl: https://the-art-of-charm.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/TAOC1506947885
+
+  - title: Armchair Expert with Dax Shepard
+    htmlUrl: https://wondery.com/shows/armchair-expert-with-dax-shepard/
+    xmlUrl: https://rss.art19.com/armchair-expert
+
+  - title: The Imperfects
+    htmlUrl: https://theresilienceproject.com.au/podcast/
+    xmlUrl: https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/7070a66c-566e-4d0b-b99f-b242003206c0/2b8a9150-46c0-4837-ad45-b242003206fb/podcast.rss
+
+  - title: Solo – The Single Person’s Guide to a Remarkable Life
+    htmlUrl: https://www.petermcgraw.org/solo/
+    xmlUrl: https://feeds.podetize.com/rss/eXq_tlkLI
 
 - name: The Best Meditation Podcasts
   opml: findthatpod-the-best-meditation-podcasts.opml
