@@ -196,6 +196,120 @@ issues:
 - name: The Best Podcasts for Road Trips of All Lengths
   opml: findthatpod-the-best-podcasts-for-road-trips-of-all-lengths.opml
   date: 2025-02-03
+  htmlUrl: https://findthatpod.com/best-podcasts-for-road-trips/
+  podcasts: 
+
+  - title: Sounds like A Cult
+    htmlUrl: https://www.soundslikeacult.com/
+    xmlUrl: https://feeds.megaphone.fm/soundslikeacult
+
+  - title: Otherworld
+    htmlUrl: https://www.otherworldpod.com/
+    xmlUrl: https://feeds.megaphone.fm/otherworld
+
+  - title: Desert Island Discs
+    htmlUrl: http://www.bbc.co.uk/programmes/b006qnmr
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qnmr.rss
+
+  - title: Astonishing Legends
+    htmlUrl: http://www.astonishinglegends.com/
+    xmlUrl: https://audioboom.com/channels/4322549.rss
+
+  - title: National Park After Dark
+    htmlUrl: http://npadpodcast.com/
+    xmlUrl: https://audioboom.com/channels/5055896.rss
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/player/show-podcast/entity/b59f11c4-2904-3373-94fc-3697bbe3547e
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: If Books Could Kill
+    htmlUrl: https://www.patreon.com/IfBooksPod
+    xmlUrl: https://feeds.buzzsprout.com/2040953.rss
+
+  - title: 13 Minutes to the Moon
+    htmlUrl: https://www.spreaker.com/show/13-minutes-to-the-moon
+    xmlUrl: https://www.spreaker.com/show/3677449/episodes/feed
+
+  - title: British Scandal
+    htmlUrl: https://wondery.com/shows/british-scandal
+    xmlUrl: https://rss.art19.com/british-scandal
+
+  - title: Stuff You Should Know
+    htmlUrl: https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/A91018A4-EA4F-4130-BF55-AE270180C327/44710ECC-10BB-48D1-93C7-AE270180C33E/podcast.rss
+
+  - title: Valley Heat
+    htmlUrl: https://valleyheatpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/kKMR_wuB
+
+  - title: Sold a Story
+    htmlUrl: https://features.apmreports.org/sold-a-story/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/sold-a-story
+
+  - title: Song Exploder
+    htmlUrl: http://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: Outside Podcast
+    htmlUrl: http://www.outsideonline.com/podcast
+    xmlUrl: https://feeds.feedburner.com/OutsidePodcast
+
+  - title: Ologies Podcast
+    htmlUrl: https://www.alieward.com/ologies
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Wooden Overcoats
+    htmlUrl: https://www.woodenovercoats.com/episodes/
+    xmlUrl: http://feeds.podtrac.com/0YNYgrtCGEXR
+
+  - title: Radiolab
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
+  - title: Maintenance Phase
+    htmlUrl: http://maintenancephase.com/
+    xmlUrl: https://feeds.buzzsprout.com/1411126.rss
+
+  - title: Normal Gossip
+    htmlUrl: https://defector.com/everyone-will-be-abuzz-about-the-season-8-finale
+    xmlUrl: https://publicfeeds.net/f/3492/feed-rss.xml
+
+  - title: Citation Needed
+    htmlUrl: http://citationpod.com/
+    xmlUrl: https://citationpod.libsyn.com/rss
+
+  - title: The Secret History of Flight 149
+    htmlUrl: https://crowdnetwork.co.uk/
+    xmlUrl: https://feeds.megaphone.fm/secrethistory
+
+  - title: My Brother, My Brother & Me
+    htmlUrl: http://www.mbmbam.com/
+    xmlUrl: https://feeds.simplecast.com/wjQvYtdl
+
+  - title: The Moth
+    htmlUrl: http://themoth.org/
+    xmlUrl: https://feeds.feedburner.com/themothpodcast
+
+  - title: Beautiful Stories From Anonymous People
+    htmlUrl: https://sites.libsyn.com/480264
+    xmlUrl: https://feeds.libsyn.com/480264/rss
+
+  - title: 'Tooth & Claw: True Stories of Animal Attacks'
+    htmlUrl: https://qcodemedia.com/tooth-claw
+    xmlUrl: https://feeds.megaphone.fm/QCD9705695442
+
+  - title: Search Engine
+    htmlUrl: http://www.pjvogt.com/
+    xmlUrl: https://feeds.megaphone.fm/search-engine
+
+  - title: The Story Seeds Podcast
+    htmlUrl: http://www.storyseedspodcast.com/
+    xmlUrl: https://feeds.simplecast.com/alc_TgDp
+
+  - title: Heavyweight
+    htmlUrl: https://www.pushkin.fm/podcasts/heavyweight
+    xmlUrl: https://feeds.megaphone.fm/heavyweight-spot
 
 - name: The Best Nutrition Podcasts for Healthier Eating
   opml: findthatpod-the-best-nutrition-podcasts-for-healthier-eating.opml
