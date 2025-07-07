@@ -208,6 +208,76 @@ issues:
 - name: The Best Marriage Podcasts
   opml: findthatpod-the-best-marriage-podcasts.opml
   date: 2024-12-05
+  htmlUrl: https://findthatpod.com/best-marriage-podcasts/
+  podcasts:
+
+  - title: Where Should We Begin with Esther Perel
+    htmlUrl: https://estherperel.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ep-wswb
+
+  - title: The Marriage Life Coach Podcast
+    htmlUrl: https://maggiereyes.com/podcast/
+    xmlUrl: https://themarriagelifecoach.libsyn.com/rss
+
+  - title: Helping Couples Heal Podcast
+    htmlUrl: https://redcircle.com/shows/helping-couples-heal-podcast
+    xmlUrl: https://feeds.redcircle.com/81e6d1e6-d3cb-456e-bf1e-1ffede344e6b
+
+  - title: Committed
+    htmlUrl: https://www.iheart.com/podcast/105-committed-29439911/
+    xmlUrl: https://feeds.simplecast.com/E6QoYQUZ
+
+  - title: The Endless Honeymoon
+    htmlUrl: https://art19.com/shows/the-endless-honeymoon
+    xmlUrl: https://rss.art19.com/the-endless-honeymoon
+
+  - title: One Extraordinary Marriage
+    htmlUrl: https://oneextraordinarymarriage.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL2181439158
+
+  - title: Marriage Therapy Radio
+    htmlUrl: https://marriagetherapyradio.com/
+    xmlUrl: https://feeds.megaphone.fm/CTL2266719450
+
+  - title: The Naked Marriage with Dave & Ashley Willis
+    htmlUrl: https://www.daveandashleywillis.com/
+    xmlUrl: https://feeds.megaphone.fm/XOM2845524550
+
+  - title: Dear Young Married Couple
+    htmlUrl: http://dearyoungmarriedcouple.com/
+    xmlUrl: https://feeds.megaphone.fm/dearyoungmarriedcouple
+
+  - title: Confessions of a Terrible Husband
+    htmlUrl: http://aterriblehusband.com/
+    xmlUrl: https://aterriblehusband.libsyn.com/rss
+
+  - title: The Couples Therapist Couch
+    htmlUrl: https://couplestherapistcouch.com/
+    xmlUrl: https://couplestherapistcouch.libsyn.com/rss
+
+  - title: Small Things Often
+    htmlUrl: https://www.gottman.com/
+    xmlUrl: https://feeds.megaphone.fm/smallthingsoften
+
+  - title: 24/7 Marriage Podcast
+    htmlUrl: http://247marriage.org/
+    xmlUrl: https://feeds.buzzsprout.com/833752.rss
+
+  - title: Rewilding Love
+    htmlUrl: https://www.therewilders.org/
+    xmlUrl: https://feeds.buzzsprout.com/1503829.rss
+
+  - title: What Healthy Couples Know That You Don’t
+    htmlUrl: https://therapyideas.net/
+    xmlUrl: https://rhodasommer.libsyn.com/rss
+
+  - title: The Real Marriage Podcast
+    htmlUrl: https://www.spreaker.com/show/the-real-marriage-podcast
+    xmlUrl: https://www.spreaker.com/show/5970133/episodes/feed
+
+  - title: Pillow Talks
+    htmlUrl: https://vmtherapy.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD3576983375
 
 - name: The Best Podcasts for Men
   opml: findthatpod-the-best-podcasts-for-men.opml
