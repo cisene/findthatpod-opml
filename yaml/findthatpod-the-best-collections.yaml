@@ -188,6 +188,168 @@ issues:
 - name: The Best Podcasts for Anyone Running or Working at a Startup Business
   opml: findthatpod-the-best-podcasts-for-anyone-running-or-working-at-a-startup-business.opml
   date: 2025-02-11
+  htmlUrl: https://findthatpod.com/best-startup-podcasts/
+  podcasts:
+
+  - title: Masters of Scale
+    htmlUrl: http://www.mastersofscale.com/
+    xmlUrl: https://rss.art19.com/masters-of-scale
+
+  - title: Y Combinator Startup Podcast
+    htmlUrl: http://www.ycombinator.com/
+    xmlUrl: https://anchor.fm/s/8c1524bc/podcast/rss
+
+  - title: Entrepreneurs On Fire
+    htmlUrl: https://www.eofire.com/
+    xmlUrl: https://entrepreneuronfire.libsyn.com/rss
+
+  - title: Startup Stories – Mixergy
+    htmlUrl: https://mixergy.com/
+    xmlUrl: https://mixergy.com/?feed=mixergy_feed&rss_source=itunes
+
+  - title: She Did It Her Way
+    htmlUrl: http://www.shediditherway.com/
+    xmlUrl: https://feeds.simplecast.com/ApOwLnHD
+
+  - title: My First Million
+    htmlUrl: https://www.mfmpod.com/
+    xmlUrl: https://feeds.megaphone.fm/HS2300184645
+
+  - title: The Twenty Minute VC Show (20VC)
+    htmlUrl: https://www.thetwentyminutevc.com/
+    xmlUrl: https://thetwentyminutevc.libsyn.com/rss
+
+  - title: Equity
+    htmlUrl: https://techcrunch.com/
+    xmlUrl: https://feeds.megaphone.fm/YFL6537156961
+
+  - title: Code and Conquer – The Indie Hacker Podcast
+    htmlUrl: https://codeandconquer.fm/
+    xmlUrl: https://anchor.fm/s/d9c58e54/podcast/rss
+
+  - title: HBR IdeaCast
+    htmlUrl: https://hbr.org/podcasts/ideacast
+    xmlUrl: http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+
+  - title: Acquired
+    htmlUrl: https://acquired.fm/
+    xmlUrl: https://feeds.transistor.fm/acquired
+
+  - title: The SaaS Revolution Show
+    htmlUrl: http://saastock.com/
+    xmlUrl: https://feeds.simplecast.com/28gPYq9m
+
+  - title: The Side Hustle Show
+    htmlUrl: https://www.sidehustlenation.com/
+    xmlUrl: https://feeds.megaphone.fm/YAP9195874886
+
+  - title: The Rework Podcast
+    htmlUrl: https://37signals.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/2260539.rss
+
+  - title: Bootstrapped Web
+    htmlUrl: https://bootstrappedweb.com/
+    xmlUrl: https://feeds.transistor.fm/bootstrapped-web
+
+  - title: Product People
+    htmlUrl: http://productpeoplepodcast.libsyn.com/site
+    xmlUrl: https://feeds.libsyn.com/487910/rss
+
+  - title: Talking Shizzle
+    htmlUrl: https://talkingshizzle.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2036618.rss
+
+  - title: Product Hunt Radio
+    htmlUrl: http://producthunt.com/radio
+    xmlUrl: https://feeds.simplecast.com/iCV67fGr
+
+  - title: Elevating Founders
+    htmlUrl: https://elevatingfounders.podbean.com/
+    xmlUrl: https://feed.podbean.com/elevatingfounders/feed.xml
+
+  - title: Founder Coffee – Intimate SaaS Chats
+    htmlUrl: https://salesflare.com/
+    xmlUrl: http://feeds.feedburner.com/foundercoffee
+
+  - title: Startup Theory
+    htmlUrl: https://soundcloud.com/startuptheorypodcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:162537279/sounds.rss
+
+  - title: Scale or Die
+    htmlUrl: https://www.useproof.com/scaleordie
+    xmlUrl: https://feeds.simplecast.com/UtJXer8i
+
+  - title: Rocketship.fm
+    htmlUrl: https://evergreenpodcasts.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG7026166836
+
+  - title: CHURN FM
+    htmlUrl: https://www.churn.fm/
+    xmlUrl: https://feeds.buzzsprout.com/272333.rss
+
+  - title: The Bootstrapped Founder
+    htmlUrl: https://thebootstrappedfounder.com/
+    xmlUrl: https://feeds.transistor.fm/bootstrapped-founder
+
+  - title: Founder’s Journal
+    htmlUrl: https://foundersjournalpod.morningbrew.com/
+    xmlUrl: https://feeds.megaphone.fm/MOBI4141652289
+
+  - title: Startup Savant
+    htmlUrl: https://startupsavant.com/startup-savant-podcast
+    xmlUrl: https://feeds.simplecast.com/y_IjPwmW
+
+  - title: Startup Grind
+    htmlUrl: http://www.startupgrind.com/
+    xmlUrl: https://feeds.simplecast.com/sAcWC9qc
+
+  - title: The How of Business – How to start, run & grow a small business
+    htmlUrl: http://sites.libsyn.com/77073/site
+    xmlUrl: https://howofbusiness.libsyn.com/rss
+
+  - title: Slow & Steady
+    htmlUrl: https://www.slowandsteadypodcast.com/
+    xmlUrl: https://feeds.transistor.fm/slow-steady
+
+  - title: 'Permanent Podcast: Real Talk About Private Equity and Buying, Selling and Operating Small Businesses'
+    htmlUrl: https://adventur-es.libsyn.com/website
+    xmlUrl: https://adventur-es.libsyn.com/rss
+
+  - title: Founders
+    htmlUrl: https://www.founderspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/DSLLC6297708582
+
+  - title: SaaS Interviews with CEOs, Startups, Founders
+    htmlUrl: http://getlatka.com/
+    xmlUrl: https://nathanlatkathetop.libsyn.com/rss
+
+  - title: 'CEO’s Library: The 1% Bookshelf'
+    htmlUrl: https://ceoslibrary.com/
+    xmlUrl: https://anchor.fm/s/f9e1da6c/podcast/rss
+
+  - title: Riding Unicorns
+    htmlUrl: https://linktr.ee/ridingunicorns_
+    xmlUrl: https://feeds.buzzsprout.com/1620178.rss
+
+  - title: Tech Entrepreneur on a Mission
+    htmlUrl: https://evergreenpodcasts.com/remarkable-saas-podcast
+    xmlUrl: https://feeds.megaphone.fm/techentrepreneur
+
+  - title: How I Built This with Guy Raz
+    htmlUrl: https://wondery.com/shows/how-i-built-this/
+    xmlUrl: https://rss.art19.com/how-i-built-this
+
+  - title: The Pitch
+    htmlUrl: https://www.thepitch.show/
+    xmlUrl: https://feeds.megaphone.fm/thepitch
+
+  - title: Indie Bites
+    htmlUrl: https://indiebites.com/
+    xmlUrl: https://feeds.transistor.fm/indie-bites
+
+  - title: Build Your SaaS
+    htmlUrl: https://saas.transistor.fm/
+    xmlUrl: https://feeds.transistor.fm/build-your-saas
 
 - name: The Best Daily News Podcasts to Stay Informed
   opml: findthatpod-the-best-daily-news-podcasts-to-stay-informed.opml
