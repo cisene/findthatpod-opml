@@ -216,6 +216,68 @@ issues:
 - name: The Best Meditation Podcasts
   opml: findthatpod-the-best-meditation-podcasts.opml
   date: 2024-11-14
+  htmlUrl: https://findthatpod.com/best-meditation-podcasts/
+  podcasts:
+
+  - title: The Mindful Minute
+    htmlUrl: https://podcasters.spotify.com/pod/show/themindfulminutepodcast
+    xmlUrl: https://anchor.fm/s/147881ec/podcast/rss
+
+  - title: Tara Brach
+    htmlUrl: https://www.tarabrach.com/
+    xmlUrl: https://tarabrach.libsyn.com/rss
+
+  - title: Untangle
+    htmlUrl: http://meditationstudioapp.com/untangle
+    xmlUrl: https://feeds.megaphone.fm/TNM9170882889
+
+  - title: Daily Meditation Podcast
+    htmlUrl: https://www.sipandom.com/
+    xmlUrl: https://feeds.libsyn.com/74117/rss
+
+  - title: Peace Out Podcast
+    htmlUrl: https://www.chaneltsang.com/
+    xmlUrl: https://peaceoutpodcast.libsyn.com/rss
+
+  - title: Meditation Oasis
+    htmlUrl: http://www.meditationoasis.com/
+    xmlUrl: https://meditationoasis.libsyn.com/rss
+
+  - title: Mindfulness Meditation Podcast
+    htmlUrl: https://rubinmuseum.org/
+    xmlUrl: https://feeds.transistor.fm/mindfulness-meditation-podcast
+
+  - title: Deconstructing Yourself
+    htmlUrl: https://deconstructingyourself.com/
+    xmlUrl: https://rss.art19.com/deconstructing-yourself
+
+  - title: Radio Headspace
+    htmlUrl: https://www.headspace.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL5417720568
+
+  - title: Meditation Minis Podcast
+    htmlUrl: http://meditationminis.com/
+    xmlUrl: https://audioboom.com/channels/5047425.rss
+
+  - title: 'Wake Me Up: Morning Positivity'
+    htmlUrl: https://www.wakemeuppodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/GSGP4381436967
+
+  - title: The Morning Ritual
+    htmlUrl: https://redcircle.com/shows/the-morning-ritual
+    xmlUrl: https://feeds.redcircle.com/2cf53a19-b206-468d-8175-7dccc534502c
+
+  - title: Tracks To Relax Bedtime Sleep Meditations
+    htmlUrl: https://www.trackstorelax.com/
+    xmlUrl: https://feeds.acast.com/public/shows/60f9c4eb7dd5480012f98d21
+
+  - title: 12 Minute Meditation
+    htmlUrl: http://www.mindful.org/
+    xmlUrl: https://mindfulorg.libsyn.com/
+
+  - title: Meditation for Women
+    htmlUrl: https://womensmeditationnetwork.com/
+    xmlUrl: https://feeds.megaphone.fm/meditationforwomen
 
 - name: The Best Tennis Podcasts
   opml: findthatpod-the-best-tennis-podcasts.opml
