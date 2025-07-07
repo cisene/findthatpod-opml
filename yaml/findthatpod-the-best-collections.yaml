@@ -200,6 +200,84 @@ issues:
 - name: The Best Nutrition Podcasts for Healthier Eating
   opml: findthatpod-the-best-nutrition-podcasts-for-healthier-eating.opml
   date: 2025-01-30
+  htmlUrl: https://findthatpod.com/best-nutrition-podcasts/
+  podcasts:
+
+  - title: Sound Bites – A Nutrition Podcast
+    htmlUrl: http://soundbitesrd.com/
+    xmlUrl: https://soundbites.libsyn.com/rss
+
+  - title: Spot On!
+    htmlUrl: http://blogs.bu.edu/salge/
+    xmlUrl: https://anchor.fm/s/7a93718/podcast/rss
+
+  - title: Nutrition Diva
+    htmlUrl: https://www.quickanddirtytips.com/nutrition-diva/
+    xmlUrl: https://feeds.simplecast.com/oQuU3Syv
+
+  - title: Nutrition Conversations
+    htmlUrl: https://cns-scn.ca/podcasts
+    xmlUrl: https://media.rss.com/cnspodcast/feed.xml
+
+  - title: Plant Based Eating Made Easy
+    htmlUrl: https://plantnourished.com/
+    xmlUrl: https://feed.podbean.com/plantbasedeatingmadeeasy/feed.xml
+
+  - title: Eat This with Lianne
+    htmlUrl: https://www.iheart.com/podcast/962-eat-this-with-lianne-55226251/
+    xmlUrl: https://www.omnycontent.com/d/playlist/4809bc8a-e41a-405c-93da-a8cf011df2f4/6a3828c7-5faa-4c53-9f60-ab260148cd7c/bdbe22a1-1577-459a-a790-ab260149d0ca/podcast.rss
+
+  - title: Optimal Protein Podcast with Vanessa Spina
+    htmlUrl: https://www.ketogenicgirl.com/
+    xmlUrl: https://fastketo.libsyn.com/rss
+
+  - title: Dishing Up Nutrition
+    htmlUrl: https://www.weightandwellness.com/resources/podcasts/
+    xmlUrl: https://dishingupnutrition.podbean.com/feed.xml
+
+  - title: Nutrition for Mortals
+    htmlUrl: https://oceansidenutrition.com/podcast
+    xmlUrl: https://anchor.fm/s/d704a3bc/podcast/rss
+
+  - title: The Nutritional Nerd
+    htmlUrl: https://happihuman.com/
+    xmlUrl: https://feeds.buzzsprout.com/1074505.rss
+
+  - title: We Do Science – The Sports Nutrition Podcast
+    htmlUrl: https://theiopn.com/podcasts/
+    xmlUrl: https://feeds.buzzsprout.com/1443787.rss
+
+  - title: Sigma Nutrition Radio
+    htmlUrl: https://sigmanutrition.com/
+    xmlUrl: https://sigmanutrition.libsyn.com/rss/
+
+  - title: The Nutrition Science Podcast
+    htmlUrl: https://www.thenutritionsciencepodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2357758.rss
+
+  - title: The Doctor’s Kitchen Podcast
+    htmlUrl: https://thedoctorskitchen.com/
+    xmlUrl: https://feeds.acast.com/public/shows/64913e28-7031-4ea6-9bef-fddf46dfed87
+
+  - title: The Proof with Simon Hill
+    htmlUrl: https://theproof.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/IHINL7082362864
+
+  - title: ZOE Science & Nutrition
+    htmlUrl: http://zoe.com/
+    xmlUrl: https://feeds.megaphone.fm/ZOELIMITED9301524082
+
+  - title: Sustainable Dish Podcast
+    htmlUrl: https://sustainabledish.com/
+    xmlUrl: https://sustainabledish.com/feed/podcast/
+
+  - title: The Metabolic Classroom with Dr. Ben Bikman
+    htmlUrl: https://www.insuliniq.com/
+    xmlUrl: https://feeds.acast.com/public/shows/602b13db8237836e54f27141
+
+  - title: Nutrition Facts with Dr. Greger
+    htmlUrl: https://nutritionfacts.org/audio/
+    xmlUrl: https://nutritionfacts.org/audio/feed/podcast/
 
 - name: The Best Gardening Podcasts
   opml: findthatpod-the-best-gardening-podcasts.opml
