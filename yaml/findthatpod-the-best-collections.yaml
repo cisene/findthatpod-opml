@@ -232,6 +232,96 @@ issues:
 - name: The Best Fitness Podcasts
   opml: findthatpod-the-best-fitness-podcasts.opml
   date: 2024-10-15
+  htmlUrl: https://findthatpod.com/best-fitness-podcasts/
+  podcasts:
+
+  - title: Barbell Medicine Podcast
+    htmlUrl: https://redcircle.com/shows/barbell-medicine-podcast
+    xmlUrl: https://feeds.redcircle.com/0cc66fc4-ccb8-4c60-8cc6-7367e52c4159
+
+  - title: Stronger By Science
+    htmlUrl: https://sbspod.com/
+    xmlUrl: https://feeds.simplecast.com/Fxu1mrhe
+
+  - title: 'Mind Pump: Raw Fitness Truth'
+    htmlUrl: http://www.mindpumpmedia.com/
+    xmlUrl: https://mindpump.libsyn.com/rss
+
+  - title: Fit & Fearless
+    htmlUrl: http://www.bbc.co.uk/programmes/p05sssdk
+    xmlUrl: https://podcasts.files.bbci.co.uk/p05sssdk.rss
+
+  - title: Fit Womens Weekly Podcast
+    htmlUrl: https://fitwomensweekly.com/
+    xmlUrl: https://whatthefitness.libsyn.com/rss
+
+  - title: Girl Fit Method Podcast
+    htmlUrl: https://www.youtube.com/playlist?list=PLNPfuIDl7mHKPBsCUu1g_BL4V3stNcm0D
+    xmlUrl:
+
+  - title: Brains and Gains with Dr. David Maconi
+    htmlUrl: https://drdavemaconi.com/
+    xmlUrl: https://feeds.buzzsprout.com/268988.rss
+
+  - title: The Practice Brave Podcast
+    htmlUrl: https://www.briannabattles.com/
+    xmlUrl: https://practicebrave.libsyn.com/rss
+
+  - title: Train Happy Podcast
+    htmlUrl: https://audioboom.com/channels/5046822
+    xmlUrl: https://feeds.acast.com/public/shows/63441645661085001280112f
+
+  - title: The Revive Stronger Podcast
+    htmlUrl: https://revivestronger.com/
+    xmlUrl: https://feeds.megaphone.fm/RSL5592678638
+
+  - title: Crushing Iron Triathlon Podcast
+    htmlUrl: http://crushingiron.com/podcasts/
+    xmlUrl: https://crushingiron.libsyn.com/rss
+
+  - title: 20 Minute Fitness
+    htmlUrl: http://shapescale.com/podcast/
+    xmlUrl: https://feeds.buzzsprout.com/1771393.rss
+
+  - title: Reasonably Fit
+    htmlUrl: http://www.jasonandlaurenpak.com/
+    xmlUrl: https://feeds.buzzsprout.com/1965594.rss
+
+  - title: Ben Greenfield Life
+    htmlUrl: https://bengreenfieldlife.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e58478bf-2dc2-4cb0-b7e9-afb301219b9a/3e7cc436-2b1b-42c0-9170-afc701069980/5ba357f9-00a2-4cfb-ad41-afc7010699a1/podcast.rss
+
+  - title: The EC Method
+    htmlUrl: https://theecmethod.co.uk/
+    xmlUrl: https://anchor.fm/s/16c5c70c/podcast/rss
+
+  - title: The Model Health Show
+    htmlUrl: https://themodelhealthshow.com/
+    xmlUrl: https://themodelhealthshow.libsyn.com/rss
+
+  - title: American Glutton
+    htmlUrl: https://www.spreaker.com/show/american-glutton
+    xmlUrl: https://feeds.acast.com/public/shows/621e8cf93d918f0012469294
+
+  - title: FoundMyFitness
+    htmlUrl: http://www.foundmyfitness.com/
+    xmlUrl: https://podcast.foundmyfitness.com/rss.xml
+
+  - title: Iron Culture
+    htmlUrl: http://ironculture.libsyn.com/website
+    xmlUrl: https://ironculture.libsyn.com/rss
+
+  - title: Make Fit Simple
+    htmlUrl: http://andreaallenmethod.libsyn.com/website
+    xmlUrl: https://feeds.buzzsprout.com/1778813.rss
+
+  - title: WHOOP Podcast
+    htmlUrl: http://whoop.com/
+    xmlUrl: https://feeds.buzzsprout.com/230442.rss
+
+  - title: Hurdle
+    htmlUrl: https://hurdle.us/
+    xmlUrl: https://anchor.fm/s/c154238/podcast/rss
 
 - name: The Best Running Podcasts
   opml: findthatpod-the-best-running-podcasts.opml

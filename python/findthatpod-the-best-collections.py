@@ -87,8 +87,6 @@ def main():
       ownerEmail.text = str(ownerEmail_text)
       head.append(ownerEmail)
 
-
-
       opml.append(head)
 
       comment_text = f" Source: {BASE_URL_FTP}{issue_opml} "
@@ -105,9 +103,6 @@ def main():
         podcast_htmlUrl = podcast['htmlUrl']
         podcast_xmlUrl = podcast['xmlUrl']
 
-        print(podcast)
-        pass
-
         Outline = etree.Element("outline")
         Outline.set("type", "link")
         Outline.set("version", "RSS")
@@ -120,16 +115,12 @@ def main():
         Outline.set("xmlUrl", str(podcast_xmlUrl))
 
         body.append(Outline)
-      #<outline type="link" version="RSS" language="sv" title="Bli säker-podden" text="Bli säker-podden" htmlUrl="https://podcast.nikkasystems.com/@blisaker" xmlUrl="https://podcast.nikkasystems.com/@blisaker/feed.xml" />
-
-
 
       # Close body
       opml.append(body)
 
       opml_contents = etree.tostring(opml, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
-      #print(opml_contents)
-      writeOPML(f"../{issue_opml}", opml_contents)
+      writeOPML(f"../opml/{issue_opml}", opml_contents)
 
       print(f"Wrote {issue_opml} ..")
     else:
