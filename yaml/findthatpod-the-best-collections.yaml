@@ -168,6 +168,238 @@ issues:
 - name: The Best Audio Drama Podcasts
   opml: findthatpod-the-best-audio-drama-podcasts.opml
   date: 2025-03-13
+  htmlUrl: https://findthatpod.com/best-audio-drama-podcasts/
+  podcasts:
+
+  - title: Wooden Overcoats
+    htmlUrl: https://www.woodenovercoats.com/episodes/
+    xmlUrl: http://feeds.podtrac.com/0YNYgrtCGEXR
+
+  - title: Tumanbay
+    htmlUrl: http://www.tumanbay.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/80515a5f-ce9a-498e-bc9b-ae2801568b2f/c31e105f-1a8a-4253-a20b-ae2801568b3d/podcast.rss
+
+  - title: Midnight Burger
+    htmlUrl: https://www.weopenatsix.com/
+    xmlUrl: https://feeds.megaphone.fm/midnightburger
+
+  - title: Arden
+    htmlUrl: http://ardenpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ardenpod
+
+  - title: Borrasca
+    htmlUrl: https://qcodemedia.com/borrasca
+    xmlUrl: https://feeds.megaphone.fm/QCD2333202365
+
+  - title: The Amelia Project
+    htmlUrl: https://ameliapodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/amelia
+
+  - title: Gospels of the Flood
+    htmlUrl: https://gospelsoftheflood.podbean.com/
+    xmlUrl: https://feed.podbean.com/gospelsoftheflood/feed.xml
+
+  - title: Forest 404
+    htmlUrl: http://www.bbc.co.uk/programmes/p06tqsg3
+    xmlUrl: https://podcasts.files.bbci.co.uk/p06tqsg3.rss
+
+  - title: Passenger List
+    htmlUrl: https://www.passengerlist.org/
+    xmlUrl: https://feed.passengerlist.org/
+
+  - title: The Fourth Ambit
+    htmlUrl: https://www.ambitgroup.com/
+    xmlUrl: https://www.ambitgroup.com/podcast/
+
+  - title: Alice Isn’t Dead
+    htmlUrl: http://www.aliceisntdead.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP8990444845
+
+  - title: The Edge of Sleep
+    htmlUrl: https://www.qcodemedia.com/theedgeofsleep
+    xmlUrl: https://feeds.megaphone.fm/QCD1489535626
+
+  - title: The Penumbra Podcast
+    htmlUrl: https://redcircle.com/shows/the-penumbra-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/6831c608381499796b234652
+
+  - title: The Magnus Archives
+    htmlUrl: https://www.rustyquill.com/
+    xmlUrl: https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8
+
+  - title: ars PARADOXICA
+    htmlUrl: https://arsparadoxica.com/
+    xmlUrl: https://arsparadoxica.libsyn.com/rss
+
+  - title: Station Blue
+    htmlUrl: http://stationblue.libsyn.com/website
+    xmlUrl: https://stationblue.libsyn.com/rss
+
+  - title: The Bright Sessions
+    htmlUrl: https://art19.com/shows/the-bright-sessions
+    xmlUrl: https://rss.art19.com/the-bright-sessions
+
+  - title: Blackout
+    htmlUrl: https://qcodemedia.com/blackout
+    xmlUrl: https://feeds.megaphone.fm/QCEOS5292368649
+
+  - title: The Left Right Game
+    htmlUrl: https://qcodemedia.com/theleftrightgame
+    xmlUrl: https://feeds.megaphone.fm/QCD2477597834
+
+  - title: Tales From The Swan Hotel
+    htmlUrl: https://art19.com/shows/tales-from-the-swan-hotel
+    xmlUrl: https://rss.art19.com/tales-from-the-swan-hotel
+
+  - title: Malevolent
+    htmlUrl: http://www.malevolent.ca/
+    xmlUrl: https://feeds.acast.com/public/shows/62691b95c9c07f0012550c9c
+
+  - title: The Black Tapes
+    htmlUrl: http://theblacktapespodcast.com/
+    xmlUrl: https://theblacktapes.libsyn.com/rss
+
+  - title: The Leviathan Chronicles | The Rapscallion Agency
+    htmlUrl: https://rapscallionagency.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5252339511
+
+  - title: Video Palace
+    htmlUrl: http://shudder.com/
+    xmlUrl: https://rss.art19.com/video-palace
+
+  - title: Rabbits
+    htmlUrl: http://rabbitspodcast.com/
+    xmlUrl: https://rabbits.libsyn.com/rss
+
+  - title: Margaret’s Garden
+    htmlUrl: http://margaretspodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/8043d616-e028-414e-8eed-c5b03fecd68f
+
+  - title: How Copy
+    htmlUrl: https://whynottheatre.dk/
+    xmlUrl: https://anchor.fm/s/f50fd69c/podcast/rss
+
+  - title: Patient 33
+    htmlUrl: https://patient33.com/
+    xmlUrl: https://patient33.libsyn.com/rss
+
+  - title: Old Gods of Appalachia
+    htmlUrl: http://www.oldgodsofappalachia.com/
+    xmlUrl: https://feeds.acast.com/public/shows/61ba0a431a8cbeb6ea3cf11a
+
+  - title: Limetown
+    htmlUrl: http://www.limetown.com/
+    xmlUrl: https://feeds.megaphone.fm/PPY5621646923
+
+  - title: King Falls AM
+    htmlUrl: https://audioboom.com/channel/kingfallsam
+    xmlUrl: https://feeds.libsyn.com/474897/rss
+
+  - title: The Swashbuckling Ladies Debate Society
+    htmlUrl: https://trustory.fm/swashbuckling-lander/
+    xmlUrl: https://feeds.transistor.fm/swashbuckling
+
+  - title: Desert Skies
+    htmlUrl: https://desertskiespodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/desertskies
+
+  - title: Who Killed Avril Lavigne
+    htmlUrl: https://www.supernormal.fm/whokilledavrillavigne
+    xmlUrl: https://feeds.captivate.fm/wkal/
+
+  - title: Red Valley
+    htmlUrl: https://redvalleypod.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/redvalley
+
+  - title: Carrier
+    htmlUrl: https://qcodemedia.com/carrier
+    xmlUrl: https://feeds.megaphone.fm/QCD1940458558
+
+  - title: Mockery Manor
+    htmlUrl: https://www.longcatmedia.com/mockery-manor
+    xmlUrl: https://feeds.megaphone.fm/mockerymanor
+
+  - title: Modes of Thought in Anterran Literature
+    htmlUrl: https://www.wlfdr.com/mot
+    xmlUrl: https://feeds.megaphone.fm/modes-of-thought
+
+  - title: Victoriocity
+    htmlUrl: http://www.victoriocity.com/
+    xmlUrl: https://victoriocity.libsyn.com/rss
+
+  - title: Tapes From Beyond
+    htmlUrl: https://tapesfrombeyond.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1431028.rss
+
+  - title: Last Known Position
+    htmlUrl: https://qcodemedia.com/last-known-position
+    xmlUrl: https://feeds.megaphone.fm/QCD5848091261
+
+  - title: Golden Ash
+    htmlUrl: https://thatsnotcanon.com/goldenashpodcast/
+    xmlUrl: https://rss.acast.com/golden-ash
+
+  - title: The Program audio series
+    htmlUrl: https://programaudioseries.com/
+    xmlUrl: https://feeds.acast.com/public/shows/62713b2fba62b7001272b4f9
+
+  - title: Limelight
+    htmlUrl: http://www.bbc.co.uk/programmes/p09hbsqb
+    xmlUrl: https://podcasts.files.bbci.co.uk/p09hbsqb.rss
+
+  - title: Where the Stars Fell
+    htmlUrl: http://wherethestarsfell.com/
+    xmlUrl: https://feeds.megaphone.fm/wherethestarsfell
+
+  - title: Hello From The Magic Tavern
+    htmlUrl: http://www.hellofromthemagictavern.com/
+    xmlUrl: https://rss.art19.com/hello-from-magic-tavern
+
+  - title: The Silt Verses
+    htmlUrl: https://www.thesiltverses.com/
+    xmlUrl: https://access.acast.com/rss/5fec690f8211cf453a1b89e2/
+
+  - title: The Truth
+    htmlUrl: http://thetruthpodcast.com/
+    xmlUrl: http://feeds.thetruthpodcast.com/thetruthapm
+
+  - title: Holy Sh!t
+    htmlUrl: https://audioboom.com/channels/5145825-holy-sh-t
+    xmlUrl: https://rss.acast.com/holy-shit
+
+  - title: I Am In Eskew
+    htmlUrl: http://www.iamineskew.com/
+    xmlUrl: https://rss.acast.com/i-am-in-eskew
+
+  - title: Down
+    htmlUrl: http://definitelyhuman.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/4825ac83-49a8-42e1-9964-ac0ec4df080d
+
+  - title: Our Fair City
+    htmlUrl: http://www.audaciousmachinecreative.com/
+    xmlUrl: https://feeds.megaphone.fm/ourfaircity
+
+  - title: Tides
+    htmlUrl: https://www.tidespodcast.com/
+    xmlUrl: https://tidespodcast.libsyn.com/rss
+
+  - title: Dark Woods
+    htmlUrl: https://dark-woods.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5209429460
+
+  - title: The Oyster
+    htmlUrl: http://oyster.libsyn.com/website
+    xmlUrl: https://oyster.libsyn.com/rss
+
+  - title: Mars’ Best Brisket
+    htmlUrl: https://marsbestbrisket.com/
+    xmlUrl: https://pinecast.com/feed/mars-best-brisket
+
+  - title: 
+    htmlUrl: 
+    xmlUrl: 
+
+
 
 - name: The Best Podcasts for Moms
   opml: findthatpod-the-best-podcasts-for-moms.opml
