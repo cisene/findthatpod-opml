@@ -184,6 +184,120 @@ issues:
 - name: The Best Psychology Podcasts to Better Understand Humans
   opml: findthatpod-the-best-psychology-podcasts-to-better-understand-humans.opml
   date: 2025-02-25
+  htmlUrl: https://findthatpod.com/best-psychology-podcasts/
+  podcasts:
+
+  - title: Speaking of Psychology
+    htmlUrl: http://www.apa.org/speakingofpsychology
+    xmlUrl: https://feeds.megaphone.fm/AMERICANPSYCHOLOGICALASSOCIATION9933181801
+
+  - title: Savvy Psychologist
+    htmlUrl: https://www.quickanddirtytips.com/savvy-psychologist/
+    xmlUrl: https://feeds.simplecast.com/w6PauQYI
+
+  - title: PsychCrunch
+    htmlUrl: http://psychcrunch.libsyn.com/podcast
+    xmlUrl: https://psychcrunch.libsyn.com/rss
+
+  - title: Trauma Rewired
+    htmlUrl: https://www.podpage.com/trauma-rewired/
+    xmlUrl: https://illuminatedwithjennifer.libsyn.com/rss
+
+  - title: Choiceology with Katy Milkman
+    htmlUrl: https://www.schwab.com/resource-center/insights/podcast
+    xmlUrl: https://feeds.schwab.com/choiceology
+
+  - title: All In The Mind
+    htmlUrl: https://www.abc.net.au/listen/programs/allinthemind/
+    xmlUrl: https://www.abc.net.au/feeds/2888650/podcast.xml
+
+  - title: Personality Hacker Podcast
+    htmlUrl: https://personalityhacker.com/
+    xmlUrl: https://personalityhacker.libsyn.com/rss
+
+  - title: Inside Mental Health
+    htmlUrl: http://psychcentral.com/show
+    xmlUrl: https://feeds.megaphone.fm/RED2429845607
+
+  - title: Stanford Psychology Podcast
+    htmlUrl: https://stanfordpsychologypodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1801436.rss
+
+  - title: Popcorn Psychology
+    htmlUrl: https://www.spreaker.com/show/popcorn-psychology
+    xmlUrl: https://www.spreaker.com/show/3252280/episodes/feed
+
+  - title: Therapist Uncensored Podcast
+    htmlUrl: https://therapistuncensored.com/
+    xmlUrl: https://feeds.podcastmirror.com/therapist-uncensored-podcast
+
+  - title: The Psychology of your 20s
+    htmlUrl: https://sbeghenjemma.wixsite.com/20spsychologypodcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bc44988a-a82a-4291-ab8b-afdd01187fa8/39e2f432-53df-43b8-a7b9-afdd01187fc4/podcast.rss
+
+  - title: Mental Illness Happy Hour
+    htmlUrl: https://art19.com/shows/mental-illness-happy-hour
+    xmlUrl: https://rss.art19.com/mental-illness-happy-hour
+
+  - title: Under the Cortex
+    htmlUrl: https://psychologicalscience.podbean.com/
+    xmlUrl: https://feed.podbean.com/psychologicalscience/feed.xml
+
+  - title: Psychology Unplugged
+    htmlUrl: https://www.buzzsprout.com/1516942
+    xmlUrl: https://feeds.buzzsprout.com/1516942.rss
+
+  - title: Very Bad Wizards
+    htmlUrl: http://sites.libsyn.com/474285/site
+    xmlUrl: https://feeds.libsyn.com/474285/rss
+
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: Pop Psych 101
+    htmlUrl: https://patreon.com/poppsych101
+    xmlUrl: https://anchor.fm/s/6ffb364/podcast/rss
+
+  - title: The Psychology Podcast
+    htmlUrl: https://www.iheart.com/podcast/1119-the-psychology-podcast-96239856
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/47e6a3a1-adc4-4e4e-9a7a-b09d01547555/80fe8468-f75f-485a-8023-b09d0154757b/podcast.rss
+
+  - title: Deeply Human
+    htmlUrl: https://www.iheart.com/podcast/1119-deeply-human-77473739/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fd9588c0-2fe6-4c29-abc5-ae2d0142ab9a/0c950d94-e661-4eb2-a7dd-ae2d0142aba8/podcast.rss
+
+  - title: The Positive Psychology Podcast
+    htmlUrl: http://strengthsphoenix.com/
+    xmlUrl: https://positivepsychologypodcast.libsyn.com/rss
+
+  - title: Therapy Chat
+    htmlUrl: https://redcircle.com/shows/therapy-chat
+    xmlUrl: https://feeds.redcircle.com/303d5792-3fd7-4731-b268-57d1f542269b
+
+  - title: Where Should We Begin? With Esther Perel
+    htmlUrl: https://estherperel.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ep-wswb
+
+  - title: Two Psychologists Four Beers
+    htmlUrl: https://www.fourbeers.com/
+    xmlUrl: https://feeds.fireside.fm/fourbeers/rss
+
+  - title: The Trauma Therapist
+    htmlUrl: https://www.spreaker.com/show/the-trauma-therapist
+    xmlUrl: https://www.spreaker.com/show/5739761/episodes/feed
+
+  - title: Two Guys on Your Head
+    htmlUrl: https://kutkutx.studio/category/two-guys-on-your-head
+    xmlUrl: https://kutkutx.studio/category/two-guys-on-your-head/feed
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/player/show-podcast/entity/b59f11c4-2904-3373-94fc-3697bbe3547e?intcmp=AssetGroup:Any_NA_www:podcasts-_ListentoHiddenBrain&visitorid=18703757435231843820387757678798516470
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
 
 - name: The Best Podcasts for Anyone Running or Working at a Startup Business
   opml: findthatpod-the-best-podcasts-for-anyone-running-or-working-at-a-startup-business.opml
