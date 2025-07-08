@@ -176,6 +176,84 @@ issues:
 - name: The Best Star Wars Podcasts
   opml: findthatpod-the-best-star-wars-podcasts.opml
   date: 2025-03-07
+  htmlUrl: https://findthatpod.com/best-star-wars-podcasts/
+  podcasts:
+
+  - title: A More Civilized Age
+    htmlUrl: https://amorecivilizedage.libsyn.com/
+    xmlUrl: https://amorecivilizedage.libsyn.com/rss
+
+  - title: 'Rebel Force Radio: Star Wars Podcast'
+    htmlUrl: http://rebelforceradio.com/
+    xmlUrl: https://rebelforceradio.libsyn.com/rss
+
+  - title: Children of the Watch
+    htmlUrl: http://www.keepthewatch.com/
+    xmlUrl: https://feeds.libsyn.com/463134/rss
+
+  - title: Star Wars Explained
+    htmlUrl: http://www.youtube.com/c/starwarsexplained
+    xmlUrl: https://feeds.megaphone.fm/SBP1768354909
+
+  - title: Dark Side Divas
+    htmlUrl: https://patreon.com/divaspodcast
+    xmlUrl: https://anchor.fm/s/3b1d9a58/podcast/rss
+
+  - title: ForceCenter
+    htmlUrl: https://shows.acast.com/forcecenter
+    xmlUrl: https://feeds.acast.com/public/shows/61b23cde5461b700125daa3d
+
+  - title: Skytalkers
+    htmlUrl: https://skytalkers.com/
+    xmlUrl: https://feeds.megaphone.fm/EERMB6974412028
+
+  - title: 'Beneath Twin Suns: A Star Wars Podcast'
+    htmlUrl: https://www.beneathtwinsuns.com/
+    xmlUrl: https://feeds.captivate.fm/beneath-twin-suns/
+
+  - title: Empire Radio
+    htmlUrl: https://podcasters.spotify.com/pod/show/empire-radio
+    xmlUrl: https://anchor.fm/s/1299e744/podcast/rss
+
+  - title: The Star Wars Underworld Podcast
+    htmlUrl: http://starwarsunderworld.libsyn.com/
+    xmlUrl: https://starwarsunderworld.libsyn.com/rss
+
+  - title: Blast Points – Star Wars Podcast
+    htmlUrl: http://blastpointspodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:197673284/sounds.rss
+
+  - title: 'Full of Sith: Star Wars News, Discussion and Interviews'
+    htmlUrl: http://www.fullofsith.com/
+    xmlUrl: http://www.thamike.com/fullofsith/fosxml.xml
+
+  - title: Star Wars Minute
+    htmlUrl: http://www.starwarsminute.com/
+    xmlUrl: https://rss.art19.com/star-wars-minute
+
+  - title: Friends of the Force
+    htmlUrl: https://friendsoftheforcepod.com/
+    xmlUrl: https://anchor.fm/s/babffbc/podcast/rss
+
+  - title: Daughters of Ferrix
+    htmlUrl: https://daughtersofferrix.com/
+    xmlUrl: https://anchor.fm/s/e351f19c/podcast/rss
+
+  - title: The Resistance Broadcast
+    htmlUrl: https://soundcloud.com/resistancebroadcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:169415687/sounds.rss
+
+  - title: 'Farthest Galaxy: A Star Wars Podcast'
+    htmlUrl: https://linktr.ee/FarthestGalaxy
+    xmlUrl: https://anchor.fm/s/451be820/podcast/rss
+
+  - title: It’s A Chat!
+    htmlUrl: https://itsachat.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1180067.rss
+
+  - title: Spark of Rebellion
+    htmlUrl: https://www.sparkofrebellion.com/
+    xmlUrl: https://feeds.captivate.fm/sparkofrebellion/
 
 - name: The Best Music Podcasts for Music Lovers
   opml: findthatpod-the-best-music-podcasts-for-music-lovers.opml
@@ -326,16 +404,6 @@ issues:
   - title: The 500 with Josh Adam Meyers
     htmlUrl: https://the500podcast.com/
     xmlUrl: https://feeds.megaphone.fm/GLSS9170932758
-
-  - title: 
-    htmlUrl: 
-    xmlUrl: 
-
-  - title: 
-    htmlUrl: 
-    xmlUrl: 
-
-
 
 - name: The Best Psychology Podcasts to Better Understand Humans
   opml: findthatpod-the-best-psychology-podcasts-to-better-understand-humans.opml
