@@ -164,6 +164,124 @@ issues:
 - name: The Best DnD Podcasts
   opml: findthatpod-the-best-dnd-podcasts.opml
   date: 2025-03-13
+  htmlUrl: https://findthatpod.com/best-dnd-podcasts/
+  podcasts:
+
+  - title: Once Upon A Roll
+    htmlUrl: https://art19.com/shows/once-upon-a-roll
+    xmlUrl: https://rss.art19.com/once-upon-a-roll
+
+  - title: The Adventure Zone
+    htmlUrl: https://adventurezone.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/cYQVc__c
+
+  - title: Dungeons and Daddies
+    htmlUrl: http://dungeonsanddaddies.com/
+    xmlUrl: https://feeds.acast.com/public/shows/46e42ca7-4921-5f04-a297-1970e72fd86d
+
+  - title: The Dungeoncast
+    htmlUrl: https://www.thedungeoncast.com/
+    xmlUrl: https://feeds.megaphone.fm/BLU8261889823
+
+  - title: Worlds Beyond Number
+    htmlUrl: https://worlds-beyond-number.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/IAPnSSRO
+
+  - title: Hell or High Rollers
+    htmlUrl: https://shows.acast.com/hell-or-high-rollers
+    xmlUrl: https://feeds.acast.com/public/shows/62e4cd72cc2c840012d4dd56
+
+  - title: Dice Populi
+    htmlUrl: https://dicepopuli.podbean.com/
+    xmlUrl: https://feed.podbean.com/dicepopuli/feed.xml
+
+  - title: Rusty Quill Gaming Podcast
+    htmlUrl: https://www.rustyquill.com/
+    xmlUrl: https://feeds.acast.com/public/shows/1d9e5af4-c938-42bb-bc57-289b59a4682b
+
+  - title: Not Another D&D Podcast
+    htmlUrl: https://headgum.com/not-another-dd-podcast
+    xmlUrl: https://rss.art19.com/not-another-d-and-d-podcast
+
+  - title: Critical Role
+    htmlUrl: https://critrole.com/
+    xmlUrl: https://feeds.simplecast.com/LXz4Q9rJ
+
+  - title: 'Cast Party: A Dungeons & Dragons Podcast'
+    htmlUrl: https://beacons.ai/castparty
+    xmlUrl: https://feeds.megaphone.fm/NSR5910490795
+
+  - title: Three Black Halflings | A Dungeons & Dragons Podcast
+    htmlUrl: https://art19.com/shows/three-black-halflings
+    xmlUrl: https://feeds.megaphone.fm/GLSS3172013789
+
+  - title: Mastering Dungeons
+    htmlUrl: http://misdirectedmark.com/category/archivedpodcasts/dwdd/
+    xmlUrl: http://misdirectedmark.com/category/podcasts/dwdd/feed/
+
+  - title: Unprepared Casters
+    htmlUrl: https://www.patreon.com/unpreparedcasters
+    xmlUrl: https://feeds.megaphone.fm/SBP6178150607
+
+  - title: The Lucky Die
+    htmlUrl: http://www.theluckydie.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP9172064890
+
+  - title: Dragon Talk
+    htmlUrl: https://www.dndbeyond.com/
+    xmlUrl: https://feeds.transistor.fm/dragon-talk
+
+  - title: 'Dumb-Dumb & Dragons: A D&D Podcast'
+    htmlUrl: https://dumbdumbdice.com/
+    xmlUrl: https://feeds.simplecast.com/S0UDeyFK
+
+  - title: High Rollers DnD
+    htmlUrl: http://highrollersdnd.libsyn.com/website
+    xmlUrl: https://feeds.megaphone.fm/NSR8625352094
+
+  - title: 3 Wise DMs
+    htmlUrl: https://3wisedms.com/
+    xmlUrl: https://feeds.captivate.fm/3-wise-dms/
+
+  - title: The Lazy RPG Podcast
+    htmlUrl: https://slyflourish.podbean.com/
+    xmlUrl: http://feeds.podtrac.com/Jb4At8E6rksl
+
+  - title: Girls Who Don’t DnD
+    htmlUrl: http://www.girlswhodontdnd.com/
+    xmlUrl: https://feeds.megaphone.fm/GWD8899491190
+
+  - title: 'HearthFire Tales: Actual Play Dungeons and Dragons from Ireland'
+    htmlUrl: https://www.hearthfiretales.com/
+    xmlUrl: https://anchor.fm/s/c9c36954/podcast/rss
+
+  - title: Friends at the Table
+    htmlUrl: http://sites.libsyn.com/484704/site
+    xmlUrl: https://feeds.libsyn.com/484704/rss
+
+  - title: Tabletop Champions – Real Play D&D 5E (DND 5e)
+    htmlUrl: http://tabletopchampions.com/
+    xmlUrl: https://feeds.simplecast.com/OZYEWSq3
+
+  - title: Rude Tales of Magic
+    htmlUrl: https://art19.com/shows/rude-tales-of-magic
+    xmlUrl: https://rss.art19.com/rude-tales-of-magic
+
+  - title: Table Quests
+    htmlUrl: https://tablequests.podbean.com/
+    xmlUrl: https://feed.podbean.com/tablequests/feed.xml
+
+  - title: Dice Shame
+    htmlUrl: http://www.diceshamepodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/62691c6f17b69400149656fa
+
+  - title: Godsfall
+    htmlUrl: https://redcircle.com/shows/godsfall1658
+    xmlUrl: https://feeds.redcircle.com/9447a3d1-6295-40b5-bc92-7f7ba0678160
+
+  - title: The Night Shift – A D&D Podcast
+    htmlUrl: https://www.spreaker.com/show/the-night-shift_6
+    xmlUrl: https://www.spreaker.com/show/5595171/episodes/feed
 
 - name: The Best Audio Drama Podcasts
   opml: findthatpod-the-best-audio-drama-podcasts.opml
@@ -394,12 +512,6 @@ issues:
   - title: Mars’ Best Brisket
     htmlUrl: https://marsbestbrisket.com/
     xmlUrl: https://pinecast.com/feed/mars-best-brisket
-
-  - title: 
-    htmlUrl: 
-    xmlUrl: 
-
-
 
 - name: The Best Podcasts for Moms
   opml: findthatpod-the-best-podcasts-for-moms.opml
