@@ -180,6 +180,162 @@ issues:
 - name: The Best Music Podcasts for Music Lovers
   opml: findthatpod-the-best-music-podcasts-for-music-lovers.opml
   date: 2025-02-26
+  htmlUrl: https://findthatpod.com/best-music-podcasts/
+  podcasts:
+
+  - title: All Songs Considered
+    htmlUrl: https://www.npr.org/podcasts/510019/all-songs-considered
+    xmlUrl: https://feeds.npr.org/510019/podcast.xml
+
+  - title: Heat Rocks
+    htmlUrl: http://maximumfun.org/shows/heat-rocks
+    xmlUrl: https://feeds.simplecast.com/sUxwITUa
+
+  - title: Rolling Stone Music Now
+    htmlUrl: https://www.rollingstone.com/
+    xmlUrl: https://feeds.megaphone.fm/rollingstonemusicnow
+
+  - title: Bandsplain
+    htmlUrl: https://www.theringer.com/podcasts/bandsplain
+    xmlUrl: https://feeds.megaphone.fm/bandsplain
+
+  - title: 'Songcraft: Spotlight on Songwriters'
+    htmlUrl: http://www.songcraftshow.com/
+    xmlUrl: https://feeds.simplecast.com/wVAXlGfJ
+
+  - title: Strong Songs
+    htmlUrl: https://strongsongspodcast.com/
+    xmlUrl: https://feeds.strongsongspodcast.com/main
+
+  - title: Pop Pantheon
+    htmlUrl: https://www.poppantheonpod.com/
+    xmlUrl: https://feeds.transistor.fm/pop-pantheon
+
+  - title: Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond
+    htmlUrl: https://brokenrecordpodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ff0ba2f2-f33c-4193-aba2-ae32006cd633/11c188a1-cb86-4869-9c57-ae32006cd63c/podcast.rss
+
+  - title: The Monday Morning Mixtape
+    htmlUrl: https://www.spreaker.com/podcast/the-monday-morning-mixtape--4933569
+    xmlUrl: https://www.spreaker.com/show/4933569/episodes/feed
+
+  - title: Desert Island Discs
+    htmlUrl: https://www.bbc.co.uk/programmes/b006qnmr
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qnmr.rss
+
+  - title: Twenty Thousand Hertz
+    htmlUrl: http://www.20k.org/
+    xmlUrl: https://feeds.megaphone.fm/20k
+
+  - title: Afropop Worldwide
+    htmlUrl: http://afropop.org/
+    xmlUrl: http://feeds.feedburner.com/afropop/podcast
+
+  - title: Song Exploder
+    htmlUrl: http://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: 60 Songs That Explain the ‘90s
+    htmlUrl: https://www.theringer.com/podcasts/60-songs-that-explain-the-90s-the-2000s
+    xmlUrl: https://feeds.megaphone.fm/60-songs
+
+  - title: Questlove Supreme
+    htmlUrl: https://www.iheart.com/podcast/1119-questlove-supreme-53194211/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee132490-ba24-4965-b558-ae32006cd4c0/podcast.rss
+
+  - title: Hit Parade
+    htmlUrl: https://slate.com/podcasts/hit-parade
+    xmlUrl: https://feeds.megaphone.fm/hitparade
+
+  - title: Song by Song
+    htmlUrl: https://songbysong.libsyn.com/website
+    xmlUrl: https://songbysong.libsyn.com/rss
+
+  - title: Sound Opinions
+    htmlUrl: https://art19.com/shows/sound-opinions
+    xmlUrl: https://rss.art19.com/sound-opinions
+
+  - title: The Record Spinner Podcast
+    htmlUrl: https://therecordspinnerpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/therecordspinnerpodcast/feed.xml
+
+  - title: Dissect
+    htmlUrl: http://dissectpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/dissectwide
+
+  - title: Talkhouse Podcast
+    htmlUrl: https://www.talkhouse.com/
+    xmlUrl: https://feeds.megaphone.fm/THI1720663445
+
+  - title: Tape Notes
+    htmlUrl: https://tapenotes.libsyn.com/
+    xmlUrl: https://feeds.megaphone.fm/TNL8747838853
+
+  - title: Rock in Retrospect
+    htmlUrl: https://rockinretrospect.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1815026.rss
+
+  - title: 50 Years of Hip Hop
+    htmlUrl: https://www.iheart.com/podcast/1119-50-years-of-hip-hop-podca-108587688/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/605886b9-28cc-4021-88e0-af47015a04dd/eeb8e332-910d-48e1-8c87-af47015b6f79/podcast.rss
+
+  - title: 'Song Craft: Breaking It Down'
+    htmlUrl: http://soundworks-ahead.com/
+    xmlUrl: https://anchor.fm/s/1c7539f8/podcast/rss
+
+  - title: Tiny Desk Concerts
+    htmlUrl: https://www.npr.org/podcasts/510306/tiny-desk-concerts-audio
+    xmlUrl: https://feeds.npr.org/510306/podcast.xml
+
+  - title: Punch Up The Jam
+    htmlUrl: https://headgum.com/punch-up-the-jam
+    xmlUrl: https://feeds.megaphone.fm/GBLL9984861462
+
+  - title: Switched on Pop
+    htmlUrl: http://www.switchedonpop.com/
+    xmlUrl: https://feeds.megaphone.fm/switchedonpop
+
+  - title: The Story Behind The Song
+    htmlUrl: https://redcircle.com/shows/the-story-behind-the-song
+    xmlUrl: https://feeds.redcircle.com/1ea26847-b933-4033-9711-f7e1b6aa0988
+
+  - title: Louder Than A Riot
+    htmlUrl: https://www.npr.org/podcasts/510357/louder-than-a-riot
+    xmlUrl: https://feeds.npr.org/510357/podcast.xml
+
+  - title: One Song
+    htmlUrl: https://www.hartbeat.com/
+    xmlUrl: https://feeds.megaphone.fm/IMP6296096176
+
+  - title: A History of Rock Music in 500 Songs
+    htmlUrl: https://500songs.com/series/a-history-of-rock-music-in-500-songs/
+    xmlUrl: https://500songs.com/feed/podcast/a-history-of-rock-music-in-500-songs/
+
+  - title: Ongoing History of New Music
+    htmlUrl: http://www.edge.ca/ongoinghistory/
+    xmlUrl: https://feeds.megaphone.fm/CORU5791969113
+
+  - title: Composer of the Week
+    htmlUrl: http://www.bbc.co.uk/programmes/p02nrvd3
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nrvd3.rss
+
+  - title: The New Music Business with Ari Herstand
+    htmlUrl: https://www.aristake.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6b22dabf-b9be-45c2-bddb-1483c14ab221
+
+  - title: The 500 with Josh Adam Meyers
+    htmlUrl: https://the500podcast.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS9170932758
+
+  - title: 
+    htmlUrl: 
+    xmlUrl: 
+
+  - title: 
+    htmlUrl: 
+    xmlUrl: 
+
+
 
 - name: The Best Psychology Podcasts to Better Understand Humans
   opml: findthatpod-the-best-psychology-podcasts-to-better-understand-humans.opml
