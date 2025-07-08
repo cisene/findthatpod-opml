@@ -172,6 +172,96 @@ issues:
 - name: The Best Podcasts for Moms
   opml: findthatpod-the-best-podcasts-for-moms.opml
   date: 2025-03-07
+  htmlUrl: https://findthatpod.com/best-podcasts-for-moms/
+  podcasts:
+
+  - title: Raising Good Humans
+    htmlUrl: https://art19.com/shows/raising-good-humans
+    xmlUrl: https://rss.art19.com/raising-good-humans
+
+  - title: The Longest Short Time
+    htmlUrl: https://longestshortesttime.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD4231325211
+
+  - title: Mom Brain
+    htmlUrl: https://podcasts.gallerymediagroup.com/
+    xmlUrl: https://rss.art19.com/mom-brain
+
+  - title: Why Mommy Drinks
+    htmlUrl: http://wearecampfire.media/podcasts/why-mommy-drinks/
+    xmlUrl: https://anchor.fm/s/963d7fc/podcast/rss
+
+  - title: The Mom Hour
+    htmlUrl: https://art19.com/shows/the-mom-hour
+    xmlUrl: https://rss.art19.com/the-mom-hour
+
+  - title: What Fresh Hell
+    htmlUrl: https://www.whatfreshhellpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/WFH1568989392
+
+  - title: Super Mother Unleashed
+    htmlUrl: https://anchor.fm/supermotherunleashed
+    xmlUrl: https://feeds.buzzsprout.com/1096142.rss
+
+  - title: Mom Enough
+    htmlUrl: https://www.momenough.com/
+    xmlUrl: https://www.momenough.com/feed/podcast
+
+  - title: Motherhood Unstressed
+    htmlUrl: http://lizcarlile.libsyn.com/website
+    xmlUrl: https://lizcarlile.libsyn.com/rss
+
+  - title: Working Mom Hour
+    htmlUrl: https://www.buzzsprout.com/853123
+    xmlUrl: https://feeds.buzzsprout.com/853123.rss
+
+  - title: After Bedtime with Big Little Feelings
+    htmlUrl: https://art19.com/shows/after-bedtime-with-big-little-feelings
+    xmlUrl: https://rss.art19.com/after-bedtime-with-big-little-feelings
+
+  - title: Well-Adjusted Mama
+    htmlUrl: http://drlaurabrayton.com/
+    xmlUrl: https://welladjustedmama.libsyn.com/rss
+
+  - title: Good Inside with Dr. Becky
+    htmlUrl: https://good-inside.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Y5N0xWWZ
+
+  - title: The Queer Family Podcast
+    htmlUrl: https://redcircle.com/shows/the-queer-family-podcast
+    xmlUrl: https://anchor.fm/s/f00a6ef0/podcast/rss
+
+  - title: Moms Who Create
+    htmlUrl: https://www.momswhocreate.com/
+    xmlUrl: https://feeds.buzzsprout.com/1868822.rss
+
+  - title: Mommy’s on a Call
+    htmlUrl: https://www.stephanieuchima.com/
+    xmlUrl: https://stephanie.libsyn.com/rss
+
+  - title: Toddler Purgatory
+    htmlUrl: https://www.toddlerpurgatory.com/
+    xmlUrl: https://feeds.megaphone.fm/WFH7487722717
+
+  - title: New Modern Mom Podcast
+    htmlUrl: https://new-modern-mom-podcast.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/new-modern-mom-podcast/
+
+  - title: Childproof
+    htmlUrl: https://creators.spotify.com/pod/show/childproof
+    xmlUrl: https://anchor.fm/s/fff654a0/podcast/rss
+
+  - title: Happy Single MOM
+    htmlUrl: https://happy-single-mom.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/happy-single-mom/
+
+  - title: 'Ask Lisa: The Psychology of Parenting'
+    htmlUrl: https://drlisadamour.com/resource/series/ask-lisa-podcast/
+    xmlUrl: https://feeds.megaphone.fm/ADL9419958163
+
+  - title: Spawned Parenting Podcast with Liz of Cool Mom Picks
+    htmlUrl: http://coolmompicks.com/blog/category/podcast/
+    xmlUrl: https://anchor.fm/s/104e52964/podcast/rss
 
 - name: The Best Star Wars Podcasts
   opml: findthatpod-the-best-star-wars-podcasts.opml
