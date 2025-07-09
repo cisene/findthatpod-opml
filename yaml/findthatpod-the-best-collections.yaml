@@ -160,6 +160,116 @@ issues:
 - name: 'The Empire Strikes Back: A Guide to the Best British History Podcasts'
   opml: findthatpod-the-best-.opml
   date: 2025-03-20
+  htmlUrl: https://findthatpod.com/best-british-history-podcasts/
+  podcasts:
+
+  - title: The British History Podcast
+    htmlUrl: https://www.thebritishhistorypodcast.com/
+    xmlUrl: https://www.thebritishhistorypodcast.com/feed/podcast
+
+  - title: Step into the Past
+    htmlUrl: http://www.findmypast.co.uk/
+    xmlUrl: https://portal-api.thisisdistorted.com/xml/step-into-the-past
+
+  - title: British History Podcast
+    htmlUrl: https://philippab.substack.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/680fdfe253ed55514847d35b
+
+  - title: Stuff The British Stole
+    htmlUrl: https://www.abc.net.au/listen/programs/stuff-the-british-stole/
+    xmlUrl: https://www.abc.net.au/feeds/12754606/podcast.xml
+
+  - title: Talking Tudors
+    htmlUrl: https://talkingtudors.podbean.com/
+    xmlUrl: https://talkingtudors.podbean.com/feed.xml
+
+  - title: 'Pax Britannica: A History of the British Empire'
+    htmlUrl: https://www.langnessmedia.com/pax-britannica-1
+    xmlUrl: https://feeds.megaphone.fm/ADL3707263633
+
+  - title: Empire
+    htmlUrl: https://empirepod.supportingcast.fm/
+    xmlUrl: https://feeds.megaphone.fm/empirepodcast
+
+  - title: The English Heritage Podcast
+    htmlUrl: https://www.english-heritage.org.uk/
+    xmlUrl: https://feeds.megaphone.fm/EHE9742327131
+
+  - title: The Modern British History Podcast
+    htmlUrl: https://modernbritishpoliticalhistory.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2010121.rss
+
+  - title: Never Mind The Dambusters
+    htmlUrl: https://nevermindthedambusters.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2327200.rss
+
+  - title: Yesterday’s London Times
+    htmlUrl: https://www.buzzsprout.com/1810008
+    xmlUrl: https://feeds.buzzsprout.com/1810008.rss
+
+  - title: The BackTracker History Show
+    htmlUrl: http://www.backtracker.co.uk/
+    xmlUrl: https://anchor.fm/s/16106a24/podcast/rss
+
+  - title: 'Renaissance English History Podcast: A Show About the Tudors'
+    htmlUrl: http://www.englandcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/80679a7a-5905-4692-be1f-fccf32c207d4
+
+  - title: The Redcoat History Podcast
+    htmlUrl: https://redcoathistory.podbean.com/
+    xmlUrl: https://feed.podbean.com/redcoathistory/feed.xml
+
+  - title: Rex Factor
+    htmlUrl: https://www.rexfactorpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT5291067453
+
+  - title: Killing Victoria
+    htmlUrl: http://www.bbc.co.uk/programmes/p0dtcddd
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0dtcddd.rss
+
+  - title: The Belgrano Diary
+    htmlUrl: https://shows.acast.com/lrb-documentaries
+    xmlUrl: https://feeds.megaphone.fm/LRB6643710732
+
+  - title: The History of England
+    htmlUrl: https://thehistoryofengland.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/9c4dc3cd-147f-442d-b0d3-033f45c2648c
+
+  - title: Anglo-Saxon England
+    htmlUrl: https://anglosaxonenglandpodcast.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/anglo-saxon-england
+
+  - title: British Scandal
+    htmlUrl: https://wondery.com/shows/british-scandal
+    xmlUrl: https://rss.art19.com/british-scandal
+
+  - title: 'British History: Royals, Rebels, and Romantics'
+    htmlUrl: http://www.carolannlloyd.com/
+    xmlUrl: https://feeds.buzzsprout.com/1129166.rss
+
+  - title: Bad Manors
+    htmlUrl: https://www.iheart.com/podcast/1119-bad-manors-118493245/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6340f683-28fd-47db-8c51-b02d00fa3130/0809750f-dd42-48a3-b2bf-b02d00fbc395/podcast.rss
+
+  - title: Extraordinary Stories of Britain
+    htmlUrl: https://guildw.podbean.com/
+    xmlUrl: https://feed.podbean.com/guildw/feed.xml
+
+  - title: Normal Women
+    htmlUrl: https://shows.acast.com/normal-women
+    xmlUrl: https://feeds.acast.com/public/shows/65201f827bacb400113a13b0
+
+  - title: Not Just the Tudors
+    htmlUrl: https://www.historyhit.com/podcasts/
+    xmlUrl: https://access.acast.com/rss/b0ed85cc-f4ed-49e9-b860-0ba48481ae25
+
+  - title: The History of English Podcast
+    htmlUrl: https://historyofenglishpodcast.com/
+    xmlUrl: https://historyofenglishpodcast.com/feed/podcast/
+
+  - title: Tales of Britain and Ireland
+    htmlUrl: https://talesofbritainandireland.com/
+    xmlUrl: https://feed.podbean.com/talesofbritainandireland/feed.xml
 
 - name: The Best DnD Podcasts
   opml: findthatpod-the-best-dnd-podcasts.opml

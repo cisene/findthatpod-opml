@@ -24,3 +24,7 @@ python3 render-opml.py ../yaml/findthatpod-the-best-true-crime-podcasts.yaml > .
 
 
 The old script can be invoked manually or through the bash shell script, the shell script adds some automation.
+
+
+## IDEA: Combine all the The Best YAML-files into a single large YAML
+* With a single large 

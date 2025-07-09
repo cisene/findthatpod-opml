@@ -17,18 +17,63 @@ I just created something I would like to consume myself, lists without links are
 ## The Best of ...
 
 
-| The Best of ..                                               | Date       |
-| ------------------------------------------------------------ | ---------- |
-| FindThatPod - The Best Marriage Podcasts                     | 2024-12-05 |
-| FindThatPod - The Best Podcasts for Men                      | 2024-11-21 |
-| FindThatPod - The Best Meditation Podcasts                   | 2024-11-14 |
-| FindThatPod - The Best Tennis Podcasts                       | 2024-11-14 |
-| FindThatPod - The Best Cooking Podcasts                      | 2024-10-31 |
-| FindThatPod - The Best Podcasts About Cults                  | 2024-10-30 |
-| FindThatPod - The Best Fitness Podcasts                      | 2024-10-15 |
-| FindThatPod - The Best Running Podcasts                      | 2024-10-03 |
-| FindThatPod - The Best Philosophy Podcasts                   | 2024-09-26 |
-| FindThatPod - The Best Podcast for Entrepreneurs             | 2024-09-19 |
+| The Best of ..                                                                      | Date       |
+| ----------------------------------------------------------------------------------- | ---------- |
+| FindThatPod - The Best Fishing Podcasts                                             | 2025-06-18 |
+| FindThatPod - The Best Nature Podcasts                                              | 2025-06-18 |
+| FindThatPod - The Best Fantasy Podcasts                                             | 2025-06-16 |
+| FindThatPod - The Best Leadership Podcasts                                          | 2025-06-11 |
+| FindThatPod - The Best Health Podcasts                                              | 2025-06-10 |
+| FindThatPod - The Best Marketing Podcasts                                           | 2025-06-04 |
+| FindThatPod - The Best Narrative Podcasts                                           | 2025-06-03 |
+| FindThatPod - The Best Ghost Story Podcasts                                         | 2025-05-28 |
+| FindThatPod - The Best Divorce Podcasts                                             | 2025-05-27 |
+| FindThatPod - The Best Pop Culture Podcasts                                         | 2025-05-22 |
+| FindThatPod - The Best Cycling Podcasts                                             | 2025-05-22 |
+| FindThatPod - The Best Educational Podcasts                                         | 2025-05-21 |
+| FindThatPod - The Best Documentary Podcasts                                         | 2025-05-09 |
+| FindThatPod - The Best Podcasts To Learn Spanish                                    | 2025-05-08 |
+| FindThatPod - The Best Outdoor Podcasts                                             | 2025-05-02 |
+| FindThatPod - The Best Family Podcast                                               | 2025-04-30 |
+| FindThatPod - The Best Military Podcasts                                            | 2025-04-29 |
+| FindThatPod - The Best Law & Legal Podcasts                                         | 2025-04-24 |
+| FindThatPod - The Best Trivia Podcasts                                              | 2025-04-24 |
+| FindThatPod - The Best Self Improvement Podcasts                                    | 2025-04-23 |
+| FindThatPod - The Best Car Podcasts                                                 | 2025-04-17 |
+| FindThatPod - The Best Wine Podcasts                                                | 2025-04-16 |
+| FindThatPod - The Best Porn Podcast                                                 | 2025-04-16 |
+| FindThatPod - The Best Basketball & NBA Podcasts                                    | 2025-04-10 |
+| FindThatPod - The Best Soccer Podcasts                                              | 2025-04-09 |
+| FindThatPod - The Best Book Club Podcasts                                           | 2025-04-09 |
+| FindThatPod - The Best Cyber Security Podcasts                                      | 2025-04-03 |
+| FindThatPod - The Best American History Podcasts                                    | 2025-04-02 |
+| FindThatPod - The Best Pregnancy Podcasts                                           | 2025-04-02 |
+| FindThatPod - The Best Horror Podcasts for You Sickos to Devour                     | 2025-03-26 |
+| FindThatPod - The Best Stoicism Podcasts To Level-Up Your Personal Philosophy       | 2025-03-26 |
+| FindThatPod - The Best Writing Podcasts                                             | 2025-03-21 |
+| FindThatPod - The Best Survival Stories Podcasts                                    | 2025-03-20 |
+| FindThatPod - The Empire Strikes Back: A Guide to the Best British History Podcasts | 2025-03-20 |
+| FindThatPod - The Best DnD Podcasts                                                 | 2025-03-13 |
+| FindThatPod - The Best Audio Drama Podcasts                                         | 2025-03-13 |
+| FindThatPod - The Best Podcasts for Moms                                            | 2025-03-07 |
+| FindThatPod - The Best Star Wars Podcasts                                           | 2025-03-07 |
+| FindThatPod - The Best Music Podcasts for Music Lovers                              | 2025-02-26 |
+| FindThatPod - The Best Psychology Podcasts to Better Understand Humans              | 2025-02-25 |
+| FindThatPod - The Best Podcasts for Anyone Running or Working at a Startup Business | 2025-02-11 |
+| FindThatPod - The Best Daily News Podcasts to Stay Informed                         | 2025-02-04 |
+| FindThatPod - The Best Podcasts for Road Trips of All Lengths                       | 2025-02-03 |
+| FindThatPod - The Best Nutrition Podcasts for Healthier Eating                      | 2025-01-30 |
+| FindThatPod - The Best Gardening Podcasts                                           | 2025-01-16 |
+| FindThatPod - The Best Marriage Podcasts                                            | 2024-12-05 |
+| FindThatPod - The Best Podcasts for Men                                             | 2024-11-21 |
+| FindThatPod - The Best Meditation Podcasts                                          | 2024-11-14 |
+| FindThatPod - The Best Tennis Podcasts                                              | 2024-11-14 |
+| FindThatPod - The Best Cooking Podcasts                                             | 2024-10-31 |
+| FindThatPod - The Best Podcasts About Cults                                         | 2024-10-30 |
+| FindThatPod - The Best Fitness Podcasts                                             | 2024-10-15 |
+| FindThatPod - The Best Running Podcasts                                             | 2024-10-03 |
+| FindThatPod - The Best Philosophy Podcasts                                          | 2024-09-26 |
+| FindThatPod - The Best Podcast for Entrepreneurs                                    | 2024-09-19 |
 | [FindThatPod - The Best Art Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-podcasts.opml) | 2024-09-11 |
 | [FindThatPod - The Best Travel Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml) | 2024-08-22 |
 | [FindThatPod - The Best Podcasts About AI](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-ai.opml) | 2024-07-25 |
