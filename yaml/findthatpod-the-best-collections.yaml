@@ -156,6 +156,88 @@ issues:
 - name: The Best Survival Stories Podcasts
   opml: findthatpod-the-best-survival-stories-podcasts.opml
   date: 2025-03-20
+  htmlUrl: https://findthatpod.com/best-survival-stories-podcasts/
+  podcasts:
+
+  - title: Real Survival Stories
+    htmlUrl: https://www.noiser.com/
+    xmlUrl: https://feeds.megaphone.fm/realsurvivalstories
+
+  - title: Out Alive from Backpacker
+    htmlUrl: https://www.backpacker.com/
+    xmlUrl: https://feeds.megaphone.fm/out-alive
+
+  - title: Extremes
+    htmlUrl: http://vice.com/
+    xmlUrl: https://feeds.acast.com/public/shows/ac32ddcb-511c-4a25-91fd-5d8539f98dc2
+
+  - title: This Is Actually Happening
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/
+    xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
+
+  - title: Marooned
+    htmlUrl: https://visitmarooned.com/
+    xmlUrl: https://feeds.libsyn.com/486009/rss
+
+  - title: 'The CRUX: True Survival Stories'
+    htmlUrl: https://bleav.com/shows/the-crux-true-survival-stories/
+    xmlUrl: https://feeds.simplecast.com/Ze0KQfi5
+
+  - title: National Park After Dark
+    htmlUrl: http://npadpodcast.com/
+    xmlUrl: https://audioboom.com/channels/5055896.rss
+
+  - title: What Was That Like – True Stories. Real People.
+    htmlUrl: https://whatwasthatlike.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS8902204604
+
+  - title: Rescue
+    htmlUrl: null
+    xmlUrl: https://feeds.megaphone.fm/rescue
+
+  - title: Deadly Misadventures
+    htmlUrl: https://wondery.com/shows/deadly-misadventures/
+    xmlUrl: https://rss.art19.com/deadly-misadventures
+
+  - title: Against The Odds
+    htmlUrl: https://wondery.com/shows/against-the-odds/
+    xmlUrl: https://rss.art19.com/against-the-odds
+
+  - title: I Survived
+    htmlUrl: https://art19.com/shows/i-survived
+    xmlUrl: https://podcastone.com/podcast?categoryID2=2061
+
+  - title: Get Out Alive
+    htmlUrl: https://www.spreaker.com/podcast/get-out-alive-an-animal-attack-podcast--6160108
+    xmlUrl: https://www.spreaker.com/show/6160108/episodes/feed
+
+  - title: Something Was Wrong
+    htmlUrl: http://www.somethingwaswrong.com/
+    xmlUrl: https://audioboom.com/channels/5012888.rss
+
+  - title: Unnerved – True Scary Stories
+    htmlUrl: https://www.patreon.com/c/unnervedpodcast
+    xmlUrl: https://anchor.fm/s/b97423cc/podcast/rss
+
+  - title: Tragedy with a View
+    htmlUrl: https://audioboom.com/channels/5107044-tragedy-with-a-view
+    xmlUrl: https://anchor.fm/s/faeb2288/podcast/rss
+
+  - title: The Explorers Podcast
+    htmlUrl: http://www.explorerspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL4434397541
+
+  - title: 'Tooth & Claw: True Stories of Animal Attacks'
+    htmlUrl: https://qcodemedia.com/tooth-claw
+    xmlUrl: https://feeds.megaphone.fm/QCD9705695442
+
+  - title: Not Today
+    htmlUrl: https://audioboom.com/channels/5090432
+    xmlUrl: https://audioboom.com/channels/5090432.rss
+
+  - title: The Sharp End Podcast
+    htmlUrl: http://www.thesharpendpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:198260728/sounds.rss
 
 - name: 'The Empire Strikes Back: A Guide to the Best British History Podcasts'
   opml: findthatpod-the-best-british-history-podcasts.opml
