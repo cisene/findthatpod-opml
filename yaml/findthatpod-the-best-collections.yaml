@@ -144,6 +144,192 @@ issues:
 - name: The Best Horror Podcasts for You Sickos to Devour
   opml: findthatpod-the-best-horror-podcasts-for-you-sickos-to-devour.opml
   date: 2025-03-26
+  htmlUrl: https://findthatpod.com/best-horror-podcasts/
+  podcasts:
+
+  - title: Knifepoint Horror
+    htmlUrl: http://knifepointhorror.libsyn.com/
+    xmlUrl: https://feeds.megaphone.fm/IMP5763348627
+
+  - title: Alexander Maberry's Tales from the Tower
+    htmlUrl: http://www.maberrysmuseum.com/
+    xmlUrl: https://anchor.fm/s/133c02e0/podcast/rss
+
+  - title: A Scary Home Companion
+    htmlUrl: http://ashc.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/184534.rss
+
+  - title: Old Gods of Appalachia
+    htmlUrl: http://www.oldgodsofappalachia.com/
+    xmlUrl: https://feeds.acast.com/public/shows/61ba0a431a8cbeb6ea3cf11a
+
+  - title: PseudoPod
+    htmlUrl: http://pseudopod.org/
+    xmlUrl: https://pseudopod.libsyn.com/rss
+
+  - title: Wrong Station
+    htmlUrl: http://www.wrongstation.com/
+    xmlUrl: https://feeds.megaphone.fm/TWRS4873563754
+
+  - title: Alice Isn't Dead
+    htmlUrl: http://www.aliceisntdead.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP8990444845
+
+  - title: The Black Tapes
+    htmlUrl: http://theblacktapespodcast.com/
+    xmlUrl: https://theblacktapes.libsyn.com/rss
+
+  - title: Redwood Bureau
+    htmlUrl: https://eeriecast.com/
+    xmlUrl: https://feeds.megaphone.fm/dreadwood
+
+  - title: Welcome to Night Vale
+    htmlUrl: http://welcometonightvale.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP4591212513
+
+  - title: Observable Radio
+    htmlUrl: http://www.observableradio.com/
+    xmlUrl: https://www.spreaker.com/show/6216452/episodes/feed
+
+  - title: Scared To Death
+    htmlUrl: https://www.badmagicproductions.com/pages/scared-to-death-2024-main
+    xmlUrl: https://feeds.simplecast.com/oP63TyXO
+
+  - title: Escaping Denver
+    htmlUrl: https://curiouscast.ca/podcast/936/escaping-denver/
+    xmlUrl: https://feeds.megaphone.fm/CORU5752424205
+
+  - title: Radio Rental
+    htmlUrl: http://www.radiorentalusa.com/
+    xmlUrl: https://feeds.megaphone.fm/radio-rental
+
+  - title: Monsters Among Us
+    htmlUrl: https://audioboom.com/channels/5147816
+    xmlUrl: https://audioboom.com/channels/5147816.rss
+
+  - title: Unwell, a Midwestern Gothic Mystery
+    htmlUrl: https://www.unwellpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/unwell
+
+  - title: Campfire Radio Theater
+    htmlUrl: https://campfireradiotheater.podbean.com/
+    xmlUrl: https://campfireradiotheater.podbean.com/feed.xml
+
+  - title: 'Let’s Not Meet: A True Horror Podcast'
+    htmlUrl: https://redcircle.com/shows/lets-not-meet-a-true-horror-podcast
+    xmlUrl: https://feeds.redcircle.com/7b6cc26c-fc72-40f4-bf32-5b2ee187ffa0
+
+  - title: NIGHTMARE MAGAZINE - Horror and Dark Fantasy Story Podcast (Audiobook | Short Stories)
+    htmlUrl: http://www.nightmare-magazine.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP2249869017
+
+  - title: Malevolent
+    htmlUrl: http://www.malevolent.ca/
+    xmlUrl: https://feeds.acast.com/public/shows/62691b95c9c07f0012550c9c
+
+  - title: Spooked
+    htmlUrl: https://spookedpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/TBotaapn
+
+  - title: The NoSleep Podcast
+    htmlUrl: https://www.thenosleeppodcast.com/
+    xmlUrl: https://audioboom.com/channels/5101646.rss
+
+  - title: A Voice From Darkness
+    htmlUrl: https://vfdarkness.com/
+    xmlUrl: https://voicefromdarkness.libsyn.com/rss
+
+  - title: The Hyacinth Disaster
+    htmlUrl: https://www.davidecarlson.net/episodes/
+    xmlUrl: https://feeds.acast.com/public/shows/62713be4dd89b800134549c6
+
+  - title: The Horror Sanctum Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/jay-gregory0
+    xmlUrl: https://anchor.fm/s/bd0e98a0/podcast/rss
+
+  - title: Archive 81
+    htmlUrl: http://archive81.com/
+    xmlUrl: https://archive81.libsyn.com/rss
+
+  - title: Desert Skies
+    htmlUrl: https://desertskiespodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/desertskies
+
+  - title: The Magnus Archives
+    htmlUrl: https://www.rustyquill.com/
+    xmlUrl: https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8
+
+  - title: Alone in the Woods
+    htmlUrl: https://www.eeriecast.com/
+    xmlUrl: https://feeds.megaphone.fm/camphorrors
+
+  - title: WE'RE NOT MEANT TO KNOW
+    htmlUrl: http://wnmtkpod.libsyn.com/
+    xmlUrl: https://wnmtkpod.libsyn.com/rss
+
+  - title: Creepy
+    htmlUrl: http://creepypod.com/
+    xmlUrl: https://feeds.simplecast.com/uH5CYL96
+
+  - title: The Antiquarium of Sinister Happenings
+    htmlUrl: https://the-antiquarium-of-sinister-happenings.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/RZ2q5tgC
+
+  - title: 'Horror Hill: A Horror Anthology and Scary Stories Series Podcast'
+    htmlUrl: https://www.simplyscarypodcast.com/shows/horror-hill/
+    xmlUrl: https://feeds.feedburner.com/HorrorHill
+
+  - title: The Hotel
+    htmlUrl: https://feeds.megaphone.fm/BDA1285293404
+    xmlUrl: https://podcasterwallet.com/?pcid=473136
+
+  - title: Last Podcast On The Left
+    htmlUrl: https://www.lastpodcastnetwork.com/
+    xmlUrl: https://feeds.simplecast.com/dCXMIpJz
+
+  - title: Petrified
+    htmlUrl: https://linktr.ee/petrified_pod
+    xmlUrl: https://feeds.acast.com/public/shows/726d58db-735f-4bb3-98f5-01f1894ff284
+
+  - title: Darkest Night
+    htmlUrl: http://www.darkestnightpod.com/
+    xmlUrl: https://darkestnight.libsyn.com/rss
+
+  - title: October's Children
+    htmlUrl: https://octoberschildrenpodcast.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/octoberschildrenpodcast/
+
+  - title: 'Disturbed: True Horror Stories'
+    htmlUrl: https://www.disturbedpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/DISP5217287381
+
+  - title: See You In Your Nightmares
+    htmlUrl: http://seeyouinyournightmares.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b513438c-b619-4273-af7d-ae33003467ea/789caa52-d152-4274-b7cf-ae33003467f8/podcast.rss
+
+  - title: Regina Prime
+    htmlUrl: https://www.reginaprime.com/
+    xmlUrl: https://anchor.fm/s/e21561c4/podcast/rss
+
+  - title: 'NIGHTLIGHT: A Horror Fiction Podcast'
+    htmlUrl: http://nightlightpod.com/
+    xmlUrl: https://feeds.megaphone.fm/nightlight
+
+  - title: Classic Ghost Stories
+    htmlUrl: https://link.parla.fm/classic-ghost-stories
+    xmlUrl: https://feeds.megaphone.fm/CGS4976092693
+
+  - title: The Love Talker
+    htmlUrl: http://thelovetalker.com/
+    xmlUrl: https://feeds.redcircle.com/a9a5b6cb-1f16-40e6-a761-1f6b9e544f06
+
+  - title: 'The Dark Swamp: Horror Stories'
+    htmlUrl: http://swampdweller.net/
+    xmlUrl: https://audioboom.com/channels/5033629.rss
+
+  - title: Light House
+    htmlUrl: https://www.iheart.com/podcast/1119-light-house-61206256/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8f961622-c722-449a-aee9-ae330037e18c/02613311-affa-42e7-9751-ae330037e1a3/podcast.rss
 
 - name: The Best Stoicism Podcasts To Level-Up Your Personal Philosophy
   opml: findthatpod-the-best-stoicism-podcasts-to-level-up-your-personal-philosophy.opml
