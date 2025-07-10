@@ -148,6 +148,80 @@ issues:
 - name: The Best Stoicism Podcasts To Level-Up Your Personal Philosophy
   opml: findthatpod-the-best-.opml
   date: 2025-03-26
+  htmlUrl: https://findthatpod.com/best-stoicism-podcasts/
+  podcasts:
+
+  - title: Stoic Meditations
+    htmlUrl: https://massimopigliucci.wordpress.com/
+    xmlUrl: https://anchor.fm/s/1d80328/podcast/rss
+
+  - title: The Stoic Podcast
+    htmlUrl: https://www.youtube.com/@TheStoicPodcast
+    xmlUrl: https://anchor.fm/s/f5c4fc70/podcast/rss
+
+  - title: Stoicism On Fire
+    htmlUrl: https://traditionalstoicism.com/
+    xmlUrl: https://www.traditionalstoicism.com/feed/podcast/
+
+  - title: Stoicism for a Better Life
+    htmlUrl: https://podcasters.spotify.com/pod/show/andersonsilver
+    xmlUrl: https://anchor.fm/s/1034bb00/podcast/rss
+
+  - title: The Daily Stoic
+    htmlUrl: https://wondery.com/shows/the-daily-stoic/
+    xmlUrl: https://rss.art19.com/the-daily-stoic
+
+  - title: The Cheerful Stoic
+    htmlUrl: http://anchor.fm/thecheerfulstoic
+    xmlUrl: https://anchor.fm/s/101ed074/podcast/rss
+
+  - title: The Gen Z Stoic
+    htmlUrl: https://www.genzstoic.com/
+    xmlUrl: https://media.rss.com/thegenzstoicpodcast/feed.xml
+
+  - title: Good Fortune
+    htmlUrl: https://immoderatestoic.com/good-fortune/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:299402124/sounds.rss
+
+  - title: Stoic Wellbeing
+    htmlUrl: https://sarahmikutel.com/
+    xmlUrl: https://feeds.buzzsprout.com/1476157.rss
+
+  - title: 'Stoa Conversations: Stoicism Applied'
+    htmlUrl: https://stoameditation.com/
+    xmlUrl: https://feeds.zencastr.com/f/5DWhAKa6.rss
+
+  - title: Practical Stoicism
+    htmlUrl: https://stoicismpod.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS1396629297
+
+  - title: Stoic Solutions Podcast
+    htmlUrl: https://www.patreon.com/justinvacula
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:30977970/sounds.rss
+
+  - title: The Via Stoica Podcast
+    htmlUrl: https://viastoica.com/the-via-stoica-podcast/
+    xmlUrl: https://anchor.fm/s/1052410e8/podcast/rss
+
+  - title: Stoic Coffee Break
+    htmlUrl: https://stoic.coffee/
+    xmlUrl: https://feeds.acast.com/public/shows/65ef961743e2d6001853b94b
+
+  - title: Gratitude Through Hard Times
+    htmlUrl: https://747club.org/
+    xmlUrl: https://feeds.simplecast.com/tQ3USAkX
+
+  - title: The What Is Stoicism? Podcast
+    htmlUrl: https://www.whatisstoicism.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6164470ddef1ec0012762fbd
+
+  - title: The Strong Stoic Podcast
+    htmlUrl: https://www.spreaker.com/show/the-strong-stoic-podcast
+    xmlUrl: https://www.spreaker.com/show/5910790/episodes/feed
+
+  - title: The Stoic Handbook with Jon Brooks
+    htmlUrl: https://stoichandbook.co/
+    xmlUrl: https://feeds.buzzsprout.com/1882875.rss
 
 - name: The Best Writing Podcasts
   opml: findthatpod-the-best-writing-podcasts.opml
