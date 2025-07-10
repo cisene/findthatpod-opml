@@ -152,6 +152,164 @@ issues:
 - name: The Best Writing Podcasts
   opml: findthatpod-the-best-writing-podcasts.opml
   date: 2025-03-21
+  htmlUrl: https://findthatpod.com/best-writing-podcasts/
+  podcasts:
+
+  - title: The Creative Penn Podcast For Writers
+    htmlUrl: https://www.thecreativepenn.com/blog/
+    xmlUrl: https://www.thecreativepenn.com/feed/podcast/
+
+  - title: Written Off
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/0ef7d70a-82fc-4a8d-96b3-ad5501548155/55530dc6-c2b7-46ae-852a-ad5501557937/podcast.rss
+
+  - title: Helping Writers Become Authors
+    htmlUrl: http://www.helpingwritersbecomeauthors.com/
+    xmlUrl: https://helpingwritersbecomeauthors.libsyn.com/rss
+
+  - title: Between The Covers
+    htmlUrl: https://tinhouse.com/podcasts/
+    xmlUrl: https://feeds.podcastmirror.com/between-the-covers
+
+  - title: Amie Kaufman On Writing
+    htmlUrl: http://amiekaufman.com/podcast/
+    xmlUrl: https://amiekaufmanonwriting.libsyn.com/rss
+
+  - title: The Bestseller Experiment
+    htmlUrl: https://bestsellerexperiment.com/
+    xmlUrl: https://bestsellerexperiment.libsyn.com/rss
+
+  - title: The Plot Thickens
+    htmlUrl: https://shows.acast.com/the-plot-thickens
+    xmlUrl: https://feeds.acast.com/public/shows/6349634d63a23c0012bc002b
+
+  - title: 'First Draft: A Dialogue on Writing'
+    htmlUrl: https://cms.megaphone.fm/channel/LIT3049833542
+    xmlUrl: https://feeds.megaphone.fm/LIT3049833542
+
+  - title: The Underground Writing Podcast
+    htmlUrl: https://undergroundwriting.org/
+    xmlUrl: https://feeds.acast.com/public/shows/66a02e6ad539da6f09907cc7
+
+  - title: The Offcuts Drawer
+    htmlUrl: https://offcutsdrawer.com/
+    xmlUrl: https://feed.podbean.com/offcutsdrawer/feed.xml
+
+  - title: The Dead Robots’ Society
+    htmlUrl: https://deadrobotssociety.com/
+    xmlUrl: http://feeds.libsyn.com/462831/rss
+
+  - title: I Should Be Writing
+    htmlUrl: https://murverse.com/podcasts/isbw/
+    xmlUrl: https://isbw.libsyn.com/rss
+
+  - title: A Way with Words
+    htmlUrl: https://waywordradio.org/
+    xmlUrl: https://feeds.megaphone.fm/awww
+
+  - title: Death of 1000 Cuts
+    htmlUrl: http://www.timclarepoet.co.uk/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:10406093/sounds.rss
+
+  - title: Unpublished
+    htmlUrl: https://www.amiemcnee.com/podcast/
+    xmlUrl: https://anchor.fm/s/68552a18/podcast/rss
+
+  - title: Working Drafts
+    htmlUrl: https://www.thetedfox.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/2181409.rss
+
+  - title: This Creative Life
+    htmlUrl: http://www.sarazarr.com/podcast
+    xmlUrl: https://thiscreativelife.libsyn.com/rss
+
+  - title: Grammar Girl Quick and Dirty Tips for Better Writing
+    htmlUrl: https://grammar-girl.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/XcH2p3Ah
+
+  - title: Writing About Dragons and Shit
+    htmlUrl: https://podcasters.spotify.com/pod/show/writingaboutdragons
+    xmlUrl: https://anchor.fm/s/4dc9df2c/podcast/rss
+
+  - title: Writing Excuses
+    htmlUrl: https://redcircle.com/shows/writing-excuses2130
+    xmlUrl: https://feeds.redcircle.com/848724f4-c420-4a75-b4be-fa3db1e46546
+
+  - title: Writing Class Radio
+    htmlUrl: http://www.writingclassradio.com/
+    xmlUrl: https://rss.art19.com/writing-class-radio
+
+  - title: 'Write-minded: Weekly Inspiration for Writers'
+    htmlUrl: https://writemindedpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/LIT4896710475
+
+  - title: 88 Cups of Tea
+    htmlUrl: https://88cupsoftea.com/
+    xmlUrl: https://88cupsoftea.libsyn.com/rss
+
+  - title: Writer’s Routine
+    htmlUrl: http://www.writersroutine.com/
+    xmlUrl: https://feeds.acast.com/public/shows/8dbb4cae-1b0e-4001-b986-bd956560c6b9
+
+  - title: Writers on Writing
+    htmlUrl: https://www.writers-on-writing.com/
+    xmlUrl: https://heron-fox-cnea.squarespace.com/writersonwriting?format=rss
+
+  - title: Story Grid Writing Podcast
+    htmlUrl: http://storygrid.com/
+    xmlUrl: https://feeds.simplecast.com/H7QO9ggI
+
+  - title: 10 Minute Writer’s Workshop
+    htmlUrl: https://audioboom.com/channel/10-minute-writers-workshop
+    xmlUrl: https://feeds.megaphone.fm/PPY4168247956
+
+  - title: Imaginary Worlds
+    htmlUrl: https://www.imaginaryworldspodcast.org/
+    xmlUrl: https://feeds.megaphone.fm/ADV7475920787
+
+  - title: Literary Friction
+    htmlUrl: https://www.nts.live/shows/literaryfriction
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:47550828/sounds.rss
+
+  - title: Write Now with Scrivener
+    htmlUrl: https://podcast.scrivenerapp.com/
+    xmlUrl: https://feeds.fireside.fm/scrivener/rss
+
+  - title: '#AmWriting'
+    htmlUrl: http://amwritingpodcast.com/
+    xmlUrl: https://audioboom.com/channels/4678791.rss
+
+  - title: In Writing with Hattie Crisell
+    htmlUrl: https://audioboom.com/channels/5043480
+    xmlUrl: https://audioboom.com/channels/5043480.rss
+
+  - title: The Well-Storied Podcast
+    htmlUrl: http://well-storied.com/
+    xmlUrl: https://feeds.buzzsprout.com/269792.rss
+
+  - title: Print Run Podcast
+    htmlUrl: http://www.printrunpodcast.com/
+    xmlUrl: https://feeds.feedburner.com/PrintRunPodcast
+
+  - title: Writer’s Digest Presents
+    htmlUrl: http://www.writersdigest.com/
+    xmlUrl: https://feeds.megaphone.fm/writersdigestpresents
+
+  - title: 'Writer’s Ink: Your backstage pass to the world’s most prolific authors'
+    htmlUrl: https://writersinkpodcast.com/
+    xmlUrl: https://anchor.fm/s/3ce5a150/podcast/rss
+
+  - title: The First Draft Club
+    htmlUrl: https://thefirstdraftclub.podbean.com/
+    xmlUrl: https://feed.podbean.com/thefirstdraftclub/feed.xml
+
+  - title: 'The New Yorker: The Writer’s Voice'
+    htmlUrl: https://the-new-yorker-the-writers-voice-new-fiction-from-the-ne.simplecast.com/
+    xmlUrl: http://feeds.feedburner.com/tnyauthorsvoice
+
+  - title: 'The Writer Files: Writing, Productivity, Creativity and Neuroscience'
+    htmlUrl: https://thepodglomerate.com/shows/the-writer-files/
+    xmlUrl: https://feeds.megaphone.fm/TPG5286564987
 
 - name: The Best Survival Stories Podcasts
   opml: findthatpod-the-best-survival-stories-podcasts.opml
