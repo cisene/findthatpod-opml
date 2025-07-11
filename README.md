@@ -20,83 +20,83 @@ I just created something that I would like to consume myself, lists without link
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
-| [The Best Basketball & NBA Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-basketball-nba-podcasts.opml) | 2025-04-10 |
-| [The Best Soccer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-soccer-podcasts.opml) | 2025-04-09 |
-| [The Best Book Club Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-club-podcasts.opml) | 2025-04-09 |
-| [The Best Cyber Security Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cyber-security-podcasts.opml) | 2025-04-03 |
-| [The Best American History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-american-history-podcasts.opml) | 2025-04-02 |
-| [The Best Pregnancy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-pregnancy-podcasts.opml) | 2025-04-02 |
-| [The Best Horror Podcasts for You Sickos to Devour](https://b19.se/data/opml/findthatpod/findthatpod-the-best-horror-podcasts-for-you-sickos-to-devour.opml) | 2025-03-26 |
-| [The Best Stoicism Podcasts To Level-Up Your Personal Philosophy](https://b19.se/data/opml/findthatpod/findthatpod-the-best-stoicism-podcasts-to-level-up-your-personal-philosophy.opml) | 2025-03-26 |
-| [The Best Writing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-writing-podcasts.opml) | 2025-03-21 |
-| [The Best Survival Stories Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-survival-stories-podcasts.opml) | 2025-03-20 |
-| [The Empire Strikes Back: A Guide to the Best British History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-british-history-podcasts.opml) | 2025-03-20 |
-| [The Best DnD Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dnd-podcasts.opml) | 2025-03-13 |
-| [The Best Audio Drama Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-audio-drama-podcasts.opml) | 2025-03-13 |
-| [The Best Podcasts for Moms](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-moms.opml) | 2025-03-07 |
-| [The Best Star Wars Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-star-wars-podcasts.opml) | 2025-03-07 |
-| [The Best Music Podcasts for Music Lovers](https://b19.se/data/opml/findthatpod/findthatpod-the-best-music-podcasts-for-music-lovers.opml) | 2025-02-26 |
-| [The Best Psychology Podcasts to Better Understand Humans](https://b19.se/data/opml/findthatpod/findthatpod-the-best-psychology-podcasts-to-better-understand-humans.opml) | 2025-02-25 |
-| [The Best Podcasts for Anyone Running or Working at a Startup Business](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-anyone-running-or-working-at-a-startup-business.opml) | 2025-02-11 |
-| [The Best Daily News Podcasts to Stay Informed](https://b19.se/data/opml/findthatpod/findthatpod-the-best-daily-news-podcasts-to-stay-informed.opml) | 2025-02-04 |
-| [The Best Podcasts for Road Trips of All Lengths](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-road-trips-of-all-lengths.opml) | 2025-02-03 |
-| [The Best Nutrition Podcasts for Healthier Eating](https://b19.se/data/opml/findthatpod/findthatpod-the-best-nutrition-podcasts-for-healthier-eating.opml) | 2025-01-30 |
-| [The Best Gardening Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-gardening-podcasts.opml) | 2025-01-16 |
-| [The Best Marriage Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-marriage-podcasts.opml) | 2024-12-05 |
-| [The Best Podcasts for Men](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-men.opml) | 2024-11-21 |
-| [The Best Meditation Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-meditation-podcasts.opml) | 2024-11-14 |
-| [The Best Tennis Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tennis-podcasts.opml) | 2024-11-14 |
-| [The Best Cooking Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cooking-podcasts.opml) | 2024-10-31 |
-| [The Best Podcasts About Cults](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-cults.opml) | 2024-10-30 |
-| [The Best Fitness Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fitness-podcasts.opml) | 2024-10-15 |
-| [The Best Running Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-running-podcasts.opml) | 2024-10-03 |
-| [The Best Philosophy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-philosophy-podcasts.opml) | 2024-09-26 |
-| [The Best Podcasts for Entrepreneurs](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-entrepreneurs.opml) | 2024-09-19 |
-| [The Best Art Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-podcasts.opml) | 2024-09-11 |
-| [The Best Travel Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml) | 2024-08-22 |
-| [The Best Podcasts About AI](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-ai.opml) | 2024-07-25 |
-| [The Best Comic Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comic-book-podcasts.opml) | 2024-07-25 |
-| [The Best Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts.opml) | 2024-07-18 |
-| [The Best Sports Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sports-podcasts.opml) | 2024-07-04 |
-| [The Best Relationship Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-relationship-podcasts.opml) | 2035-06-28 |
-| [The Best Mystery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mystery-podcasts.opml) | 2024-06-28 |
-| [The Best Political Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-political-podcasts.opml) | 2024-06-24 |
-| [The Best Sleep Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sleep-podcasts.opml) | 2024-06-23 |
-| [The Best Movie Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-movie-podcasts.opml) | 2024-06-14 |
-| [The Best Podcasts for Dads](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dads.opml) | 2024-06-06 |
-| [The Best Investing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investing-podcasts.opml) | 2024-06-06 |
-| [The Best Crypto Podcasts for Investors and Speculators](https://b19.se/data/opml/findthatpod/findthatpod-the-best-crypto-podcasts-for-investors-and-speculators.opml) | 2024-05-28 |
-| [The Best Photography Podcasts for Beginners and Experts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-photography-podcasts-for-beginners-and-experts.opml) | 2024-05-13 |
-| [The Best Chess Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-chess-podcasts.opml) | 2024-05-07 |
-| [The Best Podcasts for Kids](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-kids.opml) | 2024-04-30 |
-| [The Best True Crime Podcasts in 2024](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts-in-2024.opml) | 2024-04-24 |
-| [The Best Sex Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sex-podcasts.opml) | 2024-02-05 |
-| [The Best Comedy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comedy-podcasts.opml) | 2023-12-07 |
-| [The Best Investigative Journalism Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investigative-journalism-podcasts.opml) | 2023-12-04 |
-| [The Best DC Comics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dc-comics-podcasts.opml) | 2023-12-04 |
-| [The Best Tech Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tech-podcasts.opml) | 2023-11-23 |
-| [The Best Podcasts for Dog Owners](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dog-owners.opml) | 2023-11-17 |
-| [The Best Poker Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-poker-podcasts.opml) | 2023-11-14 |
-| [The Best Serial Killer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-serial-killer-podcasts.opml) | 2023-11-07 |
-| [The Best Motivational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-motivational-podcasts.opml) | 2023-11-01 |
-| [The Best Business Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-business-podcasts.opml) | 2023-10-25 |
-| [The Best Wondery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wondery-podcasts.opml) | 2023-10-16 |
-| [The Best Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-podcasts.opml) | 2023-10-12 |
-| [The Best Mental Health Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mental-health-podcasts.opml) | 2023-10-11 |
-| [The Best Sci Fi Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sci-fi-podcasts.opml) | 2023-10-04 |
-| [The Best Food Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-food-podcasts.opml) | 2023-09-28 |
-| [The Best Celebrity Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-celebrity-podcasts.opml) | 2023-09-20 |
-| [The Best Podcasts About Scams](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-scams.opml) | 2023-09-14 |
-| [The Best Video Game Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-video-game-podcasts.opml) | 2023-09-11 |
-| [The Best Podcasts About Buddhism](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-buddhism.opml) | 2023-09-04 |
-| [The Best Economics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-economics-podcasts.opml) | 2023-08-30 |
-| [The Best Podcasts About the Paranormal](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-the-paranormal.opml) | 2023-08-09 |
-| [The Best Podcasts About Space](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-space.opml) | 2023-06-01 |
-| [The Best Fiction Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts-in-2021.opml) | 2021-06-06 |
-| [The Best Science Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-science-podcasts-in-2021.opml) | 2021-05-31 |
-| [The Best History Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-history-podcasts-in-2021.opml) | 2021-05-10 |
-| [The Best Technology Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-technology-podcasts-in-2021.opml) | 2020-10-07 |
-| [The Best True Crime Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts-2021.opml) | 2020-09-30 |
+| [FindThatPod - The Best Basketball & NBA Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-basketball-nba-podcasts.opml) | 2025-04-10 |
+| [FindThatPod - The Best Soccer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-soccer-podcasts.opml) | 2025-04-09 |
+| [FindThatPod - The Best Book Club Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-club-podcasts.opml) | 2025-04-09 |
+| [FindThatPod - The Best Cyber Security Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cyber-security-podcasts.opml) | 2025-04-03 |
+| [FindThatPod - The Best American History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-american-history-podcasts.opml) | 2025-04-02 |
+| [FindThatPod - The Best Pregnancy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-pregnancy-podcasts.opml) | 2025-04-02 |
+| [FindThatPod - The Best Horror Podcasts for You Sickos to Devour](https://b19.se/data/opml/findthatpod/findthatpod-the-best-horror-podcasts-for-you-sickos-to-devour.opml) | 2025-03-26 |
+| [FindThatPod - The Best Stoicism Podcasts To Level-Up Your Personal Philosophy](https://b19.se/data/opml/findthatpod/findthatpod-the-best-stoicism-podcasts-to-level-up-your-personal-philosophy.opml) | 2025-03-26 |
+| [FindThatPod - The Best Writing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-writing-podcasts.opml) | 2025-03-21 |
+| [FindThatPod - The Best Survival Stories Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-survival-stories-podcasts.opml) | 2025-03-20 |
+| [FindThatPod - The Empire Strikes Back: A Guide to the Best British History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-british-history-podcasts.opml) | 2025-03-20 |
+| [FindThatPod - The Best DnD Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dnd-podcasts.opml) | 2025-03-13 |
+| [FindThatPod - The Best Audio Drama Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-audio-drama-podcasts.opml) | 2025-03-13 |
+| [FindThatPod - The Best Podcasts for Moms](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-moms.opml) | 2025-03-07 |
+| [FindThatPod - The Best Star Wars Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-star-wars-podcasts.opml) | 2025-03-07 |
+| [FindThatPod - The Best Music Podcasts for Music Lovers](https://b19.se/data/opml/findthatpod/findthatpod-the-best-music-podcasts-for-music-lovers.opml) | 2025-02-26 |
+| [FindThatPod - The Best Psychology Podcasts to Better Understand Humans](https://b19.se/data/opml/findthatpod/findthatpod-the-best-psychology-podcasts-to-better-understand-humans.opml) | 2025-02-25 |
+| [FindThatPod - The Best Podcasts for Anyone Running or Working at a Startup Business](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-anyone-running-or-working-at-a-startup-business.opml) | 2025-02-11 |
+| [FindThatPod - The Best Daily News Podcasts to Stay Informed](https://b19.se/data/opml/findthatpod/findthatpod-the-best-daily-news-podcasts-to-stay-informed.opml) | 2025-02-04 |
+| [FindThatPod - The Best Podcasts for Road Trips of All Lengths](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-road-trips-of-all-lengths.opml) | 2025-02-03 |
+| [FindThatPod - The Best Nutrition Podcasts for Healthier Eating](https://b19.se/data/opml/findthatpod/findthatpod-the-best-nutrition-podcasts-for-healthier-eating.opml) | 2025-01-30 |
+| [FindThatPod - The Best Gardening Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-gardening-podcasts.opml) | 2025-01-16 |
+| [FindThatPod - The Best Marriage Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-marriage-podcasts.opml) | 2024-12-05 |
+| [FindThatPod - The Best Podcasts for Men](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-men.opml) | 2024-11-21 |
+| [FindThatPod - The Best Meditation Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-meditation-podcasts.opml) | 2024-11-14 |
+| [FindThatPod - The Best Tennis Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tennis-podcasts.opml) | 2024-11-14 |
+| [FindThatPod - The Best Cooking Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cooking-podcasts.opml) | 2024-10-31 |
+| [FindThatPod - The Best Podcasts About Cults](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-cults.opml) | 2024-10-30 |
+| [FindThatPod - The Best Fitness Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fitness-podcasts.opml) | 2024-10-15 |
+| [FindThatPod - The Best Running Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-running-podcasts.opml) | 2024-10-03 |
+| [FindThatPod - The Best Philosophy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-philosophy-podcasts.opml) | 2024-09-26 |
+| [FindThatPod - The Best Podcasts for Entrepreneurs](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-entrepreneurs.opml) | 2024-09-19 |
+| [FindThatPod - The Best Art Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-podcasts.opml) | 2024-09-11 |
+| [FindThatPod - The Best Travel Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml) | 2024-08-22 |
+| [FindThatPod - The Best Podcasts About AI](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-ai.opml) | 2024-07-25 |
+| [FindThatPod - The Best Comic Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comic-book-podcasts.opml) | 2024-07-25 |
+| [FindThatPod - The Best Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts.opml) | 2024-07-18 |
+| [FindThatPod - The Best Sports Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sports-podcasts.opml) | 2024-07-04 |
+| [FindThatPod - The Best Relationship Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-relationship-podcasts.opml) | 2035-06-28 |
+| [FindThatPod - The Best Mystery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mystery-podcasts.opml) | 2024-06-28 |
+| [FindThatPod - The Best Political Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-political-podcasts.opml) | 2024-06-24 |
+| [FindThatPod - The Best Sleep Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sleep-podcasts.opml) | 2024-06-23 |
+| [FindThatPod - The Best Movie Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-movie-podcasts.opml) | 2024-06-14 |
+| [FindThatPod - The Best Podcasts for Dads](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dads.opml) | 2024-06-06 |
+| [FindThatPod - The Best Investing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investing-podcasts.opml) | 2024-06-06 |
+| [FindThatPod - The Best Crypto Podcasts for Investors and Speculators](https://b19.se/data/opml/findthatpod/findthatpod-the-best-crypto-podcasts-for-investors-and-speculators.opml) | 2024-05-28 |
+| [FindThatPod - The Best Photography Podcasts for Beginners and Experts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-photography-podcasts-for-beginners-and-experts.opml) | 2024-05-13 |
+| [FindThatPod - The Best Chess Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-chess-podcasts.opml) | 2024-05-07 |
+| [FindThatPod - The Best Podcasts for Kids](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-kids.opml) | 2024-04-30 |
+| [FindThatPod - The Best True Crime Podcasts in 2024](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts-in-2024.opml) | 2024-04-24 |
+| [FindThatPod - The Best Sex Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sex-podcasts.opml) | 2024-02-05 |
+| [FindThatPod - The Best Comedy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comedy-podcasts.opml) | 2023-12-07 |
+| [FindThatPod - The Best Investigative Journalism Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investigative-journalism-podcasts.opml) | 2023-12-04 |
+| [FindThatPod - The Best DC Comics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dc-comics-podcasts.opml) | 2023-12-04 |
+| [FindThatPod - The Best Tech Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tech-podcasts.opml) | 2023-11-23 |
+| [FindThatPod - The Best Podcasts for Dog Owners](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dog-owners.opml) | 2023-11-17 |
+| [FindThatPod - The Best Poker Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-poker-podcasts.opml) | 2023-11-14 |
+| [FindThatPod - The Best Serial Killer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-serial-killer-podcasts.opml) | 2023-11-07 |
+| [FindThatPod - The Best Motivational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-motivational-podcasts.opml) | 2023-11-01 |
+| [FindThatPod - The Best Business Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-business-podcasts.opml) | 2023-10-25 |
+| [FindThatPod - The Best Wondery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wondery-podcasts.opml) | 2023-10-16 |
+| [FindThatPod - The Best Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-podcasts.opml) | 2023-10-12 |
+| [FindThatPod - The Best Mental Health Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mental-health-podcasts.opml) | 2023-10-11 |
+| [FindThatPod - The Best Sci Fi Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sci-fi-podcasts.opml) | 2023-10-04 |
+| [FindThatPod - The Best Food Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-food-podcasts.opml) | 2023-09-28 |
+| [FindThatPod - The Best Celebrity Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-celebrity-podcasts.opml) | 2023-09-20 |
+| [FindThatPod - The Best Podcasts About Scams](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-scams.opml) | 2023-09-14 |
+| [FindThatPod - The Best Video Game Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-video-game-podcasts.opml) | 2023-09-11 |
+| [FindThatPod - The Best Podcasts About Buddhism](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-buddhism.opml) | 2023-09-04 |
+| [FindThatPod - The Best Economics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-economics-podcasts.opml) | 2023-08-30 |
+| [FindThatPod - The Best Podcasts About the Paranormal](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-the-paranormal.opml) | 2023-08-09 |
+| [FindThatPod - The Best Podcasts About Space](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-space.opml) | 2023-06-01 |
+| [FindThatPod - The Best Fiction Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts-in-2021.opml) | 2021-06-06 |
+| [FindThatPod - The Best Science Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-science-podcasts-in-2021.opml) | 2021-05-31 |
+| [FindThatPod - The Best History Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-history-podcasts-in-2021.opml) | 2021-05-10 |
+| [FindThatPod - The Best Technology Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-technology-podcasts-in-2021.opml) | 2020-10-07 |
+| [FindThatPod - The Best True Crime Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts-2021.opml) | 2020-09-30 |
 
 
 
