@@ -40,9 +40,23 @@ def main():
   global config
   config = None
 
+  filenames = []
+
   LoadYamlConfig(SOURCE_YAML)
 
-  #for issue in reversed(config['issues']):
+  for issue in config['issues']:
+    if "opml" in issue:
+      if str(issue['opml']) not in filenames:
+        filenames.append(str(issue['opml']))
+      else:
+        print(f"We found duplicate when attempted to add '{str(issue['opml'])}' to list")
+        exit(1)
+
+  issues_length = len(config['issues'])
+  filenames_length = len(filenames)
+
+  print(f"issues: {issues_length}, files: {filenames_length}")
+
   for issue in config['issues']:
     if "podcasts" in issue:
 
