@@ -129,6 +129,100 @@ issues:
 - name: The Best Basketball & NBA Podcasts
   opml: findthatpod-the-best-basketball-nba-podcasts.opml
   date: 2025-04-10
+  htmlUrl: https://findthatpod.com/best-basketball-nba-podcasts/
+  podcasts:
+
+  - title: No Dunks
+    htmlUrl: https://theathletic.com/podcast/119-no-dunks/
+    xmlUrl: https://feeds.acast.com/public/shows/68188c4aeb146d8e35bc5ca3
+
+  - title: Basketball Coach Unplugged (A Basketball Coaching Podcast)
+    htmlUrl: http://teachhoops.com/
+    xmlUrl: https://feeds.megaphone.fm/BLU1636519163
+
+  - title: Basketball Illuminati
+    htmlUrl: https://feeds.megaphone.fm/basketballilluminati
+    xmlUrl: https://podcasterwallet.com/?pcid=5049633
+
+  - title: The Daily Dribble
+    htmlUrl: https://thecover.com.au/
+    xmlUrl: https://feeds.transistor.fm/the-daily-dribble
+
+  - title: Brian Windhorst & The Hoop Collective
+    htmlUrl: http://espnradio.espn.com/espnradio/podcast/index
+    xmlUrl: https://feeds.megaphone.fm/ESP4033296397
+
+  - title: 'Over and Back: Stories About NBA History'
+    htmlUrl: https://redcircle.com/shows/over-and-back-stories-about-nba-history
+    xmlUrl: https://feeds.redcircle.com/daf88270-7ba5-4c13-bbfd-3c8c5d363b9d
+
+  - title: 'Open Floor: SI’s NBA Show'
+    htmlUrl: https://redcircle.com/shows/open-floor-sis-nba-show
+    xmlUrl: https://feeds.redcircle.com/bf971aa9-4402-455c-8c9e-63c4a210757a
+
+  - title: Game Theory Podcast
+    htmlUrl: http://vecenie.com/
+    xmlUrl: https://feeds.simplecast.com/wiOjZJf6
+
+  - title: Thinking Basketball
+    htmlUrl: https://www.patreon.com/ThinkingBasketball
+    xmlUrl: https://anchor.fm/s/86b2b318/podcast/rss
+
+  - title: NBA Flashback
+    htmlUrl: https://www.iheart.com/podcast/1119-nba-flashback-90423977/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/D8D0E43A-2B5D-4150-855D-AE39006DB3C8/12B5A3C3-3FF3-4B98-A9FB-AE39006DB3D6/podcast.rss
+
+  - title: NBA DNA with Hannah Storm
+    htmlUrl: https://www.iheart.com/podcast/1119-nba-dna-with-hannah-storm-162501537/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8cd1421c-85cf-4050-986f-b11c015f7bff/277742e1-ff41-4fe3-94b6-b11c01611676/podcast.rss
+
+  - title: Dunc'd On Basketball NBA Podcast
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/JGGpY1xu
+
+  - title: Eye On College Basketball
+    htmlUrl: http://www.cbssports.com/collegebasketball
+    xmlUrl: https://feeds.megaphone.fm/CBS5716133110
+
+  - title: The Dunker Spot
+    htmlUrl: https://wondery.com/
+    xmlUrl: https://rss.art19.com/the-dunker-spot
+
+  - title: The Baseline NBA Podcast
+    htmlUrl: http://thebaselinenba.com/
+    xmlUrl: https://www.spreaker.com/show/3677698/episodes/feed
+
+  - title: Book of Basketball 2.0
+    htmlUrl: https://theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-book-of-basketball-podcast
+
+  - title: The Draymond Green Show with Baron Davis
+    htmlUrl: https://www.iheart.com/podcast/1119-the-draymond-green-show-89325078/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/87a96561-9b2b-4668-82b3-ae3300346b77/e11d0e8b-7c9e-43a0-bc85-ae3300346b9d/podcast.rss
+
+  - title: The Ringer NBA Show
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-ringer-nba-show
+
+  - title: RealGM Radio
+    htmlUrl: http://www.clnsmedia.com/nba
+    xmlUrl: https://feeds.megaphone.fm/NSM6725424107
+
+  - title: The Basketball Leadership Podcast
+    htmlUrl: https://teachhoops.com/
+    xmlUrl: https://feeds.megaphone.fm/COMG3180465890
+
+  - title: Fastbreak Breakfast NBA Podcast
+    htmlUrl: https://fastbreakbreakfast.com/
+    xmlUrl: https://www.spreaker.com/show/3211931/episodes/feed
+
+  - title: All The Smoke
+    htmlUrl: https://www.sho.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3bb6ed46-a795-4116-b7ef-ae3900375e77/fd0a584d-3ada-4c93-bbe1-ae3900375e85/podcast.rss
+
+  - title: BBALL BREAKDOWN Podcast
+    htmlUrl: http://www.clnsmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/NSM3390222326
 
 - name: The Best Soccer Podcasts
   opml: findthatpod-the-best-soccer-podcasts.opml
