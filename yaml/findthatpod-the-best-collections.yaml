@@ -5,6 +5,15 @@ global:
   title: FindThatPod - The Best Collections
 
 issues:
+
+- name: The Best Yoga Podcasts
+  opml: findthatpod-the-best-yoga-podcasts.opml
+  date: 2025-07-08
+
+- name: The Best Star Trek Podcasts
+  opml: findthatpod-the-best-star-trek-podcasts.opml
+  date: 2025-07-07
+
 - name: The Best Podcasts About The American Civil War
   opml: findthatpod-the-best-podcasts-about-the-american-civil-war.opml
   date: 2025-07-02
@@ -140,6 +149,120 @@ issues:
 - name: The Best Pregnancy Podcasts
   opml: findthatpod-the-best-pregnancy-podcasts.opml
   date: 2025-04-02
+  htmlUrl: https://findthatpod.com/best-pregnancy-podcasts/
+  podcasts:
+
+  - title: Pregnancy Confidential
+    htmlUrl: http://www.parents.com/
+    xmlUrl: https://feeds.megaphone.fm/pregnancyconfidential
+
+  - title: 'Preggie Pals: Your Pregnancy, Your Way'
+    htmlUrl: https://newmommymedia.com/
+    xmlUrl: https://feeds.megaphone.fm/preggiepals
+
+  - title: Is It Normal? The Pregnancy Podcast With Jessie Ware
+    htmlUrl: https://play.acast.com/s/is-it-normal-jessie-ware
+    xmlUrl: https://rss.acast.com/is-it-normal-jessie-ware
+
+  - title: 'Big Fat Positive: A Pregnancy and Parenting Journey'
+    htmlUrl: https://art19.com/shows/big-fat-positive
+    xmlUrl: https://rss.art19.com/big-fat-positive
+
+  - title: The Birth Hour - A Birth Story Podcast
+    htmlUrl: https://thebirthhour.com/
+    xmlUrl: https://birthhour.libsyn.com/rss
+
+  - title: Ask the Doulas Podcast
+    htmlUrl: http://www.goldcoastdoulas.com/
+    xmlUrl: https://feeds.buzzsprout.com/1866593.rss
+
+  - title: Pregnantish
+    htmlUrl: https://art19.com/shows/pregnantish
+    xmlUrl: https://feeds.acast.com/public/shows/5e62956f2a3a569c7ad19425
+
+  - title: The Midwives' Cauldron
+    htmlUrl: https://www.katiejames.site/
+    xmlUrl: https://feeds.buzzsprout.com/1178486.rss
+
+  - title: Birth Stories in Color
+    htmlUrl: https://www.birthstoriesincolor.com/birth-story/
+    xmlUrl: https://feeds.simplecast.com/Ih7Sz8_4
+
+  - title: Evidence Based Birth®
+    htmlUrl: http://evidencebasedbirth.libsyn.com/webpage
+    xmlUrl: https://evidencebasedbirth.libsyn.com/rss
+
+  - title: Birthful
+    htmlUrl: https://redcircle.com/shows/birthful
+    xmlUrl: https://feeds.redcircle.com/fdf2f042-48fb-499e-89ea-e0392a92b070
+
+  - title: 'Fourth Trimester: The First Months and Beyond | Parenting | Newborn Baby | Postpartum | Doula'
+    htmlUrl: https://fourthtrimesterpodcast.com/
+    xmlUrl: http://feeds.feedburner.com/FourthTrimester
+
+  - title: Doing It At Home - The Home Birth Podcast
+    htmlUrl: http://www.diahpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/doingitathome
+
+  - title: Mommy Labor Nurse
+    htmlUrl: https://mommylabornurse.com/
+    xmlUrl: https://mommylabornurse.libsyn.com/rss
+
+  - title: The Fertility Podcast | Infertility guidance | Stories from people struggling to conceive | Expert interview
+    htmlUrl: https://anchor.fm/
+    xmlUrl: https://anchor.fm/s/ff0a3c/podcast/rss
+
+  - title: The Kick Pregnancy Podcast
+    htmlUrl: http://growmybaby.com.au/
+    xmlUrl: https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/6c290e49-a045-4d0d-ab1b-b27900440665/a1234444-8d3c-4be5-a5e1-b27900440680/podcast.rss
+
+  - title: Down to Birth
+    htmlUrl: http://www.downtobirthshow.com/
+    xmlUrl: https://feeds.buzzsprout.com/745532.rss
+
+  - title: Plus Mommy Podcast
+    htmlUrl: https://plusmommy.com/
+    xmlUrl: https://feeds.libsyn.com/122562/rss
+
+  - title: 40 Weeks Pregnancy Podcast
+    htmlUrl: http://pregnancypodcast.com/
+    xmlUrl: https://40weeks.libsyn.com/rss
+
+  - title: Informed Pregnancy Podcast
+    htmlUrl: http://informedpregnancy.com/
+    xmlUrl: https://feeds.megaphone.fm/informedpregnancy
+
+  - title: 'The Boob Group: Judgment-Free Breastfeeding Support'
+    htmlUrl: https://www.newmommymedia.com/the-boob-group/
+    xmlUrl: https://feeds.megaphone.fm/theboobgroup
+
+  - title: The Birth Lounge Podcast
+    htmlUrl: https://podcast.thebirthlounge.com/
+    xmlUrl: https://tranquilitytribepodcast.podbean.com/feed.xml
+
+  - title: Happy Homebirth
+    htmlUrl: https://www.myhappyhomebirth.com/
+    xmlUrl: https://feed.podbean.com/podcast.myhappyhomebirth.com/feed.xml
+
+  - title: Pregnancy, Birth and Beyond
+    htmlUrl: http://www.pbbmedia.org/
+    xmlUrl: https://www.spreaker.com/show/297529/episodes/feed
+
+  - title: Taking Back Birth
+    htmlUrl: https://indiebirth.org/blog/
+    xmlUrl: http://feeds.feedblitz.com/TakingBackBirth
+
+  - title: The Obs Pod
+    htmlUrl: https://www.buzzsprout.com/961453
+    xmlUrl: https://feeds.buzzsprout.com/961453.rss
+
+  - title: Australian Birth Stories
+    htmlUrl: https://australianbirthstories.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/7169a399-6d11-480d-b932-b1ea0062422d/a6e01ac9-6a50-46d1-abff-b1ea00624252/podcast.rss
+
+  - title: The Milk Minute- A Lactation Podcast
+    htmlUrl: http://www.milkminutepodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1459231.rss
 
 - name: The Best Horror Podcasts for You Sickos to Devour
   opml: findthatpod-the-best-horror-podcasts-for-you-sickos-to-devour.opml
