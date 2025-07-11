@@ -141,6 +141,128 @@ issues:
 - name: The Best Cyber Security Podcasts
   opml: findthatpod-the-best-cyber-security-podcasts.opml
   date: 2025-04-03
+  htmlUrl: https://findthatpod.com/best-cyber-security-podcasts/
+  podcasts:
+
+  - title: Darknet Diaries
+    htmlUrl: https://darknetdiaries.com/
+    xmlUrl: https://podcast.darknetdiaries.com/
+
+  - title: CyberWire Daily
+    htmlUrl: https://thecyberwire.com/podcasts/daily-podcast
+    xmlUrl: https://feeds.megaphone.fm/cyberwire-daily-podcast
+
+  - title: Malicious Life
+    htmlUrl: https://redcircle.com/shows/malicious-life
+    xmlUrl: https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f
+
+  - title: The Social-Engineer Podcast
+    htmlUrl: http://www.social-engineer.org/category/podcast/
+    xmlUrl: https://socialengineer.libsyn.com/rss
+
+  - title: Hacked
+    htmlUrl: https://www.hackedpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/hackedpodcast
+
+  - title: Risky Bulletin
+    htmlUrl: https://risky.biz/
+    xmlUrl: https://risky.biz/feeds/risky-business-news/
+
+  - title: Hacking Humans
+    htmlUrl: https://thecyberwire.com/podcasts/hacking-humans
+    xmlUrl: https://feeds.megaphone.fm/hacking-humans
+
+  - title: The Security Insights Show
+    htmlUrl: https://www.microsoftsecurityinsights.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1252746.rss
+
+  - title: No Such Podcast
+    htmlUrl: http://sites.libsyn.com/542957
+    xmlUrl: https://feeds.libsyn.com/542957/rss
+
+  - title: Adopting Zero Trust
+    htmlUrl: https://adopting-zero-trust.podbean.com/
+    xmlUrl: https://feed.podbean.com/adopting-zero-trust/feed.xml
+
+  - title: Smashing Security
+    htmlUrl: https://www.smashingsecurity.com/
+    xmlUrl: https://feeds.captivate.fm/smashing-security/
+
+  - title: The Lazarus Heist
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xtvg9
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtvg9.rss
+
+  - title: Critical Thinking - Bug Bounty Podcast
+    htmlUrl: https://criticalthinkingpodcast.io/
+    xmlUrl: https://media.rss.com/ctbbpodcast/feed.xml
+
+  - title: Shared Security Podcast
+    htmlUrl: https://sharedsecurity.net/
+    xmlUrl: https://sharedsecurity.net/feed/podcast/
+
+  - title: Security Cryptography Whatever
+    htmlUrl: https://securitycryptographywhatever.com/
+    xmlUrl: https://feeds.buzzsprout.com/1822302.rss
+
+  - title: Adversary Universe Podcast
+    htmlUrl: https://www.crowdstrike.com/resources/adversary-universe-podcast/
+    xmlUrl: https://crowdstrike.podbean.com/feed.xml
+
+  - title: What the Shell?
+    htmlUrl: https://whattheshellpod.com/
+    xmlUrl: https://feed.podbean.com/whattheshell/feed.xml
+
+  - title: What the Hack?
+    htmlUrl: https://joindeleteme.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG2245590306
+
+  - title: Cloud Security Podcast
+    htmlUrl: https://www.cloudsecuritypodcast.tv/
+    xmlUrl: https://anchor.fm/s/10fb9928/podcast/rss
+
+  - title: Down the Security Rabbithole Podcast (DtSR)
+    htmlUrl: https://blogwh1t3rabbit.medium.com/
+    xmlUrl: https://feeds.buzzsprout.com/2153215.rss
+
+  - title: Security Now (Audio)
+    htmlUrl: https://twit.tv/shows/security-now
+    xmlUrl: https://feeds.twit.tv/sn.xml
+
+  - title: Hacker And The Fed
+    htmlUrl: https://feeds.megaphone.fm/CON9079456418
+    xmlUrl: https://podcasterwallet.com/?pcid=5741273
+
+  - title: Hacker Valley Studio
+    htmlUrl: https://hackervalley.com/
+    xmlUrl: https://feed.podbean.com/HackerValleyStudio/feed.xml
+
+  - title: Enterprise Security Weekly (Audio)
+    htmlUrl: https://securityweekly.com/esw
+    xmlUrl: https://eswaudio.libsyn.com/rss
+
+  - title: Paul's Security Weekly (Audio)
+    htmlUrl: https://securityweekly.com/psw
+    xmlUrl: https://pswonly.libsyn.com/rss
+
+  - title: Risky Business
+    htmlUrl: https://risky.biz/
+    xmlUrl: http://risky.biz/feeds/risky-business/
+
+  - title: Redefining CyberSecurity
+    htmlUrl: https://redefiningcybersecuritypodcast.com/
+    xmlUrl: https://feeds.simplecast.com/GzAtTpW2
+
+  - title: Off The Hook
+    htmlUrl: https://www.2600.com/offthehook
+    xmlUrl: https://www.2600.com/oth-broadband.xml
+
+  - title: Phillip Wylie Show
+    htmlUrl: https://phillipwylieshow.com/
+    xmlUrl: https://feeds.captivate.fm/phillip-wylie-show/
+
+  - title: Microsoft Threat Intelligence Podcast
+    htmlUrl: https://msthreatintelpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/microsoft-threat-intelligence
 
 - name: The Best American History Podcasts
   opml: findthatpod-the-best-american-history-podcasts.opml
