@@ -13,6 +13,9 @@ Go to the [FindThatPod](https://findthatpod.com/) for more information.
 I just created something that I would like to consume myself, lists without links are useless, an [OPML](https://en.wikipedia.org/wiki/OPML) can be fed into just about ANY podcast catcher and be used right away.
 
 
+All collections are browseable and downloadable at [b19.se/data/opml/findthatpod/](https://b19.se/data/opml/findthatpod/).
+
+
 
 ## The Best of ...
 

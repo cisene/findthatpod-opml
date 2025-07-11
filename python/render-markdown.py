@@ -48,6 +48,10 @@ def main():
   buffer.append("\n")
 
   buffer.append("I just created something that I would like to consume myself, lists without links are useless, an [OPML](https://en.wikipedia.org/wiki/OPML) can be fed into just about ANY podcast catcher and be used right away.")
+  buffer.append("\n")
+
+  buffer.append("All collections are browseable and downloadable at [b19.se/data/opml/findthatpod/](https://b19.se/data/opml/findthatpod/).")
+
 
   buffer.append("\n\n")
   buffer.append(f"## The Best of ...")
