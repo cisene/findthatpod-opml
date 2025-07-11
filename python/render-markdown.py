@@ -72,7 +72,7 @@ def main():
       #print(filename)
 
       line.append(f"| ")
-      line.append(f"[{issue['name']}]({B19_PREFIX}{filename})")
+      line.append(f"[FindThatPod - {issue['name']}]({B19_PREFIX}{filename})")
       line.append(f" | ")
       line.append(f"{issue['date']}")
       line.append(f" |")
