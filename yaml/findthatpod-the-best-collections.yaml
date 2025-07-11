@@ -145,6 +145,208 @@ issues:
 - name: The Best American History Podcasts
   opml: findthatpod-the-best-american-history-podcasts.opml
   date: 2025-04-02
+  htmlUrl: https://findthatpod.com/best-american-history-podcasts/
+  podcasts:
+
+  - title: American Scandal
+    htmlUrl: https://wondery.com/shows/American-Scandal/
+    xmlUrl: https://rss.art19.com/american-scandal
+
+  - title: Lost at the Smithsonian with Aasif Mandvi
+    htmlUrl: https://www.stitcher.com/show/lost-at-the-smithsonian-w-aasif-mandvi
+    xmlUrl: https://feeds.simplecast.com/eM1HaWH1
+
+  - title: '1865'
+    htmlUrl: https://wondery.com/shows/1865/
+    xmlUrl: https://rss.art19.com/1865
+
+  - title: More Perfect
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolabmoreperfect
+    xmlUrl: https://feeds.feedburner.com/moreperfect
+
+  - title: American Revolution Podcast
+    htmlUrl: https://blog.amrevpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML2838039229
+
+  - title: Ben Franklin's World
+    htmlUrl: http://www.benfranklinsworld.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML8526255853
+
+  - title: American History Hit
+    htmlUrl: https://shows.acast.com/american-history-hit
+    xmlUrl: https://feeds.acast.com/public/shows/62c7fb2a7acf3900129dffa7
+
+  - title: Black History, For Real
+    htmlUrl: http://wondery.com/shows/black-history-for-real
+    xmlUrl: https://rss.art19.com/black-history-for-real
+
+  - title: The American History Podcast
+    htmlUrl: http://theamericanhistorypodcast.com/episodes/
+    xmlUrl: https://feeds.buzzsprout.com/1169162.rss
+
+  - title: Legends of the Old West
+    htmlUrl: https://blackbarrelmedia.com/legends-of-the-old-west/
+    xmlUrl: https://feeds.megaphone.fm/BBM8260687703
+
+  - title: A History of the United States
+    htmlUrl: http://www.thehistoryofpodcast.com/
+    xmlUrl: https://www.thehistoryofpodcast.org/USA.xml
+
+  - title: 'Your Most Obedient & Humble Servant: A Women’s History'
+    htmlUrl: http://www.r2studios.org/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:838418728/sounds.rss
+
+  - title: Blowback
+    htmlUrl: https://redcircle.com/shows/blowback
+    xmlUrl: https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
+
+  - title: The History of American Food
+    htmlUrl: https://thehistoryofamericanfood.blogspot.com/
+    xmlUrl: https://www.spreaker.com/show/4817628/episodes/feed
+
+  - title: 'The Cold War: Prelude To The Present'
+    htmlUrl: https://the-cold-war-prelude-to-the-present.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/iwMLug67
+
+  - title: Throughline
+    htmlUrl: https://www.npr.org/podcasts/510333/throughline
+    xmlUrl: https://feeds.npr.org/510333/podcast.xml
+
+  - title: American Hysteria
+    htmlUrl: http://www.americanhysteria.com/
+    xmlUrl: https://feeds.megaphone.fm/WIZD3928139307
+
+  - title: American Shadows
+    htmlUrl: http://www.grimandmild.com/americanshadows
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C5CF8589-9C0E-4A86-A5DD-AE3300346BCC/923CE442-169B-4658-B09F-AE3300346BE8/podcast.rss
+
+  - title: Presidencies of the United States
+    htmlUrl: https://www.presidenciespodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/presidenciesoftheus
+
+  - title: 'The Bowery Boys: New York City History'
+    htmlUrl: http://siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/mkeh0Frc
+
+  - title: 'The JuntoCast: A Podcast on Early American History'
+    htmlUrl: http://www.thejuntocast.com/
+    xmlUrl: https://anchor.fm/s/218a507c/podcast/rss
+
+  - title: Hollywood Exiles
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xtvsk
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtvsk.rss
+
+  - title: 'Medal of Honor: Stories of Courage'
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fef8f1ac-0039-4a2a-8d60-b0a8010abfc0/cfb3d549-95c7-45f6-81a8-b0a8010b7a92/podcast.rss
+
+  - title: Inward Empire
+    htmlUrl: https://www.podomatic.com/podcasts/inwardempirepodcast
+    xmlUrl: https://inwardempirepodcast.podomatic.com/rss2.xml
+
+  - title: Long Shadow
+    htmlUrl: https://www.longshadowpodcast.com/
+    xmlUrl: https://publicfeeds.net/f/6760/feed-rss.xml
+
+  - title: 'Founding Son: John Quincy’s America'
+    htmlUrl: https://www.iheart.com/podcast/1119-founding-son-john-quincys-111619900/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0b2d474d-573b-4290-856d-afd2011132e7/27c136c4-8ce7-4483-8cd0-afd201119839/podcast.rss
+
+  - title: The American Story
+    htmlUrl: https://theamericanstorypodcast.org/
+    xmlUrl: https://theamericanstory.libsyn.com/rss
+
+  - title: American History Tellers
+    htmlUrl: https://wondery.com/shows/american-history-tellers/
+    xmlUrl: https://rss.art19.com/american-history-tellers
+
+  - title: You're Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://feeds.buzzsprout.com/1112270.rss
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
+
+  - title: My History Can Beat Up Your Politics
+    htmlUrl: https://myhistorycanbeatupyourpolitics.wordpress.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV1329580829
+
+  - title: American Filth
+    htmlUrl: https://www.iheart.com/podcast/1119-american-filth-122118626/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3d76be8-c96e-44eb-a602-b04a00f60e6e/b8d73d7a-cb50-4fa7-b39d-b04a00f6846e/podcast.rss
+
+  - title: Infamous America
+    htmlUrl: https://blackbarrelmedia.com/infamous-america/
+    xmlUrl: https://feeds.megaphone.fm/BBM1832995479
+
+  - title: The Dollop with Dave Anthony and Gareth Reynolds
+    htmlUrl: http://dolloppodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss
+
+  - title: Black Washed History
+    htmlUrl: https://historiansconnectpodcast.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1227365.rss
+
+  - title: Bag Man
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/y8D0o0f3
+
+  - title: 'Dispatches: The Podcast of the Journal of the American Revolution'
+    htmlUrl: https://jardispatches.podbean.com/
+    xmlUrl: https://jardispatches.podbean.com/feed.xml
+
+  - title: 'American Elections: Wicked Game'
+    htmlUrl: https://airship.fm/
+    xmlUrl: https://feeds.megaphone.fm/RVS4049852188
+
+  - title: Uncivil
+    htmlUrl: http://uncivil.show/
+    xmlUrl: https://feeds.megaphone.fm/uncivil
+
+  - title: History Daily
+    htmlUrl: https://www.historydaily.com/
+    xmlUrl: https://rss.art19.com/history-daily
+
+  - title: The Political History of the United States
+    htmlUrl: https://www.uspoliticalpodcast.com/
+    xmlUrl: https://feeds.captivate.fm/uspoliticalhistory/
+
+  - title: Master Plan
+    htmlUrl: https://masterplanpodcast.com/
+    xmlUrl: https://feeds.transistor.fm/master-plan
+
+  - title: Field Trip
+    htmlUrl: https://podcast.posttv.com/itunes/field-trip.xml
+    xmlUrl: https://podcasterwallet.com/?pcid=6426285
+
+  - title: Key Battles of the Revolutionary War
+    htmlUrl: https://www.spreaker.com/show/key-battles-of-the-revolutionary-war
+    xmlUrl: https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/930b6724-d03d-48b6-874b-b19201451b3e/ff8cf25e-841e-4e65-aaa3-b19201453c7d/podcast.rss
+
+  - title: Wilder
+    htmlUrl: https://www.iheart.com/podcast/1119-wilder-112847598
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/205e2c84-f9ce-4f25-af0a-afe0012a484f/d1bbe1b0-44a5-4917-b0ae-afe0012cfaaf/podcast.rss
+
+  - title: Seizing Freedom
+    htmlUrl: https://seizingfreedom.vpm.org/
+    xmlUrl: https://feeds.megaphone.fm/seizing-freedom
+
+  - title: The Wild West Extravaganza
+    htmlUrl: https://www.wildwestextra.com/
+    xmlUrl: https://feeds.megaphone.fm/RVS2806063932
+
+  - title: An Old Timey Podcast
+    htmlUrl: http://patreon.com/oldtimeypodcast
+    xmlUrl: https://audioboom.com/channels/5130139.rss
+
+  - title: History on Trial
+    htmlUrl: https://www.iheart.com/podcast/1119-history-on-trial-147139138/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bcdaff51-ab04-4d59-8ba4-b0ff00fbfb84/9d665b04-d007-433e-9950-b0ff010a02dd/podcast.rss
+
+  - title: Plodding Through The Presidents
+    htmlUrl: https://www.ploddingthroughthepresidents.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ARML7069797889
 
 - name: The Best Pregnancy Podcasts
   opml: findthatpod-the-best-pregnancy-podcasts.opml
