@@ -133,6 +133,72 @@ issues:
 - name: The Best Soccer Podcasts
   opml: findthatpod-the-best-soccer-podcasts.opml
   date: 2025-04-09
+  htmlUrl: https://findthatpod.com/best-soccer-podcasts/
+  podcasts:
+
+  - title: ESPN FC
+    htmlUrl: http://www.espn.com/podcenter
+    xmlUrl: https://feeds.megaphone.fm/ESP9520742908
+
+  - title: Football Weekly
+    htmlUrl: https://www.theguardian.com/football/series/footballweekly
+    xmlUrl: https://www.theguardian.com/football/series/footballweekly/podcast.xml
+
+  - title: Football Daily
+    htmlUrl: http://www.bbc.co.uk/programmes/p02nrsln
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nrsln.rss
+
+  - title: Men In Blazers
+    htmlUrl: https://art19.com/shows/men-in-blazers
+    xmlUrl: https://rss.art19.com/men-in-blazers
+
+  - title: The Football Weekend
+    htmlUrl: https://www.thefootballweekend.com/welcome
+    xmlUrl: https://feeds.acast.com/public/shows/65d7dad342e010001607dc30
+
+  - title: The Game Football Podcast
+    htmlUrl: https://www.thetimes.co.uk/podcasts/the-game
+    xmlUrl: https://feeds.acast.com/public/shows/0fc6a233-bbae-4ba5-b882-c075544353a8
+
+  - title: DeadBall TV
+    htmlUrl: https://www.buzzsprout.com/1885578
+    xmlUrl: https://feeds.buzzsprout.com/1885578.rss
+
+  - title: Football Ramble
+    htmlUrl: https://stak.london/shows/the-football-ramble/
+    xmlUrl: https://feeds.acast.com/public/shows/8af0c347-5e6e-48e2-8fae-3f4e765c84ab
+
+  - title: 'Golazzo: The Totally Italian Football Show'
+    htmlUrl: https://thetotallyfootballshow.com/shows/italian-show/
+    xmlUrl: https://feeds.acast.com/public/shows/683741916e5b65d787526347
+
+  - title: Pitch Side
+    htmlUrl: https://audioboom.com/channels/5060647-pitch-side
+    xmlUrl: https://feeds.acast.com/public/shows/6683cb369249f596b7f64934
+
+  - title: The Sky Sports Football Podcast
+    htmlUrl: https://www.skysports.com/podcasts/36578/11933957/the-sky-sports-football-podcast
+    xmlUrl: https://podcast.global.com/show/3382902/episodes/feed
+
+  - title: The Athletic FC Podcast
+    htmlUrl: https://theathletic.com/podcasts
+    xmlUrl: https://feeds.acast.com/public/shows/6818be7d1d28d62313ac8ef3
+
+  - title: The Rest Is Football
+    htmlUrl: https://feeds.megaphone.fm/GLT8847082992
+    xmlUrl: https://podcasterwallet.com/?pcid=6559880
+
+  - title: Football Cliches
+    htmlUrl: https://twitter.com/FootballCliches
+    xmlUrl: https://feeds.megaphone.fm/GLT7974369854
+
+  - title: Tifo Football Podcast
+    htmlUrl: https://shows.acast.com/tifo-football-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/681cccd63e6644d7a3b3065c
+
+  - title: The Cooligans
+    htmlUrl: https://sports.yahoo.com/videos/shows/cooligans/
+    xmlUrl: https://feeds.simplecast.com/T15cXQd0
 
 - name: The Best Book Club Podcasts
   opml: findthatpod-the-best-book-club-podcasts.opml
