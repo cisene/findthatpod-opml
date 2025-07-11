@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue: 319
+    title: 'Find That Pod #319'
+    pubDate:  '2025-07-04'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: All The Right Movies
+        htmlUrl: https://alltherightmovies.com/
+        xmlUrl: https://rss.introcast.io/1471502633/feed.podbean.com/alltherightmovies/feed.xml
+
+    - podcast:
+        title: Comics Discourse 114
+        htmlUrl: https://www.comicsdiscourse114.com/
+        xmlUrl: https://feed.podbean.com/ComicsDiscourse114/feed.xml
+
+    - podcast:
+        title: Riches and Power
+        htmlUrl: https://richesandpower.com/
+        xmlUrl: https://feeds.captivate.fm/riches-and-power/
+
+    - podcast:
+        title: '13 Minutes Presents: The Space Shuttle'
+        htmlUrl: http://www.bbc.co.uk/programmes/w13xttx2
+        xmlUrl: https://podcasts.files.bbci.co.uk/w13xttx2.rss
+
+    - podcast:
+        title: 'Building the Crisis: An Intensive Investigation on Housing in Canada'
+        htmlUrl: https://therover.ca/
+        xmlUrl: https://feeds.transistor.fm/building-a-crisis-an-intensive-investigation-on-housing-in-canada
+
   - issue: 318
     title: 'Find That Pod #318'
     pubDate: '2025-06-27'
