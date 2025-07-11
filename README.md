@@ -1,125 +1,102 @@
-# FindThatPod - OPML
+# FindThatPod - OPML Podcast Collections
 
-This is an OPML representation of the [FindThatPod](https://findthatpod.com/) newsletter emails that arrive every friday with podcast suggestions and recommendations.
+
+These OPML files are representations of the [FindThatPod](https://findthatpod.com/) weekly newsletters with podcast recommendations and also The Best of series that are released periodically as thematic collections of podcasts.
+
 
 All the material of the newsletters are property of FindThatPod, I have just rendererd an [OPML](https://en.wikipedia.org/wiki/OPML) out of them and make no claims to their work.
+
 
 Go to the [FindThatPod](https://findthatpod.com/) for more information.
 
 
-
-
-I just created something I would like to consume myself, lists without links are useless, an [OPML](https://en.wikipedia.org/wiki/OPML) can be fed into just ANY podcast catcher and be used right away.
-
+I just created something that I would like to consume myself, lists without links are useless, an [OPML](https://en.wikipedia.org/wiki/OPML) can be fed into just about ANY podcast catcher and be used right away.
 
 
 
 ## The Best of ...
 
 
+
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
-| FindThatPod - The Best Fishing Podcasts                                             | 2025-06-18 |
-| FindThatPod - The Best Nature Podcasts                                              | 2025-06-18 |
-| FindThatPod - The Best Fantasy Podcasts                                             | 2025-06-16 |
-| FindThatPod - The Best Leadership Podcasts                                          | 2025-06-11 |
-| FindThatPod - The Best Health Podcasts                                              | 2025-06-10 |
-| FindThatPod - The Best Marketing Podcasts                                           | 2025-06-04 |
-| FindThatPod - The Best Narrative Podcasts                                           | 2025-06-03 |
-| FindThatPod - The Best Ghost Story Podcasts                                         | 2025-05-28 |
-| FindThatPod - The Best Divorce Podcasts                                             | 2025-05-27 |
-| FindThatPod - The Best Pop Culture Podcasts                                         | 2025-05-22 |
-| FindThatPod - The Best Cycling Podcasts                                             | 2025-05-22 |
-| FindThatPod - The Best Educational Podcasts                                         | 2025-05-21 |
-| FindThatPod - The Best Documentary Podcasts                                         | 2025-05-09 |
-| FindThatPod - The Best Podcasts To Learn Spanish                                    | 2025-05-08 |
-| FindThatPod - The Best Outdoor Podcasts                                             | 2025-05-02 |
-| FindThatPod - The Best Family Podcast                                               | 2025-04-30 |
-| FindThatPod - The Best Military Podcasts                                            | 2025-04-29 |
-| FindThatPod - The Best Law & Legal Podcasts                                         | 2025-04-24 |
-| FindThatPod - The Best Trivia Podcasts                                              | 2025-04-24 |
-| FindThatPod - The Best Self Improvement Podcasts                                    | 2025-04-23 |
-| FindThatPod - The Best Car Podcasts                                                 | 2025-04-17 |
-| FindThatPod - The Best Wine Podcasts                                                | 2025-04-16 |
-| FindThatPod - The Best Porn Podcast                                                 | 2025-04-16 |
-| FindThatPod - The Best Basketball & NBA Podcasts                                    | 2025-04-10 |
-| FindThatPod - The Best Soccer Podcasts                                              | 2025-04-09 |
-| FindThatPod - The Best Book Club Podcasts                                           | 2025-04-09 |
-| FindThatPod - The Best Cyber Security Podcasts                                      | 2025-04-03 |
-| FindThatPod - The Best American History Podcasts                                    | 2025-04-02 |
-| FindThatPod - The Best Pregnancy Podcasts                                           | 2025-04-02 |
-| FindThatPod - The Best Horror Podcasts for You Sickos to Devour                     | 2025-03-26 |
-| FindThatPod - The Best Stoicism Podcasts To Level-Up Your Personal Philosophy       | 2025-03-26 |
-| FindThatPod - The Best Writing Podcasts                                             | 2025-03-21 |
-| FindThatPod - The Best Survival Stories Podcasts                                    | 2025-03-20 |
-| FindThatPod - The Empire Strikes Back: A Guide to the Best British History Podcasts | 2025-03-20 |
-| FindThatPod - The Best DnD Podcasts                                                 | 2025-03-13 |
-| FindThatPod - The Best Audio Drama Podcasts                                         | 2025-03-13 |
-| FindThatPod - The Best Podcasts for Moms                                            | 2025-03-07 |
-| FindThatPod - The Best Star Wars Podcasts                                           | 2025-03-07 |
-| FindThatPod - The Best Music Podcasts for Music Lovers                              | 2025-02-26 |
-| FindThatPod - The Best Psychology Podcasts to Better Understand Humans              | 2025-02-25 |
-| FindThatPod - The Best Podcasts for Anyone Running or Working at a Startup Business | 2025-02-11 |
-| FindThatPod - The Best Daily News Podcasts to Stay Informed                         | 2025-02-04 |
-| FindThatPod - The Best Podcasts for Road Trips of All Lengths                       | 2025-02-03 |
-| FindThatPod - The Best Nutrition Podcasts for Healthier Eating                      | 2025-01-30 |
-| FindThatPod - The Best Gardening Podcasts                                           | 2025-01-16 |
-| FindThatPod - The Best Marriage Podcasts                                            | 2024-12-05 |
-| FindThatPod - The Best Podcasts for Men                                             | 2024-11-21 |
-| FindThatPod - The Best Meditation Podcasts                                          | 2024-11-14 |
-| FindThatPod - The Best Tennis Podcasts                                              | 2024-11-14 |
-| FindThatPod - The Best Cooking Podcasts                                             | 2024-10-31 |
-| FindThatPod - The Best Podcasts About Cults                                         | 2024-10-30 |
-| FindThatPod - The Best Fitness Podcasts                                             | 2024-10-15 |
-| FindThatPod - The Best Running Podcasts                                             | 2024-10-03 |
-| FindThatPod - The Best Philosophy Podcasts                                          | 2024-09-26 |
-| FindThatPod - The Best Podcast for Entrepreneurs                                    | 2024-09-19 |
-| [FindThatPod - The Best Art Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-podcasts.opml) | 2024-09-11 |
-| [FindThatPod - The Best Travel Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml) | 2024-08-22 |
-| [FindThatPod - The Best Podcasts About AI](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-ai.opml) | 2024-07-25 |
-| [FindThatPod - The Best Comic Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comic-book-podcasts.opml) | 2024-07-25 |
-| [FindThatPod - The Best Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts.opml) | 2024-07-18 |
-| [FindThatPod - The Best Sports Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sports-podcasts.opml) | 2024-07-04 |
-| [FindThatPod - The Best Relationship Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-relationship-podcasts.opml) | 2035-06-28 |
-| [FindThatPod - The Best Mystery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mystery-podcasts.opml) | 2024-06-28 |
-| [FindThatPod - The Best Political Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-political-podcasts.opml) | 2024-06-24 |
-| [FindThatPod - The Best Sleep Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sleep-podcasts.opml) | 2024-06-23 |
-| [FindThatPod - The Best Movie Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-movie-podcasts.opml) | 2024-06-14 |
-| [FindThatPod - The Best Podcasts for Dads](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dads.opml) | 2024-06-06 |
-| [FindThatPod - The Best Investing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investing-podcasts.opml) | 2024-06-06 |
-| [FindThatPod - The Best Crypto Podcasts for Investors and Speculators](https://b19.se/data/opml/findthatpod/findthatpod-the-best-crypto-podcasts-for-investors-and-speculators.opml) | 2024-05-28 |
-| [FindThatPod - The Best Photography Podcasts for Beginners and Experts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-photography-podcasts-for-beginners-and-experts.opml) | 2024-05-13 |
-| [FindThatPod - The Best Chess Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-chess-podcasts.opml) | 2024-05-07 |
-| [FindThatPod - The Best Podcasts for Kids](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-kids.opml) | 2024-04-30 |
-| [FindThatPod - The Best True Crime Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts.opml) | 2024-04-24 |
-| [FindThatPod - The Best Sex Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sex-podcasts.opml) | 2024-02-05 |
-| [FindThatPod - The Best Comedy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comedy-podcasts.opml) | 2023-12-07 |
-| [FindThatPod - The Best Investigative Journalism Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investigative-journalism-podcasts.opml) | 2023-12-04 |
-| [FindThatPod - The Best DC Comics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dc-comics-podcasts.opml) | 2023-12-04 |
-| [FindThatPod - The Best Tech Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tech-podcasts.opml) | 2023-11-23 |
-| [FindThatPod - The Best Podcasts for Dog Owners](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dog-owners.opml) | 2023-11-17 |
-| [FindThatPod - The Best Poker Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-poker-podcasts.opml) | 2023-11-14 |
-| [FindThatPod - The Best Serial Killer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-serial-killer-podcasts.opml) | 2023-11-07 |
-| [FindThatPod - The Best Motivational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-motivational-podcasts.opml) | 2023-11-01 |
-| [FindThatPod - The Best Business Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-business-podcasts.opml) | 2023-10-25 |
-| [FindThatPod - The Best Wondery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wondery-podcasts.opml) | 2023-10-16 |
-| [FindThatPod - The Best Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-podcasts.opml) | 2023-10-12 |
-| [FindThatPod - The Best Mental Health Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mental-health-podcasts.opml) | 2023-10-11 |
-| [FindThatPod - The Best Sci Fi Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sci-fi-podcasts.opml) | 2023-10-04 |
-| [FindThatPod - The Best Food Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-food-podcasts.opml) | 2023-09-28 |
-| [FindThatPod - The Best Celebrity Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-celebrity-podcasts.opml) | 2023-09-20 |
-| [FindThatPod - The Best Podcasts About Scams](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-scams.opml) | 2023-09-14 |
-| [FindThatPod - The Best Video Game Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-video-game-podcasts.opml) | 2023-09-11 |
-| [FindThatPod - The Best Podcasts About Buddhism](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-buddhism.opml) | 2023-09-04 |
-| [FindThatPod - The Best Economics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-economics-podcasts.opml) | 2023-08-30 |
-| [FindThatPod - The Best Podcasts About the Paranormal](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-the-paranormal.opml) | 2023-08-09 |
-| [FindThatPod - The Best Podcasts About Space](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-space.opml) | 2023-06-01 |
-| [FindThatPod - The Best Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts.opml) | 2021-06-06 |
-| [FindThatPod - The Best Science Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-science-podcasts.opml) | 2021-05-31 |
-| [FindThatPod - The Best History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-history-podcasts.opml) | 2021-05-10 |
-| [FindThatPod - The Best Technology Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-technology-podcasts.opml) | 2020-10-07 |
-| [FindThatPod - The Best True Crime Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts.opml) | 2020-09-30 |
-
+| [The Best Basketball & NBA Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-basketball-nba-podcasts.opml) | 2025-04-10 |
+| [The Best Soccer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-soccer-podcasts.opml) | 2025-04-09 |
+| [The Best Book Club Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-club-podcasts.opml) | 2025-04-09 |
+| [The Best Cyber Security Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cyber-security-podcasts.opml) | 2025-04-03 |
+| [The Best American History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-american-history-podcasts.opml) | 2025-04-02 |
+| [The Best Pregnancy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-pregnancy-podcasts.opml) | 2025-04-02 |
+| [The Best Horror Podcasts for You Sickos to Devour](https://b19.se/data/opml/findthatpod/findthatpod-the-best-horror-podcasts-for-you-sickos-to-devour.opml) | 2025-03-26 |
+| [The Best Stoicism Podcasts To Level-Up Your Personal Philosophy](https://b19.se/data/opml/findthatpod/findthatpod-the-best-stoicism-podcasts-to-level-up-your-personal-philosophy.opml) | 2025-03-26 |
+| [The Best Writing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-writing-podcasts.opml) | 2025-03-21 |
+| [The Best Survival Stories Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-survival-stories-podcasts.opml) | 2025-03-20 |
+| [The Empire Strikes Back: A Guide to the Best British History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-british-history-podcasts.opml) | 2025-03-20 |
+| [The Best DnD Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dnd-podcasts.opml) | 2025-03-13 |
+| [The Best Audio Drama Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-audio-drama-podcasts.opml) | 2025-03-13 |
+| [The Best Podcasts for Moms](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-moms.opml) | 2025-03-07 |
+| [The Best Star Wars Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-star-wars-podcasts.opml) | 2025-03-07 |
+| [The Best Music Podcasts for Music Lovers](https://b19.se/data/opml/findthatpod/findthatpod-the-best-music-podcasts-for-music-lovers.opml) | 2025-02-26 |
+| [The Best Psychology Podcasts to Better Understand Humans](https://b19.se/data/opml/findthatpod/findthatpod-the-best-psychology-podcasts-to-better-understand-humans.opml) | 2025-02-25 |
+| [The Best Podcasts for Anyone Running or Working at a Startup Business](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-anyone-running-or-working-at-a-startup-business.opml) | 2025-02-11 |
+| [The Best Daily News Podcasts to Stay Informed](https://b19.se/data/opml/findthatpod/findthatpod-the-best-daily-news-podcasts-to-stay-informed.opml) | 2025-02-04 |
+| [The Best Podcasts for Road Trips of All Lengths](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-road-trips-of-all-lengths.opml) | 2025-02-03 |
+| [The Best Nutrition Podcasts for Healthier Eating](https://b19.se/data/opml/findthatpod/findthatpod-the-best-nutrition-podcasts-for-healthier-eating.opml) | 2025-01-30 |
+| [The Best Gardening Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-gardening-podcasts.opml) | 2025-01-16 |
+| [The Best Marriage Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-marriage-podcasts.opml) | 2024-12-05 |
+| [The Best Podcasts for Men](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-men.opml) | 2024-11-21 |
+| [The Best Meditation Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-meditation-podcasts.opml) | 2024-11-14 |
+| [The Best Tennis Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tennis-podcasts.opml) | 2024-11-14 |
+| [The Best Cooking Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cooking-podcasts.opml) | 2024-10-31 |
+| [The Best Podcasts About Cults](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-cults.opml) | 2024-10-30 |
+| [The Best Fitness Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fitness-podcasts.opml) | 2024-10-15 |
+| [The Best Running Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-running-podcasts.opml) | 2024-10-03 |
+| [The Best Philosophy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-philosophy-podcasts.opml) | 2024-09-26 |
+| [The Best Podcasts for Entrepreneurs](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-entrepreneurs.opml) | 2024-09-19 |
+| [The Best Art Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-podcasts.opml) | 2024-09-11 |
+| [The Best Travel Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-travel-podcasts.opml) | 2024-08-22 |
+| [The Best Podcasts About AI](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-ai.opml) | 2024-07-25 |
+| [The Best Comic Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comic-book-podcasts.opml) | 2024-07-25 |
+| [The Best Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts.opml) | 2024-07-18 |
+| [The Best Sports Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sports-podcasts.opml) | 2024-07-04 |
+| [The Best Relationship Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-relationship-podcasts.opml) | 2035-06-28 |
+| [The Best Mystery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mystery-podcasts.opml) | 2024-06-28 |
+| [The Best Political Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-political-podcasts.opml) | 2024-06-24 |
+| [The Best Sleep Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sleep-podcasts.opml) | 2024-06-23 |
+| [The Best Movie Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-movie-podcasts.opml) | 2024-06-14 |
+| [The Best Podcasts for Dads](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dads.opml) | 2024-06-06 |
+| [The Best Investing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investing-podcasts.opml) | 2024-06-06 |
+| [The Best Crypto Podcasts for Investors and Speculators](https://b19.se/data/opml/findthatpod/findthatpod-the-best-crypto-podcasts-for-investors-and-speculators.opml) | 2024-05-28 |
+| [The Best Photography Podcasts for Beginners and Experts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-photography-podcasts-for-beginners-and-experts.opml) | 2024-05-13 |
+| [The Best Chess Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-chess-podcasts.opml) | 2024-05-07 |
+| [The Best Podcasts for Kids](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-kids.opml) | 2024-04-30 |
+| [The Best True Crime Podcasts in 2024](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts-in-2024.opml) | 2024-04-24 |
+| [The Best Sex Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sex-podcasts.opml) | 2024-02-05 |
+| [The Best Comedy Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-comedy-podcasts.opml) | 2023-12-07 |
+| [The Best Investigative Journalism Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-investigative-journalism-podcasts.opml) | 2023-12-04 |
+| [The Best DC Comics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dc-comics-podcasts.opml) | 2023-12-04 |
+| [The Best Tech Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-tech-podcasts.opml) | 2023-11-23 |
+| [The Best Podcasts for Dog Owners](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-dog-owners.opml) | 2023-11-17 |
+| [The Best Poker Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-poker-podcasts.opml) | 2023-11-14 |
+| [The Best Serial Killer Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-serial-killer-podcasts.opml) | 2023-11-07 |
+| [The Best Motivational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-motivational-podcasts.opml) | 2023-11-01 |
+| [The Best Business Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-business-podcasts.opml) | 2023-10-25 |
+| [The Best Wondery Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wondery-podcasts.opml) | 2023-10-16 |
+| [The Best Book Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-book-podcasts.opml) | 2023-10-12 |
+| [The Best Mental Health Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-mental-health-podcasts.opml) | 2023-10-11 |
+| [The Best Sci Fi Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sci-fi-podcasts.opml) | 2023-10-04 |
+| [The Best Food Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-food-podcasts.opml) | 2023-09-28 |
+| [The Best Celebrity Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-celebrity-podcasts.opml) | 2023-09-20 |
+| [The Best Podcasts About Scams](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-scams.opml) | 2023-09-14 |
+| [The Best Video Game Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-video-game-podcasts.opml) | 2023-09-11 |
+| [The Best Podcasts About Buddhism](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-buddhism.opml) | 2023-09-04 |
+| [The Best Economics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-economics-podcasts.opml) | 2023-08-30 |
+| [The Best Podcasts About the Paranormal](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-the-paranormal.opml) | 2023-08-09 |
+| [The Best Podcasts About Space](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-space.opml) | 2023-06-01 |
+| [The Best Fiction Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fiction-podcasts-in-2021.opml) | 2021-06-06 |
+| [The Best Science Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-science-podcasts-in-2021.opml) | 2021-05-31 |
+| [The Best History Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-history-podcasts-in-2021.opml) | 2021-05-10 |
+| [The Best Technology Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-technology-podcasts-in-2021.opml) | 2020-10-07 |
+| [The Best True Crime Podcasts in 2021](https://b19.se/data/opml/findthatpod/findthatpod-the-best-true-crime-podcasts-2021.opml) | 2020-09-30 |
 
 
 
@@ -127,8 +104,35 @@ I just created something I would like to consume myself, lists without links are
 ## Weekly issues
 
 
+
 | Weekly issues                                                                         | Date       |
 | ------------------------------------------------------------------------------------- | ---------- |
+| [Find That Pod #317](https://b19.se/data/opml/findthatpod/findthatpod-issue-317.opml) | 2025-06-20 |
+| [Find That Pod #316](https://b19.se/data/opml/findthatpod/findthatpod-issue-316.opml) | 2026-06-13 |
+| [Find That Pod #315](https://b19.se/data/opml/findthatpod/findthatpod-issue-315.opml) | 2025-06-06 |
+| [Find That Pod #314](https://b19.se/data/opml/findthatpod/findthatpod-issue-314.opml) | 2025-05-30 |
+| [Find That Pod #313](https://b19.se/data/opml/findthatpod/findthatpod-issue-313.opml) | 2005-05-23 |
+| [Find That Pod #312](https://b19.se/data/opml/findthatpod/findthatpod-issue-312.opml) | 2025-05-16 |
+| [Find That Pod #311](https://b19.se/data/opml/findthatpod/findthatpod-issue-311.opml) | 2025-05-09 |
+| [Find That Pod #310](https://b19.se/data/opml/findthatpod/findthatpod-issue-310.opml) | 2025-05-02 |
+| [Find That Pod #309](https://b19.se/data/opml/findthatpod/findthatpod-issue-309.opml) | 2025-04-25 |
+| [Find That Pod #308](https://b19.se/data/opml/findthatpod/findthatpod-issue-308.opml) | 2025-04-18 |
+| [Find That Pod #307](https://b19.se/data/opml/findthatpod/findthatpod-issue-307.opml) | 2025-04-11 |
+| [Find That Pod #306](https://b19.se/data/opml/findthatpod/findthatpod-issue-306.opml) | 2025-04-04 |
+| [Find That Pod #305](https://b19.se/data/opml/findthatpod/findthatpod-issue-305.opml) | 2025-03-28 |
+| [Find That Pod #304](https://b19.se/data/opml/findthatpod/findthatpod-issue-304.opml) | 2025-03-21 |
+| [Find That Pod #303](https://b19.se/data/opml/findthatpod/findthatpod-issue-303.opml) | 2020-03-14 |
+| [Find That Pod #302](https://b19.se/data/opml/findthatpod/findthatpod-issue-302.opml) | 2025-03-07 |
+| [Find That Pod #301](https://b19.se/data/opml/findthatpod/findthatpod-issue-301.opml) | 2025-02-28 |
+| [Find That Pod #300](https://b19.se/data/opml/findthatpod/findthatpod-issue-300.opml) | 2025-02-21 |
+| [Find That Pod #299](https://b19.se/data/opml/findthatpod/findthatpod-issue-299.opml) | 2025-02-14 |
+| [Find That Pod #298](https://b19.se/data/opml/findthatpod/findthatpod-issue-298.opml) | 2025-02-07 |
+| [Find That Pod #297](https://b19.se/data/opml/findthatpod/findthatpod-issue-297.opml) | 2025-01-31 |
+| [Find That Pod #296](https://b19.se/data/opml/findthatpod/findthatpod-issue-296.opml) | 2025-01-24 |
+| [Find That Pod #295](https://b19.se/data/opml/findthatpod/findthatpod-issue-295.opml) | 2025-01-17 |
+| [Find That Pod #294](https://b19.se/data/opml/findthatpod/findthatpod-issue-294.opml) | 2025-01-10 |
+| [Find That Pod #293](https://b19.se/data/opml/findthatpod/findthatpod-issue-293.opml) | 2025-01-03 |
+| [Find That Pod #292](https://b19.se/data/opml/findthatpod/findthatpod-issue-292.opml) | 2024-12-13 |
 | [Find That Pod #291](https://b19.se/data/opml/findthatpod/findthatpod-issue-291.opml) | 2024-12-06 |
 | [Find That Pod #290](https://b19.se/data/opml/findthatpod/findthatpod-issue-290.opml) | 2024-11-29 |
 | [Find That Pod #289](https://b19.se/data/opml/findthatpod/findthatpod-issue-289.opml) | 2024-11-22 |
@@ -321,102 +325,102 @@ I just created something I would like to consume myself, lists without links are
 | [Find That Pod #102](https://b19.se/data/opml/findthatpod/findthatpod-issue-102.opml) | 2021-03-19 |
 | [Find That Pod #101](https://b19.se/data/opml/findthatpod/findthatpod-issue-101.opml) | 2021-03-12 |
 | [Find That Pod #100](https://b19.se/data/opml/findthatpod/findthatpod-issue-100.opml) | 2021-03-05 |
-| [Find That Pod #099](https://b19.se/data/opml/findthatpod/findthatpod-issue-099.opml) | 2021-02-26 |
-| [Find That Pod #098](https://b19.se/data/opml/findthatpod/findthatpod-issue-098.opml) | 2021-02-19 |
-| [Find That Pod #097](https://b19.se/data/opml/findthatpod/findthatpod-issue-097.opml) | 2021-02-12 |
-| [Find That Pod #096](https://b19.se/data/opml/findthatpod/findthatpod-issue-096.opml) | 2021-02-05 |
-| [Find That Pod #095](https://b19.se/data/opml/findthatpod/findthatpod-issue-095.opml) | 2021-01-29 |
-| [Find That Pod #094](https://b19.se/data/opml/findthatpod/findthatpod-issue-094.opml) | 2021-01-22 |
-| [Find That Pod #093](https://b19.se/data/opml/findthatpod/findthatpod-issue-093.opml) | 2021-01-15 |
-| [Find That Pod #092](https://b19.se/data/opml/findthatpod/findthatpod-issue-092.opml) | 2021-01-08 |
-| [Find That Pod #091](https://b19.se/data/opml/findthatpod/findthatpod-issue-091.opml) | 2021-01-01 |
-| [Find That Pod #090](https://b19.se/data/opml/findthatpod/findthatpod-issue-090.opml) | 2020-12-18 |
-| [Find That Pod #089](https://b19.se/data/opml/findthatpod/findthatpod-issue-089.opml) | 2020-12-11 |
-| [Find That Pod #088](https://b19.se/data/opml/findthatpod/findthatpod-issue-088.opml) | 2020-12-04 |
-| [Find That Pod #087](https://b19.se/data/opml/findthatpod/findthatpod-issue-087.opml) | 2020-11-27 |
-| [Find That Pod #086](https://b19.se/data/opml/findthatpod/findthatpod-issue-086.opml) | 2020-11-20 |
-| [Find That Pod #085](https://b19.se/data/opml/findthatpod/findthatpod-issue-085.opml) | 2020-11-13 |
-| [Find That Pod #084](https://b19.se/data/opml/findthatpod/findthatpod-issue-084.opml) | 2020-11-06 |
-| [Find That Pod #083](https://b19.se/data/opml/findthatpod/findthatpod-issue-083.opml) | 2020-10-30 |
-| [Find That Pod #082](https://b19.se/data/opml/findthatpod/findthatpod-issue-082.opml) | 2020-10-23 |
-| [Find That Pod #081](https://b19.se/data/opml/findthatpod/findthatpod-issue-081.opml) | 2020-10-16 |
-| [Find That Pod #080](https://b19.se/data/opml/findthatpod/findthatpod-issue-080.opml) | 2020-10-09 |
-| [Find That Pod #079](https://b19.se/data/opml/findthatpod/findthatpod-issue-079.opml) | 2020-10-02 |
-| [Find That Pod #078](https://b19.se/data/opml/findthatpod/findthatpod-issue-078.opml) | 2020-09-25 |
-| [Find That Pod #077](https://b19.se/data/opml/findthatpod/findthatpod-issue-077.opml) | 2020-09-18 |
-| [Find That Pod #076](https://b19.se/data/opml/findthatpod/findthatpod-issue-076.opml) | 2020-09-11 |
-| [Find That Pod #075](https://b19.se/data/opml/findthatpod/findthatpod-issue-075.opml) | 2020-09-04 |
-| [Find That Pod #074](https://b19.se/data/opml/findthatpod/findthatpod-issue-074.opml) | 2020-08-28 |
-| [Find That Pod #073](https://b19.se/data/opml/findthatpod/findthatpod-issue-073.opml) | 2020-08-21 |
-| [Find That Pod #072](https://b19.se/data/opml/findthatpod/findthatpod-issue-072.opml) | 2020-08-14 |
-| [Find That Pod #071](https://b19.se/data/opml/findthatpod/findthatpod-issue-071.opml) | 2020-08-07 |
-| [Find That Pod #070](https://b19.se/data/opml/findthatpod/findthatpod-issue-070.opml) | 2020-07-31 |
-| [Find That Pod #069](https://b19.se/data/opml/findthatpod/findthatpod-issue-069.opml) | 2020-07-24 |
-| [Find That Pod #068](https://b19.se/data/opml/findthatpod/findthatpod-issue-068.opml) | 2020-07-17 |
-| [Find That Pod #067](https://b19.se/data/opml/findthatpod/findthatpod-issue-067.opml) | 2020-07-10 |
-| [Find That Pod #066](https://b19.se/data/opml/findthatpod/findthatpod-issue-066.opml) | 2020-07-03 |
-| [Find That Pod #065](https://b19.se/data/opml/findthatpod/findthatpod-issue-065.opml) | 2020-06-26 |
-| [Find That Pod #064](https://b19.se/data/opml/findthatpod/findthatpod-issue-064.opml) | 2020-06-19 |
-| [Find That Pod #063](https://b19.se/data/opml/findthatpod/findthatpod-issue-063.opml) | 2020-06-12 |
-| [Find That Pod #062](https://b19.se/data/opml/findthatpod/findthatpod-issue-062.opml) | 2020-06-05 |
-| [Find That Pod #061](https://b19.se/data/opml/findthatpod/findthatpod-issue-061.opml) | 2020-05-29 |
-| [Find That Pod #060](https://b19.se/data/opml/findthatpod/findthatpod-issue-060.opml) | 2020-05-22 |
-| [Find That Pod #059](https://b19.se/data/opml/findthatpod/findthatpod-issue-059.opml) | 2020-05-15 |
-| [Find That Pod #058](https://b19.se/data/opml/findthatpod/findthatpod-issue-058.opml) | 2020-05-08 |
-| [Find That Pod #057](https://b19.se/data/opml/findthatpod/findthatpod-issue-057.opml) | 2020-05-01 |
-| [Find That Pod #056](https://b19.se/data/opml/findthatpod/findthatpod-issue-056.opml) | 2020-04-24 |
-| [Find That Pod #055](https://b19.se/data/opml/findthatpod/findthatpod-issue-055.opml) | 2020-04-17 |
-| [Find That Pod #054](https://b19.se/data/opml/findthatpod/findthatpod-issue-054.opml) | 2020-04-10 |
-| [Find That Pod #053](https://b19.se/data/opml/findthatpod/findthatpod-issue-053.opml) | 2020-04-03 |
-| [Find That Pod #052](https://b19.se/data/opml/findthatpod/findthatpod-issue-052.opml) | 2020-03-27 |
-| [Find That Pod #051](https://b19.se/data/opml/findthatpod/findthatpod-issue-051.opml) | 2020-03-20 |
-| [Find That Pod #050](https://b19.se/data/opml/findthatpod/findthatpod-issue-050.opml) | 2020-03-13 |
-| [Find That Pod #049](https://b19.se/data/opml/findthatpod/findthatpod-issue-049.opml) | 2020-03-06 |
-| [Find That Pod #048](https://b19.se/data/opml/findthatpod/findthatpod-issue-048.opml) | 2020-02-28 |
-| [Find That Pod #047](https://b19.se/data/opml/findthatpod/findthatpod-issue-047.opml) | 2020-02-21 |
-| [Find That Pod #046](https://b19.se/data/opml/findthatpod/findthatpod-issue-046.opml) | 2020-02-14 |
-| [Find That Pod #045](https://b19.se/data/opml/findthatpod/findthatpod-issue-045.opml) | 2020-02-07 |
-| [Find That Pod #044](https://b19.se/data/opml/findthatpod/findthatpod-issue-044.opml) | 2020-01-31 |
-| [Find That Pod #043](https://b19.se/data/opml/findthatpod/findthatpod-issue-043.opml) | 2020-01-24 |
-| [Find That Pod #042](https://b19.se/data/opml/findthatpod/findthatpod-issue-042.opml) | 2020-01-17 |
-| [Find That Pod #041](https://b19.se/data/opml/findthatpod/findthatpod-issue-041.opml) | 2020-01-10 |
-| [Find That Pod #040](https://b19.se/data/opml/findthatpod/findthatpod-issue-040.opml) | 2020-01-03 |
-| [Find That Pod #039](https://b19.se/data/opml/findthatpod/findthatpod-issue-039.opml) | 2019-12-27 |
-| [Find That Pod #038](https://b19.se/data/opml/findthatpod/findthatpod-issue-038.opml) | 2019-12-20 |
-| [Find That Pod #037](https://b19.se/data/opml/findthatpod/findthatpod-issue-037.opml) | 2019-12-13 |
-| [Find That Pod #036](https://b19.se/data/opml/findthatpod/findthatpod-issue-036.opml) | 2019-12-06 |
-| [Find That Pod #035](https://b19.se/data/opml/findthatpod/findthatpod-issue-035.opml) | 2019-11-29 |
-| [Find That Pod #034](https://b19.se/data/opml/findthatpod/findthatpod-issue-034.opml) | 2019-11-22 |
-| [Find That Pod #033](https://b19.se/data/opml/findthatpod/findthatpod-issue-033.opml) | 2019-11-15 |
-| [Find That Pod #032](https://b19.se/data/opml/findthatpod/findthatpod-issue-032.opml) | 2019-11-08 |
-| [Find That Pod #031](https://b19.se/data/opml/findthatpod/findthatpod-issue-031.opml) | 2019-11-01 |
-| [Find That Pod #030](https://b19.se/data/opml/findthatpod/findthatpod-issue-030.opml) | 2019-10-25 |
-| [Find That Pod #029](https://b19.se/data/opml/findthatpod/findthatpod-issue-029.opml) | 2019-10-18 |
-| [Find That Pod #028](https://b19.se/data/opml/findthatpod/findthatpod-issue-028.opml) | 2019-10-11 |
-| [Find That Pod #027](https://b19.se/data/opml/findthatpod/findthatpod-issue-027.opml) | 2019-10-04 |
-| [Find That Pod #026](https://b19.se/data/opml/findthatpod/findthatpod-issue-026.opml) | 2019-09-27 |
-| [Find That Pod #025](https://b19.se/data/opml/findthatpod/findthatpod-issue-025.opml) | 2019-09-20 |
-| [Find That Pod #024](https://b19.se/data/opml/findthatpod/findthatpod-issue-024.opml) | 2019-09-13 |
-| [Find That Pod #023](https://b19.se/data/opml/findthatpod/findthatpod-issue-023.opml) | 2019-09-06 |
-| [Find That Pod #022](https://b19.se/data/opml/findthatpod/findthatpod-issue-022.opml) | 2019-08-30 |
-| [Find That Pod #021](https://b19.se/data/opml/findthatpod/findthatpod-issue-021.opml) | 2019-08-23 |
-| [Find That Pod #020](https://b19.se/data/opml/findthatpod/findthatpod-issue-020.opml) | 2019-08-16 |
-| [Find That Pod #019](https://b19.se/data/opml/findthatpod/findthatpod-issue-019.opml) | 2019-08-09 |
-| [Find That Pod #018](https://b19.se/data/opml/findthatpod/findthatpod-issue-018.opml) | 2019-08-02 |
-| [Find That Pod #017](https://b19.se/data/opml/findthatpod/findthatpod-issue-017.opml) | 2019-07-26 |
-| [Find That Pod #016](https://b19.se/data/opml/findthatpod/findthatpod-issue-016.opml) | 2019-07-19 |
-| [Find That Pod #015](https://b19.se/data/opml/findthatpod/findthatpod-issue-015.opml) | 2019-07-12 |
-| [Find That Pod #014](https://b19.se/data/opml/findthatpod/findthatpod-issue-014.opml) | 2019-07-05 |
-| [Find That Pod #013](https://b19.se/data/opml/findthatpod/findthatpod-issue-013.opml) | 2019-06-28 |
-| [Find That Pod #012](https://b19.se/data/opml/findthatpod/findthatpod-issue-012.opml) | 2019-06-21 |
-| [Find That Pod #011](https://b19.se/data/opml/findthatpod/findthatpod-issue-011.opml) | 2019-06-14 |
-| [Find That Pod #010](https://b19.se/data/opml/findthatpod/findthatpod-issue-010.opml) | 2019-06-07 |
-| [Find That Pod #009](https://b19.se/data/opml/findthatpod/findthatpod-issue-009.opml) | 2019-05-31 |
-| [Find That Pod #008](https://b19.se/data/opml/findthatpod/findthatpod-issue-008.opml) | 2019-05-24 |
-| [Find That Pod #007](https://b19.se/data/opml/findthatpod/findthatpod-issue-007.opml) | 2019-05-17 |
-| [Find That Pod #006](https://b19.se/data/opml/findthatpod/findthatpod-issue-006.opml) | 2019-05-10 |
-| [Find That Pod #005](https://b19.se/data/opml/findthatpod/findthatpod-issue-005.opml) | 2019-05-03 |
-| [Find That Pod #004](https://b19.se/data/opml/findthatpod/findthatpod-issue-004.opml) | 2019-04-26 |
-| [Find That Pod #003](https://b19.se/data/opml/findthatpod/findthatpod-issue-003.opml) | 2019-04-19 |
-| [Find That Pod #002](https://b19.se/data/opml/findthatpod/findthatpod-issue-002.opml) | 2019-04-12 |
-| [Find That Pod #001](https://b19.se/data/opml/findthatpod/findthatpod-issue-001.opml) | 2019-04-05 |
+| [Find That Pod # 99](https://b19.se/data/opml/findthatpod/findthatpod-issue-099.opml) | 2021-02-26 |
+| [Find That Pod # 98](https://b19.se/data/opml/findthatpod/findthatpod-issue-098.opml) | 2021-02-19 |
+| [Find That Pod # 97](https://b19.se/data/opml/findthatpod/findthatpod-issue-097.opml) | 2021-02-12 |
+| [Find That Pod # 96](https://b19.se/data/opml/findthatpod/findthatpod-issue-096.opml) | 2021-02-05 |
+| [Find That Pod # 95](https://b19.se/data/opml/findthatpod/findthatpod-issue-095.opml) | 2021-01-29 |
+| [Find That Pod # 94](https://b19.se/data/opml/findthatpod/findthatpod-issue-094.opml) | 2021-01-22 |
+| [Find That Pod # 93](https://b19.se/data/opml/findthatpod/findthatpod-issue-093.opml) | 2021-01-15 |
+| [Find That Pod # 92](https://b19.se/data/opml/findthatpod/findthatpod-issue-092.opml) | 2021-01-08 |
+| [Find That Pod # 91](https://b19.se/data/opml/findthatpod/findthatpod-issue-091.opml) | 2021-01-01 |
+| [Find That Pod # 90](https://b19.se/data/opml/findthatpod/findthatpod-issue-090.opml) | 2020-12-18 |
+| [Find That Pod # 89](https://b19.se/data/opml/findthatpod/findthatpod-issue-089.opml) | 2020-12-11 |
+| [Find That Pod # 88](https://b19.se/data/opml/findthatpod/findthatpod-issue-088.opml) | 2020-12-04 |
+| [Find That Pod # 87](https://b19.se/data/opml/findthatpod/findthatpod-issue-087.opml) | 2020-11-27 |
+| [Find That Pod # 86](https://b19.se/data/opml/findthatpod/findthatpod-issue-086.opml) | 2020-11-20 |
+| [Find That Pod # 85](https://b19.se/data/opml/findthatpod/findthatpod-issue-085.opml) | 2020-11-13 |
+| [Find That Pod # 84](https://b19.se/data/opml/findthatpod/findthatpod-issue-084.opml) | 2020-11-06 |
+| [Find That Pod # 83](https://b19.se/data/opml/findthatpod/findthatpod-issue-083.opml) | 2020-10-30 |
+| [Find That Pod # 82](https://b19.se/data/opml/findthatpod/findthatpod-issue-082.opml) | 2020-10-23 |
+| [Find That Pod # 81](https://b19.se/data/opml/findthatpod/findthatpod-issue-081.opml) | 2020-10-16 |
+| [Find That Pod # 80](https://b19.se/data/opml/findthatpod/findthatpod-issue-080.opml) | 2020-10-09 |
+| [Find That Pod # 79](https://b19.se/data/opml/findthatpod/findthatpod-issue-079.opml) | 2020-10-02 |
+| [Find That Pod # 78](https://b19.se/data/opml/findthatpod/findthatpod-issue-078.opml) | 2020-09-25 |
+| [Find That Pod # 77](https://b19.se/data/opml/findthatpod/findthatpod-issue-077.opml) | 2020-09-18 |
+| [Find That Pod # 76](https://b19.se/data/opml/findthatpod/findthatpod-issue-076.opml) | 2020-09-11 |
+| [Find That Pod # 75](https://b19.se/data/opml/findthatpod/findthatpod-issue-075.opml) | 2020-09-04 |
+| [Find That Pod # 74](https://b19.se/data/opml/findthatpod/findthatpod-issue-074.opml) | 2020-08-28 |
+| [Find That Pod # 73](https://b19.se/data/opml/findthatpod/findthatpod-issue-073.opml) | 2020-08-21 |
+| [Find That Pod # 72](https://b19.se/data/opml/findthatpod/findthatpod-issue-072.opml) | 2020-08-14 |
+| [Find That Pod # 71](https://b19.se/data/opml/findthatpod/findthatpod-issue-071.opml) | 2020-08-07 |
+| [Find That Pod # 70](https://b19.se/data/opml/findthatpod/findthatpod-issue-070.opml) | 2020-07-31 |
+| [Find That Pod # 69](https://b19.se/data/opml/findthatpod/findthatpod-issue-069.opml) | 2020-07-24 |
+| [Find That Pod # 68](https://b19.se/data/opml/findthatpod/findthatpod-issue-068.opml) | 2020-07-17 |
+| [Find That Pod # 67](https://b19.se/data/opml/findthatpod/findthatpod-issue-067.opml) | 2020-07-10 |
+| [Find That Pod # 66](https://b19.se/data/opml/findthatpod/findthatpod-issue-066.opml) | 2020-07-03 |
+| [Find That Pod # 65](https://b19.se/data/opml/findthatpod/findthatpod-issue-065.opml) | 2020-06-26 |
+| [Find That Pod # 64](https://b19.se/data/opml/findthatpod/findthatpod-issue-064.opml) | 2020-06-19 |
+| [Find That Pod # 63](https://b19.se/data/opml/findthatpod/findthatpod-issue-063.opml) | 2020-06-12 |
+| [Find That Pod # 62](https://b19.se/data/opml/findthatpod/findthatpod-issue-062.opml) | 2020-06-05 |
+| [Find That Pod # 61](https://b19.se/data/opml/findthatpod/findthatpod-issue-061.opml) | 2020-05-29 |
+| [Find That Pod # 60](https://b19.se/data/opml/findthatpod/findthatpod-issue-060.opml) | 2020-05-22 |
+| [Find That Pod # 59](https://b19.se/data/opml/findthatpod/findthatpod-issue-059.opml) | 2020-05-15 |
+| [Find That Pod # 58](https://b19.se/data/opml/findthatpod/findthatpod-issue-058.opml) | 2020-05-08 |
+| [Find That Pod # 57](https://b19.se/data/opml/findthatpod/findthatpod-issue-057.opml) | 2020-05-01 |
+| [Find That Pod # 56](https://b19.se/data/opml/findthatpod/findthatpod-issue-056.opml) | 2020-04-24 |
+| [Find That Pod # 55](https://b19.se/data/opml/findthatpod/findthatpod-issue-055.opml) | 2020-04-17 |
+| [Find That Pod # 54](https://b19.se/data/opml/findthatpod/findthatpod-issue-054.opml) | 2020-04-10 |
+| [Find That Pod # 53](https://b19.se/data/opml/findthatpod/findthatpod-issue-053.opml) | 2020-04-03 |
+| [Find That Pod # 52](https://b19.se/data/opml/findthatpod/findthatpod-issue-052.opml) | 2020-03-27 |
+| [Find That Pod # 51](https://b19.se/data/opml/findthatpod/findthatpod-issue-051.opml) | 2020-03-20 |
+| [Find That Pod # 50](https://b19.se/data/opml/findthatpod/findthatpod-issue-050.opml) | 2020-03-13 |
+| [Find That Pod # 49](https://b19.se/data/opml/findthatpod/findthatpod-issue-049.opml) | 2020-03-06 |
+| [Find That Pod # 48](https://b19.se/data/opml/findthatpod/findthatpod-issue-048.opml) | 2020-02-28 |
+| [Find That Pod # 47](https://b19.se/data/opml/findthatpod/findthatpod-issue-047.opml) | 2020-02-21 |
+| [Find That Pod # 46](https://b19.se/data/opml/findthatpod/findthatpod-issue-046.opml) | 2020-02-14 |
+| [Find That Pod # 45](https://b19.se/data/opml/findthatpod/findthatpod-issue-045.opml) | 2020-02-07 |
+| [Find That Pod # 44](https://b19.se/data/opml/findthatpod/findthatpod-issue-044.opml) | 2020-01-31 |
+| [Find That Pod # 43](https://b19.se/data/opml/findthatpod/findthatpod-issue-043.opml) | 2020-01-24 |
+| [Find That Pod # 42](https://b19.se/data/opml/findthatpod/findthatpod-issue-042.opml) | 2020-01-17 |
+| [Find That Pod # 41](https://b19.se/data/opml/findthatpod/findthatpod-issue-041.opml) | 2020-01-10 |
+| [Find That Pod # 40](https://b19.se/data/opml/findthatpod/findthatpod-issue-040.opml) | 2020-01-03 |
+| [Find That Pod # 39](https://b19.se/data/opml/findthatpod/findthatpod-issue-039.opml) | 2019-12-27 |
+| [Find That Pod # 38](https://b19.se/data/opml/findthatpod/findthatpod-issue-038.opml) | 2019-12-20 |
+| [Find That Pod # 37](https://b19.se/data/opml/findthatpod/findthatpod-issue-037.opml) | 2019-12-13 |
+| [Find That Pod # 36](https://b19.se/data/opml/findthatpod/findthatpod-issue-036.opml) | 2019-12-06 |
+| [Find That Pod # 35](https://b19.se/data/opml/findthatpod/findthatpod-issue-035.opml) | 2019-11-29 |
+| [Find That Pod # 34](https://b19.se/data/opml/findthatpod/findthatpod-issue-034.opml) | 2019-11-22 |
+| [Find That Pod # 33](https://b19.se/data/opml/findthatpod/findthatpod-issue-033.opml) | 2019-11-15 |
+| [Find That Pod # 32](https://b19.se/data/opml/findthatpod/findthatpod-issue-032.opml) | 2019-11-08 |
+| [Find That Pod # 31](https://b19.se/data/opml/findthatpod/findthatpod-issue-031.opml) | 2019-11-01 |
+| [Find That Pod # 30](https://b19.se/data/opml/findthatpod/findthatpod-issue-030.opml) | 2019-10-25 |
+| [Find That Pod # 29](https://b19.se/data/opml/findthatpod/findthatpod-issue-029.opml) | 2019-10-18 |
+| [Find That Pod # 28](https://b19.se/data/opml/findthatpod/findthatpod-issue-028.opml) | 2019-10-11 |
+| [Find That Pod # 27](https://b19.se/data/opml/findthatpod/findthatpod-issue-027.opml) | 2019-10-04 |
+| [Find That Pod # 26](https://b19.se/data/opml/findthatpod/findthatpod-issue-026.opml) | 2019-09-27 |
+| [Find That Pod # 25](https://b19.se/data/opml/findthatpod/findthatpod-issue-025.opml) | 2019-09-20 |
+| [Find That Pod # 24](https://b19.se/data/opml/findthatpod/findthatpod-issue-024.opml) | 2019-09-13 |
+| [Find That Pod # 23](https://b19.se/data/opml/findthatpod/findthatpod-issue-023.opml) | 2019-09-06 |
+| [Find That Pod # 22](https://b19.se/data/opml/findthatpod/findthatpod-issue-022.opml) | 2019-08-30 |
+| [Find That Pod # 21](https://b19.se/data/opml/findthatpod/findthatpod-issue-021.opml) | 2019-08-23 |
+| [Find That Pod # 20](https://b19.se/data/opml/findthatpod/findthatpod-issue-020.opml) | 2019-08-16 |
+| [Find That Pod # 19](https://b19.se/data/opml/findthatpod/findthatpod-issue-019.opml) | 2019-08-09 |
+| [Find That Pod # 18](https://b19.se/data/opml/findthatpod/findthatpod-issue-018.opml) | 2019-08-02 |
+| [Find That Pod # 17](https://b19.se/data/opml/findthatpod/findthatpod-issue-017.opml) | 2019-07-26 |
+| [Find That Pod # 16](https://b19.se/data/opml/findthatpod/findthatpod-issue-016.opml) | 2019-07-19 |
+| [Find That Pod # 15](https://b19.se/data/opml/findthatpod/findthatpod-issue-015.opml) | 2019-07-12 |
+| [Find That Pod # 14](https://b19.se/data/opml/findthatpod/findthatpod-issue-014.opml) | 2019-07-05 |
+| [Find That Pod # 13](https://b19.se/data/opml/findthatpod/findthatpod-issue-013.opml) | 2019-06-28 |
+| [Find That Pod # 12](https://b19.se/data/opml/findthatpod/findthatpod-issue-012.opml) | 2019-06-21 |
+| [Find That Pod # 11](https://b19.se/data/opml/findthatpod/findthatpod-issue-011.opml) | 2019-06-14 |
+| [Find That Pod # 10](https://b19.se/data/opml/findthatpod/findthatpod-issue-010.opml) | 2019-06-07 |
+| [Find That Pod #  9](https://b19.se/data/opml/findthatpod/findthatpod-issue-009.opml) | 2019-05-31 |
+| [Find That Pod #  8](https://b19.se/data/opml/findthatpod/findthatpod-issue-008.opml) | 2019-05-24 |
+| [Find That Pod #  7](https://b19.se/data/opml/findthatpod/findthatpod-issue-007.opml) | 2019-05-17 |
+| [Find That Pod #  6](https://b19.se/data/opml/findthatpod/findthatpod-issue-006.opml) | 2019-05-10 |
+| [Find That Pod #  5](https://b19.se/data/opml/findthatpod/findthatpod-issue-005.opml) | 2019-05-03 |
+| [Find That Pod #  4](https://b19.se/data/opml/findthatpod/findthatpod-issue-004.opml) | 2019-04-26 |
+| [Find That Pod #  3](https://b19.se/data/opml/findthatpod/findthatpod-issue-003.opml) | 2019-04-19 |
+| [Find That Pod #  2](https://b19.se/data/opml/findthatpod/findthatpod-issue-002.opml) | 2019-04-12 |
+| [Find That Pod #  1](https://b19.se/data/opml/findthatpod/findthatpod-issue-001.opml) | 2019-04-05 |
