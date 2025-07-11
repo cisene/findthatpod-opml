@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue: 318
+    title: 'Find That Pod #318'
+    pubDate: 2025-06-27
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: 'Soldier: Unknown'
+        htmlUrl: https://soldierunknown.com/
+        xmlUrl: https://media.rss.com/soldier-unknown/feed.xml
+
+    - podcast:
+        title: All the Hacks with Chris Hutchins
+        htmlUrl: https://chrishutchins.com/
+        xmlUrl: https://feeds.megaphone.fm/ATHLLC4474951365
+
+    - podcast:
+        title: 'IRL: Online Life is Real Life'
+        htmlUrl: https://irlpodcast.org/
+        xmlUrl: https://feeds.simplecast.com/lP7owBq8
+
+    - podcast:
+        title: Big Time
+        htmlUrl: https://apple.co/BigTimePod
+        xmlUrl: https://rss.art19.com/big-time
+
+    - podcast:
+        title: I'm Right You're Wrong
+        htmlUrl: https://www.imrightyourewrongpodcast.com/
+        xmlUrl: https://anchor.fm/s/f6677e64/podcast/rss
+
   - issue:    317
     title:    'Find That Pod #317'
     pubDate:  '2025-06-20'
