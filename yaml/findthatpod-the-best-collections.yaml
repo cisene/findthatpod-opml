@@ -137,6 +137,108 @@ issues:
 - name: The Best Book Club Podcasts
   opml: findthatpod-the-best-book-club-podcasts.opml
   date: 2025-04-09
+  htmlUrl: https://findthatpod.com/best-book-club-podcasts/
+  podcasts:
+
+  - title: The Book Club Review
+    htmlUrl: https://www.thebookclubreview.co.uk/
+    xmlUrl: https://thebookclubreview.libsyn.com/rss
+
+  - title: 'Book Club for Masochists: a Readers’ Advisory Podcast'
+    htmlUrl: http://bookclub4m.libsyn.com/podcast
+    xmlUrl: https://bookclub4m.libsyn.com/rss
+
+  - title: The Freakonomics Radio Book Club
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/KB3PwEoc
+
+  - title: The Worst Bestsellers
+    htmlUrl: https://www.frowl.org/worstbestsellers
+    xmlUrl: https://www.frowl.org/worstbestsellers/?feed=podcast
+
+  - title: The Book Club
+    htmlUrl: https://audioboom.com/channels/4905582-the-book-club
+    xmlUrl: https://feeds.acast.com/public/shows/683590e6998551779f24f8f3
+
+  - title: Book Club with Jeffrey Sachs
+    htmlUrl: https://www.bookclubwithjeffreysachs.org/
+    xmlUrl: https://feeds.buzzsprout.com/1648477.rss
+
+  - title: You're Booked
+    htmlUrl: https://play.acast.com/s/booked
+    xmlUrl: https://feeds.acast.com/public/shows/88c77d59-05df-402d-8195-2dfc83d7a3e9
+
+  - title: The End of the World Book Club
+    htmlUrl: https://www.booksandquills.co.uk/the-end-of-the-world-book-club
+    xmlUrl: https://anchor.fm/s/f2211734/podcast/rss
+
+  - title: Bookclub
+    htmlUrl: http://www.bbc.co.uk/programmes/b006s5sf
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006s5sf.rss
+
+  - title: Book Club with Julia and Victoria
+    htmlUrl: https://www.bookclubwithjv.com/episodes/
+    xmlUrl: https://www.bookclubwithjv.com/episodes?format=rss
+
+  - title: Quarantine Book Club
+    htmlUrl: https://thequarantinebookclub.com/
+    xmlUrl: https://audioboom.com/channels/5023598.rss
+
+  - title: The Sword and Laser
+    htmlUrl: http://www.swordandlaser.com/
+    xmlUrl: http://feeds.feedburner.com/TheSwordAndLaser
+
+  - title: World Book Club
+    htmlUrl: http://www.bbc.co.uk/programmes/p003jhsk
+    xmlUrl: https://podcasts.files.bbci.co.uk/p003jhsk.rss
+
+  - title: Book Cheat
+    htmlUrl: https://play.acast.com/s/book-cheat
+    xmlUrl: https://feeds.acast.com/public/shows/4282e2e7-51fe-4fea-8017-65748ffe33d5
+
+  - title: Celebrity Memoir Book Club
+    htmlUrl: https://www.celebritymemoirbookclub.biz/
+    xmlUrl: https://feeds.megaphone.fm/HOOSWTABSGLOBALLLC7896801906
+
+  - title: Buddy Book Club
+    htmlUrl: http://buddybookclub.com/
+    xmlUrl: https://feeds.buzzsprout.com/1586869.rss
+
+  - title: Mean Book Club
+    htmlUrl: https://www.patreon.com/meanbookclub
+    xmlUrl: https://www.spreaker.com/show/3199521/episodes/feed
+
+  - title: The Drunk Guys Book Club Podcast
+    htmlUrl: https://drunkguysbookclub.com/
+    xmlUrl: https://drunkguysbookclub.com/feed/podcast/
+
+  - title: 372 Pages We'll Never Get Back
+    htmlUrl: http://372pages.com/blog
+    xmlUrl: http://372pages.com/feed/podcast
+
+  - title: Sara & Cariad's Weirdos Book Club
+    htmlUrl: https://shows.acast.com/weirdos-book-club
+    xmlUrl: https://feeds.acast.com/public/shows/64b69e3ec409730011da06ee
+
+  - title: Book Club for Kids
+    htmlUrl: http://www.bookclubforkids.org/
+    xmlUrl: https://bookclubforkids.libsyn.com/rss
+
+  - title: Book Club Babes
+    htmlUrl: https://www.bookclubbabes.ca/
+    xmlUrl: https://feeds.megaphone.fm/SBP2944819611
+
+  - title: The Book Club
+    htmlUrl: https://www.prageru.com/series/book-club
+    xmlUrl: https://feeds.megaphone.fm/PRAGERU3904590261
+
+  - title: This is Your Book Club Podcast
+    htmlUrl: https://thisisyourbookclub.podbean.com/
+    xmlUrl: https://feed.podbean.com/thisisyourbookclub/feed.xml
+
+  - title: Busy Girls Book Club
+    htmlUrl: http://busygirlspod.com/
+    xmlUrl: https://audioboom.com/channels/5083516.rss
 
 - name: The Best Cyber Security Podcasts
   opml: findthatpod-the-best-cyber-security-podcasts.opml
