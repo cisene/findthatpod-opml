@@ -113,6 +113,112 @@ issues:
 - name: The Best Self Improvement Podcasts
   opml: findthatpod-the-best-self-improvement-podcasts.opml
   date: 2025-04-23
+  htmlUrl: https://findthatpod.com/best-self-improvement-podcasts/
+  podcasts:
+
+  - title: The Daily Stoic
+    htmlUrl: https://wondery.com/shows/the-daily-stoic/
+    xmlUrl: https://rss.art19.com/the-daily-stoic
+
+  - title: Life Kit
+    htmlUrl: https://www.npr.org/podcasts/510338/all-guides
+    xmlUrl: https://feeds.npr.org/510338/podcast.xml
+
+  - title: Tiny Leaps, Big Changes
+    htmlUrl: http://tlbc.co/
+    xmlUrl: https://anchor.fm/s/bd0fbb4/podcast/rss
+
+  - title: The School of Greatness
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/AAvup9Zz
+
+  - title: Mental Illness Happy Hour
+    htmlUrl: https://art19.com/shows/mental-illness-happy-hour
+    xmlUrl: https://rss.art19.com/mental-illness-happy-hour
+
+  - title: Worklife with Adam Grant
+    htmlUrl: https://www.ted.com/podcasts/worklife
+    xmlUrl: https://feeds.feedburner.com/WorklifeWithAdamGrant
+
+  - title: How to Be a Better Human
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2FHowToBeABetterHuman
+    xmlUrl: https://feeds.feedburner.com/HowToBeABetterHuman
+
+  - title: The Hardcore Self Help Podcast with Duff the Psych
+    htmlUrl: http://duffthepsych.com/
+    xmlUrl: https://hardcoreselfhelp.libsyn.com/rss
+
+  - title: Jocko Podcast
+    htmlUrl: https://redcircle.com/shows/jocko-podcast
+    xmlUrl: https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+
+  - title: Good Life Project
+    htmlUrl: https://www.goodlifeproject.com/podcast/
+    xmlUrl: https://feeds.acast.com/public/shows/61de0665cc27c20014ea15cf
+
+  - title: 'UnF*ck Your Brain: Feminist Self-Help for Everyone'
+    htmlUrl: https://schoolofnewfeministthought.com/podcasts/
+    xmlUrl: https://feeds.captivate.fm/the-school-of-new-feminist-thought/
+
+  - title: The Mindset Mentor
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/rpKQEwel
+
+  - title: Help Me Be Me
+    htmlUrl: https://www.yaywithme.com/
+    xmlUrl: https://feeds.megaphone.fm/HSW9496253302
+
+  - title: Magical Overthinkers
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/magicaloverthinkers
+
+  - title: Aware and Aggravated
+    htmlUrl: https://audioboom.com/channels/5148285
+    xmlUrl: https://audioboom.com/channels/5148285.rss
+
+  - title: Soft Skills Engineering
+    htmlUrl: https://softskills.audio/
+    xmlUrl: https://softskills.audio/feed.xml
+
+  - title: 'Choice Hacking: The Marketing Psychology Podcast'
+    htmlUrl: https://www.choicehacking.com/podcast
+    xmlUrl: https://feeds.transistor.fm/choice-hacking-the-marketing-psychology-podcast
+
+  - title: Do You F*cking Mind?
+    htmlUrl: https://www.dyfmpod.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/ce19bcec-966a-4eaa-b091-b05801826f43/41b1bd7e-0e0f-4a09-bea9-b05801826f6d/podcast.rss
+
+  - title: Gettin' Better with Ron Funches
+    htmlUrl: https://allthingscomedy.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/e2816000-9471-4c74-9c41-aca9000228dc/651a8c35-3e9e-4f2b-b3b7-aca9000228ef/podcast.rss
+
+  - title: Change Academy
+    htmlUrl: https://changeacademypodcast.com/
+    xmlUrl: https://feeds.transistor.fm/change-academy
+
+  - title: How To Fail With Elizabeth Day
+    htmlUrl: https://forms.sonymusicfans.com/campaign/how-to-fail-uk-2023/#
+    xmlUrl: https://feeds.megaphone.fm/howtofail
+
+  - title: The Art of Manliness
+    htmlUrl: http://www.artofmanliness.com/podcast/
+    xmlUrl: https://feeds.simplecast.com/azy33G8_
+
+  - title: Creative Confidence Podcast
+    htmlUrl: http://www.ideou.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:228914847/sounds.rss
+
+  - title: The Happiness Lab with Dr. Laurie Santos
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
+
+  - title: Kwik Brain with Jim Kwik
+    htmlUrl: https://art19.com/shows/kwik-brain
+    xmlUrl: https://rss.art19.com/kwik-brain
+
+  - title: Thanks For Asking
+    htmlUrl: https://www.ttfa.org/
+    xmlUrl: https://feeds.megaphone.fm/IMP8080110213
 
 - name: The Best Car Podcasts
   opml: findthatpod-the-best-car-podcasts.opml
