@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue: 320
+    title: 'Find That Pod #320'
+    pubDate:  '2025-07-11'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Making Science with Tom Whipple
+        htmlUrl: https://shows.acast.com/making-science
+        xmlUrl: https://feeds.acast.com/public/shows/making-science
+
+    - podcast:
+        title: Unsung
+        htmlUrl: https://unsung.captivate.fm/
+        xmlUrl: https://feeds.captivate.fm/unsung/
+
+    - podcast:
+        title: Let's Get Haunted
+        htmlUrl: https://www.reddit.com/r/letsgethaunted/
+        xmlUrl: https://feeds.megaphone.fm/QCD5688401368
+
+    - podcast:
+        title: Missing in Arizona
+        htmlUrl: https://www.iheart.com/podcast/1119-missing-in-arizona-201082898/
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ab557f83-5842-4caf-8305-b1a200f84fd8/64fab397-c73e-4306-9a98-b1a200f8eca6/podcast.rss
+
+    - podcast:
+        title: Beneath The Skin
+        htmlUrl: https://thomasomahonymedia.podbean.com/
+        xmlUrl: https://feed.podbean.com/thomasomahonymedia/feed.xml
+
   - issue: 319
     title: 'Find That Pod #319'
     pubDate:  '2025-07-04'
