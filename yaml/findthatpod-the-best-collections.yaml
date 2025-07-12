@@ -105,6 +105,128 @@ issues:
 - name: The Best Law & Legal Podcasts
   opml: findthatpod-the-best-law-legal-podcasts.opml
   date: 2025-04-24
+  htmlUrl: https://findthatpod.com/best-law-and-legal-podcasts/
+  podcasts:
+
+  - title: Strict Scrutiny
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/EyrYWMW2
+
+  - title: Lawyers Behaving Badly
+    htmlUrl: https://badlawyerpod.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2084096.rss
+
+  - title: Advisory Opinions
+    htmlUrl: https://advisoryopinions.thedispatch.com/
+    xmlUrl: https://feeds.simplecast.com/udH_4qgU
+
+  - title: Bloomberg Law
+    htmlUrl: https://www.bloomberg.com/audio/shows
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7c892d84-801f-4c0b-b0e9-ae2b0012ff5f/91224201-26a6-429d-ac3c-ae2b0012ff6d/podcast.rss
+
+  - title: Lawyerist Podcast
+    htmlUrl: https://lawyerist.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/LTN4952737699
+
+  - title: Short Circuit
+    htmlUrl: https://ij.org/podcasts/%podcast-type%/
+    xmlUrl: https://feeds.podcastmirror.com/short-circuit
+
+  - title: Divided Argument
+    htmlUrl: https://dividedargument.com/
+    xmlUrl: https://feeds.simplecast.com/Xo7H6ooa
+
+  - title: How I Lawyer Podcast with Jonah Perlin
+    htmlUrl: http://www.howilawyer.com/
+    xmlUrl: https://anchor.fm/s/4575bb0c/podcast/rss
+
+  - title: The Lawyer Stories Podcast
+    htmlUrl: http://lawyerstories.libsyn.com/website
+    xmlUrl: https://lawyerstories.libsyn.com/rss
+
+  - title: That One Case
+    htmlUrl: https://lowerstreet.co/podcasts/that-one-case
+    xmlUrl: https://feeds.transistor.fm/that-one-case
+
+  - title: Legally Speaking Podcast
+    htmlUrl: http://www.legallyspeakingpodcast.com/
+    xmlUrl: https://anchor.fm/s/101c33884/podcast/rss
+
+  - title: Above the Law - Thinking Like a Lawyer
+    htmlUrl: http://legaltalknetwork.com/podcasts/thinking-like-a-lawyer/
+    xmlUrl: https://feeds.megaphone.fm/LTN9584319601
+
+  - title: Settlement Nation
+    htmlUrl: http://www.settlementnation.com/
+    xmlUrl: https://feeds.buzzsprout.com/1222835.rss
+
+  - title: The Legal Toolkit
+    htmlUrl: http://legaltalknetwork.com/podcasts/legal-toolkit/
+    xmlUrl: https://feeds.megaphone.fm/LTN7031069438
+
+  - title: Serious Trouble
+    htmlUrl: https://www.serioustrouble.show/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/906465.rss
+
+  - title: The Litigation Psychology Podcast
+    htmlUrl: https://litpsych.podbean.com/
+    xmlUrl: https://feed.podbean.com/litpsych/feed.xml
+
+  - title: Cases and Controversies
+    htmlUrl: https://news.bloomberglaw.com/podcasts/cases-and-controversies
+    xmlUrl: https://feeds.megaphone.fm/cases
+
+  - title: Rational Security
+    htmlUrl: https://www.lawfareblog.com/topic/rational-security
+    xmlUrl: https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d
+
+  - title: Reasonable Doubt
+    htmlUrl: https://art19.com/shows/reasonable-doubt
+    xmlUrl: https://feeds.feedburner.com/CarollaReasonableDoubt
+
+  - title: Bite-Sized Business Law
+    htmlUrl: https://www.buzzsprout.com/2132331
+    xmlUrl: https://feeds.buzzsprout.com/2132331.rss
+
+  - title: Maximum Lawyer
+    htmlUrl: https://maximumlawyer.com/
+    xmlUrl: https://maximumlawyer.libsyn.com/rss
+
+  - title: 5-4
+    htmlUrl: https://redcircle.com/shows/5-4
+    xmlUrl: https://feeds.redcircle.com/b6f505a9-f29d-4915-9e94-85182953a0ba
+
+  - title: Our Curious Amalgam
+    htmlUrl: http://ourcuriousamalgam.com/
+    xmlUrl: https://ourcuriousamalgam.libsyn.com/rss
+
+  - title: Another Not Guilty
+    htmlUrl: https://www.anothernotguiltypod.com/
+    xmlUrl: https://anothernotguilty.libsyn.com/rss
+
+  - title: Modern Law - Droit Moderne
+    htmlUrl: https://modernlawdroitmoderne.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/N_5I7kKM
+
+  - title: Talking Feds
+    htmlUrl: https://art19.com/shows/talking-feds
+    xmlUrl: https://feeds.megaphone.fm/GEMINIMEDIA2127678588
+
+  - title: The National Security Law Podcast
+    htmlUrl: https://www.nationalsecuritylawpodcast.com/
+    xmlUrl: https://feeds.podcastmirror.com/national-security-law
+
+  - title: New Solo
+    htmlUrl: http://legaltalknetwork.com/podcasts/new-solo/
+    xmlUrl: https://feeds.megaphone.fm/LTN6152663854
+
+  - title: Amicus With Dahlia Lithwick | Law, justice, and the courts
+    htmlUrl: https://slate.com/podcasts/amicus
+    xmlUrl: https://feeds.megaphone.fm/slatesamicuswithdahlialithwick
+
+  - title: Court Junkie
+    htmlUrl: https://art19.com/shows/court-junkie
+    xmlUrl: https://rss.art19.com/court-junkie
 
 - name: The Best Trivia Podcasts
   opml: findthatpod-the-best-trivia-podcasts.opml
