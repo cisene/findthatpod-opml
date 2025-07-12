@@ -93,6 +93,156 @@ issues:
 - name: The Best Outdoor Podcasts
   opml: findthatpod-the-best-outdoor-podcasts.opml
   date: 2025-05-02
+  htmlUrl: https://findthatpod.com/best-outdoor-podcasts/
+  podcasts:
+
+  - title: Outside Podcast
+    htmlUrl: http://www.outsideonline.com/podcast
+    xmlUrl: https://feeds.feedburner.com/OutsidePodcast
+
+  - title: Backpacking Light Podcast
+    htmlUrl: https://backpackinglight.com/podcast
+    xmlUrl: https://backpackinglightpodcast.libsyn.com/rss
+
+  - title: Outside/In
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/LkRPyEJS
+
+  - title: the Sharp End Podcast
+    htmlUrl: http://www.thesharpendpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:198260728/sounds.rss
+
+  - title: The Dirtbag Diaries
+    htmlUrl: http://www.dirtbagdiaries.com/
+    xmlUrl: https://feeds.megaphone.fm/DTT3537615344
+
+  - title: She Explores
+    htmlUrl: http://www.she-explores.com/podcast
+    xmlUrl: https://feeds.simplecast.com/WLv2YH29
+
+  - title: Hiking Thru
+    htmlUrl: https://www.hiking-thru.com/episodes/
+    xmlUrl: https://www.hiking-thru.com/episodes?format=rss
+
+  - title: Backpacker Radio
+    htmlUrl: https://www.backpackerradio.thetrek.co/
+    xmlUrl: https://backpackerradio.libsyn.com/rss
+
+  - title: Wild Ideas Worth Living
+    htmlUrl: https://www.rei.com/wildideasworthliving
+    xmlUrl: https://feeds.simplecast.com/pyeGnjub
+
+  - title: Super Good Camping Podcast
+    htmlUrl: https://www.supergoodcamping.com/
+    xmlUrl: https://feeds.buzzsprout.com/1490065.rss
+
+  - title: Out There
+    htmlUrl: https://www.outtherepodcast.com/
+    xmlUrl: https://outthere.libsyn.com/rss
+
+  - title: Trail Runner Nation
+    htmlUrl: http://trailrunnernation.com/
+    xmlUrl: https://trailrunnernation.libsyn.com/rss
+
+  - title: Catch Me Outside
+    htmlUrl: https://catchmeoutside.podbean.com/
+    xmlUrl: https://catchmeoutside.podbean.com/feed.xml
+
+  - title: Bear Grease
+    htmlUrl: https://www.themeateater.com/listen/bear-grease
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8BC7753F-B108-49B7-915F-AE280065A716/DD773BCC-2806-4AB9-9E57-AE280065A75D/podcast.rss
+
+  - title: Wild Thing
+    htmlUrl: https://rss.com/podcasts/wildthing
+    xmlUrl: https://media.rss.com/wildthing/feed.xml
+
+  - title: The Firn Line
+    htmlUrl: http://www.thefirnline.com/
+    xmlUrl: https://feeds.simplecast.com/ysYPnW6O
+
+  - title: Trail Correspondents
+    htmlUrl: http://trailcorrespondents.libsyn.com/website
+    xmlUrl: https://trailcorrespondents.libsyn.com/rss
+
+  - title: The Adventure Podcast
+    htmlUrl: https://theadventurepodcast.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/99a2ee25-3c13-5b2e-8d2d-569c575f9bc5
+
+  - title: Outside Voices Podcast
+    htmlUrl: https://www.outsidevoicespodcast.com/
+    xmlUrl: https://outsidevoicespodcast.libsyn.com/rss
+
+  - title: The Fine Line
+    htmlUrl: http://www.backcountryzero.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:236655895/sounds.rss
+
+  - title: Adventure Sports Podcast
+    htmlUrl: https://redcircle.com/shows/adventure-sports-podcast
+    xmlUrl: https://feeds.redcircle.com/0b5abe54-544e-4b3c-aafb-3fde82fe574e
+
+  - title: 'The Enormocast: the climbing podcast'
+    htmlUrl: https://enormocast.com/
+    xmlUrl: https://enormocast.com/?feed=podcast
+
+  - title: Out Alive from Backpacker
+    htmlUrl: https://www.backpacker.com/
+    xmlUrl: https://feeds.megaphone.fm/out-alive
+
+  - title: Downtime - The Mountain Bike Podcast
+    htmlUrl: https://www.downtimepodcast.com/
+    xmlUrl: https://www.downtimepodcast.com/feed/podcast/
+
+  - title: By Land Podcast
+    htmlUrl: https://byland.co/by-land-podcast
+    xmlUrl: https://feeds.buzzsprout.com/1952792.rss
+
+  - title: The Paul Kirtley Podcast
+    htmlUrl: https://paulkirtley.co.uk/
+    xmlUrl: https://paulkirtley.co.uk/feed/podcast/
+
+  - title: Paddling Adventures Radio
+    htmlUrl: https://paddlingadventuresradio.com/feed/episodes
+    xmlUrl: https://paddlingadventuresradio.com/feed/episodes
+
+  - title: 'Tooth & Claw: True Stories of Animal Attacks'
+    htmlUrl': https://qcodemedia.com/tooth-claw
+    xmlUrl: https://feeds.megaphone.fm/QCD9705695442
+
+  - title: The Outdoor Evolution Podcast
+    htmlUrl: https://theoutdoorevolution.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/1206203.rss
+
+  - title: The River Radius Podcast
+    htmlUrl: http://www.theriverradius.com/
+    xmlUrl: https://feeds.simplecast.com/IJbhX5_G
+
+  - title: Out and Back
+    htmlUrl: https://www.gaiagps.com/outandback/
+    xmlUrl: https://feeds.megaphone.fm/POM9812562051
+
+  - title: The Outdoors Fix
+    htmlUrl: https://theoutdoorsfix.com/
+    xmlUrl: https://theoutdoorsfix.com/feed/podcast/
+
+  - title: Outdoors with AJ
+    htmlUrl: https://outdoorspc.podbean.com/
+    xmlUrl: https://outdoorspc.podbean.com/feed.xml
+
+  - title: The Wilderness and Wellness Podcast
+    htmlUrl: http://coyotespath.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/436141.rss
+
+  - title: Trails Worth Hiking
+    htmlUrl: https://trailsworthhiking.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1235132.rss
+
+  - title: The Child and Nature Alliance Podcast
+    htmlUrl: https://www.buzzsprout.com/971068
+    xmlUrl: https://feeds.buzzsprout.com/971068.rss
+
+  - title: Gaze At the National Parks
+    htmlUrl: https://redcircle.com/shows/gaze-at-the-national-parks
+    xmlUrl: https://feeds.redcircle.com/28b54ab2-7662-4127-8445-012464c2a153
 
 - name: The Best Family Podcast
   opml: findthatpod-the-best-family-podcast.opml
