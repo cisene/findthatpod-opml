@@ -101,6 +101,148 @@ issues:
 - name: The Best Military Podcasts
   opml: findthatpod-the-best-military-podcasts.opml
   date: 2025-04-29
+  htmlUrl: https://findthatpod.com/best-military-podcasts/
+  podcasts:
+
+  - title: SOFREP Radio
+    htmlUrl: https://sofrep.com/sofrep-radio/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4561D04B-E952-4409-A035-AE3C000268CC/7915106F-A7BC-4034-94FF-AE3C000268DA/podcast.rss
+
+  - title: Mentors for Military Podcast
+    htmlUrl: http://www.mentorsformilitary.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:193038850/sounds.rss
+
+  - title: General Talk
+    htmlUrl: https://armybenevolentfund.org/podcasts/?podcast_category=general-talk
+    xmlUrl: https://audioboom.com/channels/5030989.rss
+
+  - title: 'The #BruteCast'
+    htmlUrl: https://podcasters.spotify.com/pod/show/krulak-center
+    xmlUrl: https://anchor.fm/s/49b83848/podcast/rss
+
+  - title: New Books in Military History
+    htmlUrl: https://newbooksnetwork.com/category/politics-society/military-history/
+    xmlUrl: https://feeds.megaphone.fm/LIT5868539187
+
+  - title: Got Your Six with Tony Nash
+    htmlUrl: https://www.thetonynash.com/podcast
+    xmlUrl: https://anchor.fm/s/d48dd8ec/podcast/rss
+
+  - title: Lions Led By Donkeys Podcast
+    htmlUrl: https://www.patreon.com/lionsledbydonkeys
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:457245963/sounds.rss
+
+  - title: Cleared Hot
+    htmlUrl: https://www.andystumpf.com/
+    xmlUrl: https://feeds.buzzsprout.com/2221498.rss
+
+  - title: Combat Story
+    htmlUrl: https://sites.libsyn.com/435765
+    xmlUrl: https://feeds.libsyn.com/435765/rss
+
+  - title: Ancient Warfare Podcast
+    htmlUrl: http://thehistorynetwork.org/
+    xmlUrl: https://ancientwarfare.libsyn.com/rss
+
+  - title: Irregular Warfare Podcast
+    htmlUrl: https://irregularwarfare.podbean.com/
+    xmlUrl: https://feed.podbean.com/IrregularWarfare/feed.xml
+
+  - title: The FORSCOM Frontline
+    htmlUrl: https://podcasters.spotify.com/pod/show/forscom-frontline
+    xmlUrl: https://anchor.fm/s/6aa4f67c/podcast/rss
+
+  - title: Breaking Doctrine
+    htmlUrl: http://usacac.army.mil/core-functions/doctrine
+    xmlUrl: https://podcast.blob.core.usgovcloudapi.net/cadd/Breaking_Doctrine.xml
+
+  - title: The Cove Podcast
+    htmlUrl: https://cove.army.gov.au/
+    xmlUrl: https://feeds.megaphone.fm/HVTCV4822263338
+
+  - title: The Unconventional Soldier
+    htmlUrl: https://feeds.acast.com/public/shows/the-unconventional-soldier
+    xmlUrl: https://feeds.acast.com/public/shows/657da0f3e3e20a001702e328
+
+  - title: National Defense Magazine
+    htmlUrl: http://www.nationaldefensemagazine.org/
+    xmlUrl: https://nationaldefense.libsyn.com/rss
+
+  - title: The Spear
+    htmlUrl: https://mwi.usma.edu/
+    xmlUrl: https://feeds.castos.com/2846
+
+  - title: Fighter Pilot Podcast
+    htmlUrl: https://redcircle.com/shows/the-fighter-pilot-podcast
+    xmlUrl: https://feeds.redcircle.com/87e44bb8-fa63-4642-a11d-e341c14c2243
+
+  - title: Women of the Military
+    htmlUrl: https://women-of-the-military.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/atiIsnQI
+
+  - title: Pete & Gary's Military History
+    htmlUrl: https://livinghistorytv.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6244cc8800678b0013f4c13a
+
+  - title: School of War
+    htmlUrl: https://nebulouspodcasts.com/
+    xmlUrl: https://feeds.megaphone.fm/school-of-war
+
+  - title: Modern War Institute
+    htmlUrl: https://mwi.usma.edu/
+    xmlUrl: https://feeds.castos.com/w480
+
+  - title: Jocko Podcast
+    htmlUrl: https://redcircle.com/shows/jocko-podcast
+    xmlUrl: https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+
+  - title: Veterans Chronicles
+    htmlUrl: https://www.spreaker.com/show/veterans-chronicles
+    xmlUrl: https://www.spreaker.com/show/2980518/episodes/feed
+
+  - title: The WW2 Podcast
+    htmlUrl: http://www.ww2podcast.com/
+    xmlUrl: https://ww2podcast.libsyn.com/rss
+
+  - title: The Principles of War - Lessons from Military History on Strategy, Tactics, Doctrine and Leadership.
+    htmlUrl: https://theprinciplesofwar.com/
+    xmlUrl: https://theprinciplesofwar.libsyn.com/rss
+
+  - title: Friendly Fire
+    htmlUrl: https://maximumfun.org/podcasts/friendly-fire/
+    xmlUrl: http://feeds.feedburner.com/FriendlyFirePod
+
+  - title: Warriors In Their Own Words | First Person War Stories
+    htmlUrl: http://www.evergreenpodcasts.com/warriors-in-their-own-words
+    xmlUrl: https://feeds.megaphone.fm/warriorsintheirownwords
+
+  - title: Great Big Podcast
+    htmlUrl: https://fortcavazospao.podbean.com/
+    xmlUrl: https://feed.podbean.com/fortcavazospao/feed.xml
+
+  - title: Leader Up
+    htmlUrl: https://armyuniversity.edu/amsc/podcast
+    xmlUrl: https://podcast.blob.core.usgovcloudapi.net/amsc/AMSC_Podcast_episodes.xml
+
+  - title: Team Never Quit
+    htmlUrl: http://www.teamneverquit.com/podcast
+    xmlUrl: https://audioboom.com/channels/5035699.rss
+
+  - title: 'SOGCast: Untold Stories of MAC V SOG'
+    htmlUrl: https://redcircle.com/shows/sogcast
+    xmlUrl: https://feeds.redcircle.com/31f97087-e73f-4564-97ef-acf211bdee2e
+
+  - title: War on the Rocks
+    htmlUrl: https://warontherocks.com/
+    xmlUrl: https://warontherocks.libsyn.com/rss
+
+  - title: Covert
+    htmlUrl: https://audioboom.com/channels/4960561
+    xmlUrl: https://audioboom.com/channels/4960561.rss
+
+  - title: The Team House
+    htmlUrl: https://www.spreaker.com/show/the-team-house_2
+    xmlUrl: https://www.spreaker.com/show/5960890/episodes/feed
 
 - name: The Best Law & Legal Podcasts
   opml: findthatpod-the-best-law-legal-podcasts.opml
