@@ -97,6 +97,120 @@ issues:
 - name: The Best Family Podcast
   opml: findthatpod-the-best-family-podcast.opml
   date: 2025-04-30
+  htmlUrl: https://findthatpod.com/best-family-podcasts/
+  podcasts:
+
+  - title: 'But Why: A Podcast for Curious Kids'
+    htmlUrl: http://butwhykids.org/
+    xmlUrl: https://podcasts.vpr.net/but-why
+
+  - title: 'Smash Boom Best: A funny, smart debate show for kids and family'
+    htmlUrl: https://www.smashboom.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/smash-boom-best
+
+  - title: Wow in the World
+    htmlUrl: https://wondery.com/shows/wow-in-the-world/?utm_source=rss
+    xmlUrl: https://rss.art19.com/wow-in-the-world
+
+  - title: Raising Good Humans
+    htmlUrl: https://art19.com/shows/raising-good-humans
+    xmlUrl: https://rss.art19.com/raising-good-humans
+
+  - title: Parenting Hell with Rob Beckett and Josh Widdicombe
+    htmlUrl: https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz
+    xmlUrl: https://feeds.megaphone.fm/GLT9881106244
+
+  - title: Reading With Your Kids Podcast
+    htmlUrl: http://readingwithyourkids.libsyn.com/site
+    xmlUrl: https://readingwithyourkids.libsyn.com/rss
+
+  - title: The Nourished Child
+    htmlUrl: https://thenourishedchild.com/category/podcast/
+    xmlUrl: https://thenourishedchild.libsyn.com/rss
+
+  - title: We Are Family
+    htmlUrl: https://www.parents.com/WeAreFamilyPodcast
+    xmlUrl: https://feeds.megaphone.fm/parents-we-are-family
+
+  - title: Zen Pop Parenting
+    htmlUrl: https://zenpopparenting.com/
+    xmlUrl: https://feeds.podcastmirror.com/zpr
+
+  - title: Super Great Kids' Stories
+    htmlUrl: http://www.supergreatkidsstories.com/
+    xmlUrl: https://feeds.megaphone.fm/super-great-kids-stories
+
+  - title: Million Bazillion
+    htmlUrl: https://www.marketplace.org/shows/million-bazillion
+    xmlUrl: https://feeds.publicradio.org/public_feeds/million-bazillion
+
+  - title: Family Road Trip Trivia Podcast
+    htmlUrl: https://www.familyroadtriptriviapodcast.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/ARML3371399296
+
+  - title: Finding Your Village
+    htmlUrl: http://www.findingyourvillagepod.com/
+    xmlUrl: https://feeds.buzzsprout.com/824491.rss
+
+  - title: Get Help Dad Podcast
+    htmlUrl: https://www.buzzsprout.com/2031912
+    xmlUrl: https://feeds.buzzsprout.com/2031912.rss
+
+  - title: Good Inside with Dr. Becky
+    htmlUrl: https://good-inside.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Y5N0xWWZ
+
+  - title: Tumble Science Podcast for Kids
+    htmlUrl: https://www.sciencepodcastforkids.com/
+    xmlUrl: http://feeds.sciencepodcastforkids.com/tumblepodcast
+
+  - title: Mommy's on a Call | Holistic Health, Wellness & Mindfulness for Modern Moms, Entrepreneurship, Mindful Parenting
+    htmlUrl: https://www.stephanieuchima.com/
+    xmlUrl: https://stephanie.libsyn.com/rss
+
+  - title: Radiolab for Kids
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolab-kids
+    xmlUrl: http://feeds.feedburner.com/radiolab-kids
+
+  - title: 'What Fresh Hell: Laughing in the Face of Motherhood | Parenting Tips From Funny Moms'
+    htmlUrl: https://www.whatfreshhellpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/WFH1568989392
+
+  - title: Circle Round
+    htmlUrl: https://www.wbur.org/podcasts/circleround
+    xmlUrl: https://rss.wbur.org/circleround/podcast
+
+  - title: Peace Out Podcast
+    htmlUrl: https://www.chaneltsang.com/
+    xmlUrl: https://peaceoutpodcast.libsyn.com/rss
+
+  - title: Moment of Um
+    htmlUrl: http://momentofum.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/moment-of-um
+
+  - title: Dads With Daughters
+    htmlUrl: http://fatheringtogether.org/
+    xmlUrl: https://dadswithdaughters.libsyn.com/rss
+
+  - title: Greeking Out from National Geographic Kids
+    htmlUrl: https://www.nationalgeographic.com/podcasts/greeking-out/
+    xmlUrl: https://feeds.megaphone.fm/ESP4751925729
+
+  - title: Parenting for the Future
+    htmlUrl: http://petalmodeste.libsyn.com/website
+    xmlUrl: https://petalmodeste.libsyn.com/rss
+
+  - title: Book Club for Kids
+    htmlUrl: http://www.bookclubforkids.org/
+    xmlUrl: https://bookclubforkids.libsyn.com/rss
+
+  - title: Forever Ago
+    htmlUrl: https://www.brainson.org/collection/forever-ago-podcast
+    xmlUrl: https://feeds.publicradio.org/public_feeds/forever-ago
+
+  - title: Who Smarted? - Educational Podcast for Kids
+    htmlUrl: https://whosmarted.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS8637059451
 
 - name: The Best Military Podcasts
   opml: findthatpod-the-best-military-podcasts.opml

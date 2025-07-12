@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Family Podcast](https://b19.se/data/opml/findthatpod/findthatpod-the-best-family-podcast.opml) | 2025-04-30 |
 | [FindThatPod - The Best Military Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-military-podcasts.opml) | 2025-04-29 |
 | [FindThatPod - The Best Law & Legal Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-law-legal-podcasts.opml) | 2025-04-24 |
 | [FindThatPod - The Best Trivia Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-trivia-podcasts.opml) | 2025-04-24 |
