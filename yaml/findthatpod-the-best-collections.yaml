@@ -109,6 +109,132 @@ issues:
 - name: The Best Trivia Podcasts
   opml: findthatpod-the-best-trivia-podcasts.opml
   date: 2025-04-24
+  htmlUrl: https://findthatpod.com/best-trivia-podcasts/
+  podcasts:
+
+  - title: No Such Thing As A Fish
+    htmlUrl: http://nosuchthingasafish.com/
+    xmlUrl: https://audioboom.com/channels/2399216.rss
+
+  - title: The Weirdest Thing I Learned This Week
+    htmlUrl: https://www.popsci.com/weird
+    xmlUrl: https://feeds.megaphone.fm/RECU9765916949
+
+  - title: The 20 Questions Podcast Trivia Quiz
+    htmlUrl: https://the20questions.podbean.com/
+    xmlUrl: https://feed.podbean.com/the20questions/feed.xml
+
+  - title: Quiz Quiz Bang Bang Trivia Podcast
+    htmlUrl: https://www.spreaker.com/show/quiz-quiz-bang-bang-trivia-podcast
+    xmlUrl: https://www.spreaker.com/show/5857487/episodes/feed
+
+  - title: Super Fun Time Trivia
+    htmlUrl: https://podcast.superfuntimetrivia.com/
+    xmlUrl: https://feed.podbean.com/podcast.superfuntimetrivia.com/feed.xml
+
+  - title: No Chit Chat Trivia
+    htmlUrl: https://bleav.com/shows/no-chit-chat-trivia/
+    xmlUrl: https://feeds.simplecast.com/0xiOqjcH
+
+  - title: Trivia Night 🧠 by Crowdpurr
+    htmlUrl: https://www.crowdpurr.com/
+    xmlUrl: https://anchor.fm/s/84135720/podcast/rss
+
+  - title: PodQuiz weekly trivia quiz
+    htmlUrl: http://www.podquiz.com/
+    xmlUrl: http://podquiz.com/rss.php
+
+  - title: Trivial Warfare Trivia
+    htmlUrl: http://www.trivialwarfare.com/
+    xmlUrl: https://trivialwarfare.libsyn.com/rss
+
+  - title: Fingers On Buzzers
+    htmlUrl: http://www.fingersbuzzers.com/
+    xmlUrl: https://feeds.acast.com/public/shows/405e99b0-cd05-497f-b388-4c5586cc411a
+
+  - title: Instant Trivia
+    htmlUrl: https://www.markdonovan.com/
+    xmlUrl: https://anchor.fm/s/4c61726c/podcast/rss
+
+  - title: Ask Me Another
+    htmlUrl: https://www.npr.org/podcasts/510299/ask-me-another
+    xmlUrl: https://feeds.npr.org/510299/podcast.xml
+
+  - title: Trivia With Budds
+    htmlUrl: http://triviawithbudds.libsyn.com/podcast
+    xmlUrl: https://triviawithbudds.libsyn.com/rss
+
+  - title: Bus One Trivia
+    htmlUrl: https://busonetrivia.com/
+    xmlUrl: https://anchor.fm/s/7ed45688/podcast/rss
+
+  - title: Every Little Thing
+    htmlUrl: https://www.gimletmedia.com/elt
+    xmlUrl: https://feeds.megaphone.fm/everylittlething
+
+  - title: Quiz Chat Repeat
+    htmlUrl: http://crowdnetwork.co.uk/
+    xmlUrl: https://rss.acast.com/quiz-chat-repeat
+
+  - title: The Quiz Cupboard
+    htmlUrl: https://www.podomatic.com/podcasts/quizcupboard
+    xmlUrl: https://quizcupboard.podomatic.com/rss2.xml
+
+  - title: Lateral with Tom Scott
+    htmlUrl: https://www.lateralcast.com/
+    xmlUrl: https://feeds.megaphone.fm/lateralcast
+
+  - title: The Ultimate Trivia Podcast
+    htmlUrl: https://redcircle.com/shows/the-ultimate-trivia-podcast
+    xmlUrl: https://feeds.redcircle.com/328293a3-5b3a-45d6-b90b-3da8a707a005
+
+  - title: Good Job, Brain!
+    htmlUrl: http://goodjobbrain.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV5519990080
+
+  - title: TRIVIALITY - A Trivia Game Show Podcast
+    htmlUrl: http://www.trivialitypodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML7228257321
+
+  - title: Omnibus
+    htmlUrl: https://audioboom.com/channels/5127257
+    xmlUrl: https://audioboom.com/channels/5127257.rss
+
+  - title: 'Miss Information: A Trivia Podcast'
+    htmlUrl: https://www.missinfopod.com/
+    xmlUrl: https://www.missinfopod.com/feed/podcast/
+
+  - title: Answer Me This!
+    htmlUrl: http://answermethispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/AUDD4600590729
+
+  - title: Pub Trivia Experience
+    htmlUrl: https://pubtriviaexperience.podbean.com/
+    xmlUrl: https://pubtriviaexperience.podbean.com/feed.xml
+
+  - title: The Complete Guide to Everything
+    htmlUrl: https://tcgte.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6824cccda9ce4d3694189554
+
+  - title: Go Fact Yourself
+    htmlUrl: http://maximumfun.org/shows/go-fact-yourself
+    xmlUrl: https://feeds.simplecast.com/FeofiXhA
+
+  - title: Let's Learn Everything!
+    htmlUrl: https://www.letslearneverythingpod.com/
+    xmlUrl: https://feeds.simplecast.com/2pvdZXa_
+
+  - title: Dorky Geeky Nerdy Trivia Podcast
+    htmlUrl: https://dorkygeekynerdy.com/
+    xmlUrl: https://anchor.fm/s/a8bad94/podcast/rss
+
+  - title: TRIVIA TIME
+    htmlUrl: https://triviatimepodcast.com/
+    xmlUrl: https://feeds.simplecast.com/vxnHA4AZ
+
+  - title: I Should Have Known
+    htmlUrl: http://www.ishouldhaveknownpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1703650.rss
 
 - name: The Best Self Improvement Podcasts
   opml: findthatpod-the-best-self-improvement-podcasts.opml
