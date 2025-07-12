@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Car Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-car-podcasts.opml) | 2025-04-17 |
 | [FindThatPod - The Best Wine Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wine-podcasts.opml) | 2025-04-16 |
 | [FindThatPod - The Best Porn Podcast](https://b19.se/data/opml/findthatpod/findthatpod-the-best-porn-podcast.opml) | 2025-04-16 |
 | [FindThatPod - The Best Basketball & NBA Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-basketball-nba-podcasts.opml) | 2025-04-10 |

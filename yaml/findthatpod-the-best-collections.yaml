@@ -117,6 +117,80 @@ issues:
 - name: The Best Car Podcasts
   opml: findthatpod-the-best-car-podcasts.opml
   date: 2025-04-17
+  htmlUrl: https://findthatpod.com/best-car-podcasts/
+  podcasts:
+
+  - title: My week in cars
+    htmlUrl: https://shows.acast.com/my-week-in-car
+    xmlUrl: https://feeds.acast.com/public/shows/631f3b92b4aca6001290ac09
+
+  - title: Everyday Driver Car Debate
+    htmlUrl: https://www.everydaydriver.com/
+    xmlUrl: https://feeds.megaphone.fm/EDLLC3514359520
+
+  - title: My First Car
+    htmlUrl: https://saveourscene.podbean.com/
+    xmlUrl: https://feed.podbean.com/saveourscene/feed.xml
+
+  - title: CarStuff
+    htmlUrl: https://www.iheart.com/podcast/carstuff-21122711/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8790a184-0891-4273-aab8-ae32006cd89d/a51fedf0-9e82-4beb-b73a-ae32006cd8ac/podcast.rss
+
+  - title: The Collecting Cars Podcast with Chris Harris
+    htmlUrl: https://www.collectingcars.com/
+    xmlUrl: https://feeds.acast.com/public/shows/659d39eaec96290016ddbae0
+
+  - title: InsideEVs Plugged-In Podcast - Electric Vehicle News
+    htmlUrl: http://www.insideevs.com/
+    xmlUrl: https://audioboom.com/channels/5048390.rss
+
+  - title: The Carmudgeon Show
+    htmlUrl: http://sites.libsyn.com/410528/website
+    xmlUrl: https://feeds.megaphone.fm/HGM7158837796
+
+  - title: Behind The Glass
+    htmlUrl: http://www.youtube.com/behindtheglass
+    xmlUrl: https://feeds.acast.com/public/shows/b2245527-b1c1-40c5-97ff-9a3bfe78c636
+
+  - title: Car Chat
+    htmlUrl: http://www.sammoores.com/blog
+    xmlUrl: https://feeds.megaphone.fm/COMG1396248115
+
+  - title: The Trailchasers Podcast
+    htmlUrl: http://www.trailchasers.net/podcast
+    xmlUrl: https://trailchasers.libsyn.com/rss
+
+  - title: The Smoking Tire
+    htmlUrl: http://www.youtube.com/thesmokingtirepodcast
+    xmlUrl: https://feeds.simplecast.com/c2RzTGta
+
+  - title: F1 Beyond The Grid
+    htmlUrl: https://www.f1.com/
+    xmlUrl: https://audioboom.com/channels/4964339.rss
+
+  - title: Fuelling Around - Stars Talking Cars!
+    htmlUrl: http://www.adrianflux.co.uk/
+    xmlUrl: https://audioboom.com/channels/5027534.rss
+
+  - title: The Best of Car Talk
+    htmlUrl: https://www.npr.org/podcasts/510208/car-talk
+    xmlUrl: https://feeds.npr.org/510208/podcast.xml
+
+  - title: The Car Podcast with Chris Harris & Friends
+    htmlUrl: https://shows.acast.com/chris-harris-on-cars-untitled
+    xmlUrl: https://feeds.acast.com/public/shows/66ab67440913aff5a4615e97
+
+  - title: Past Gas by Donut Media
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: http://feeds.feedburner.com/PastGasPodcast
+
+  - title: CarCast
+    htmlUrl: https://bleav.com/shows/carcast/
+    xmlUrl: https://feeds.feedburner.com/CarCast
+
+  - title: Driving While Awesome
+    htmlUrl: https://driving-while-awesome.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/LD5YSw3I
 
 - name: The Best Wine Podcasts
   opml: findthatpod-the-best-wine-podcasts.opml
