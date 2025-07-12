@@ -121,6 +121,92 @@ issues:
 - name: The Best Wine Podcasts
   opml: findthatpod-the-best-wine-podcasts.opml
   date: 2025-04-16
+  htmlUrl: https://findthatpod.com/best-wine-podcasts/
+  podcasts:
+
+  - title: Wine Enthusiast Podcast
+    htmlUrl: http://www.winemag.com/podcast
+    xmlUrl: https://wineenthusiastpodcast.libsyn.com/rss
+
+  - title: Inside Winemaking - the art and science of growing grapes and crafting wine
+    htmlUrl: http://www.insidewinemaking.com/
+    xmlUrl: https://insidewinemaking.libsyn.com/rss
+
+  - title: Decanted Wine Podcast
+    htmlUrl: http://decantedpodcast.com/
+    xmlUrl: https://decantedpodcast.libsyn.com/rss
+
+  - title: Renegade - A Blackthorn Podcast
+    htmlUrl: http://www.joinblackthorn.com/
+    xmlUrl: https://feeds.buzzsprout.com/1928469.rss
+
+  - title: Read Between the Wines Podcast
+    htmlUrl: https://readbetweenthewines.com/
+    xmlUrl: https://rbtwpodcast.libsyn.com/rss
+
+  - title: Wine for Normal People
+    htmlUrl: http://winefornormalpeople.libsyn.com/
+    xmlUrl: https://feeds.libsyn.com/45638/rss
+
+  - title: The Swirl Suite
+    htmlUrl: https://alivepodcastnetwork.com/
+    xmlUrl: https://rss.alivepodcastnetwork.com/the-swirl-suite
+
+  - title: Matthew's World of Wine and Drink
+    htmlUrl: https://www.matthewsworldofwineanddrink.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:313728929/sounds.rss
+
+  - title: Court of Wine
+    htmlUrl: https://courtofwine.com/
+    xmlUrl: https://weeklywineshow.libsyn.com/rss
+
+  - title: Wine Blast with Susie and Peter
+    htmlUrl: https://susieandpeter.com/podcast/
+    xmlUrl: https://feeds.buzzsprout.com/957568.rss
+
+  - title: The English Wine Diaries
+    htmlUrl: http://www.englishwinediaries.co.uk/
+    xmlUrl: https://feeds.buzzsprout.com/1748219.rss
+
+  - title: A Glass With
+    htmlUrl: http://www.ollysmith.com/
+    xmlUrl: https://aglasswith.libsyn.com/rss
+
+  - title: Two Guys Talking Wine
+    htmlUrl: https://soundcloud.com/twoguystalkingwine
+    xmlUrl: https://feeds.acast.com/public/shows/6511c62fe7b19e00114600e0
+
+  - title: Wine with Meg + Mel
+    htmlUrl: https://winewithmegandmel.com/
+    xmlUrl: https://feeds.buzzsprout.com/1697659.rss
+
+  - title: I'll Drink to That! Wine Talk
+    htmlUrl: https://illdrinktothatpod.com/
+    xmlUrl: https://rss.art19.com/i-ll-drink-to-that--wine-talk-
+
+  - title: After Wine School
+    htmlUrl: https://wineschool.podbean.com/
+    xmlUrl: https://feed.podbean.com/wineschool/feed.xml
+
+  - title: 'EAT SLEEP WINE REPEAT: A wine podcast'
+    htmlUrl: https://eatsleepwinerepeat.podbean.com/
+    xmlUrl: https://eatsleepwinerepeat.podbean.com/feed.xml
+
+  - title: Unreserved Wine Talk
+    htmlUrl: https://www.nataliemaclean.com/
+    xmlUrl: https://nataliemaclean.libsyn.com/rss
+
+  - title: The Grape Nation
+    htmlUrl: https://art19.com/shows/grape-nation
+    xmlUrl: https://rss.art19.com/grape-nation
+
+  - title: Italian Wine Podcast
+    htmlUrl: http://www.italianwinepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/MJS8122694951
+
+  - title: SOMM TV wine & food
+    htmlUrl: https://www.podomatic.com/podcasts/sommtv
+    xmlUrl: https://sommtv.podomatic.com/rss2.xml
 
 - name: The Best Porn Podcast
   opml: findthatpod-the-best-porn-podcast.opml
