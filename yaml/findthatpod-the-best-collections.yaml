@@ -17,6 +17,84 @@ issues:
 - name: The Best Podcasts About The American Civil War
   opml: findthatpod-the-best-podcasts-about-the-american-civil-war.opml
   date: 2025-07-02
+  htmlUrl: https://findthatpod.com/best-american-civil-war-podcasts/
+  podcasts:
+
+  - title: Civil War Talk Radio
+    htmlUrl: http://www.impedimentsofwar.org/
+    xmlUrl: http://www.impedimentsofwar.org/civilwartalkradio.rss
+
+  - title: Untold Civil War
+    htmlUrl: https://www.untoldcivilwar.com/
+    xmlUrl: https://feeds.buzzsprout.com/796715.rss
+
+  - title: American Revolution Podcast
+    htmlUrl: https://blog.amrevpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML2838039229
+
+  - title: Emerging Civil War
+    htmlUrl: http://emergingcivilwar.com/
+    xmlUrl: https://anchor.fm/s/7c260d78/podcast/rss
+
+  - title: Civil War Weekly
+    htmlUrl: https://www.patreon.com/CWweeklypod
+    xmlUrl: https://anchor.fm/s/9847a994/podcast/rss
+
+  - title: Civil War Regiments
+    htmlUrl: https://podcasters.spotify.com/pod/show/civilwarregiments
+    xmlUrl: https://anchor.fm/s/1b7c232c/podcast/rss
+
+  - title: Battlefields & Bourbon Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/battlefieldsandbourbon
+    xmlUrl: https://anchor.fm/s/e4066b90/podcast/rss
+
+  - title: The Civil War & Reconstruction
+    htmlUrl: http://civilwarpodcast.org/
+    xmlUrl: https://feeds.megaphone.fm/ARML9312759060
+
+  - title: Battles Of The American Civil War
+    htmlUrl: https://www.spreaker.com/show/battles-of-the-american-civil-war
+    xmlUrl: https://www.spreaker.com/show/5359135/episodes/feed
+
+  - title: The Battle of Gettysburg Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/battleofgettysburgpodcast
+    xmlUrl: https://anchor.fm/s/cd8d0b8/podcast/rss
+
+  - title: Civil War Breakfast Club
+    htmlUrl: https://civilwarbreakfastclub.podbean.com/
+    xmlUrl: https://feed.podbean.com/civilwarbreakfastclub/feed.xml
+
+  - title: 'Portraits of Blue & Grey: The Biographical Civil War Podcast'
+    htmlUrl: http://recordedhistory.net/portraits-of-blue-and-grey/
+    xmlUrl: https://feeds.megaphone.fm/ADL1680784575
+
+  - title: Uncivil
+    htmlUrl: http://uncivil.show/
+    xmlUrl: https://feeds.megaphone.fm/uncivil
+
+  - title: The Antietam and Beyond Podcast
+    htmlUrl: https://john-banks.blogspot.com/
+    xmlUrl: https://feeds.transistor.fm/the-antietam-and-beyond-podcast
+
+  - title: The Civil Weird Podcast
+    htmlUrl: https://anchor.fm/s/e30bf0e8/podcast/rss
+    xmlUrl: https://anchor.fm/s/e30bf0e8/podcast/rss
+
+  - title: Key Battles of the Civil War
+    htmlUrl: https://www.spreaker.com/show/key-battles-of-the-civil-war_1
+    xmlUrl: https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/f91cc734-b724-4d1b-a8ac-b1920143a585/4ff8558f-7a1e-441d-a32e-b1920143de09/podcast.rss
+
+  - title: 'Threads From The National Tapestry: Stories From The American Civil War'
+    htmlUrl: https://fredkigerthreadspodcast.podbean.com/
+    xmlUrl: https://fredkigerthreadspodcast.podbean.com/feed.xml
+
+  - title: 'War Of The Rebellion: Stories Of The Civil War'
+    htmlUrl: http://rebellionstories.com/
+    xmlUrl: https://feeds.buzzsprout.com/1739782.rss
+
+  - title: Addressing Gettysburg
+    htmlUrl: http://www.addressinggettysburg.com/
+    xmlUrl: https://addressinggettysburg.libsyn.com/rss
 
 - name: The Best Medical Podcasts
   opml: findthatpod-the-best-medical-podcasts.opml
