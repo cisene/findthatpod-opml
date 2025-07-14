@@ -77,6 +77,120 @@ issues:
 - name: The Best Cycling Podcasts
   opml: findthatpod-the-best-cycling-podcasts.opml
   date: 2025-05-22
+  htmlUrl: https://findthatpod.com/best-cycling-podcasts/
+  podcasts:
+
+  - title: The Cycling Podcast
+    htmlUrl: http://thecyclingpodcast.com/
+    xmlUrl: https://audioboom.com/channels/1405050.rss
+
+  - title: Marginal Gains Cycling Podcast, Presented by Silca
+    htmlUrl: http://marginalgainspodcast.cc/
+    xmlUrl: https://marginalgainspodcast.libsyn.com/rss
+
+  - title: The Paceline Cycling Podcast
+    htmlUrl: https://cyclingindependent.com/
+    xmlUrl: https://cyclingindependent.com/feed/podcast/
+
+  - title: 'The Slow Ride: A Cycling Podcast'
+    htmlUrl: http://www.theslowridepodcast.com/
+    xmlUrl: https://slowride.libsyn.com/rss
+
+  - title: Cycling in Alignment with Colby Pearce
+    htmlUrl: https://cyclinglinalignmentwithcolbypearce.podbean.com/
+    xmlUrl: https://feed.podbean.com/cyclinglinalignmentwithcolbypearce/feed.xml
+
+  - title: Bikepack Adventures Podcast
+    htmlUrl: https://www.bikepackadventures.ca/podcast
+    xmlUrl: https://feeds.captivate.fm/bikepackadventures/
+
+  - title: The Ride Companion
+    htmlUrl: https://theridecompanion.co.uk/
+    xmlUrl: https://thehktpodcast.libsyn.com/rss
+
+  - title: The Wild Ones Cycling Podcast
+    htmlUrl: https://shows.acast.com/the-wild-ones
+    xmlUrl: https://feeds.acast.com/public/shows/6477148d8332f1001103c9af
+
+  - title: Ask a Cycling Coach Podcast - Presented by TrainerRoad
+    htmlUrl: https://www.trainerroad.com/podcast
+    xmlUrl: https://anchor.fm/s/ee9bd108/podcast/rss
+
+  - title: Canadian Cycling Magazine Podcast
+    htmlUrl: https://cyclingmagazine.ca/
+    xmlUrl: https://feeds.simplecast.com/kG7loRk4
+
+  - title: Beyond the Peloton Podcast
+    htmlUrl: https://beyondthepeloton.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/64344.rss
+
+  - title: Bikes or Death
+    htmlUrl: https://bikesordeath.com/
+    xmlUrl: https://bikesordeath.libsyn.com/rss
+
+  - title: Bikes & Big Ideas
+    htmlUrl: https://blisterreview.com/category/podcasts/bikes-big-ideas
+    xmlUrl: https://feed.pippa.io/public/shows/5cc11830a54f4a082908bc15
+
+  - title: Spin Cycle - Tour de France Daily
+    htmlUrl: https://escapecollective.com/
+    xmlUrl: https://feeds.transistor.fm/escape-collective
+
+  - title: Lanterne Rouge Cycling Podcast
+    htmlUrl: https://www.lanternerouge.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6565736dd2e37200126fbf93
+
+  - title: The Gravel Ride. A cycling podcast
+    htmlUrl: http://thegravelride.libsyn.com/website
+    xmlUrl: https://thegravelride.bike/rss
+
+  - title: FASTER Cycling
+    htmlUrl: https://flocycling.com/pages/podcast
+    xmlUrl: https://feeds.buzzsprout.com/673426.rss
+
+  - title: THEMOVE
+    htmlUrl: https://wedu.team/themove
+    xmlUrl: https://stages.libsyn.com/rss
+
+  - title: Singletracks Mountain Bike Podcast
+    htmlUrl: https://www.singletracks.com/
+    xmlUrl: https://www.singletracks.com/feed/podcast/
+
+  - title: Fast Talk
+    htmlUrl: https://www.fasttalklabs.com/
+    xmlUrl: https://feeds.megaphone.fm/FL6957223658
+
+  - title: Empirical Cycling Podcast
+    htmlUrl: http://www.empiricalcycling.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:609637479/sounds.rss
+
+  - title: MTB Podcast
+    htmlUrl: http://www.mtbpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:274830616/sounds.rss
+
+  - title: The Roadman Cycling Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/roadman-cycling-podcast
+    xmlUrl: https://anchor.fm/s/a09110e0/podcast/rss
+
+  - title: Cycling Time Trial Podcast
+    htmlUrl: http://cyclingtimetrialpodcast.libsyn.com/
+    xmlUrl: https://cyclingtimetrialpodcast.libsyn.com/rss
+
+  - title: FasCat Cycling Training Tips Podcast
+    htmlUrl: https://fascatcoaching.com/blogs/training-tips/tagged/podcasts
+    xmlUrl: https://fascatcoaching.libsyn.com/rss
+
+  - title: Cyclocross Radio
+    htmlUrl: http://crosshairsradio.libsyn.com/podcast
+    xmlUrl: https://crosshairsradio.libsyn.com/rss
+
+  - title: Just Ride
+    htmlUrl: https://www.youtube.com/@RedBullJustRide
+    xmlUrl: https://feeds.megaphone.fm/REDBULLMEDIAHOUSE3493117272
+
+  - title: Geraint Thomas Cycling Club
+    htmlUrl: https://crowdnetwork.co.uk/podcasts/the-geraint-thomas-cycling-club/
+    xmlUrl: https://feeds.megaphone.fm/COMG5638744817
 
 - name: The Best Educational Podcasts
   opml: findthatpod-the-best-educational-podcasts.opml

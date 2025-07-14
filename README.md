@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Cycling Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cycling-podcasts.opml) | 2025-05-22 |
 | [FindThatPod - The Best Educational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-educational-podcasts.opml) | 2025-05-21 |
 | [FindThatPod - The Best Documentary Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-documentary-podcasts.opml) | 2025-05-09 |
 | [FindThatPod - The Best Podcasts To Learn Spanish](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-to-learn-spanish.opml) | 2025-05-08 |
