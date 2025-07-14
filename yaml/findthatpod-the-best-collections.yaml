@@ -81,6 +81,156 @@ issues:
 - name: The Best Educational Podcasts
   opml: findthatpod-the-best-educational-podcasts.opml
   date: 2025-05-21
+  htmlUrl: https://findthatpod.com/best-educational-podcasts/
+  podcasts:
+
+  - title: In Our Time
+    htmlUrl: http://www.bbc.co.uk/programmes/b006qykl
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qykl.rss
+
+  - title: Unexplainable
+    htmlUrl: https://feeds.megaphone.fm/VMP9331026707
+    xmlUrl: https://podcasterwallet.com/?pcid=1382958
+
+  - title: Twenty Thousand Hertz
+    htmlUrl: http://www.20k.org/
+    xmlUrl: https://feeds.megaphone.fm/20k
+
+  - title: CrowdScience
+    htmlUrl: http://www.bbc.co.uk/programmes/p04d42rc
+    xmlUrl: https://podcasts.files.bbci.co.uk/p04d42rc.rss
+
+  - title: Every Little Thing
+    htmlUrl: https://www.gimletmedia.com/elt
+    xmlUrl: https://feeds.megaphone.fm/everylittlething
+
+  - title: Rationally Speaking Podcast
+    htmlUrl: http://rationallyspeakingpodcast.org/
+    xmlUrl: https://rationallyspeakingpodcast.libsyn.com/rss
+
+  - title: You Are Not So Smart
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/N5eKDxJI
+
+  - title: A Podcast Of Unnecessary Detail
+    htmlUrl: https://festivalofthespokennerd.com/podcast/
+    xmlUrl: https://feeds.acast.com/public/shows/61deed94f2acc80013aab8aa
+
+  - title: Angry Planet
+    htmlUrl: https://angryplanetpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/3dd76634-7b1c-45c2-a9cf-2f6f96d4e0b4
+
+  - title: No Stupid Questions
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/dfh_verV
+
+  - title: Omnibus
+    htmlUrl: https://audioboom.com/channels/5127257
+    xmlUrl: https://audioboom.com/channels/5127257.rss
+
+  - title: Philosophize This!
+    htmlUrl: http://www.philosophizethis.org/
+    xmlUrl: https://feeds.megaphone.fm/QCD6036500916
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Stuff To Blow Your Mind
+    htmlUrl: https://www.iheart.com/podcast/stuff-to-blow-your-mind-21123915/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6EA152C0-9E3A-45DE-8672-AE2F0056B113/D8936746-9E22-4DBA-B762-AE2F0056B126/podcast.rss
+
+  - title: People I (Mostly) Admire
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/rP60Wf24
+
+  - title: Throughline
+    htmlUrl: https://www.npr.org/podcasts/510333/throughline
+    xmlUrl: https://feeds.acast.com/public/shows/5ed9f4f88eb9f809f65229e7
+
+  - title: The Dollop with Dave Anthony and Gareth Reynolds
+    htmlUrl: http://dolloppodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss
+
+  - title: Jimmy Akin's Mysterious World
+    htmlUrl: https://sqpn.com/category/podcasts/akin/
+    xmlUrl: https://feeds.sqpn.com/mysterious
+
+  - title: Tides of History
+    htmlUrl: https://wondery.com/shows/tides-of-history/
+    xmlUrl: https://rss.art19.com/tides-of-history
+
+  - title: Stuff You Should Know
+    htmlUrl: https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/A91018A4-EA4F-4130-BF55-AE270180C327/44710ECC-10BB-48D1-93C7-AE270180C33E/podcast.rss
+
+  - title: StarTalk Radio
+    htmlUrl: http://siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/4T39_jAj
+
+  - title: Everything Everywhere Daily
+    htmlUrl: https://everything-everywhere.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV3162807280
+
+  - title: The Weirdest Thing I Learned This Week
+    htmlUrl: https://www.popsci.com/weird
+    xmlUrl: https://feeds.megaphone.fm/RECU9765916949
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: This Podcast Will Kill You
+    htmlUrl: https://www.exactlyrightmedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/64b4c224-562e-4b2f-9f31-b24c0111ae53/podcast.rss
+
+  - title: Short Wave
+    htmlUrl: https://www.npr.org/podcasts/510351/short-wave
+    xmlUrl: https://feeds.npr.org/510351/podcast.xml
+
+  - title: Timesuck with Dan Cummins
+    htmlUrl: https://www.badmagicproductions.com/pages/timesuck-podcast-2024
+    xmlUrl: https://feeds.simplecast.com/Llc7KL2K
+
+  - title: The Last Archive
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/podcast.rss
+
+  - title: You're Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://feeds.buzzsprout.com/1112270.rss
+
+  - title: Commute | The Podcast
+    htmlUrl: http://www.commutethepodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1636312.rss
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: Theories of Everything with Curt Jaimungal
+    htmlUrl: https://youtube.com/TheoriesOfEverything
+    xmlUrl: https://feeds.megaphone.fm/TOE4643226064
+
+  - title: Life Kit
+    htmlUrl: https://www.npr.org/podcasts/510338/all-guides
+    xmlUrl: https://feeds.npr.org/510338/podcast.xml
+
+  - title: Planet Money
+    htmlUrl: https://www.npr.org/podcasts/510289/planet-money
+    xmlUrl: https://feeds.npr.org/510289/podcast.xml
+
+  - title: Grammar Girl Quick and Dirty Tips for Better Writing
+    htmlUrl: http://simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/XcH2p3Ah
+
+  - title: Freakonomics Radio
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/Y8lFbOT4
+
+  - title: Science Vs
+    htmlUrl: https://gimletmedia.com/science-vs/
+    xmlUrl: https://feeds.megaphone.fm/sciencevs
 
 - name: The Best Documentary Podcasts
   opml: findthatpod-the-best-documentary-podcasts.opml
