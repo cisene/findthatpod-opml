@@ -49,6 +49,80 @@ issues:
 - name: The Best Leadership Podcasts
   opml: findthatpod-the-best-leadership-podcasts.opml
   date: 2025-06-11
+  htmlUrl: https://findthatpod.com/best-leadership-podcasts/
+  podcasts:
+
+  - title: 'Radical Candor: Communication at Work'
+    htmlUrl: https://www.radicalcandor.com/candor-podcast/
+    xmlUrl: https://feeds.megaphone.fm/radicalcandor
+
+  - title: Build with Leila Hormozi
+    htmlUrl: https://www.acquisition.com/
+    xmlUrl: https://feeds.captivate.fm/build-with-leila-hormozi/
+
+  - title: Dare to Lead with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/daretolead
+
+  - title: Coaching Real Leaders
+    htmlUrl: https://hbr.org/podcasts/coaching-real-leaders
+    xmlUrl: http://feeds.harvardbusiness.org/harvardbusiness/coaching-real-leaders
+
+  - title: HBS Managing the Future of Work
+    htmlUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/default.aspx
+    xmlUrl: https://feeds.megaphone.fm/TPG2056865494
+
+  - title: No Bullsh!t Leadership
+    htmlUrl: http://www.yourceomentor.com/leadership-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/2fec86c4-2f6a-5de0-abd4-1301a5d509fc
+
+  - title: How Leaders Lead with David Novak
+    htmlUrl: https://howleaderslead.com/
+    xmlUrl: https://feeds.megaphone.fm/howleaderslead
+
+  - title: Worklife with Adam Grant
+    htmlUrl: https://www.ted.com/podcasts/worklife
+    xmlUrl: https://feeds.feedburner.com/WorklifeWithAdamGrant
+
+  - title: Jocko Podcast
+    htmlUrl: https://redcircle.com/shows/jocko-podcast
+    xmlUrl: https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+
+  - title: Modern Mentor
+    htmlUrl: http://simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/iXBWs__o
+
+  - title: People Managing People
+    htmlUrl: https://peoplemanagingpeople.com/
+    xmlUrl: https://feeds.buzzsprout.com/660316.rss
+
+  - title: HBR IdeaCast
+    htmlUrl: https://hbr.org/podcasts/ideacast
+    xmlUrl: http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+
+  - title: 'Think Fast Talk Smart: Communication Techniques'
+    htmlUrl: https://fastersmarter.io/
+    xmlUrl: https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques
+
+  - title: Manager Tools
+    htmlUrl: http://www.manager-tools.com/podcasts/manager-tools
+    xmlUrl: https://files.manager-tools.com/files/public/feeds/manager-tools-podcasts.xml
+
+  - title: Founders
+    htmlUrl: https://www.founderspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/DSLLC6297708582
+
+  - title: The Leadership Antidote Podcast
+    htmlUrl: https://linktr.ee/DrKimHires
+    xmlUrl: https://anchor.fm/s/145f424/podcast/rss
+
+  - title: HBR On Leadership
+    htmlUrl: https://feeds.feedburner.com/harvardbusiness/on-leadership
+    xmlUrl: https://podcasterwallet.com/?pcid=6411274
+
+  - title: A Bit of Optimism
+    htmlUrl: https://www.iheart.com/podcast/269-a-bit-of-optimism-63444439/
+    xmlUrl: https://feeds.simplecast.com/mDS2jisg
 
 - name: The Best Health Podcasts
   opml: findthatpod-the-best-health-podcasts.opml
