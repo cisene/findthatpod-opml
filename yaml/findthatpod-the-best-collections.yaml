@@ -45,6 +45,132 @@ issues:
 - name: The Best Fantasy Podcasts
   opml: findthatpod-the-best-fantasy-podcasts.opml
   date: 2025-06-16
+  htmlUrl: https://findthatpod.com/bet-fantasy-podcasts/
+  podcasts:
+
+  - title: Counterbalance
+    htmlUrl: https://trilunis.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP4371894823
+
+  - title: Rivals of Waterdeep
+    htmlUrl: https://rivalsofwaterdeep.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/uQZx55QO
+
+  - title: Inn Between
+    htmlUrl: http://www.thegoblinshead.com/
+    xmlUrl: https://feeds.libsyn.com/122656
+
+  - title: FANTASY MAGAZINE - Fantasy Story Podcast
+    htmlUrl: http://www.fantasy-magazine.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5348175046
+
+  - title: The Adventure Zone
+    htmlUrl: https://adventurezone.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/cYQVc__c
+
+  - title: Tale of The Manticore, a Dark Fantasy Dungeons & Dragons Audiodrama
+    htmlUrl: https://www.spreaker.com/podcast/tale-of-the-manticore-a-dark-fantasy-dungeons-dragons-audiodrama--6276878
+    xmlUrl: https://www.spreaker.com/show/6276878/episodes/feed
+
+  - title: Worlds Beyond Number
+    htmlUrl: https://worlds-beyond-number.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/IAPnSSRO
+
+  - title: Stories from the Hearth
+    htmlUrl: https://www.storiesfromthehearth.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/6644a738254df100129f96ce
+
+  - title: Join the Party
+    htmlUrl: https://jointhepartypod.com/
+    xmlUrl: https://rss.art19.com/join-the-party
+
+  - title: Sidequesting
+    htmlUrl: http://sidequestingpod.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5496629043
+
+  - title: Back Again, Back Again
+    htmlUrl: https://backagainpodcast.wixsite.com/home
+    xmlUrl: https://anchor.fm/s/74632b48/podcast/rss
+
+  - title: Omen | A Fantasy Audio Drama
+    htmlUrl: https://www.omencast.com/
+    xmlUrl: https://feeds.megaphone.fm/omenpodcast
+
+  - title: The Broadswords
+    htmlUrl: https://art19.com/shows/the-broadswords
+    xmlUrl: https://feeds.megaphone.fm/broadswords
+
+  - title: Hello From The Magic Tavern
+    htmlUrl: http://www.hellofromthemagictavern.com/
+    xmlUrl: https://rss.art19.com/hello-from-magic-tavern
+
+  - title: Rude Tales of Magic
+    htmlUrl: https://art19.com/shows/rude-tales-of-magic
+    xmlUrl: https://rss.art19.com/rude-tales-of-magic
+
+  - title: Alba Salix, Royal Physician
+    htmlUrl: https://albasalix.com/
+    xmlUrl: https://rss.art19.com/alba-salix--royal-physician
+
+  - title: The End of Time and Other Bothers
+    htmlUrl: https://albasalix.com/other-bothers/
+    xmlUrl: https://rss.art19.com/the-end-of-time-and-other-bothers
+
+  - title: Just Roll With It
+    htmlUrl: https://justrollwithit.podbean.com/
+    xmlUrl: https://justrollwithit.podbean.com/feed.xml
+
+  - title: Dungeons & Dickheads
+    htmlUrl: https://www.dungeonsanddickheads.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/63f0a248a72d0800115c2e2e
+
+  - title: Critical Role
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/LXz4Q9rJ
+
+  - title: The Call of the Flame
+    htmlUrl: https://thecalloftheflame.com/
+    xmlUrl: https://daisy-tangerine.squarespace.com/news?format=rss
+
+  - title: Imaginary Worlds
+    htmlUrl: https://www.imaginaryworldspodcast.org/
+    xmlUrl: https://feeds.megaphone.fm/ADV7475920787
+
+  - title: The Once And Future Nerd
+    htmlUrl: https://onceandfuturenerd.com/
+    xmlUrl: http://feeds.feedburner.com/toafn
+
+  - title: The Heart Pyre
+    htmlUrl: http://theheartpyre.com/
+    xmlUrl: https://feeds.buzzsprout.com/1896897.rss
+
+  - title: Dark Dice
+    htmlUrl: http://darkdice.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP9028289759
+
+  - title: The Kingmaker Histories
+    htmlUrl: https://kingmakershow.podbean.com/
+    xmlUrl: https://feed.podbean.com/kingmakershow/feed.xml
+
+  - title: Dimension 20
+    htmlUrl: http://dropout.tv/
+    xmlUrl: https://www.spreaker.com/show/4113133/episodes/feed
+
+  - title: Starfall
+    htmlUrl: https://starfallpod.carrd.co/
+    xmlUrl: https://pinecast.com/feed/starfall
+
+  - title: Not Another D&D Podcast
+    htmlUrl: https://headgum.com/not-another-dd-podcast
+    xmlUrl: https://rss.art19.com/not-another-d-and-d-podcast
+
+  - title: Clarkesworld Magazine
+    htmlUrl: https://clarkesworldmagazine.com/
+    xmlUrl: https://clarkesworldmagazine.com/?feed=podcast
+
+  - title: 'Dice Tower Theatre presents: Dawn of Dragons - an Audio Adventure'
+    htmlUrl: https://redcircle.com/shows/dice-tower-theatre-presents-dawn-of-dragons-an-audio-adventure
+    xmlUrl: https://feeds.redcircle.com/a24d9fc7-1488-448a-a47f-a872a3cbe0a6
 
 - name: The Best Leadership Podcasts
   opml: findthatpod-the-best-leadership-podcasts.opml
