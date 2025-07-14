@@ -37,6 +37,100 @@ issues:
 - name: The Best Fishing Podcasts
   opml: findthatpod-the-best-fishing-podcasts.opml
   date: 2025-06-18
+  htmlUrl: https://findthatpod.com/best-fishing-podcasts/
+  podcasts:
+
+  - title: Tackle Talk - Bass Fishing Podcast
+    htmlUrl: https://www.tackletalkpodcast.com/
+    xmlUrl: https://tackletalk.libsyn.com/rss
+
+  - title: Bite Me - A Texas Saltwater Fishing Podcast
+    htmlUrl: https://highlytouted.podbean.com/
+    xmlUrl: https://feed.podbean.com/highlytouted/feed.xml
+
+  - title: Fish Nerds Fishing Podcast
+    htmlUrl: http://www.fishnerds.com/
+    xmlUrl: https://fishnerds.libsyn.com/rss
+
+  - title: Fisherman's Post Saltwater Podcast Series
+    htmlUrl: https://www.fishermanspost.com/podcasts
+    xmlUrl: https://podcasts.helloaudio.fm/podcast/8fdcddf4-2f79-42d6-aba8-d5367508f8e5/dYuf09OLme
+
+  - title: Let's Talk Fish - Weekly show talking all things fishing anchored by Bryan Thrift, Matt Arey, and Jeff Walsh.
+    htmlUrl: http://letstalkfish.com/
+    xmlUrl: https://letstalkfish.libsyn.com/rss
+
+  - title: The Inshore Journal
+    htmlUrl: http://theinshorejournal.libsyn.com/podcast
+    xmlUrl: https://theinshorejournal.libsyn.com/rss
+
+  - title: Bass and Brews Fishing Podcast
+    htmlUrl: https://swampratfishing.podbean.com/
+    xmlUrl: https://feed.podbean.com/swampratfishing/feed.xml
+
+  - title: Tom Rowland Podcast
+    htmlUrl: https://www.tomrowlandpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/WPCM3342729323
+
+  - title: Addicted Fishing Podcast
+    htmlUrl: https://fishingaddictsnw.podbean.com/
+    xmlUrl: https://fishingaddictsnw.podbean.com/feed.xml
+
+  - title: Chumming Up
+    htmlUrl: https://podcasters.spotify.com/pod/show/chummingup
+    xmlUrl: https://anchor.fm/s/41cc11a4/podcast/rss
+
+  - title: The Itinerant Angler Podcast
+    htmlUrl: http://www.itinerantangler.com/
+    xmlUrl: http://www.itinerantangler.com/podcasts/upcomingpodcast.xml
+
+  - title: The DrakeCast - A Fly Fishing Podcast
+    htmlUrl: https://www.drakemag.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:276327221/sounds.rss
+
+  - title: Salt Strong Fishing
+    htmlUrl: https://www.saltstrong.com/
+    xmlUrl: https://saltstrong.libsyn.com/rss
+
+  - title: Bent
+    htmlUrl: https://www.themeateater.com/listen/bent
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/FF5F725D-6FF3-4055-8806-AE280065A8B3/804AA92E-E3F9-432C-88BD-AE280065A8D8/podcast.rss
+
+  - title: Cast and Crank Fishing podcast
+    htmlUrl: https://feeds.megaphone.fm/WPCM3676935421
+    xmlUrl: https://podcasterwallet.com/?pcid=546552
+
+  - title: On The Water
+    htmlUrl: https://www.onthewater.com/
+    xmlUrl: https://anchor.fm/s/8a45d8d4/podcast/rss
+
+  - title: All Eyes On Fishing's Podcast
+    htmlUrl: https://alleyesonfishing.podbean.com/
+    xmlUrl: https://feed.podbean.com/alleyesonfishing/feed.xml
+
+  - title: The Fishing News
+    htmlUrl: https://www.capeandislands.org/
+    xmlUrl: https://www.capeandislands.org/podcast/the-fishing-news/rss.xml
+
+  - title: The Orvis Fly-Fishing Podcast
+    htmlUrl: http://www.orvis.com/podcast
+    xmlUrl: https://orvisffguide.libsyn.com/rss
+
+  - title: Wknd Warriors Fishing Podcast
+    htmlUrl: https://linktr.ee/wkndwarriorsfishingpod
+    xmlUrl: https://anchor.fm/s/44bdfd8c/podcast/rss
+
+  - title: Fish Untamed
+    htmlUrl: http://fishuntamed.com/
+    xmlUrl: https://feeds.megaphone.fm/WPCM2880894861
+
+  - title: Last Cast Podcast | Fishing, Humor, Food, Texas
+    htmlUrl: https://lastcastpodcast.com/
+    xmlUrl: https://lastcastpodcast.com/feed/podcast/
+
+  - title: Anchored with April Vokey
+    htmlUrl: https://anchoredoutdoors.com/anchored-podcast/
+    xmlUrl: https://feeds.megaphone.fm/WPCM8100104444
 
 - name: The Best Nature Podcasts
   opml: findthatpod-the-best-nature-podcasts.opml
