@@ -85,6 +85,160 @@ issues:
 - name: The Best Documentary Podcasts
   opml: findthatpod-the-best-documentary-podcasts.opml
   date: 2025-05-09
+  htmlUrl: https://findthatpod.com/best-documentary-podcasts/
+  podcasts:
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
+
+  - title: The Sunshine Place
+    htmlUrl: https://www.audacy.com/podcast/the-sunshine-place-808ba
+    xmlUrl: https://feeds.megaphone.fm/the-sunshine-place
+
+  - title: Magnificent Jerk
+    htmlUrl: https://apple.co/MagnificentJerk
+    xmlUrl: https://rss.art19.com/magnificent-jerk
+
+  - title: Hooked
+    htmlUrl: https://apple.co/hooked
+    xmlUrl: https://rss.art19.com/hooked
+
+  - title: One Click
+    htmlUrl: https://wondery.com/
+    xmlUrl: https://rss.art19.com/one-click
+
+  - title: Bed of Lies
+    htmlUrl: https://linktr.ee/bed_of_lies
+    xmlUrl: https://rss.art19.com/bed-of-lies
+
+  - title: Hunting Warhead
+    htmlUrl: https://www.cbc.ca/radio/podcasts/hunting-warhead/index.html
+    xmlUrl: https://www.cbc.ca/podcasting/includes/huntingwarhead.xml
+
+  - title: Rabbit Hole
+    htmlUrl: https://rabbit-hole.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/oCXij9l2
+
+  - title: Beyond All Repair
+    htmlUrl: https://www.wbur.org/podcasts/violation
+    xmlUrl: https://rss.wbur.org/violation/podcast
+
+  - title: 'Collapse: Disaster in Surfside'
+    htmlUrl: https://www.treefort.fm/
+    xmlUrl: https://feeds.megaphone.fm/TREE4477237774
+
+  - title: Wind of Change
+    htmlUrl: https://crooked.com/podcast-series/wind-of-change/
+    xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
+
+  - title: The Big Dig
+    htmlUrl: https://www.wgbh.org/podcasts/scratch-win
+    xmlUrl: https://publicfeeds.net/f/4614/the-big-dig/feed-rss.xml
+
+  - title: The Outlaw Ocean
+    htmlUrl: https://www.theoutlawocean.com/the-outlaw-ocean-podcast/
+    xmlUrl: https://www.cbc.ca/podcasting/includes/outlawocean.xml
+
+  - title: 'Imagine Audio: Big Sugar'
+    htmlUrl: https://www.iheart.com/podcast/117233473
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ba6f187-64f8-4a0e-8f29-b00d01243dad/791a90d2-d000-4cd2-bcfb-b00d0124f722/podcast.rss
+
+  - title: The Agent
+    htmlUrl: https://www.instagram.com/imperativepodcasts/
+    xmlUrl: https://feeds.megaphone.fm/theagent
+
+  - title: Less Radical
+    htmlUrl: https://cancerculture.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1655971.rss
+
+  - title: Cement City
+    htmlUrl: https://www.cementcity.org/
+    xmlUrl: https://feeds.megaphone.fm/hope-through-history
+
+  - title: 'Personally: Forever is a Long Time'
+    htmlUrl: https://www.cbc.ca/podcasts
+    xmlUrl: https://www.cbc.ca/podcasting/includes/runhiderepeat.xml
+
+  - title: Extreme
+    htmlUrl: http://www.bbc.co.uk/programmes/m0021j2v
+    xmlUrl: https://podcasts.files.bbci.co.uk/m0021j2v.rss
+
+  - title: The Man Who Calculated Death
+    htmlUrl: https://art19.com/shows/the-man-who-calculated-death
+    xmlUrl: https://rss.art19.com/the-man-who-calculated-death
+
+  - title: 544 Days
+    htmlUrl: https://feeds.megaphone.fm/544days
+    xmlUrl: https://podcasterwallet.com/?pcid=4455714
+
+  - title: Death in Ice Valley
+    htmlUrl: http://www.bbc.co.uk/programmes/p060ms2h
+    xmlUrl: https://podcasts.files.bbci.co.uk/p060ms2h.rss
+
+  - title: Boomtown
+    htmlUrl: https://www.instagram.com/imperativepodcasts/
+    xmlUrl: https://feeds.megaphone.fm/boomtown
+
+  - title: American Radical
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/american-radical
+
+  - title: Fallen Angel
+    htmlUrl: https://www.campsidemedia.com/about
+    xmlUrl: https://feeds.megaphone.fm/fallen-angel
+
+  - title: Brainwashed
+    htmlUrl: https://www.cbc.ca/podcasts
+    xmlUrl: https://www.cbc.ca/podcasting/includes/brainwashed.xml
+
+  - title: Inconceivable Truth
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/P2FwqleH
+
+  - title: Fiasco
+    htmlUrl: https://www.pushkin.fm/podcasts/fiasco
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f47457d5-7299-4554-8037-b1f4013a7364/74be3893-ab46-4df4-9bfe-b1f4013aff4d/podcast.rss
+
+  - title: The Underworld Podcast
+    htmlUrl: https://www.underworldpod.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML5333414119
+
+  - title: The Commune
+    htmlUrl: https://www.stuff.co.nz/thecommune
+    xmlUrl: https://feeds.megaphone.fm/OUAOS5925172046
+
+  - title: Blowback
+    htmlUrl: https://redcircle.com/shows/blowback
+    xmlUrl: https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
+
+  - title: The Documentary Podcast
+    htmlUrl: http://www.bbc.co.uk/programmes/p02nq0lx
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+
+  - title: The Negotiators
+    htmlUrl: https://shows.acast.com/the-negotiators
+    xmlUrl: https://feeds.megaphone.fm/FGP9503320473
+
+  - title: Kuper Island
+    htmlUrl: https://www.cbc.ca/radio/podcasts
+    xmlUrl: https://www.cbc.ca/podcasting/includes/kuperisland.xml
+
+  - title: In the Red Clay
+    htmlUrl: http://www.intheredclaypodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/intheredclay
+
+  - title: Ghost Herd
+    htmlUrl: https://kuow.org/
+    xmlUrl: http://www.kuow.org/feeds/podcasts/ghost-herd/podcasts/rss.xml
+
+  - title: Mother Country Radicals
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.megaphone.fm/mother-country-radicals
+
+  - title: The Redefector
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/b0zwkvQ9
 
 - name: The Best Podcasts To Learn Spanish
   opml: findthatpod-the-best-podcasts-to-learn-spanish.opml
