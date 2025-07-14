@@ -89,6 +89,80 @@ issues:
 - name: The Best Podcasts To Learn Spanish
   opml: findthatpod-the-best-podcasts-to-learn-spanish.opml
   date: 2025-05-08
+  htmlUrl: https://findthatpod.com/best-podcasts-to-learn-spanish/
+  podcasts:
+
+  - title: Duolingo Spanish Podcast
+    htmlUrl: https://podcast.duolingo.com/spanish
+    xmlUrl: https://anchor.fm/s/fc714074/podcast/rss
+
+  - title: How to Spanish Podcast
+    htmlUrl: https://www.howtospanishpodcast.com/
+    xmlUrl: https://anchor.fm/s/10594f934/podcast/rss
+
+  - title: ¡Cuéntame! | Learn Spanish with Comprehensible Input
+    htmlUrl: https://podcasters.spotify.com/pod/show/cuentamemarta
+    xmlUrl: https://anchor.fm/s/4baec630/podcast/rss
+
+  - title: 'Easy Spanish: Learn Spanish with everyday conversations | Conversaciones del día a día para aprender español'
+    htmlUrl: https://www.easyspanish.fm/
+    xmlUrl: https://feeds.fireside.fm/easyspanish/rss
+
+  - title: Españolistos | Learn Spanish With Fun Conversations!
+    htmlUrl: https://soundcloud.com/espanolistos
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:250273737/sounds.rss
+
+  - title: Radio Ambulante
+    htmlUrl: https://www.iheart.com/podcast/7-radio-ambulante-28457191/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/092b66a8-4329-4183-bb12-b1e7012d216f/podcast.rss
+
+  - title: StoryLearning Spanish
+    htmlUrl: https://www.patreon.com/storylearningspanish
+    xmlUrl: https://anchor.fm/s/2ce7d1b0/podcast/rss
+
+  - title: Learn Spanish | SpanishPod101.com
+    htmlUrl: https://www.spanishpod101.com/
+    xmlUrl: https://www.spanishpod101.com/wp-feed-audio-video.php
+
+  - title: Simple Stories in Spanish
+    htmlUrl: http://smalltownspanishteacher.com/
+    xmlUrl: https://feeds.buzzsprout.com/849883.rss
+
+  - title: Coffee Break Spanish
+    htmlUrl: https://coffeebreaklanguages.com/spanish
+    xmlUrl: https://feeds.acast.com/public/shows/985e7c00-8945-4e0d-a4da-b93049180ce1
+
+  - title: 'Learn Spanish: Notes in Spanish Inspired Beginners'
+    htmlUrl: http://www.notesinspanish.com/
+    xmlUrl: https://learnrealspanish.libsyn.com/rss
+
+  - title: No Hay Tos (Real Mexican Spanish)
+    htmlUrl: https://www.nohaytospodcast.com/
+    xmlUrl: https://feeds.simplecast.com/UrwSRKXH
+
+  - title: Beginner Spanish with Spanish Obsessed
+    htmlUrl: https://spanishobsessed.com/beginners-spanish/
+    xmlUrl: https://feeds.transistor.fm/beginner-spanish-with-spanish-obsessed
+
+  - title: Intermediate Spanish Podcast - Español Intermedio
+    htmlUrl: https://www.spanishlanguagecoach.com/
+    xmlUrl: https://feeds.buzzsprout.com/2381323.rss
+
+  - title: News in Slow Spanish Latino (Intermediate)
+    htmlUrl: http://newsinslowspanish.com/latino
+    xmlUrl: https://nsslatino.libsyn.com/rss
+
+  - title: Unlimited Spanish podcast with Oscar
+    htmlUrl: https://unlimitedspanish.com/
+    xmlUrl: https://unlimitedspanish.libsyn.com/rss
+
+  - title: 'A Zero To A Hero: Learn Spanish!'
+    htmlUrl: https://www.spreaker.com/show/from-a0-to-ahero-learn-spanish
+    xmlUrl: https://www.spreaker.com/show/4112499/episodes/feed
+
+  - title: 'Spanishland School Podcast: Learn Spanish Tips That Improve Your Fluency in 10 Minutes or Less'
+    htmlUrl: https://www.spanishlandschool.com/
+    xmlUrl: https://spanishlandschool.libsyn.com/rss
 
 - name: The Best Outdoor Podcasts
   opml: findthatpod-the-best-outdoor-podcasts.opml
