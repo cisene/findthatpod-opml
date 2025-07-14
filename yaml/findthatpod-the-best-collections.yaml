@@ -57,6 +57,132 @@ issues:
 - name: The Best Marketing Podcasts
   opml: findthatpod-the-best-marketing-podcasts.opml
   date: 2025-06-04
+  htmlUrl: https://findthatpod.com/best-marketing-podcasts/
+  podcasts:
+
+  - title: Creator Science
+    htmlUrl: https://podcast.creatorscience.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG4024225475
+
+  - title: Marketing Happy Hour
+    htmlUrl: https://www.marketinghappyhr.com/
+    xmlUrl: https://anchor.fm/s/50d9d294/podcast/rss
+
+  - title: Marketing Against The Grain
+    htmlUrl: https://www.hubspot.com/podcastnetwork?hubs_post=blog.hubspot.com%2F&hubs_post-cta=null&_ga=2.137319926.735863617.1675966337-1473551662.1664480619&_gl=1*plfdhm*_ga*MTQ3MzU1MTY2Mi4xNjY0NDgwNjE5*_ga_LXTM6CQ0XK*MTY3NTk2NjMzNS4zMS4xLjE2NzU5NjY0MzUuMC4wLjA.
+    xmlUrl: https://feeds.megaphone.fm/marketingagainstthegrain
+
+  - title: Everyone Hates Marketers | No-BS Marketing & Brand Strategy Podcast
+    htmlUrl: https://podcast.everyonehatesmarketers.com/
+    xmlUrl: https://feeds.transistor.fm/everyone-hates-marketers
+
+  - title: Marketing Over Coffee
+    htmlUrl: https://www.spreaker.com/podcast/marketing-over-coffee--2576321
+    xmlUrl: https://www.spreaker.com/show/2576321/episodes/feed
+
+  - title: The Duct Tape Marketing Podcast
+    htmlUrl: https://www.ducttapemarketing.com/about/duct-tape-marketing-podcast/
+    xmlUrl: https://feeds.libsyn.com/18353/rss
+
+  - title: Growth In Reverse (Newsletter Growth & Email Marketing)
+    htmlUrl: https://growthinreverse.com/podcast/
+    xmlUrl: https://feeds.transistor.fm/growth-in-reverse
+
+  - title: Marketing School - Digital Marketing and Online Marketing Tips
+    htmlUrl: https://www.marketingschool.io/
+    xmlUrl: https://feeds.megaphone.fm/ESHO5419936864
+
+  - title: Unthinkable with Jay Acunzo
+    htmlUrl: http://jayacunzo.com/
+    xmlUrl: https://feeds.simplecast.com/EQoA27zn
+
+  - title: Uncensored CMO
+    htmlUrl: http://uncensoredcmo.com/
+    xmlUrl: https://feeds.transistor.fm/uncensored-cmo
+
+  - title: The Exit Five CMO Podcast (Hosted by Dave Gerhardt)
+    htmlUrl: http://exitfive.com/
+    xmlUrl: https://feeds.transistor.fm/exit-five-podcast
+
+  - title: Perpetual Traffic
+    htmlUrl: https://www.tiereleven.com/
+    xmlUrl: https://feeds.captivate.fm/perpetual-traffic/
+
+  - title: MarTech Podcast ™ // Marketing + Technology = Business Growth
+    htmlUrl: https://martechpod.com/
+    xmlUrl: https://rss.art19.com/martech-podcast
+
+  - title: The Marketing Millennials
+    htmlUrl: https://themarketingmillennials.com/
+    xmlUrl: https://feeds.megaphone.fm/the-marketing-millennials
+
+  - title: 'Niche Pursuits Podcast: Find Your Next "Niche" Business Idea!'
+    htmlUrl: http://www.nichepursuits.com/
+    xmlUrl: https://nichepursuits.libsyn.com/rss
+
+  - title: The Science of Social Media
+    htmlUrl: https://buffer.com/podcast
+    xmlUrl: https://anchor.fm/s/89e0c70/podcast/rss
+
+  - title: The CMO Podcast
+    htmlUrl: https://www.linkedin.com/company/cmo-podcast/
+    xmlUrl: https://rss.art19.com/the-cmo-podcast
+
+  - title: Side Hustle Pro
+    htmlUrl: https://sidehustlepro.co/
+    xmlUrl: https://feeds.acast.com/public/shows/659c22ccb31581001651ebcd
+
+  - title: Distribution First
+    htmlUrl: https://distributionfirst.co/
+    xmlUrl: https://feeds.captivate.fm/distribution-first/
+
+  - title: Marketing Operators
+    htmlUrl: https://podcasters.spotify.com/pod/show/marketing-operators
+    xmlUrl: https://anchor.fm/s/f23bffe0/podcast/rss
+
+  - title: Authority Hacker Podcast – AI & Automation for Small biz & Marketers
+    htmlUrl: https://authorityhacker.com/podcast/
+    xmlUrl: https://feeds.buzzsprout.com/1885879.rss
+
+  - title: This Old Marketing - Content Marketing News with Joe Pulizzi and Robert Rose
+    htmlUrl: https://thisoldmarketing.com/
+    xmlUrl: https://pnrmarketing.libsyn.com/rss
+
+  - title: The Art of Sway
+    htmlUrl: https://www.swaygroup.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/artofsway
+
+  - title: The Mindful Marketing Podcast
+    htmlUrl: https://onlinedrea.com/podcast/
+    xmlUrl: https://savvysocialpodcast.libsyn.com/rss
+
+  - title: My First Million
+    htmlUrl: https://www.mfmpod.com/
+    xmlUrl: https://feeds.megaphone.fm/HS2300184645
+
+  - title: 'Akimbo: A Podcast from Seth Godin'
+    htmlUrl: http://www.akimbo.link/
+    xmlUrl: http://rss.acast.com/akimbo
+
+  - title: Ahrefs Podcast
+    htmlUrl: https://ahrefs.com/
+    xmlUrl: https://anchor.fm/s/f2148410/podcast/rss
+
+  - title: The Amy Porterfield Show
+    htmlUrl: https://amyporterfield.com/category/podcast/
+    xmlUrl: https://feeds.megaphone.fm/YAP3268529120
+
+  - title: Content, Briefly
+    htmlUrl: http://www.superpath.co/
+    xmlUrl: https://feeds.transistor.fm/content-briefly
+
+  - title: Marketing Meetup Podcast
+    htmlUrl: http://themarketingmeetup.com/
+    xmlUrl: https://anchor.fm/s/3091a48/podcast/rss
+
+  - title: The Foundr Podcast with Nathan Chan
+    htmlUrl: http://www.foundr.com/
+    xmlUrl: https://feeds.megaphone.fm/YAP2464511803
 
 - name: The Best Narrative Podcasts
   opml: findthatpod-the-best-narrative-podcasts.opml
