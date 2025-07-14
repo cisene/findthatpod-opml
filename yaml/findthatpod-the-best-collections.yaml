@@ -29,6 +29,140 @@ issues:
 - name: The Best Golf Podcasts
   opml: findthatpod-the-best-golf-podcasts.opml
   date: 2025-06-25
+  htmlUrl: https://findthatpod.com/best-golf-podcasts/
+  podcasts:
+
+  - title: 'Chasing Scratch: A Golf Podcast'
+    htmlUrl: http://chasingscratchgolf.com/
+    xmlUrl: https://chasingscratch.libsyn.com/rss
+
+  - title: Hack It Out Golf
+    htmlUrl: https://www.hackitoutgolf.com/
+    xmlUrl: https://feeds.megaphone.fm/TNM3717788973
+
+  - title: Fit For Golf
+    htmlUrl: https://www.buzzsprout.com/1118003
+    xmlUrl: https://feeds.buzzsprout.com/1118003.rss
+
+  - title: Fore Play
+    htmlUrl: https://www.barstoolsports.com/shows/fore-play
+    xmlUrl: https://mcsorleys.barstoolsports.com/feed/fore-play
+
+  - title: Par 3 Podcast with J.R. Smith & Stephen Malbon
+    htmlUrl: https://www.youtube.com/channel/UCZ8PBbrxj5qrnGDuA4eIE8Q
+    xmlUrl: https://feeds.simplecast.com/8bk537L_
+
+  - title: Fairway Rollin'
+    htmlUrl: https://theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/fairway-rollin
+
+  - title: The Thing About Golf Podcast
+    htmlUrl: https://www.golfaustralia.com.au/thethingaboutgolf
+    xmlUrl: https://feeds.buzzsprout.com/1845624.rss
+
+  - title: The Golfer's Journal Podcast
+    htmlUrl: https://www.golfersjournal.com/category/podcast/
+    xmlUrl: https://anchor.fm/s/dad135dc/podcast/rss
+
+  - title: At The Turn - Golf Podcast
+    htmlUrl: https://bleav.com/shows/at-the-turn-golf-podcast/
+    xmlUrl: https://feeds.simplecast.com/_E5DkZYi
+
+  - title: Dad Bod Golf Pod - A DAILY Golf Podcast
+    htmlUrl: https://bleav.com/shows/dad-bod-golf-pod-a-daily-golf-podcast/
+    xmlUrl: https://feeds.simplecast.com/pmtpU1Ug
+
+  - title: 'The Par Train - Helping Frustrated Golfers #EnjoyTheRide'
+    htmlUrl: http://www.thepartrain.com/
+    xmlUrl: https://feeds.transistor.fm/the-par-train
+
+  - title: golf SMARTER
+    htmlUrl: https://www.podpage.com/golf-smarter/
+    xmlUrl: https://www.spreaker.com/show/3264943/episodes/feed
+
+  - title: Wicked Smart Golf
+    htmlUrl: https://sites.libsyn.com/399923
+    xmlUrl: https://feeds.libsyn.com/399923/rss
+
+  - title: Subpar
+    htmlUrl: https://golfsubpar.podbean.com/
+    xmlUrl: https://anchor.fm/s/ffab4ff0/podcast/rss
+
+  - title: The Chipping Forecast
+    htmlUrl: https://www.andrewcotter.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/67a20fe79cd0aa28f735ff3b
+
+  - title: No Laying Up - Golf Podcast
+    htmlUrl: https://nolayingup.com/
+    xmlUrl: https://feeds.megaphone.fm/nolayingup
+
+  - title: On the Mark Golf Podcast
+    htmlUrl: https://www.pgatour.com/watch/audio/d9a497be-b9f0-4046-bf63-9328c202fe3b
+    xmlUrl: http://onthemark1.radio.pgatour.com/rss
+
+  - title: The Shotgun Start
+    htmlUrl: https://anchor.fm/the-shotgun-start
+    xmlUrl: https://feeds.megaphone.fm/CLM6154217175
+
+  - title: Break80 Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/break80podcast
+    xmlUrl: https://feeds.megaphone.fm/MWACW8749810925
+
+  - title: The Rick Shiels Golf Show
+    htmlUrl: https://www.youtube.com/user/RickShielsPGAGolf
+    xmlUrl: https://feeds.acast.com/public/shows/611b69c2d62db90012cd2c72
+
+  - title: Local Knowledge
+    htmlUrl: http://www.golfdigest.com/
+    xmlUrl: https://feeds.simplecast.com/biqUDldE
+
+  - title: The Loop
+    htmlUrl: https://the-loop-golfdigest.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/rj7Ghqg5
+
+  - title: The Basic Bogeys Podcast
+    htmlUrl: https://basicbogeys.buzzsprout.com/2304205
+    xmlUrl: https://feeds.buzzsprout.com/2304205.rss
+
+  - title: 'Tour Junkies: PGA Tour Betting & DFS'
+    htmlUrl: http://www.tourjunkies.com/
+    xmlUrl: https://feeds.megaphone.fm/TOUR2698580082
+
+  - title: The Stripe Show
+    htmlUrl: https://podcasters.spotify.com/pod/show/thestripeshow
+    xmlUrl: https://anchor.fm/s/f45d724/podcast/rss
+
+  - title: The Sweet Spot - Golf Podcast
+    htmlUrl: https://sweetspotgolfpodcast.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/BLU3125919456
+
+  - title: 'The Erik Anders Lang Show: Golf - Travel - Comedy'
+    htmlUrl: https://redcircle.com/shows/the-erik-anders-lang-show-golf-travel-comedy
+    xmlUrl: https://feeds.redcircle.com/2eab33a2-a021-41c9-94c7-f0ffbb563103
+
+  - title: Sky Sports Golf Podcast
+    htmlUrl: https://www.spreaker.com/show/sky-sports-golf-podcast_3
+    xmlUrl: https://podcast.global.com/show/3382907/episodes/feed
+
+  - title: Son of a Butch with Claude Harmon
+    htmlUrl: https://omny.fm/shows/son-of-a-butch-with-claude-harmon/playlists/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/652edbb0-2b61-480e-960b-aec401207c41/ecdae7ac-299b-45f9-b7c2-aec401207c67/podcast.rss
+
+  - title: Fantasy Golf Insider
+    htmlUrl: http://fantasygolfinsider.com/
+    xmlUrl: http://feeds.feedburner.com/FantasyGolfInsider
+
+  - title: Golf IQ
+    htmlUrl: https://www.golfdigest.com/
+    xmlUrl: https://feeds.simplecast.com/qYwfLZ02
+
+  - title: McKellar
+    htmlUrl: http://mckellarmagazine.com/
+    xmlUrl: https://anchor.fm/s/e916e60/podcast/rss
+
+  - title: Fantasy Golf Degenerates
+    htmlUrl: https://www.youtube.com/c/MayoMediaNetwork/
+    xmlUrl: https://feeds.simplecast.com/LMS9PVtf
 
 - name: The Best Conspiracy Theory Podcasts
   opml: findthatpod-the-best-conspiracy-theory-podcasts.opml
