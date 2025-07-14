@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Ghost Story Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ghost-story-podcasts.opml) | 2025-05-28 |
 | [FindThatPod - The Best Divorce Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-divorce-podcasts.opml) | 2025-05-27 |
 | [FindThatPod - The Best Pop Culture Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-pop-culture-podcasts.opml) | 2025-05-22 |
 | [FindThatPod - The Best Cycling Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cycling-podcasts.opml) | 2025-05-22 |

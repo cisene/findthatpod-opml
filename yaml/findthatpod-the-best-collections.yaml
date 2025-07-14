@@ -65,6 +65,140 @@ issues:
 - name: The Best Ghost Story Podcasts
   opml: findthatpod-the-best-ghost-story-podcasts.opml
   date: 2025-05-28
+  htmlUrl: https://findthatpod.com/best-ghost-story-podcasts/
+  podcasts:
+
+  - title: Jim Harold's Campfire
+    htmlUrl: https://jimharold.com/
+    xmlUrl: https://feeds.megaphone.fm/JIMHAROLDMEDIALLC6451583612
+
+  - title: Ghost Story
+    htmlUrl: https://wondery.com/shows/ghost-story/
+    xmlUrl: https://rss.art19.com/ghost-story
+
+  - title: Haunting History Podcast
+    htmlUrl: http://hauntinghistorypodcast.com/
+    xmlUrl: https://feeds.simplecast.com/3_j5Upus
+
+  - title: Southern Haunts
+    htmlUrl: https://www.podpage.com/southern-haunts/
+    xmlUrl: https://feeds.buzzsprout.com/1494187.rss
+
+  - title: Tell Me A Ghost Story
+    htmlUrl: http://tellmeaghoststory.com/
+    xmlUrl: https://feeds.simplecast.com/C9R6w3Vc
+
+  - title: 'GHOST MAPS: True Southeast Asian Horror Stories'
+    htmlUrl: https://www.hantu.sg/
+    xmlUrl: https://feeds.acast.com/public/shows/6415a23e0baefa00113bbc1e
+
+  - title: Classic Ghost Stories
+    htmlUrl: https://link.parla.fm/classic-ghost-stories
+    xmlUrl: https://feeds.megaphone.fm/CGS4976092693
+
+  - title: A Truly Haunted Podcast
+    htmlUrl: https://www.patreon.com/atrulyhauntedpodcast
+    xmlUrl: https://www.spreaker.com/show/4591940/episodes/feed
+
+  - title: Uncanny
+    htmlUrl: http://www.bbc.co.uk/programmes/m0010x7c
+    xmlUrl: https://podcasts.files.bbci.co.uk/m0010x7c.rss
+
+  - title: 'Homespun Haints: True Ghost Stories'
+    htmlUrl: https://www.spreaker.com/show/homespun-haints
+    xmlUrl: https://feeds.buzzsprout.com/310550.rss
+
+  - title: Minister Sinister
+    htmlUrl: https://ministersinisterpo.wixsite.com/ministersinisterpc
+    xmlUrl: https://www.podserve.fm/series/rss/1323/minister-sinister.rss
+
+  - title: New Ghost Stories
+    htmlUrl: https://newghoststories.substack.com/
+    xmlUrl: https://www.spreaker.com/show/4465750/episodes/feed
+
+  - title: HauntedAF
+    htmlUrl: https://www.spreaker.com/podcast/hauntedaf--6491135
+    xmlUrl: https://www.spreaker.com/show/6491135/episodes/feed
+
+  - title: Scared To Death
+    htmlUrl: https://www.badmagicproductions.com/pages/scared-to-death-2024-main
+    xmlUrl: https://feeds.simplecast.com/oP63TyXO
+
+  - title: Real Life Ghost Stories
+    htmlUrl: https://www.reallifeghoststoriespodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/65a7ac718209d8001644344d
+
+  - title: Two Girls One Ghost
+    htmlUrl: https://twogirlsoneghost.com/
+    xmlUrl: https://feeds.megaphone.fm/twogirlsoneghost
+
+  - title: 'When Walls Can Talk: The Podcast | Where Paranormal Mysteries and Dark History Collide'
+    htmlUrl: https://www.whenwallscantalktarot.com/
+    xmlUrl: https://anchor.fm/s/59880884/podcast/rss
+
+  - title: 'Ghost Town: Strange History, True Crime, & the Paranormal'
+    htmlUrl: https://www.ghosttownpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/670460f2c88f09c3e017779e
+
+  - title: You Can See Me in the Dark
+    htmlUrl: http://youcanseemeinthedark.libsyn.com/website
+    xmlUrl: https://youcanseemeinthedark.libsyn.com/rss
+
+  - title: Spooked
+    htmlUrl: https://spookedpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/TBotaapn
+
+  - title: Macabre London
+    htmlUrl: https://feeds.acast.com/public/shows/macabre-london-1
+    xmlUrl: https://feeds.acast.com/public/shows/6422d088b548a8001145fde9
+
+  - title: Chillers and Thrillers
+    htmlUrl: https://chillersandthrillers.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2208136.rss
+
+  - title: Lore of the South
+    htmlUrl: https://loreofthesouth.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1547710.rss
+
+  - title: 'Haunted Canada: Ghost stories and the unexplained'
+    htmlUrl: http://www.hauntedcanada.com/
+    xmlUrl: https://feeds.megaphone.fm/CORU6239976823
+
+  - title: The Grave Talks | Haunted, Paranormal & Supernatural
+    htmlUrl: http://www.thegravetalks.com/
+    xmlUrl: https://audioboom.com/channels/4943119.rss
+
+  - title: Unexplained
+    htmlUrl: https://art19.com/shows/unexplained-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4be3ef45-824a-44b3-b437-b038010038fc/3eb75c81-5ed8-4148-bb7b-b03801003947/podcast.rss
+
+  - title: Real Ghost Stories Online
+    htmlUrl: http://www.ghostpodcast.com/
+    xmlUrl: https://audioboom.com/channels/4567086.rss
+
+  - title: Ghostly
+    htmlUrl: https://ghostlypodcast.com/episode/
+    xmlUrl: https://ghostlypodcast.com/feed/podcast/
+
+  - title: The Battersea Poltergeist
+    htmlUrl: http://www.bbc.co.uk/programmes/p0940193
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0940193.rss
+
+  - title: 'The Night Owl: True Ghost Stories'
+    htmlUrl: http://thenightowlpodcast.com/
+    xmlUrl: http://feeds.feedburner.com/thenightowlpodcast
+
+  - title: Unexplained Encounters
+    htmlUrl: https://www.eeriecast.com/
+    xmlUrl: https://feeds.megaphone.fm/darknessprevails
+
+  - title: Real Hauntings Real Ghost Stories
+    htmlUrl: null
+    xmlUrl: https://feeds.megaphone.fm/SBP8227978336
+
+  - title: The Ghost Story Guys
+    htmlUrl: https://www.ghoststoryguys.com/
+    xmlUrl: https://feeds.megaphone.fm/ghoststoryguys
 
 - name: The Best Divorce Podcasts
   opml: findthatpod-the-best-divorce-podcasts.opml
@@ -155,7 +289,6 @@ issues:
   - title: The High Conflict Co-Parenting Podcast
     htmlUrl: http://highconflict.libsyn.com/website
     xmlUrl: https://highconflict.libsyn.com/rss
-
 
 - name: The Best Pop Culture Podcasts
   opml: findthatpod-the-best-pop-culture-podcasts.opml
