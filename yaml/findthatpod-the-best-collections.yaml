@@ -69,6 +69,93 @@ issues:
 - name: The Best Divorce Podcasts
   opml: findthatpod-the-best-divorce-podcasts.opml
   date: 2025-05-27
+  htmlUrl: https://findthatpod.com/best-divorce-podcasts/
+  podcasts:
+
+  - title: Journey Beyond Divorce Podcast
+    htmlUrl: https://www.jbddivorcesupport.com/
+    xmlUrl: https://feeds.libsyn.com/82070/rss
+
+  - title: The Divorced Girl Smiling Podcast
+    htmlUrl: https://divorcedgirlsmiling.podbean.com/
+    xmlUrl: https://feed.podbean.com/divorcedgirlsmiling/feed.xml
+
+  - title: A Man's Journey Through Divorce
+    htmlUrl: https://www.spreaker.com/podcast/a-man-s-journey-through-divorce--5078476
+    xmlUrl: https://www.spreaker.com/show/5078476/episodes/feed
+
+  - title: The Divorce Podcast
+    htmlUrl: http://thedivorcepodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/182833.rss
+
+  - title: Men Rising From Divorce - A Rising Phoenix Podcast
+    htmlUrl: http://www.risingphoenixpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1487182.rss
+
+  - title: My Crazy Divorce
+    htmlUrl: http://mycrazydivorce.com/
+    xmlUrl: https://feeds.buzzsprout.com/1860090.rss
+
+  - title: Divorced & Done
+    htmlUrl: https://www.divorcedanddone.com/
+    xmlUrl: https://anchor.fm/s/5a64210c/podcast/rss
+
+  - title: Relationships Uncomplicated
+    htmlUrl: https://iditsharoni.com/relationship-podcast/
+    xmlUrl: https://relationshipsuncomplicated.libsyn.com/rss
+
+  - title: Wise & Worthy, Thriving After Divorce
+    htmlUrl: https://www.worthy.com/blog/podcast
+    xmlUrl: https://feeds.blubrry.com/feeds/divorce_and_other_things.xml
+
+  - title: Divorce Goddess Podcast
+    htmlUrl: http://www.divorcegoddess.com/
+    xmlUrl: https://divorcegoddess.libsyn.com/rss
+
+  - title: The Divorce Survival Guide Podcast
+    htmlUrl: https://www.kateanthony.com/
+    xmlUrl: https://feeds.libsyn.com/115215/rss
+
+  - title: The Angry Therapist Podcast
+    htmlUrl: https://www.theangrytherapist.com/
+    xmlUrl: https://feeds.megaphone.fm/IRGTI6276191034
+
+  - title: Single On Purpose
+    htmlUrl: http://www.singleonpurpose.life/
+    xmlUrl: https://feeds.megaphone.fm/singleonpurpose
+
+  - title: The Divorce Social
+    htmlUrl: https://play.acast.com/s/thedivorcesocial
+    xmlUrl: https://feeds.acast.com/public/shows/019543c4-1a64-42a4-8afb-70c529d7b5f5
+
+  - title: Reimagining Love
+    htmlUrl: http://reimagininglove.com/
+    xmlUrl: https://feeds.simplecast.com/LgSQqepl
+
+  - title: Doing Relationships Right
+    htmlUrl: https://www.jenniferhurvitz.com/
+    xmlUrl: https://doingdivorceright.libsyn.com/rss
+
+  - title: Where Should We Begin? with Esther Perel
+    htmlUrl: https://estherperel.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ep-wswb
+
+  - title: Dad Starting Over
+    htmlUrl: https://dadstartingover.com/
+    xmlUrl: https://feeds.simplecast.com/21gkvCTf
+
+  - title: Love, Happiness and Success with Dr. Lisa Marie Bobby
+    htmlUrl: https://www.growingself.com/
+    xmlUrl: https://lovehappinessandsuccesspodcast.libsyn.com/rss
+
+  - title: Solo – The Single Person’s Guide to a Remarkable Life
+    htmlUrl: https://www.petermcgraw.org/solo/
+    xmlUrl: https://feeds.podetize.com/rss/eXq_tlkLI
+
+  - title: The High Conflict Co-Parenting Podcast
+    htmlUrl: http://highconflict.libsyn.com/website
+    xmlUrl: https://highconflict.libsyn.com/rss
+
 
 - name: The Best Pop Culture Podcasts
   opml: findthatpod-the-best-pop-culture-podcasts.opml
