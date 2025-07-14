@@ -21,6 +21,140 @@ issues:
 - name: The Best Medical Podcasts
   opml: findthatpod-the-best-medical-podcasts.opml
   date: 2025-07-01
+  htmlUrl: https://findthatpod.com/best-medical-podcasts/
+  podcasts:
+
+  - title: 'Sawbones: A Marital Tour of Misguided Medicine'
+    htmlUrl: https://sawbones.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/y1LF_sn2
+
+  - title: 'The Short Coat: An Inside Look at Getting Into and Getting Through Medical School'
+    htmlUrl: https://theshortcoat.com/
+    xmlUrl: http://theshortcoat.com/feed/podcast/
+
+  - title: The Clinical Problem Solvers
+    htmlUrl: https://clinicalproblemsolving.com/
+    xmlUrl: https://clinicalproblemsolving.com/category/episodes/feed/
+
+  - title: The Health Curve
+    htmlUrl: http://www.thehealthcurvepodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2454550.rss
+
+  - title: 'Behind The Knife: The Surgery Podcast'
+    htmlUrl: http://behindtheknife.org/
+    xmlUrl: https://audioboom.com/channels/5046960.rss
+
+  - title: Pediatrics On Call
+    htmlUrl: https://aap.org/podcast
+    xmlUrl: https://feeds.libsyn.com/278672/rss
+
+  - title: Bedside Rounds
+    htmlUrl: http://www.bedside-rounds.org/
+    xmlUrl: https://bedsiderounds.libsyn.com/rss
+
+  - title: Run the List
+    htmlUrl: https://redcircle.com/shows/run-the-list
+    xmlUrl: https://feeds.redcircle.com/3afc5caf-efbb-4dc3-ae69-fb7f23cceb66
+
+  - title: The Dose
+    htmlUrl: https://www.cbc.ca/radio/whitecoat
+    xmlUrl: https://www.cbc.ca/podcasting/includes/thedose.xml
+
+  - title: The Curious Clinicians
+    htmlUrl: http://www.curiousclinicians.com/
+    xmlUrl: https://curiousclinicians.libsyn.com/rss
+
+  - title: The Curbsiders Internal Medicine Podcast
+    htmlUrl: https://www.thecurbsiders.com/
+    xmlUrl: https://audioboom.com/channels/5034728.rss
+
+  - title: Freakonomics, M.D.
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/Bx9_hnJH
+
+  - title: 'Cardionerds: A Cardiology Podcast'
+    htmlUrl: https://www.cardionerds.com/
+    xmlUrl: https://www.cardionerds.com/feed/podcast/
+
+  - title: Emergency Medicine Cases
+    htmlUrl: https://emergencymedicinecases.com/
+    xmlUrl: https://feeds.podcastmirror.com/emergency-medicine-cases
+
+  - title: MrBallen’s Medical Mysteries
+    htmlUrl: https://wondery.com/shows/mrballens-medical-mysteries/
+    xmlUrl: https://rss.art19.com/mrballens-medical-mysteries
+
+  - title: Emergency Medical Minute
+    htmlUrl: https://www.emergencymedicalminute.com/
+    xmlUrl: https://emergencymedicalminute.libsyn.com/rss
+
+  - title: Sharp Scratch
+    htmlUrl: https://sharpscratch.podbean.com/
+    xmlUrl: https://feed.podbean.com/sharpscratch/feed.xml
+
+  - title: JAMA Clinical Reviews
+    htmlUrl: https://jamanetwork.com/journals/jama/pages/jama-clinical-reviews
+    xmlUrl: https://jamaclinicalreviews.libsyn.com/rss
+
+  - title: Advances in Care
+    htmlUrl: https://advances-in-care.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/TZu4B0z0
+
+  - title: 'AFP: American Family Physician Podcast'
+    htmlUrl: https://www.aafp.org/journals/afp/multimedia/podcast.html
+    xmlUrl: https://podcast.aafp.org/rss/
+
+  - title: TED Talks Science and Medicine
+    htmlUrl: https://www.ted.com/talks
+    xmlUrl: https://feeds.feedburner.com/iTunesPodcastTTScienceMedicine
+
+  - title: '"Second Opinion" with Christina Farr, Ash Zenooz MD & Luba Greenwood JD'
+    htmlUrl: https://www.podpage.com/secondopinion/
+    xmlUrl: https://feeds.megaphone.fm/secondopinion
+
+  - title: The Nocturnists
+    htmlUrl: https://thenocturnists.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2404469.rss
+
+  - title: Ultrasound Podcast
+    htmlUrl: http://ultrasoundpodcast.libsyn.com/
+    xmlUrl: https://ultrasoundpodcast.libsyn.com/rss
+
+  - title: White Coat, Black Art
+    htmlUrl: https://www.cbc.ca/radio/whitecoat
+    xmlUrl: https://www.cbc.ca/podcasting/includes/whitecoat.xml
+
+  - title: Mayo Clinic Talks
+    htmlUrl: https://mayoclinictalks.podbean.com/
+    xmlUrl: https://feed.podbean.com/mayoclinictalks/feed.xml
+
+  - title: The Internet Book of Critical Care Podcast
+    htmlUrl: https://emcrit.org/ibcc/toc/
+    xmlUrl: https://ibccpodcast.libsyn.com/rss
+
+  - title: Last Week in Medicine
+    htmlUrl: https://www.buzzsprout.com/705819
+    xmlUrl: https://feeds.buzzsprout.com/705819.rss
+
+  - title: This Podcast Will Kill You
+    htmlUrl: https://www.exactlyrightmedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/64b4c224-562e-4b2f-9f31-b24c0111ae53/podcast.rss
+
+  - title: Oncology Overdrive
+    htmlUrl: https://www.healio.com/podcasts
+    xmlUrl: https://oncologyoverdrive.libsyn.com/rss
+
+  - title: Everyday Emergency
+    htmlUrl: https://www.msf.org.uk/everyday-emergency-the-msf-podcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:214103820/sounds.rss
+
+  - title: The House of Pod
+    htmlUrl: https://soundcloud.com/thehouseofpod
+    xmlUrl: https://feeds.acast.com/public/shows/64e5149d04052a00118086ea
+
+  - title: AMA Update
+    htmlUrl: https://www.ama-assn.org/podcasts
+    xmlUrl: https://feeds.simplecast.com/NO8s3nBg
 
 - name: The Best Podcasts About Aliens, UFOs and UAPs
   opml: findthatpod-the-best-podcasts-about-aliens-ufos-and-uaps.opml

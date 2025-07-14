@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Medical Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-medical-podcasts.opml) | 2025-07-01 |
 | [FindThatPod - The Best Podcasts About Aliens, UFOs and UAPs](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-aliens-ufos-and-uaps.opml) | 2025-06-30 |
 | [FindThatPod - The Best Golf Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-golf-podcasts.opml) | 2025-06-25 |
 | [FindThatPod - The Best Conspiracy Theory Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-conspiracy-theory-podcasts.opml) | 2025-06-24 |
