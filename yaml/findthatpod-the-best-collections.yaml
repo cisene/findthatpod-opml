@@ -41,6 +41,156 @@ issues:
 - name: The Best Nature Podcasts
   opml: findthatpod-the-best-nature-podcasts.opml
   date: 2025-06-18
+  htmlUrl: https://findthatpod.com/best-nature-podcasts/
+  podcasts:
+
+  - title: Creature Feature
+    htmlUrl: https://www.iheart.com/podcast/105-creature-feature-30054205/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0476d19f-5abc-4f11-a193-ae2b00156334/136b5ea0-8dcb-49f5-b3a8-ae2b00156347/podcast.rss
+
+  - title: Nature Podcast
+    htmlUrl: http://www.nature.com/nature/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f
+
+  - title: Outside/In
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/LkRPyEJS
+
+  - title: Overheard at National Geographic
+    htmlUrl: https://www.nationalgeographic.com/podcasts/overheard/
+    xmlUrl: https://feeds.megaphone.fm/ESP6921732651
+
+  - title: The Common Descent Podcast
+    htmlUrl: http://commondescentpodcast.podbean.com/
+    xmlUrl: https://commondescentpodcast.podbean.com/feed.xml
+
+  - title: A Life More Wild
+    htmlUrl: https://www.canopyandstars.co.uk/
+    xmlUrl: https://feeds.megaphone.fm/ESL9402126834
+
+  - title: The Wild with Chris Morgan
+    htmlUrl: https://www.kuow.org/podcasts/thewild
+    xmlUrl: http://feeds.kuow.org/thewildpodcast
+
+  - title: The Science of Birds
+    htmlUrl: https://scienceofbirds.com/
+    xmlUrl: https://feeds.buzzsprout.com/937816.rss
+
+  - title: Birth of a Naturalist
+    htmlUrl: https://www.spreaker.com/show/birth-of-a-naturalist
+    xmlUrl: https://www.spreaker.com/show/4274521/episodes/feed
+
+  - title: Living Planet
+    htmlUrl: https://www.dw.com/en/living-planet/program-19028671?maca=en-podcast_living-planet-948-xml-mrss
+    xmlUrl: https://rss.dw.com/xml/podcast_living-planet
+
+  - title: In Defense of Plants Podcast
+    htmlUrl: https://www.indefenseofplants.com/
+    xmlUrl: https://www.indefenseofplants.com/podcast?format=rss
+
+  - title: Nature Revisited
+    htmlUrl: http://noordenproductions.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:588238164/sounds.rss
+
+  - title: EWN - Engineering With Nature
+    htmlUrl: https://www.spreaker.com/show/ewn-engineering-with-nature
+    xmlUrl: https://www.spreaker.com/show/5872676/episodes/feed
+
+  - title: Future Ecologies
+    htmlUrl: https://www.futureecologies.net/
+    xmlUrl: https://feeds.captivate.fm/future-ecologies/
+
+  - title: Nature Guys
+    htmlUrl: http://www.natureguys.org/
+    xmlUrl: https://natureguys.libsyn.com/rss
+
+  - title: Terra Firma
+    htmlUrl: https://www.cpr.org/podcast/terra-firma/
+    xmlUrl: https://pod.cpr.org/terrafirma/
+
+  - title: The Happy Botanist
+    htmlUrl: https://www.thehappybotanistpodcast.com/
+    xmlUrl: https://anchor.fm/s/e7caf8f4/podcast/rss
+
+  - title: Wildly Curious
+    htmlUrl: http://bewildlycurious.com/
+    xmlUrl: https://feeds.buzzsprout.com/1655452.rss
+
+  - title: All Creatures Podcast
+    htmlUrl: https://allcreaturespod.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML4793150916
+
+  - title: The Jane Goodall Hopecast
+    htmlUrl: https://art19.com/shows/the-jane-goodall-hopecast
+    xmlUrl: https://feeds.megaphone.fm/FRQNCY4196309425
+
+  - title: 'Tooth & Claw: True Stories of Animal Attacks'
+    htmlUrl: https://qcodemedia.com/tooth-claw
+    xmlUrl: https://feeds.megaphone.fm/QCD9705695442
+
+  - title: Outside Podcast
+    htmlUrl: http://www.outsideonline.com/podcast
+    xmlUrl: https://feeds.feedburner.com/OutsidePodcast
+
+  - title: BBC Earth Podcast
+    htmlUrl: https://www.bbcearth.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/63fb67c5-f719-43f7-b264-390cd7edb120
+
+  - title: The Atlas Obscura Podcast
+    htmlUrl: http://siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/xKJ93w_w
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Our Numinous Nature
+    htmlUrl: https://www.buzzsprout.com/1180727
+    xmlUrl: https://feeds.buzzsprout.com/1180727.rss
+
+  - title: Urban Wildlife Podcast
+    htmlUrl: https://www.urbanwildlifecast.com/
+    xmlUrl: https://www.urbanwildlifecast.com/?feed=podcast
+
+  - title: Backyard Ecology™
+    htmlUrl: https://www.backyardecology.net/
+    xmlUrl: https://backyardecology.libsyn.com/rss
+
+  - title: A Matter of Degrees
+    htmlUrl: https://www.degreespod.com/
+    xmlUrl: https://feeds.megaphone.fm/FRQNCY1934622158
+
+  - title: Just the Zoo of Us
+    htmlUrl: https://maximumfun.org/podcasts/just-the-zoo-of-us/
+    xmlUrl: https://feeds.simplecast.com/m3TgdnAm
+
+  - title: National Park After Dark
+    htmlUrl: http://npadpodcast.com/
+    xmlUrl: https://audioboom.com/channels/5055896.rss
+
+  - title: Best of Natural History Radio
+    htmlUrl: http://www.bbc.co.uk/programmes/p02nrv7r
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nrv7r.rss
+
+  - title: Rewildology
+    htmlUrl: https://rewildology.com/
+    xmlUrl: https://feeds.castos.com/d5mzm
+
+  - title: The Climate Question
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xtvb6
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtvb6.rss
+
+  - title: Wild Tales | Nature Podcast
+    htmlUrl: https://www.nationaltrust.org.uk/podcasts
+    xmlUrl: https://audioboom.com/channels/4957126.rss
+
+  - title: 'Amazing Wildlife: A San Diego Zoo Podcast'
+    htmlUrl: https://www.iheart.com/podcast/1119-amazing-wildlife-a-san-di-89094301/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/22554C7C-336B-4DAB-8602-AE3900375F03/F00B6583-9098-41FA-B61B-AE3900375F11/podcast.rss
+
+  - title: Off Track
+    htmlUrl: https://www.abc.net.au/listen/programs/offtrack/
+    xmlUrl: https://www.abc.net.au/feeds/3775018/podcast.xml
 
 - name: The Best Fantasy Podcasts
   opml: findthatpod-the-best-fantasy-podcasts.opml
