@@ -33,6 +33,96 @@ issues:
 - name: The Best Conspiracy Theory Podcasts
   opml: findthatpod-the-best-conspiracy-theory-podcasts.opml
   date: 2025-06-24
+  htmlUrl: https://findthatpod.com/best-conspiracy-theory-podcasts/
+  podcasts:
+
+  - title: Stuff They Don't Want You To Know
+    htmlUrl: https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2E824128-FBD5-4C9E-9A57-AE2F0056B0C4/66D98A23-900C-44B0-A40B-AE2F0056B0DB/podcast.rss
+
+  - title: American Hysteria
+    htmlUrl: http://www.americanhysteria.com/
+    xmlUrl: https://feeds.megaphone.fm/WIZD3928139307
+
+  - title: My Momma Told Me
+    htmlUrl: https://www.iheart.com/podcast/1119-my-momma-told-me-with-lan-69919303/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/F33F3702-0AC1-4A7D-A427-AE270036F0FC/AB4E462A-BF77-4B81-B3DB-AE270036F114/podcast.rss
+
+  - title: It Gets Weird
+    htmlUrl: http://itgetsweird.libsyn.com/podcast
+    xmlUrl: https://itgetsweird.libsyn.com/rss
+
+  - title: Those Conspiracy Guys
+    htmlUrl: https://thoseconspiracyguys.com/
+    xmlUrl: https://feeds.megaphone.fm/thoseconspiracyguys
+
+  - title: 'Lizard People: Comedy and Conspiracy Theories'
+    htmlUrl: http://lizardpeoplepodcast.libsyn.com/website
+    xmlUrl: https://lizardpeoplepodcast.libsyn.com/rss
+
+  - title: The Conspiracy Skeptic
+    htmlUrl: http://www.yrad.com/cs/index.htm
+    xmlUrl: http://www.yrad.com/cs/feed.xml
+
+  - title: Theories of the Third Kind
+    htmlUrl: https://www.theoriesofthethirdkind.com/
+    xmlUrl: https://feeds.megaphone.fm/WWO7970459882
+
+  - title: Knowledge Fight
+    htmlUrl: http://knowledgefight.libsyn.com/podcast
+    xmlUrl: https://knowledgefight.libsyn.com/rss
+
+  - title: Our Big Dumb Mouth
+    htmlUrl: http://ourbigdumbmouth.libsyn.com/
+    xmlUrl: https://ourbigdumbmouth.libsyn.com/rss
+
+  - title: Conspiracy Theories
+    htmlUrl: https://open.spotify.com/show/5RdShpOtxKO3ZWohR2M6Sv?si=e74a011fdbbf4248
+    xmlUrl: https://feeds.megaphone.fm/END5064265457
+
+  - title: Conspirituality
+    htmlUrl: https://conspirituality.net/
+    xmlUrl: https://feeds.megaphone.fm/GLSS1122389842
+
+  - title: Skeptoid
+    htmlUrl: https://skeptoid.com/
+    xmlUrl: https://feed.skeptoid.com/
+
+  - title: Marianna in Conspiracyland
+    htmlUrl: http://www.bbc.co.uk/programmes/m001mssm
+    xmlUrl: https://podcasts.files.bbci.co.uk/m001mssm.rss
+
+  - title: Tinfoil Tales
+    htmlUrl: https://www.spreaker.com/podcast/tinfoil-tales--6147818
+    xmlUrl: https://www.spreaker.com/show/6147818/episodes/feed
+
+  - title: Crackpot
+    htmlUrl: https://www.crackpotpodcast.com/
+    xmlUrl: https://crackpotpodcast.libsyn.com/rss
+
+  - title: QAA Podcast
+    htmlUrl: https://www.patreon.com/QAA
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:492135420/sounds.rss
+
+  - title: Cult of Conspiracy
+    htmlUrl: https://www.spreaker.com/podcast/cult-of-conspiracy--5700337
+    xmlUrl: https://www.spreaker.com/show/5700337/episodes/feed
+
+  - title: Red Web
+    htmlUrl: https://www.patreon.com/redweb
+    xmlUrl: https://feeds.megaphone.fm/redweb
+
+  - title: Conspiracy or Just a Coincidence?
+    htmlUrl: https://www.spreaker.com/show/conspiracy-or-just-a-coincidence
+    xmlUrl: https://www.spreaker.com/show/5422494/episodes/feed
+
+  - title: Some Dare Call It Conspiracy
+    htmlUrl: https://www.spreaker.com/show/some-dare-call-it-conspiracy
+    xmlUrl: https://www.spreaker.com/show/5932731/episodes/feed
+
+  - title: Richard Syrett's Strange Planet
+    htmlUrl: https://www.strangeplanet.ca/
+    xmlUrl: https://feeds.megaphone.fm/GLSS2161908200
 
 - name: The Best Fishing Podcasts
   opml: findthatpod-the-best-fishing-podcasts.opml
