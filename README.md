@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Pop Culture Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-pop-culture-podcasts.opml) | 2025-05-22 |
 | [FindThatPod - The Best Cycling Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cycling-podcasts.opml) | 2025-05-22 |
 | [FindThatPod - The Best Educational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-educational-podcasts.opml) | 2025-05-21 |
 | [FindThatPod - The Best Documentary Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-documentary-podcasts.opml) | 2025-05-09 |

@@ -73,6 +73,116 @@ issues:
 - name: The Best Pop Culture Podcasts
   opml: findthatpod-the-best-pop-culture-podcasts.opml
   date: 2025-05-22
+  htmlUrl: https://findthatpod.com/best-pop-culture-podcasts/
+  podcasts:
+
+  - title: Pop Culture Happy Hour
+    htmlUrl: https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+    xmlUrl: https://feeds.npr.org/510282/podcast.xml
+
+  - title: Culture Gabfest
+    htmlUrl: https://slate.com/podcasts/culture-gabfest
+    xmlUrl: https://feeds.megaphone.fm/culturefestonly
+
+  - title: Keep It!
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/CbCOMZ03
+
+  - title: Be There in Five
+    htmlUrl: https://bethereinfive.com/podcast/
+    xmlUrl: https://feeds.blubrry.com/feeds/bethereinfive.xml
+
+  - title: The Daily Zeitgeist
+    htmlUrl: https://www.iheart.com/podcast/105-the-daily-zeitgeist-28516718/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39e934d7-2ddc-4b3e-bc73-ae2b00156363/ab6037f4-9a9a-449b-915d-ae2b00156375/podcast.rss
+
+  - title: Comments by Celebs
+    htmlUrl: https://art19.com/shows/comments-by-celebs
+    xmlUrl: https://rss.art19.com/comments-by-celebs
+
+  - title: Plumbing the Death Star
+    htmlUrl: http://www.sanspantsradio.com/plumbing-the-death-star/
+    xmlUrl: https://feeds.acast.com/public/shows/29fffc4d-d20d-49df-91fe-912efecbb465
+
+  - title: I Hate It But I Love It
+    htmlUrl: http://hatelovepodcast.libsyn.com/podcast
+    xmlUrl: https://hatelovepodcast.com/rss
+
+  - title: Shameless
+    htmlUrl: https://linktr.ee/shamelesspodcast
+    xmlUrl: https://feeds.megaphone.fm/ASEMS4278037250
+
+  - title: Las Culturistas with Matt Rogers and Bowen Yang
+    htmlUrl: https://twitter.com/LasCulturistas
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/F6816727-C503-47AC-A7AC-AE2700391B1E/935C500F-8BB0-436B-BA7F-AE2700391B49/podcast.rss
+
+  - title: Watch What Crappens
+    htmlUrl: https://art19.com/shows/watch-what-crappens-wondery
+    xmlUrl: https://rss.art19.com/watch-what-crappens-wondery
+
+  - title: Page 7
+    htmlUrl: https://www.lastpodcastnetwork.com/
+    xmlUrl: https://feeds.simplecast.com/LR8T0ZDU
+
+  - title: After Work Drinks
+    htmlUrl: https://www.afterworkdrinks.net/
+    xmlUrl: https://feeds.acast.com/public/shows/fb927ae8-2bde-4284-bb5c-cc2d1b90b406
+
+  - title: The Watch
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-watch
+
+  - title: Sentimental Garbage
+    htmlUrl: https://twitter.com/SentimentalPod
+    xmlUrl: https://feeds.acast.com/public/shows/edd6bde5-221e-4c07-bde8-2a0241ccc6e0
+
+  - title: Normal Gossip
+    htmlUrl: http://defector.com/
+    xmlUrl: https://publicfeeds.net/f/3492/feed-rss.xml
+
+  - title: It’s Become a Whole Thing
+    htmlUrl: http://thesonarnetwork.com/its-become-a-whole-thing/
+    xmlUrl: https://thesonarnetwork.com/its-become-a-whole-thing/feed/podcast
+
+  - title: ICYMI
+    htmlUrl: https://slate.com/podcasts/icymi
+    xmlUrl: https://feeds.megaphone.fm/icymi
+
+  - title: Overinvested
+    htmlUrl: http://www.overinvestedpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:213716674/sounds.rss
+
+  - title: The Sarah Silverman Podcast
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4004c692-9368-45d8-b1a0-b084012ddc66/45f6e25b-b780-4705-8bce-b084012ddc8d/podcast.rss
+
+  - title: Switched on Pop
+    htmlUrl: http://www.switchedonpop.com/
+    xmlUrl: https://feeds.megaphone.fm/switchedonpop
+
+  - title: Who? Weekly
+    htmlUrl: http://www.whoweekly.us/
+    xmlUrl: https://feeds.megaphone.fm/who-weekly
+
+  - title: Decoder Ring
+    htmlUrl: https://slate.com/podcasts/decoder-ring
+    xmlUrl: https://feeds.megaphone.fm/decoderring
+
+  - title: Every Outfit
+    htmlUrl: https://audioboom.com/channels/5149472
+    xmlUrl: https://audioboom.com/channels/5149472.rss
+
+  - title: The Popcast With Knox and Jamie
+    htmlUrl: https://shows.acast.com/655bba4578d7ac0011fb4649
+    xmlUrl: https://feeds.acast.com/public/shows/655bba4578d7ac0011fb4649
+
+  - title: The Press Box
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-press-box
+
+  - title: 'Katherine Ryan: Telling Everybody Everything'
+    htmlUrl: https://shows.acast.com/katherine-ryan-telling-everybody-everything
+    xmlUrl: https://rss.acast.com/katherine-ryan-telling-everybody-everything
 
 - name: The Best Cycling Podcasts
   opml: findthatpod-the-best-cycling-podcasts.opml
