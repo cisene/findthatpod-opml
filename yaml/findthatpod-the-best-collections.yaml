@@ -25,6 +25,88 @@ issues:
 - name: The Best Podcasts About Aliens, UFOs and UAPs
   opml: findthatpod-the-best-podcasts-about-aliens-ufos-and-uaps.opml
   date: 2025-06-30
+  htmlUrl: https://findthatpod.com/best-alien-ufo-uap-podcasts/
+  podcasts:
+
+  - title: High Strange
+    htmlUrl: https://highstrange.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/11119722-d65f-4c10-9372-b24a01614938/b43ccadf-7f14-418d-9375-b24a01614955/podcast.rss
+
+  - title: Cosmosis
+    htmlUrl: https://www.spreaker.com/show/the-ufo-rabbit-hole-podcast
+    xmlUrl: https://feeds.megaphone.fm/PHTE6358173109
+
+  - title: WEAPONIZED with Jeremy Corbell & George Knapp
+    htmlUrl: https://www.weaponizedpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/weaponized
+
+  - title: Podcast UFO
+    htmlUrl: https://www.spreaker.com/show/podcast-ufo_1
+    xmlUrl: https://www.spreaker.com/show/5922140/episodes/feed
+
+  - title: UAP STUDIES PODCAST
+    htmlUrl: https://www.patreon.com/uapstudiespodcast
+    xmlUrl: https://anchor.fm/s/15ce4e50/podcast/rss
+
+  - title: It‘s Probably (not) Aliens!
+    htmlUrl: https://art19.com/shows/its-probably-not-aliens
+    xmlUrl: https://rss.art19.com/its-probably-not-aliens
+
+  - title: AREA 52 PODCAST
+    htmlUrl: http://utahpodcastnetwork.com/upn/area52/
+    xmlUrl: http://utahpodcastnetwork.com/feed/area-52/
+
+  - title: UFO WARNING
+    htmlUrl: http://ufowarning.com/
+    xmlUrl: https://anchor.fm/s/68067e4/podcast/rss
+
+  - title: UFO Chronicles Podcast
+    htmlUrl: https://www.spreaker.com/show/ufo-chronicles-podcast
+    xmlUrl: https://www.spreaker.com/show/3395068/episodes/feed
+
+  - title: The Saucer Life
+    htmlUrl: https://saucerlife.com/
+    xmlUrl: https://pinecast.com/feed/the-saucer-life
+
+  - title: Strange Arrivals
+    htmlUrl: https://www.grimandmild.com/strangearrivals
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29ee9a0c-f79c-4ba7-9c97-ae270180c2a8/cb65f5ac-21c8-4de4-8bbf-ae270180c2fc/podcast.rss
+
+  - title: Hysteria 51
+    htmlUrl: https://art19.com/shows/hysteria-51
+    xmlUrl: https://rss.art19.com/hysteria-51
+
+  - title: Point of Convergence
+    htmlUrl: https://pointofconvergence.net/
+    xmlUrl: https://anchor.fm/s/4499c480/podcast/rss
+
+  - title: Need To Know with Coulthart and Zabel
+    htmlUrl: https://www.needtoknow.today/
+    xmlUrl: https://feeds.libsyn.com/584575/rss
+
+  - title: Somewhere in the Skies
+    htmlUrl: http://www.somewhereintheskies.com/
+    xmlUrl: https://feeds.acast.com/public/shows/e9da3d2c-d264-5c31-83b5-259aad10fee5
+
+  - title: The Micah Hanks Program
+    htmlUrl: https://www.micahhanks.com/
+    xmlUrl: https://gralienreport.libsyn.com/rss
+
+  - title: UAP Unidentified Alien Podcast
+    htmlUrl: https://art19.com/shows/uap-unidentified-alien-podcast
+    xmlUrl: https://rss.art19.com/uap-unidentified-alien-podcast
+
+  - title: 'Total Disclosure: UFOs-CoverUps & Conspiracy'
+    htmlUrl: https://www.podpage.com/total-disclosure-ufos-coverups-conspiracy/
+    xmlUrl: https://www.spreaker.com/show/5975113/episodes/feed
+
+  - title: Mysterious Universe
+    htmlUrl: https://mysteriousuniverse.org/
+    xmlUrl: https://feeds.megaphone.fm/mupod
+
+  - title: Theories of the Third Kind
+    htmlUrl: https://www.theoriesofthethirdkind.com/
+    xmlUrl: https://feeds.megaphone.fm/WWO7970459882
 
 - name: The Best Golf Podcasts
   opml: findthatpod-the-best-golf-podcasts.opml
