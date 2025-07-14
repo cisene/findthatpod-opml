@@ -61,6 +61,104 @@ issues:
 - name: The Best Narrative Podcasts
   opml: findthatpod-the-best-narrative-podcasts.opml
   date: 2025-06-03
+  htmlUrl: https://findthatpod.com/best-narrative-podcasts/
+  podcasts:
+
+  - title: What Was That Like - True Stories. Real People.
+    htmlUrl: https://whatwasthatlike.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS8902204604
+
+  - title: Family Secrets
+    htmlUrl: https://www.iheart.com/podcast/105-family-secrets-30131253/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9216806A-7CF2-4EBE-B68B-AE2D0173CB71/4D305889-AA33-49D9-BEE7-AE2D0173CB7B/podcast.rss
+
+  - title: Search Engine
+    htmlUrl: http://www.pjvogt.com/
+    xmlUrl: https://feeds.megaphone.fm/search-engine
+
+  - title: S-Town
+    htmlUrl: https://stownpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/CpvnpIaj
+
+  - title: I'm Not a Monster
+    htmlUrl: http://www.bbc.co.uk/programmes/p08yblkf
+    xmlUrl: https://podcasts.files.bbci.co.uk/p08yblkf.rss
+
+  - title: Lives Less Ordinary
+    htmlUrl: http://www.bbc.co.uk/programmes/p02s5rx7
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02s5rx7.rss
+
+  - title: Cautionary Tales with Tim Harford
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss
+
+  - title: American History Tellers
+    htmlUrl: https://wondery.com/shows/american-history-tellers/
+    xmlUrl: https://rss.art19.com/american-history-tellers
+
+  - title: Love and Radio
+    htmlUrl: https://loveandradio.org/
+    xmlUrl: http://feed.loveandradio.org/loveplusradio
+
+  - title: the memory palace
+    htmlUrl: http://thememorypalace.us/
+    xmlUrl: http://feeds.thememorypalace.us/thememorypalace
+
+  - title: Radio Rental
+    htmlUrl: http://www.radiorentalusa.com/
+    xmlUrl: https://feeds.megaphone.fm/radio-rental
+
+  - title: Heavyweight
+    htmlUrl: https://www.pushkin.fm/podcasts
+    xmlUrl: https://feeds.megaphone.fm/heavyweight-spot
+
+  - title: RISK!
+    htmlUrl: https://www.risk-show.com/
+    xmlUrl: https://feeds.megaphone.fm/risk
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: Snap Judgment
+    htmlUrl: http://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: This Is Actually Happening
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/
+    xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
+
+  - title: Days Like These
+    htmlUrl: https://www.abc.net.au/listen/programs/days-like-these/
+    xmlUrl: https://www.abc.net.au/feeds/12694854/podcast.xml
+
+  - title: This American Life
+    htmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+    xmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+
+  - title: UnFictional
+    htmlUrl: https://www.kcrw.com/culture/shows/unfictional?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/ec/64/e7/ec64e739-e116-4ce0-84c5-76917e52f4fa.xml
+
+  - title: The Moth
+    htmlUrl: http://themoth.org/
+    xmlUrl: https://feeds.feedburner.com/themothpodcast
+
+  - title: The Secret Room | True Stories
+    htmlUrl: http://thesecretroompodcast.com/
+    xmlUrl: https://secretroom.libsyn.com/rss
+
+  - title: Short Cuts
+    htmlUrl: http://www.bbc.co.uk/programmes/b01mk3f8
+    xmlUrl: https://podcasts.files.bbci.co.uk/b01mk3f8.rss
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
 
 - name: The Best Ghost Story Podcasts
   opml: findthatpod-the-best-ghost-story-podcasts.opml
