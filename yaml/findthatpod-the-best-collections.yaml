@@ -53,6 +53,117 @@ issues:
 - name: The Best Health Podcasts
   opml: findthatpod-the-best-health-podcasts.opml
   date: 2025-06-10
+  htmlUrl: https://findthatpod.com/best-health-podcasts/
+  podcasts:
+
+  - title: Healthy Conversations
+    htmlUrl: https://cvshealth.com/healthyconversations
+    xmlUrl: https://feeds.transistor.fm/cvs-health-healthy-conversations
+
+  - title: Mayo Clinic Health Matters
+    htmlUrl: https://redcircle.com/shows/mayo-clinic-qanda
+    xmlUrl: https://feeds.redcircle.com/10f569c3-2abb-4026-853b-3cf717ecab44
+
+  - title: Diabetes Canada Podcast
+    htmlUrl: https://www.diabetes.ca/resources/podcast
+    xmlUrl: https://feeds.blubrry.com/feeds/diabetes_canada_podcast.xml
+
+  - title: Food, We Need To Talk
+    htmlUrl: https://www.foodweneedtotalk.com/
+    xmlUrl: https://feed.foodweneedtotalk.com/
+
+  - title: The Nocturnists
+    htmlUrl: https://thenocturnists.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2404469.rss
+
+  - title: The Dr. Hyman Show
+    htmlUrl: http://drhyman.com/
+    xmlUrl: https://feeds.megaphone.fm/thedoctorsfarmacy
+
+  - title: ZOE Science & Nutrition
+    htmlUrl: http://zoe.com/
+    xmlUrl: https://feeds.megaphone.fm/ZOELIMITED9301524082
+
+  - title: Optimal Health Daily - Fitness and Nutrition
+    htmlUrl: https://oldpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/OLD4549284412
+
+  - title: The Dose
+    htmlUrl: https://www.cbc.ca/radio/whitecoat
+    xmlUrl: https://www.cbc.ca/podcasting/includes/thedose.xml
+
+  - title: Freakonomics, M.D.
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/Bx9_hnJH
+
+  - title: Being Well with Forrest Hanson and Dr. Rick Hanson
+    htmlUrl: https://rickhanson.com/being-well-podcast/
+    xmlUrl: https://feeds.megaphone.fm/BEING3442328255
+
+  - title: Nutrition Conversations
+    htmlUrl: https://cns-scn.ca/podcasts
+    xmlUrl: https://media.rss.com/cnspodcast/feed.xml
+
+  - title: Inside Health
+    htmlUrl: http://www.bbc.co.uk/programmes/b019dl1b
+    xmlUrl: https://podcasts.files.bbci.co.uk/b019dl1b.rss
+
+  - title: Rethinking Wellness
+    htmlUrl: https://rethinkingwellness.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1424334.rss
+
+  - title: Pursuing Health
+    htmlUrl: https://pursuing-health.com/
+    xmlUrl: https://feed.podbean.com/pursuinghealth/feed.xml
+
+  - title: Maintenance Phase
+    htmlUrl: http://maintenancephase.com/
+    xmlUrl: https://feeds.buzzsprout.com/1411126.rss
+
+  - title: 'Love Your Heart: A Cleveland Clinic Podcast'
+    htmlUrl: https://my.clevelandclinic.org/departments/heart/
+    xmlUrl: https://feeds.buzzsprout.com/2238076.rss
+
+  - title: Mayo Clinic Aging Forward
+    htmlUrl: https://redcircle.com/shows/aging-forward
+    xmlUrl: https://feeds.redcircle.com/1ed238fd-45a5-4f80-9a38-474784a20789
+
+  - title: 'Butts & Guts: A Cleveland Clinic Digestive Health Podcast'
+    htmlUrl: https://my.clevelandclinic.org/departments/digestive
+    xmlUrl: https://feeds.buzzsprout.com/2246824.rss
+
+  - title: Radically Genuine Podcast with Dr. Roger McFillin
+    htmlUrl: https://www.drmcfillin.com/
+    xmlUrl: https://feeds.transistor.fm/radically-genuine-podcast
+
+  - title: Weights and Plates Podcast
+    htmlUrl: https://weightsandplates.com/
+    xmlUrl: https://weightsandplates.libsyn.com/rss
+
+  - title: The Healthy Rebellion Radio
+    htmlUrl: http://thehealthyrebellionradio.libsyn.com/website
+    xmlUrl: https://thehealthyrebellionradio.libsyn.com/rss
+
+  - title: Nutrition Facts with Dr. Greger
+    htmlUrl: https://nutritionfacts.org/audio/
+    xmlUrl: https://nutritionfacts.org/audio/feed/podcast/
+
+  - title: The Model Health Show
+    htmlUrl: https://themodelhealthshow.com/
+    xmlUrl: https://themodelhealthshow.libsyn.com/rss
+
+  - title: Chasing Life
+    htmlUrl: https://www.cnn.com/audio/podcasts/chasing-life
+    xmlUrl: https://feeds.megaphone.fm/WMHY6124370245
+
+  - title: On Drugs
+    htmlUrl: https://www.cbc.ca/radio/ondrugs
+    xmlUrl: https://www.cbc.ca/podcasting/includes/ondrugs.xml
+
+  - title: Defy Dementia – The podcast for anyone with a brain, by Baycrest
+    htmlUrl: http://www.defydementia.org/
+    xmlUrl: https://feed.pod.co/defy-dementia
+
 
 - name: The Best Marketing Podcasts
   opml: findthatpod-the-best-marketing-podcasts.opml

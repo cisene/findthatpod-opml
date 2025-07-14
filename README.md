@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Health Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-health-podcasts.opml) | 2025-06-10 |
 | [FindThatPod - The Best Marketing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-marketing-podcasts.opml) | 2025-06-04 |
 | [FindThatPod - The Best Narrative Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-narrative-podcasts.opml) | 2025-06-03 |
 | [FindThatPod - The Best Ghost Story Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ghost-story-podcasts.opml) | 2025-05-28 |
