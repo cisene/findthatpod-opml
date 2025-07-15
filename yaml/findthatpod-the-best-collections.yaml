@@ -13,6 +13,110 @@ issues:
 - name: The Best Star Trek Podcasts
   opml: findthatpod-the-best-star-trek-podcasts.opml
   date: 2025-07-07
+  htmlUrl: https://findthatpod.com/best-star-trek-podcasts/
+  podcasts:
+
+  - title: The Greatest Generation
+    htmlUrl: https://www.maximumfun.org/shows/greatest-generation
+    xmlUrl: https://feeds.simplecast.com/_mp2DeJd
+
+  - title: 'Mission Log: A Roddenberry Star Trek Podcast'
+    htmlUrl: http://missionlog.libsyn.com/
+    xmlUrl: https://missionlog.libsyn.com/rss
+
+  - title: 'Star Trek: The Pod Directive'
+    htmlUrl: https://www.startrek.com/
+    xmlUrl: https://feeds.megaphone.fm/poddirective
+
+  - title: Newbie Star Trek
+    htmlUrl: https://newbiestartrek.com/
+    xmlUrl: https://feeds.libsyn.com/548737/rss
+
+  - title: 'Captain’s Pod: A Star Trek Companion'
+    htmlUrl: https://redcircle.com/shows/captains-pod-a-star-trek-companion
+    xmlUrl: https://feeds.redcircle.com/cd60a346-5f7c-44bf-a18e-07572520dbbd
+
+  - title: The Shuttlepod Show
+    htmlUrl: https://shuttlepodshow.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/9wMig_EC
+
+  - title: Vulcan Hello (Star Trek Discovery, Picard, Strange New Worlds)
+    htmlUrl: https://www.theincomparable.com/vulcanhello/
+    xmlUrl: https://feeds.theincomparable.com/vulcanhello
+
+  - title: Star Trek Minute
+    htmlUrl: https://www.startrekminute.com/
+    xmlUrl: https://www.startrekminute.com/feed.xml
+
+  - title: 'Greatest Trek: New Star Trek Reviewed'
+    htmlUrl: https://maximumfun.org/podcasts/the-greatest-discovery/
+    xmlUrl: https://feeds.simplecast.com/d1rbEtgZ
+
+    # Weird entry - skipped
+
+  - title: The Delta Flyers
+    htmlUrl: https://redcircle.com/shows/the-delta-flyers
+    xmlUrl: https://feeds.redcircle.com/051d841f-35cd-42c5-badd-96eb3d97d593
+
+  - title: The D-Con Chamber
+    htmlUrl: https://thedconchamber.com/
+    xmlUrl: https://www.spreaker.com/show/6181422/episodes/feed
+
+  - title: The 7th Rule -- A Star Trek Podcast with DS9's Cirroc Lofton
+    htmlUrl: https://www.spreaker.com/podcast/the-7th-rule-a-star-trek-podcast-with-ds9-s-cirroc-lofton--3363497
+    xmlUrl: https://www.spreaker.com/show/3363497/episodes/feed
+
+  - title: Ship-Talking Podcast
+    htmlUrl: https://www.shiptalkingpod.com/
+    xmlUrl: https://feed.podbean.com/shiptalkingpod/feed.xml
+
+  - title: 'The Trek Files: A Roddenberry Star Trek Podcast'
+    htmlUrl: https://www.facebook.com/TheTrekFiles/
+    xmlUrl: https://thetrekfiles.libsyn.com/rss
+
+  - title: Positively Trek
+    htmlUrl: https://redcircle.com/shows/positively-trek
+    xmlUrl: https://feeds.redcircle.com/47951989-869d-4674-8a6f-63033fc0f749
+
+  - title: Star Trek The Next Conversation - a semi funny trashfire of a Star Trek podcast currently about TV's Deep Space Nine DS9 (or TNG)
+    htmlUrl: https://art19.com/shows/star-trek-the-next-conversation
+    xmlUrl: https://rss.art19.com/star-trek-the-next-conversation
+
+  - title: TrekRanks Podcast
+    htmlUrl: http://www.trekranks.com/
+    xmlUrl: https://feeds.libsyn.com/543097/rss
+
+  - title: TrekCulture
+    htmlUrl: https://whatculture.com/
+    xmlUrl: https://feeds.acast.com/public/shows/d5eda24e-db83-4d5f-a814-c968821c56bf
+
+  - title: INGLORIOUS TREKSPERTS
+    htmlUrl: https://trekspertsplus.com/
+    xmlUrl: https://anchor.fm/s/7067f3c/podcast/rss
+
+  - title: Spockcast - a Star Trek Strange New Worlds & Lower Decks podcast
+    htmlUrl: https://redcircle.com/shows/spockcast-a-star-trek-discovery-picard-and-lower-decks-podcast
+    xmlUrl: https://feeds.redcircle.com/d1ec246e-58bf-4d89-9465-6251494dcdd9
+
+  - title: Trek In Time
+    htmlUrl: https://www.trekintime.show/
+    xmlUrl: https://feeds.transistor.fm/trek-in-time
+
+  - title: Live Long and Podcast
+    htmlUrl: https://www.ufpodcasts.com/livelongandpodcast
+    xmlUrl: https://anchor.fm/s/13b95f74/podcast/rss
+
+  - title: 'Subspace Transmissions: A Star Trek Podcast'
+    htmlUrl: https://subspacetransmissionspod.podbean.com/
+    xmlUrl: https://feed.podbean.com/subspacetransmissionspod/feed.xml
+
+  - title: 'Trek Geeks: A Star Trek Podcast'
+    htmlUrl: http://trekgeeks.com/
+    xmlUrl: https://trekgeeks.libsyn.com/rss
+
+  - title: 'The Orb: A Star Trek Deep Space Nine Podcast'
+    htmlUrl: http://theorb.libsyn.com/webpage
+    xmlUrl: https://theorb.libsyn.com/rss
 
 - name: The Best Podcasts About The American Civil War
   opml: findthatpod-the-best-podcasts-about-the-american-civil-war.opml
