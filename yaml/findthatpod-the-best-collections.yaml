@@ -6,6 +6,212 @@ global:
 
 issues:
 
+- name: The Best Canadian Podcasts
+  opml: findthatpod-the-best-canadian-podcasts.opml
+  date: 2025-07-14
+  htmlUrl: https://findthatpod.com/best-canadian-podcasts/
+  podcasts:
+
+  - title: 'Uncover: Calls From a Killer'
+    htmlUrl: https://www.cbc.ca/radio/uncover
+    xmlUrl: https://www.cbc.ca/podcasting/includes/uncover.xml
+
+  - title: 'Broomgate: A Curling Scandal'
+    htmlUrl: https://www.cbc.ca/radio/podcastnews
+    xmlUrl: https://www.cbc.ca/podcasting/includes/broomgate.xml
+
+  - title: Discover Library and Archives Canada
+    htmlUrl: https://library-archives.canada.ca/eng/collection/engage-learn/podcast/pages/podcasts.aspx
+    xmlUrl: http://collectionscanada.gc.ca/obj/800001/f11/LAC-Podcast-m4a-e.xml
+
+  - title: The Bridge with Peter Mansbridge
+    htmlUrl: http://www.thepetermansbridge.ca/
+    xmlUrl: https://feeds.simplecast.com/imTmqqal
+
+  - title: Elbows Up
+    htmlUrl: https://elbows-up.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/5KDCoHqs
+
+  - title: Canada is Boring
+    htmlUrl: https://www.canadianpoliticsisboring.com/
+    xmlUrl: https://feeds.acast.com/public/shows/62471f9b30fb610012001dd0
+
+  - title: The Canadian Investor
+    htmlUrl: http://stratosphereinvesting.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d75d2ff4-a4dd-4a19-bcb1-ad35013dfc83/33a9e70f-55b1-4f79-86a9-ad35013e9672/4ad0a8bc-f5dd-4c63-b6af-ad35013e9680/podcast.rss
+
+  - title: Sea of Lies
+    htmlUrl: https://www.cbc.ca/newsinteractives/features/sea-of-lies
+    xmlUrl: https://www.cbc.ca/podcasting/includes/seaoflies.xml
+
+  - title: Quirks and Quarks
+    htmlUrl: https://www.cbc.ca/radio/quirks
+    xmlUrl: https://www.cbc.ca/podcasting/includes/quirksaio.xml
+
+  - title: Dark Poutine - True Crime and Dark History
+    htmlUrl: http://darkpoutine.com/
+    xmlUrl: https://feeds.megaphone.fm/CORU8758037629
+
+  - title: The Peak Daily
+    htmlUrl: https://anchor.fm/thepeakdaily
+    xmlUrl: https://feeds.megaphone.fm/CORU3226693861
+
+  - title: The Hatchet
+    htmlUrl: https://hatchetmedia.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/3224756.rss
+
+  - title: Tech Won't Save Us
+    htmlUrl: https://techwontsave.us/
+    xmlUrl: https://feeds.buzzsprout.com/1004689.rss
+
+  - title: Canadian Time Machine | Voyages Dans L'Histoire Canadienne
+    htmlUrl: https://feeds.acast.com/public/shows/canadian-time-machine
+    xmlUrl: https://feeds.acast.com/public/shows/63e11822b142980010ad0597
+
+  - title: Canardian
+    htmlUrl: https://shows.acast.com/canardian
+    xmlUrl: https://feeds.acast.com/public/shows/65c9034af377ea0017fd1e98
+
+  - title: Indigenous 150+
+    htmlUrl: https://goodinfluencefilms.com/podcasts
+    xmlUrl: https://indigenous150plus.libsyn.com/rss
+
+  - title: This Matters
+    htmlUrl: https://www.thestar.com/podcasts/thismatters
+    xmlUrl: https://thismatters.libsyn.com/rss
+
+  - title: The Salmon People
+    htmlUrl: https://www.nationalobserver.com/podcast/salmon-people
+    xmlUrl: https://feeds.acast.com/public/shows/648765fea10c14001159af96
+
+  - title: Fireside Canada
+    htmlUrl: https://firesidecanada.ca/
+    xmlUrl: https://feeds.simplecast.com/IeVt31GZ
+
+  - title: Hunting Warhead
+    htmlUrl: https://www.cbc.ca/radio/podcasts/hunting-warhead/index.html
+    xmlUrl: https://www.cbc.ca/podcasting/includes/huntingwarhead.xml
+
+  - title: CANADALAND
+    htmlUrl: https://www.canadaland.com/shows/canadaland/
+    xmlUrl: https://feeds.acast.com/public/shows/630ceae33fe37400122828c6
+
+  - title: As It Happens
+    htmlUrl: https://www.cbc.ca/aih
+    xmlUrl: https://www.cbc.ca/podcasting/includes/asithappens.xml
+
+  - title: The Beaverton Weekly Report
+    htmlUrl: https://www.thebeaverton.com/
+    xmlUrl: https://thebeaverton.libsyn.com/rss
+
+  - title: Keep Canada Weird
+    htmlUrl: https://www.nighttimepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/keep-canada-weird
+
+  - title: Ahkameyimok Podcast with Perry Bellegarde
+    htmlUrl: https://blubrry.com/ahkameyimok/
+    xmlUrl: https://feeds.blubrry.com/feeds/ahkameyimok.xml
+
+  - title: The Secret Life of Canada
+    htmlUrl: https://www.cbc.ca/secretlifeofcanada
+    xmlUrl: https://www.cbc.ca/podcasting/includes/secretlifeofcanada.xml
+
+  - title: Stop Podcasting Yourself
+    htmlUrl: http://stoppodcastingyourself.com/
+    xmlUrl: https://stoppodcastingyourself.libsyn.com/rss
+
+  - title: Front Burner
+    htmlUrl: https://www.cbc.ca/frontburner
+    xmlUrl: https://www.cbc.ca/podcasting/includes/frontburner.xml
+
+  - title: Matriarch Movement
+    htmlUrl: https://www.matriarchmovement.ca/
+    xmlUrl: https://feeds.megaphone.fm/matriarch-movement
+
+  - title: Backstage at the Vinyl Cafe
+    htmlUrl: https://www.vinylcafe.com/
+    xmlUrl: https://feeds.acast.com/public/shows/63a2074753e78800112ac3db
+
+  - title: Machines Like Us
+    htmlUrl: https://www.theglobeandmail.com/podcasts/machines-like-us/?token=s3d
+    xmlUrl: https://feeds.simplecast.com/FJSi7gLl
+
+  - title: Alright, Now What?
+    htmlUrl: https://canadianwomen.org/
+    xmlUrl: https://feeds.captivate.fm/alright-now-what/
+
+  - title: Canadian Salad
+    htmlUrl: http://www.canadiansalad.ca/
+    xmlUrl: https://feeds.buzzsprout.com/2235189.rss
+
+  - title: The Debaters
+    htmlUrl: http://www.cbc.ca/radio/thedebaters
+    xmlUrl: https://www.cbc.ca/podcasting/includes/debaters.xml
+
+  - title: The BetaKit Podcast Channel
+    htmlUrl: http://betakit.libsyn.com/podcast
+    xmlUrl: https://betakit.libsyn.com/rss
+
+  - title: SickKids VS
+    htmlUrl: https://www.cohostpodcasting.com/
+    xmlUrl: https://feeds.cohostpodcasting.com/xrnjZLsS
+
+  - title: Escaping NXIVM
+    htmlUrl: https://www.cbc.ca/radio/uncover/season1
+    xmlUrl: https://www.cbc.ca/podcasting/includes/escapingnxivm.xml
+
+  - title: Someone Knows Something
+    htmlUrl: https://www.cbc.ca/radio/sks
+    xmlUrl: https://www.cbc.ca/podcasting/includes/sks.xml
+
+  - title: The Warblers by Birds Canada
+    htmlUrl: http://www.birdscanada.org/
+    xmlUrl: https://feeds.buzzsprout.com/1784269.rss
+
+  - title: The Gravy Train
+    htmlUrl: https://thegravytrainpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/QRW3yDn7
+
+  - title: Canadian History Ehx
+    htmlUrl: https://canadaehx.com/
+    xmlUrl: https://feeds.megaphone.fm/CORU1035320574
+
+  - title: The Current
+    htmlUrl: https://www.cbc.ca/radio/thecurrent
+    xmlUrl: https://www.cbc.ca/podcasting/includes/current.xml
+
+  - title: Kuper Island
+    htmlUrl: https://www.cbc.ca/radio/podcasts
+    xmlUrl: https://www.cbc.ca/podcasting/includes/kuperisland.xml
+
+  - title: 'Woodbine: A Parkdale Haunts Production'
+    htmlUrl: https://www.woodbinepod.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP6646870521
+
+  - title: True North True Crime
+    htmlUrl: https://truenorthtruecrime.podbean.com/
+    xmlUrl: https://feeds.acast.com/public/shows/60da2c841b25ce001aee112e
+
+  - title: Curious Canadian History
+    htmlUrl: https://shows.acast.com/cool-canadian-history
+    xmlUrl: https://feeds.acast.com/public/shows/61b7bdf6661025001bf5cc97
+
+  - title: The Big Story
+    htmlUrl: https://thebigstorypodcast.ca/
+    xmlUrl: https://feeds.simplecast.com/Okax44bo
+
+  - title: Ideas
+    htmlUrl: https://www.cbc.ca/radio/ideas
+    xmlUrl: https://www.cbc.ca/podcasting/includes/ideas.xml
+
+  - title: Welcome to Paradise
+    htmlUrl: https://www.cbc.ca/radio/podcastnews
+    xmlUrl: https://www.cbc.ca/podcasting/includes/welcometoparadise.xml
+
+  - title: Commotion with Elamin Abdelmahmoud
+    htmlUrl: https://www.cbc.ca/arts/commotion
+    xmlUrl: https://www.cbc.ca/podcasting/includes/commotion.xml
+
 - name: The Best Yoga Podcasts
   opml: findthatpod-the-best-yoga-podcasts.opml
   date: 2025-07-08
