@@ -9,6 +9,92 @@ issues:
 - name: The Best Yoga Podcasts
   opml: findthatpod-the-best-yoga-podcasts.opml
   date: 2025-07-08
+  htmlUrl: https://findthatpod.com/best-yoga-podcasts/
+  podcasts:
+
+  - title: Yogaland Podcast
+    htmlUrl: http://www.jasonyoga.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/3d745b41-3dae-4e9f-8bd0-d48ea7d90b85
+
+  - title: Everyday Ayurveda and Yoga at Hale Pule
+    htmlUrl: https://www.halepule.com/
+    xmlUrl: https://feeds.buzzsprout.com/39107.rss
+
+  - title: Integral Yoga Podcast
+    htmlUrl: http://integralyogapodcast.com/
+    xmlUrl: https://feed.pippa.io/public/shows/integral-yoga-podcast
+
+  - title: Yoga Teacher Resource Podcast
+    htmlUrl: https://helloyogateacher.podbean.com/
+    xmlUrl: https://feed.podbean.com/helloyogateacher/feed.xml
+
+  - title: Yoga World
+    htmlUrl: http://www.ghoshyoga.org/
+    xmlUrl: https://www.spreaker.com/show/4276588/episodes/feed
+
+  - title: Flow With Me Yoga
+    htmlUrl: https://www.flowwithme.yoga/
+    xmlUrl: https://flowwithmeyoga.libsyn.com/rss
+
+  - title: Sober Yoga Girl
+    htmlUrl: http://www.soberyogagirl.com/
+    xmlUrl: https://feeds.buzzsprout.com/1665100.rss
+
+  - title: Yoga Meets Movement Science
+    htmlUrl: https://jennirawlings.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/1868233.rss
+
+  - title: The Yoga Inspired Life
+    htmlUrl: https://www.shaylaquinn.com/
+    xmlUrl: https://feeds.buzzsprout.com/1300648.rss
+
+  - title: Dharma Talk with Henry Winslow
+    htmlUrl: https://henrywins.com/
+    xmlUrl: https://henrywins.libsyn.com/rss
+
+  - title: 'The Yogipreneur: Business and Marketing for Yoga Teachers'
+    htmlUrl: http://www.digitalyogaacademy.com/
+    xmlUrl: https://audioboom.com/channels/5011251.rss
+
+  - title: Let's Talk Yoga
+    htmlUrl: http://letstalk.yoga/
+    xmlUrl: https://feeds.buzzsprout.com/1309609.rss
+
+  - title: J. Brown Yoga Talks
+    htmlUrl: http://www.jbrownyoga.com/yoga-talks-podcast/
+    xmlUrl: https://jbrownyogatalks.libsyn.com/rss
+
+  - title: On and Off Your Mat Yoga Podcast
+    htmlUrl: https://www.erikabelanger.com/blog-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/5a5fdec3a4d96aa520f89227
+
+  - title: The Blissful Biz
+    htmlUrl: https://www.susannerieker.com/
+    xmlUrl: https://feeds.buzzsprout.com/778442.rss
+
+  - title: The Funny Thing About Yoga
+    htmlUrl: https://www.cayayogaschool.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/63d8372d8368e20010ca45db
+
+  - title: The Uplifted Yoga Podcast
+    htmlUrl: https://www.brettlarkin.com/
+    xmlUrl: https://sivana.libsyn.com/rss
+
+  - title: Mastering the Business of Yoga
+    htmlUrl: http://mbomyoga.libsyn.com/podcast
+    xmlUrl: https://mbomyoga.libsyn.com/rss
+
+  - title: Yoga Medicine
+    htmlUrl: https://yogamedicine.com/
+    xmlUrl: https://yogamedicine.libsyn.com/rss
+
+  - title: The Connected Yoga Teacher Podcast
+    htmlUrl: https://www.theconnectedyogateacher.com/
+    xmlUrl: https://theconnectedyogateacher.libsyn.com/rss
+
+  - title: Abundant Yoga Teacher Podcast
+    htmlUrl: https://www.amymcdonald.com.au/abundantyogateacherpodcasts/
+    xmlUrl: https://www.amymcdonald.com.au/abundantyogateacherpodcasts?format=rss
 
 - name: The Best Star Trek Podcasts
   opml: findthatpod-the-best-star-trek-podcasts.opml
