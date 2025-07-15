@@ -6,6 +6,108 @@ global:
 
 issues:
 
+- name: The Best Nursing Podcasts
+  opml: findthatpod-the-best-nursing-podcasts.opml
+  date: 2025-07-15
+  htmlUrl: https://findthatpod.com/best-nursing-podcasts/
+  podcasts:
+
+  - title: 'Straight A Nursing: Study for nursing school exams & NCLEX'
+    htmlUrl: https://straightanursingstudent.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML3850763387
+
+  - title: The FreshRN Podcast with Kati Kleber
+    htmlUrl: https://www.freshrn.com/podcast/
+    xmlUrl: https://freshrn.libsyn.com/rss
+
+  - title: The Murses Station
+    htmlUrl: https://anchor.fm/murses
+    xmlUrl: https://anchor.fm/s/8d087ec8/podcast/rss
+
+  - title: Nursing Uncensored
+    htmlUrl: https://www.nursinguncensored.com/
+    xmlUrl: https://www.spreaker.com/show/2619306/episodes/feed
+
+  - title: Walking Home From The ICU
+    htmlUrl: https://www.daytonicuconsulting.com/
+    xmlUrl: https://anchor.fm/s/12e55da0/podcast/rss
+
+  - title: Nurses Uncorked - A Nursing Podcast Delivering Nursing News
+    htmlUrl: https://nursesuncorked.com/
+    xmlUrl: https://feed.podbean.com/thenurseericarn/feed.xml
+
+  - title: Nurse Coffee Talk
+    htmlUrl: http://nursecoffeetalk.com/
+    xmlUrl: https://feeds.buzzsprout.com/607330.rss
+
+  - title: Nursing Uncharted
+    htmlUrl: https://www.americanmobile.com/nursinguncharted/
+    xmlUrl: https://feeds.simplecast.com/e1EYjzrE
+
+  - title: Code Blue and Bullsh*t
+    htmlUrl: https://player.whooshkaa.com/shows/code-blue-and-bullshit
+    xmlUrl: https://anchor.fm/s/b41cefe4/podcast/rss
+
+  - title: The Scrub Me In Nursing Podcast
+    htmlUrl: https://www.buzzsprout.com/2381716
+    xmlUrl: https://feeds.buzzsprout.com/2381716.rss
+
+  - title: Art of Emergency Nursing
+    htmlUrl: http://artofemergencynursing.libsyn.com/website
+    xmlUrl: https://artofemergencynursing.libsyn.com/rss
+
+  - title: MCHD Paramedic Podcast
+    htmlUrl: https://soundcloud.com/mchdpp
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:389670846/sounds.rss
+
+  - title: SEE YOU NOW
+    htmlUrl: https://nursing.jnj.com/see-you-now-podcast
+    xmlUrl: https://seeyounow.libsyn.com/rss
+
+  - title: The Nurse Blake Podcast
+    htmlUrl: https://www.nurseblake.com/
+    xmlUrl: https://anchor.fm/s/515d9da4/podcast/rss
+
+  - title: NursePreneurs
+    htmlUrl: https://nursepreneurs.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:449227851/sounds.rss
+
+  - title: The Nurse Keith Show
+    htmlUrl: https://nursekeith.com/
+    xmlUrl: https://feeds.megaphone.fm/nurse-keith-show
+
+  - title: Good Nurse Bad Nurse
+    htmlUrl: https://goodnursebadnurse.com/
+    xmlUrl: https://goodnursebadnurse.podbean.com/feed.xml
+
+  - title: Up My Nursing Game
+    htmlUrl: https://upmynursinggame.buzzsprout.com/
+    xmlUrl: https://feeds.megaphone.fm/up-my-nursing-game
+
+  - title: Frontline Nursing
+    htmlUrl: https://www.flcenterfornursing.org/
+    xmlUrl: https://feeds.buzzsprout.com/1546939.rss
+
+  - title: SHIFT Talk
+    htmlUrl: https://www.shiftnursing.com/
+    xmlUrl: https://shiftnursing.libsyn.com/rss
+
+  - title: Lab Values Podcast by NURSING.com (Nursing Podcast, normal lab values for nurses for NCLEX®) by NURSING.com (NRSNG)
+    htmlUrl: https://sites.libsyn.com/420743
+    xmlUrl: https://feeds.libsyn.com/420743/rss
+
+  - title: Cup Of Nurses
+    htmlUrl: https://cupofnurses.com/
+    xmlUrl: https://anchor.fm/s/7504fdd8/podcast/rss
+
+  - title: The Renewed Nurse Podcast
+    htmlUrl: http://therenewednurse.com/
+    xmlUrl: https://anchor.fm/s/13f79be0/podcast/rss
+
+  - title: The Neurodivergent Nurse
+    htmlUrl: https://www.theneurodivergentnurse.com/
+    xmlUrl: https://anchor.fm/s/4e2064c8/podcast/rss
+
 - name: The Best Canadian Podcasts
   opml: findthatpod-the-best-canadian-podcasts.opml
   date: 2025-07-14

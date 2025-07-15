@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Nursing Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-nursing-podcasts.opml) | 2025-07-15 |
 | [FindThatPod - The Best Canadian Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-canadian-podcasts.opml) | 2025-07-14 |
 | [FindThatPod - The Best Yoga Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-yoga-podcasts.opml) | 2025-07-08 |
 | [FindThatPod - The Best Star Trek Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-star-trek-podcasts.opml) | 2025-07-07 |
