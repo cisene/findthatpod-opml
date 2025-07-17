@@ -6,6 +6,96 @@ global:
 
 issues:
 
+- name: The Best Adventure Podcasts
+  opml: findthatpod-the-best-adventure-podcasts.opml
+  date: 2025-07-16
+  htmlUrl: https://findthatpod.com/best-adventure-podcasts/
+  podcasts:
+
+  - title: Out There
+    htmlUrl: https://www.outtherepodcast.com/
+    xmlUrl: https://outthere.libsyn.com/rss
+
+  - title: Women Who Dare
+    htmlUrl: http://kerrygross.com/
+    xmlUrl: https://feeds.blubrry.com/feeds/women_who_dare.xml
+
+  - title: The Explorers Podcast
+    htmlUrl: http://www.explorerspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL4434397541
+
+  - title: Diaries Of The Wild Ones
+    htmlUrl: https://www.diariesofthewildones.com/
+    xmlUrl: https://anchor.fm/s/a68453f4/podcast/rss
+
+  - title: Against The Odds
+    htmlUrl: https://wondery.com/shows/against-the-odds/?utm_source=rss
+    xmlUrl: https://rss.art19.com/against-the-odds
+
+  - title: Travel Tales by Afar
+    htmlUrl: https://www.afar.com/traveltales
+    xmlUrl: https://feeds.megaphone.fm/traveltales
+
+  - title: What Was That Like - True Stories. Real People.
+    htmlUrl: https://whatwasthatlike.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS8902204604
+
+  - title: Adventure Sports Podcast
+    htmlUrl: https://redcircle.com/shows/adventure-sports-podcast
+    xmlUrl: https://feeds.redcircle.com/0b5abe54-544e-4b3c-aafb-3fde82fe574e
+
+  - title: Always Another Adventure
+    htmlUrl: https://alwaysanotheradventure.com/
+    xmlUrl: https://feeds.buzzsprout.com/954676.rss
+
+  - title: Adventure One
+    htmlUrl: http://adventureone.tv/
+    xmlUrl: https://www.spreaker.com/show/3423367/episodes/feed
+
+  - title: Living Adventurously
+    htmlUrl: http://www.alastairhumphreys.com/
+    xmlUrl: https://feeds.transistor.fm/living-adventurously
+
+  - title: Far From Home
+    htmlUrl: https://farfromhomepodcast.org/
+    xmlUrl: https://feeds.feedburner.com/FarFromHomePodcast
+
+  - title: the Sharp End Podcast
+    htmlUrl: http://www.thesharpendpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:198260728/sounds.rss
+
+  - title: The Dirtbag Diaries
+    htmlUrl: http://www.dirtbagdiaries.com/
+    xmlUrl: https://feeds.megaphone.fm/DTT3537615344
+
+  - title: Outside Podcast
+    htmlUrl: http://www.outsideonline.com/podcast
+    xmlUrl: https://feeds.feedburner.com/OutsidePodcast
+
+  - title: Wild Ideas Worth Living
+    htmlUrl: https://www.rei.com/wildideasworthliving
+    xmlUrl: https://feeds.simplecast.com/pyeGnjub
+
+  - title: 'Armchair Explorer: Travel and Adventure Inspiration'
+    htmlUrl: http://www.armchair-explorer.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG5874436158
+
+  - title: She Explores
+    htmlUrl: http://www.she-explores.com/podcast
+    xmlUrl: https://feeds.simplecast.com/WLv2YH29
+
+  - title: Naturally Adventurous
+    htmlUrl: https://www.ken-behrens.com/naturally-adventurous-podcast
+    xmlUrl: https://anchor.fm/s/2e145a04/podcast/rss
+
+  - title: 'Art of Adventuring: Inside the minds of inspiring explorers'
+    htmlUrl: https://www.worldexplorerscollective.com/
+    xmlUrl: https://anchor.fm/s/a9fb3d90/podcast/rss
+
+  - title: ReWild Yourself
+    htmlUrl: http://rewildyourself.libsyn.com/podcast
+    xmlUrl: https://rewildyourself.libsyn.com/rss
+
 - name: The Best Nursing Podcasts
   opml: findthatpod-the-best-nursing-podcasts.opml
   date: 2025-07-15
