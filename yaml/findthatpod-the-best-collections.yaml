@@ -101,7 +101,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/5ddc9fe99d861b70468f0d1a
 
 - name: The Best Dating Podcasts
-  opml: findthatpod-the-best-dating-podcasts
+  opml: findthatpod-the-best-dating-podcasts.opml
   date: 2025-07-22
   htmlUrl: https://findthatpod.com/best-dating-podcasts/
   podcasts:

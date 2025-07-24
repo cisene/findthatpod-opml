@@ -57,6 +57,8 @@ def main():
 
   print(f"issues: {issues_length}, files: {filenames_length}")
 
+  issue_count = 0
+
   for issue in config['issues']:
     if "podcasts" in issue:
 
@@ -148,7 +150,10 @@ def main():
       writeOPML(f"../opml/{issue_opml}", opml_contents)
 
       print(f"Wrote {issue_opml} ..")
-      break
+      issue_count += 1
+
+      if issue_count >= 2:
+        break
 
 if __name__ == '__main__':
   main()
