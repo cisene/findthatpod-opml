@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Real Estate Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-real-estate-podcasts.opml) | 2025-07-23 |
 | [FindThatPod - The Best Dating Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dating-podcasts) | 2025-07-22 |
 | [FindThatPod - The Best Retirement Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-retirement-podcasts.opml) | 2025-07-21 |
 | [FindThatPod - The Best Adventure Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-adventure-podcasts.opml) | 2025-07-16 |

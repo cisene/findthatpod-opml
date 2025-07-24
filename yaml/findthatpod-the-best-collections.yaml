@@ -6,6 +6,100 @@ global:
 
 issues:
 
+- name: The Best Real Estate Podcasts
+  opml: findthatpod-the-best-real-estate-podcasts.opml
+  date: 2025-07-23
+  htmlUrl: https://findthatpod.com/best-real-estate-podcasts/
+  podcasts:
+
+  - title: BiggerPockets Real Estate Podcast
+    htmlUrl: https://www.biggerpockets.com/podcasts/real-estate
+    xmlUrl: https://feeds.megaphone.fm/BIGPOC7198720365
+
+  - title: GSD Mode Podcast
+    htmlUrl: https://www.gsdmode.com/
+    xmlUrl: https://gsdmode.libsyn.com/rss
+
+  - title: Elite Agent Secrets, Start, Grow and Scale Your Real Estate Business
+    htmlUrl: https://elite-agent-secrets-start-grow-and-scale-your-real-estate.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/6Vt4sITy
+
+  - title: Commercially Speaking Podcast- Commercial Real Estate Investing That Entertains
+    htmlUrl: https://subscribe.wgbarron.com/
+    xmlUrl: https://anchor.fm/s/dad6966c/podcast/rss
+
+  - title: Leading Voices in Real Estate
+    htmlUrl: https://www.zrgpartners.com/leadingvoices/
+    xmlUrl: https://feeds.blubrry.com/feeds/ulileadingvoices.xml
+
+  - title: Real Estate 101
+    htmlUrl: https://realestate101.com/
+    xmlUrl: https://readyinvestorone.libsyn.com/rss
+
+  - title: Rental Income Podcast With Dan Lane
+    htmlUrl: https://rentalincomepodcast.com/
+    xmlUrl: https://www.spreaker.com/show/4540074/episodes/feed
+
+  - title: The Remote Investor
+    htmlUrl: https://theremoteinvestor.podbean.com/
+    xmlUrl: https://feed.podbean.com/theremoteinvestor/feed.xml
+
+  - title: The Real Estate Guys Radio Show - Real Estate Investing Education for Effective Action
+    htmlUrl: http://www.realestateguysradio.com/
+    xmlUrl: https://realestateguysradio.libsyn.com/rss
+
+  - title: RealTrending
+    htmlUrl: https://realtrends.buzzsprout.com/
+    xmlUrl: https://feeds.megaphone.fm/MDMHI2142790817
+
+  - title: Real Estate Insiders Unfiltered
+    htmlUrl: http://sites.libsyn.com/473616/website
+    xmlUrl: https://feeds.libsyn.com/473616/rss
+
+  - title: Epic Real Estate Investing
+    htmlUrl: https://epicrealestate.com/
+    xmlUrl: https://feeds.megaphone.fm/epicrealestateinvesting
+
+  - title: The REconomy Podcast
+    htmlUrl: https://reconomy.firstam.com/
+    xmlUrl: https://feed.podbean.com/reconomy/feed.xml
+
+  - title: Lifetime Cash Flow Through Real Estate Investing
+    htmlUrl: https://rodkhleif.com/lifetime-cashflow-podcast/
+    xmlUrl: https://lifetimecashflowpodcast.libsyn.com/rss
+
+  - title: The Best Ever CRE Show
+    htmlUrl: https://www.bestevercre.com/
+    xmlUrl: https://feeds.megaphone.fm/BCRRB8131125356
+
+  - title: Wholesaling Inc with Brent Daniels
+    htmlUrl: http://www.wholesalinginc.com/
+    xmlUrl: https://wholesalinginc.libsyn.com/rss
+
+  - title: 'The TreppWire Podcast: A Commercial Real Estate Show'
+    htmlUrl: https://www.trepp.com/the-treppwire-podcast
+    xmlUrl: https://anchor.fm/s/fc27bcec/podcast/rss
+
+  - title: Hustle Humbly Podcast
+    htmlUrl: http://hustlehumblypodcast.com/
+    xmlUrl: https://hustlehumblypodcast.libsyn.com/rss
+
+  - title: The Weekly Take from CBRE
+    htmlUrl: https://www.cbre.com/insights/the-weekly-take#overview
+    xmlUrl: https://feeds.casted.us/173/The-Weekly-Take-from-CBRE-56648610/feed
+
+  - title: Real Finds Podcast
+    htmlUrl: http://www.realfinds.net/
+    xmlUrl: https://media.rss.com/realfinds/feed.xml
+
+  - title: The Think Realty Podcast
+    htmlUrl: https://thinkrealty.podbean.com/
+    xmlUrl: https://feed.podbean.com/thinkrealty/feed.xml
+
+  - title: 7 Figure Flipping with Bill Allen
+    htmlUrl: https://7figureflipping.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5ddc9fe99d861b70468f0d1a
+
 - name: The Best Dating Podcasts
   opml: findthatpod-the-best-dating-podcasts
   date: 2025-07-22
