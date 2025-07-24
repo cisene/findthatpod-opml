@@ -6,6 +6,120 @@ global:
 
 issues:
 
+- name: The Best Dating Podcasts
+  opml: findthatpod-the-best-dating-podcasts
+  date: 2025-07-22
+  htmlUrl: https://findthatpod.com/best-dating-podcasts/
+  podcasts:
+
+  - title: Savage Lovecast
+    htmlUrl: http://www.savagelovecast.com/
+    xmlUrl: https://feeds.megaphone.fm/SLT6250292033
+
+  - title: Why Won't You Date Me? with Nicole Byer
+    htmlUrl: https://headgum.com/why-wont-you-date-me
+    xmlUrl: https://rss.art19.com/why-wont-you-date-me
+
+  - title: Strangers on the Internet
+    htmlUrl: https://shows.acast.com/strangers-on-the-internet
+    xmlUrl: https://feeds.acast.com/public/shows/62c73f0d5709f60013fbceee
+
+  - title: Dear Shandy
+    htmlUrl: https://feeds.megaphone.fm/BOOJE7224740216
+    xmlUrl: https://redcircle.com/dear-shandy/donations
+
+  - title: Dating Intentionally
+    htmlUrl: http://intentionally.dating/
+    xmlUrl: https://feeds.megaphone.fm/TLTIL9537260781
+
+  - title: 'Dateable: Your insiders look into modern dating and relationships'
+    htmlUrl: https://redcircle.com/shows/dateable-your-insiders-look-into-modern-dating-and-relationships
+    xmlUrl: https://feeds.redcircle.com/1896ec4c-ab61-46a7-b4ab-16f3ae2e712a
+
+  - title: How To Talk To Girls Podcast
+    htmlUrl: https://redcircle.com/shows/how-to-talk-to-girls-podcast
+    xmlUrl: https://feeds.redcircle.com/d4fcfeee-e265-41e3-885c-c5626c14c53c
+
+  - title: Jillian on Love
+    htmlUrl: https://qcodemedia.com/jillian-on-love
+    xmlUrl: https://feeds.megaphone.fm/QCD9197519710
+
+  - title: Date Yourself Instead
+    htmlUrl: https://stan.store/dateyourselfinstead/p/get-started-with-this-amazing-course-xfj81
+    xmlUrl: https://anchor.fm/s/b5d1c468/podcast/rss
+
+  - title: Deeper Dating Podcast
+    htmlUrl: http://deeperdatingpodcast.com/
+    xmlUrl: https://feeds.libsyn.com/147116/rss
+
+  - title: Excuse My Grandma
+    htmlUrl: https://excusemygrandma.com/
+    xmlUrl: https://anchor.fm/s/bd108f5c/podcast/rss
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: U Up?
+    htmlUrl: https://betches.com/
+    xmlUrl: https://feeds.megaphone.fm/BMLLC5715529650
+
+  - title: Kinda Dating
+    htmlUrl: https://www.kindadating.com/
+    xmlUrl: https://anchor.fm/s/ffa98ad0/podcast/rss
+
+  - title: 'Multiamory: Rethinking Modern Relationships'
+    htmlUrl: http://www.multiamory.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/multiamory
+
+  - title: The Heart
+    htmlUrl: http://theheartradio.org/
+    xmlUrl: http://feeds.theheartradio.org/TheHeartRadio
+
+  - title: We Met At Acme
+    htmlUrl: https://art19.com/shows/wmaa
+    xmlUrl: https://rss.art19.com/wmaa
+
+  - title: Dates & Mates with Damona Hoffman
+    htmlUrl: https://www.datesandmates.com/
+    xmlUrl: https://feeds.megaphone.fm/datesandmates
+
+  - title: Seeing Other People
+    htmlUrl: https://redcircle.com/shows/seeing-other-people
+    xmlUrl: https://feeds.megaphone.fm/BOOJE8146479012
+
+  - title: Love Letters
+    htmlUrl: https://loveletters.boston.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG3393929278
+
+  - title: Dear Sugars
+    htmlUrl: https://www.wbur.org/podcasts/dearsugar
+    xmlUrl: https://rss.wbur.org/dearsugar/podcast
+
+  - title: My Worst Date
+    htmlUrl: https://audioboom.com/channels/4961849
+    xmlUrl: https://feeds.megaphone.fm/RAMMEDIASERVICESLLC4873659524
+
+  - title: Heart of Dating
+    htmlUrl: https://redcircle.com/shows/heart-of-dating2232
+    xmlUrl: https://feeds.megaphone.fm/TSF2216169035
+
+  - title: 'Finding Mr. Height: The Podcast'
+    htmlUrl: https://redcircle.com/shows/finding-mr-height-the-podcast
+    xmlUrl: https://feeds.redcircle.com/a358dd62-56fe-49b1-8b63-b71555a5932b
+
+  - title: Dating Kinda Sucks
+    htmlUrl: https://www.datingkindasucks.com/
+    xmlUrl: https://www.spreaker.com/show/5324819/episodes/feed
+
+  - title: DTR - The Official Tinder Podcast
+    htmlUrl: http://www.dtrshow.com/
+    xmlUrl: https://feeds.megaphone.fm/dtrshow
+
+  - title: Couples Therapy
+    htmlUrl: https://www.couplestherapypod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/22443dd7-cb87-4776-9d85-652bedf8931d
+
 - name: The Best Retirement Podcasts
   opml: findthatpod-the-best-retirement-podcasts.opml
   date: 2025-07-21
