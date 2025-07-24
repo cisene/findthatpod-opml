@@ -6,6 +6,84 @@ global:
 
 issues:
 
+- name: The Best Retirement Podcasts
+  opml: findthatpod-the-best-retirement-podcasts.opml
+  date: 2025-07-21
+  htmlUrl: https://findthatpod.com/best-retirement-podcasts/
+  podcasts:
+
+  - title: Big Picture Retirement
+    htmlUrl: https://www.bigpictureretirement.com/
+    xmlUrl: https://bigpictureretirement.libsyn.com/rss
+
+  - title: Retirement Starts Today
+    htmlUrl: https://retirementstartstodayradio.com/
+    xmlUrl: https://retirementstartstoday.libsyn.com/rss
+
+  - title: Stay Wealthy Retirement Podcast
+    htmlUrl: https://www.youstaywealthy.com/podcast
+    xmlUrl: https://staywealthysandiego.libsyn.com/rss
+
+  - title: New Retirement Radio with Dennis Prout
+    htmlUrl: http://newretirementradiopodcast.libsyn.com/podcast
+    xmlUrl: https://newretirementradiopodcast.libsyn.com/rss
+
+  - title: Retirement Answers
+    htmlUrl: http://www.retirementanswers.net/
+    xmlUrl: https://feeds.transistor.fm/retirement-answers
+
+  - title: Retire With Purpose - The Retirement Podcast
+    htmlUrl: http://retirewithpurpose.com/podcast
+    xmlUrl: https://retirewithpurposepodcast.libsyn.com/rss
+
+  - title: Your Life, Your Money
+    htmlUrl: http://www.640toronto.com/
+    xmlUrl: https://feeds.megaphone.fm/CORU1062720975
+
+  - title: Retirement Planning Education, with Andy Panko
+    htmlUrl: https://retirementplanningeducation.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1919219.rss
+
+  - title: Retirement Quick Tips with Ashley
+    htmlUrl: https://truenorthretirementadvisors.com/
+    xmlUrl: https://retirementtip.libsyn.com/rss
+
+  - title: Road to Retirement
+    htmlUrl: http://www.brooksidetax.com/
+    xmlUrl: http://feeds.feedburner.com/RoadToRetirement
+
+  - title: Retirement Answer Man
+    htmlUrl: http://www.rogerwhitney.com/
+    xmlUrl: https://feeds.transistor.fm/retirement-answer-man
+
+  - title: The Rob Berger Show
+    htmlUrl: https://www.buzzsprout.com/1051513
+    xmlUrl: https://feeds.buzzsprout.com/1051513.rss
+
+  - title: The Retirement Wisdom Podcast
+    htmlUrl: https://www.retirementwisdom.com/the-retirement-wisdom-podcast/
+    xmlUrl: https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
+
+  - title: Your Retirement Planning Simplified
+    htmlUrl: https://www.retirementplanningsimplified.ca/
+    xmlUrl: https://your-retirement-planning-simplified.libsyn.com/rss
+
+  - title: Rock Your Retirement Show
+    htmlUrl: https://podcasts.bcast.fm/rock-your-retirement-show
+    xmlUrl: https://anchor.fm/s/f9bf7c60/podcast/rss
+
+  - title: Money Guy Show
+    htmlUrl: https://moneyguy.com/
+    xmlUrl: https://feeds.megaphone.fm/moneyguyshow
+
+  - title: Ready For Retirement
+    htmlUrl: https://www.rootfinancialpartners.com/
+    xmlUrl: https://feeds.buzzsprout.com/958921.rss
+
+  - title: Your Money, Your Wealth
+    htmlUrl: http://yourmoneyyourwealth.com/
+    xmlUrl: https://yourmoneyyourwealth.libsyn.com/rss
+
 - name: The Best Adventure Podcasts
   opml: findthatpod-the-best-adventure-podcasts.opml
   date: 2025-07-16
