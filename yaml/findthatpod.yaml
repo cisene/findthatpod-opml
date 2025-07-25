@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    322
+    title:    'Find That Pod #322'
+    pubDate:  '2025-07-25'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: 'Major Slayage: Ket & Arik Rewatch Buffy the Vampire Slayer'
+        htmlUrl: https://www.patreon.com/MajorSlayage
+        xmlUrl: https://anchor.fm/s/106a32418/podcast/rss
+
+    - podcast:
+        title: Heal Me with Chocolate
+        htmlUrl: https://sinlesstreatschocolate.com/
+        xmlUrl: https://www.omnycontent.com/d/playlist/6572af18-78c7-4e94-a642-af0f0102cd27/70006f50-8c51-415c-9649-b2dd002c3672/099c044a-934e-44d3-8026-b2dd002c3c05/podcast.rss
+
+    - podcast:
+        title: Revolution.Social
+        htmlUrl: https://revolution.social/
+        xmlUrl: https://feeds.megaphone.fm/revolutionsocial
+
+    - podcast:
+        title: 'Easy Money: The Charles Ponzi Story'
+        htmlUrl: http://apple.co/EasyMoney
+        xmlUrl: https://rss.art19.com/easy-money--the-charles-ponzi-story
+
+    - podcast:
+        title: Weight For It
+        htmlUrl: https://www.spreaker.com/show/weight-for-it
+        xmlUrl: https://publicfeeds.net/f/4548/feed-rss.xml
+
   - issue:    321
     title:    'Find That Pod #321'
     pubDate:  '2025-07-18'
