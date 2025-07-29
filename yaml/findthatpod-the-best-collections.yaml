@@ -6,6 +6,124 @@ global:
 
 issues:
 
+- name: The Best Formula 1 Podcasts
+  opml: findthatpod-the-best-formula-1-podcasts.opml
+  date: 2025-07-28
+  htmlUrl: https://findthatpod.com/best-formula-1-podcasts/
+  podcasts:
+
+  - title: The Team Principal Podcast
+    htmlUrl: https://www.the-race.com/podcasts
+    xmlUrl: https://feeds.acast.com/public/shows/681cccfcbdc60241406cb822
+
+  - title: F1 Beyond The Grid
+    htmlUrl: https://www.f1.com/
+    xmlUrl: https://audioboom.com/channels/4964339.rss
+
+  - title: Missed Apex Formula 1 Podcast
+    htmlUrl: https://missedapexpodcast.com/
+    xmlUrl: https://rss.acast.com/missedapex
+
+  - title: 'F1: Chequered Flag'
+    htmlUrl: http://www.bbc.co.uk/programmes/p02nrsjn
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nrsjn.rss
+
+  - title: Grid Talk F1 Podcast
+    htmlUrl: https://bleav.com/shows/grid-talk/
+    xmlUrl: https://feeds.simplecast.com/dXErQnAW
+
+  - title: Pitstop
+    htmlUrl: https://shows.acast.com/pitstop-1
+    xmlUrl: https://feeds.megaphone.fm/pitstoppodcast
+
+  - title: The F1 Hour
+    htmlUrl: https://camf1.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1967964.rss
+
+  - title: Deadly Passions, Terrible Joys
+    htmlUrl: https://www.deadlypassionsterriblejoys.com/
+    xmlUrl: https://anchor.fm/s/edf44988/podcast/rss
+
+  - title: 'Scuderia F1: a Formula 1 podcast'
+    htmlUrl: http://www.advertisecast.com/
+    xmlUrl: https://feeds.megaphone.fm/otscuderia
+
+  - title: The Late Braking F1 Podcast
+    htmlUrl: https://podcast.sport-social.co.uk/podcast/the-late-braking-f1-podcast/
+    xmlUrl: https://feeds.megaphone.fm/COMG3988568283
+
+  - title: Back Of The Grid | F1 Podcast
+    htmlUrl: https://backofthegrid.com/
+    xmlUrl: https://backofthegrid.podbean.com/feed.xml
+
+  - title: Dirty Side of the Track
+    htmlUrl: https://www.dirtysideofthetrack.com/
+    xmlUrl: https://feeds.buzzsprout.com/1904290.rss
+
+  - title: In The Paddock F1 Podcast
+    htmlUrl: https://anchor.fm/inthepaddock
+    xmlUrl: https://feeds.buzzsprout.com/1897435.rss
+
+  - title: Dirty Air F1
+    htmlUrl: https://shows.acast.com/dirtyair
+    xmlUrl: https://feeds.acast.com/public/shows/623313038b2c240014e9ae7b
+
+  - title: The Race F1 Podcast
+    htmlUrl: https://www.the-race.com/podcasts
+    xmlUrl: https://feeds.acast.com/public/shows/6819ae2bf30c20bff775e8a1
+
+  - title: 'Shift+F1: A Formula 1 Podcast'
+    htmlUrl: https://f1.cool/
+    xmlUrl: https://feeds.megaphone.fm/NYOOM4196406795
+
+  - title: Bring Back V10s - Classic F1 stories
+    htmlUrl: https://www.the-race.com/podcasts
+    xmlUrl: https://feeds.acast.com/public/shows/68187f2997a58cd22e8603ae
+
+  - title: Talking Bull
+    htmlUrl: https://www.redbull.com/
+    xmlUrl: https://feeds.megaphone.fm/REDBULLMEDIAHOUSE9811220207
+
+  - title: WTF1 Podcast
+    htmlUrl: http://www.wtf1.com/
+    xmlUrl: https://audioboom.com/channels/4949565.rss
+
+  - title: The F1 Show
+    htmlUrl: https://www.spreaker.com/podcast/the-f1-show--5792825
+    xmlUrl: https://podcast.global.com/show/5792825/episodes/feed
+
+  - title: The Red Flags Podcast
+    htmlUrl: https://anchor.fm/trfpod
+    xmlUrl: https://feeds.megaphone.fm/BLU8581865361
+
+  - title: F1 Time Portal
+    htmlUrl: http://www.f1timeportal.com/
+    xmlUrl: https://feeds.buzzsprout.com/2273814.rss
+
+  - title: Unlapped
+    htmlUrl: http://www.espn.com/espnradio/podcast/
+    xmlUrl: https://feeds.megaphone.fm/ESP5431173087
+
+  - title: P1 with Matt and Tommy
+    htmlUrl: http://lnk.to/p1podcast
+    xmlUrl: https://feeds.acast.com/public/shows/63e24225436c36001119fc66
+
+  - title: The Race F1 Tech Show
+    htmlUrl: https://www.the-race.com/podcasts
+    xmlUrl: https://feeds.acast.com/public/shows/6819af44f30c20bff7763093
+
+  - title: Pitstop Fracas
+    htmlUrl: https://feeds.megaphone.fm/BLU6438689555
+    xmlUrl: https://podcasterwallet.com/?pcid=4475424
+
+  - title: Inside Line F1 Podcast
+    htmlUrl: http://www.kunalsf1blog.com/
+    xmlUrl: https://feeds.megaphone.fm/ISP1775044727
+
+  - title: F1 Nation
+    htmlUrl: https://www.formula1.com/
+    xmlUrl: https://audioboom.com/channels/5024396.rss
+
 - name: The Best Real Estate Podcasts
   opml: findthatpod-the-best-real-estate-podcasts.opml
   date: 2025-07-23
