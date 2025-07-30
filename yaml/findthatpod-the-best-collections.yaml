@@ -6,6 +6,144 @@ global:
 
 issues:
 
+- name: The Best Long Form Podcasts
+  opml: findthatpod-the-best-long-form-podcasts.opml
+  date: 2025-07-30
+  htmlUrl: https://findthatpod.com/best-long-form-podcasts/
+  podcasts:
+
+  - title: Revolutions
+    htmlUrl: http://www.revolutionspodcast.com/
+    xmlUrl: https://revolutionspodcast.libsyn.com/rss
+
+  - title: Very Bad Wizards
+    htmlUrl: http://sites.libsyn.com/474285/site
+    xmlUrl: https://feeds.libsyn.com/474285/rss
+
+  - title: 'Sean Carroll’s Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas'
+    htmlUrl: https://www.preposterousuniverse.com/podcast/
+    xmlUrl: https://rss.art19.com/sean-carrolls-mindscape
+
+  - title: Legacy
+    htmlUrl: https://wondery.com/shows/legacy/?utm_source=rss
+    xmlUrl: https://rss.art19.com/legacy
+
+  - title: Acquired
+    htmlUrl: https://acquired.fm/
+    xmlUrl: https://feeds.transistor.fm/acquired
+
+  - title: The Long Read from Stuff
+    htmlUrl: http://stuff.co.nz/thelongread
+    xmlUrl: https://feeds.megaphone.fm/OUAOS5591167324
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
+
+  - title: Dan Carlin's Hardcore History
+    htmlUrl: http://www.dancarlin.com/
+    xmlUrl: https://feeds.feedburner.com/dancarlin/history?format=xml
+
+  - title: Darknet Diaries
+    htmlUrl: https://darknetdiaries.com/
+    xmlUrl: https://podcast.darknetdiaries.com/
+
+  - title: The Big Dig
+    htmlUrl: https://www.wgbh.org/podcasts/scratch-win
+    xmlUrl: https://publicfeeds.net/f/4614/the-big-dig/feed-rss.xml
+
+  - title: Crimes of the Centuries
+    htmlUrl: http://www.centuriespod.com/
+    xmlUrl: https://audioboom.com/channels/5034723.rss
+
+  - title: Armchair Expert with Dax Shepard
+    htmlUrl: https://wondery.com/shows/armchair-expert-with-dax-shepard/
+    xmlUrl: https://rss.art19.com/armchair-expert
+
+  - title: Sold a Story
+    htmlUrl: https://features.apmreports.org/sold-a-story/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/sold-a-story
+
+  - title: History Impossible
+    htmlUrl: https://www.spreaker.com/show/history-impossible
+    xmlUrl: https://www.spreaker.com/show/5634566/episodes/feed
+
+  - title: The Ezra Klein Show
+    htmlUrl: https://www.nytimes.com/ezra-klein-podcast
+    xmlUrl: https://feeds.simplecast.com/82FI35Px
+
+  - title: 'Empire City: The Untold Origin Story of the NYPD'
+    htmlUrl: https://wondery.com/shows/empire-city/
+    xmlUrl: https://rss.art19.com/empire-city
+
+  - title: 'Headlong: Surviving Y2K'
+    htmlUrl: https://survivingy2k.com/
+    xmlUrl: https://rss.art19.com/headlong-surviving-y2k
+
+  - title: 'Imagine Audio: Big Sugar'
+    htmlUrl: https://www.iheart.com/podcast/117233473
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ba6f187-64f8-4a0e-8f29-b00d01243dad/791a90d2-d000-4cd2-bcfb-b00d0124f722/podcast.rss
+
+  - title: '13 Minutes Presents: The Space Shuttle'
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xttx2
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xttx2.rss
+
+  - title: You're Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://feeds.buzzsprout.com/1112270.rss
+
+  - title: The Tim Ferriss Show
+    htmlUrl: https://tim.blog/podcast
+    xmlUrl: https://rss.art19.com/tim-ferriss-show
+
+  - title: Clear+Vivid with Alan Alda
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/z1QZGf6d
+
+  - title: Wind of Change
+    htmlUrl: https://crooked.com/podcast-series/wind-of-change/
+    xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
+
+  - title: The Knowledge Project with Shane Parrish
+    htmlUrl: https://fs.blog/knowledge-project/
+    xmlUrl: https://feeds.megaphone.fm/FSMI7575968096
+
+  - title: Making Sense with Sam Harris
+    htmlUrl: http://www.samharris.org/
+    xmlUrl: https://wakingup.libsyn.com/rss
+
+  - title: The Trials of Frank Carson
+    htmlUrl: https://www.latimes.com/frank-carson-podcast
+    xmlUrl: https://feeds.simplecast.com/Gu9X3cis
+
+  - title: Longform
+    htmlUrl: http://longform.org/
+    xmlUrl: https://feeds.megaphone.fm/VMP6079657536
+
+  - title: Fall of Civilizations Podcast
+    htmlUrl: https://fallofcivilizationspodcast.com/
+    xmlUrl: https://anchor.fm/s/101adcf44/podcast/rss
+
+  - title: Know Your Enemy
+    htmlUrl: https://know-your-enemy-1682b684.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/MQHnVVgK
+
+  - title: In the Red Clay
+    htmlUrl: http://www.intheredclaypodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/intheredclay
+
+  - title: The Jordan Harbinger Show
+    htmlUrl: https://art19.com/shows/the-jordan-harbinger-show
+    xmlUrl: https://rss.introcast.io/1344999619/www.podcastone.com/podcast?categoryID2=1237
+
+  - title: Team Deakins
+    htmlUrl: https://www.rogerdeakins.com/
+    xmlUrl: https://teamdeakins.libsyn.com/rss
+
+  - title: History on Fire
+    htmlUrl: http://historyonfirepodcast.com/episodes/
+    xmlUrl: https://historyonfirepodcast.com/episodes?format=rss
+
 - name: The Best Formula 1 Podcasts
   opml: findthatpod-the-best-formula-1-podcasts.opml
   date: 2025-07-28
