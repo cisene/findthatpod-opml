@@ -6,6 +6,212 @@ global:
 
 issues:
 
+- name: The Best Podcasts to Make You Smarter
+  opml: findthatpod-the-best-podcasts-to-make-you-smarter.opml
+  date: 2025-07-31
+  htmlUrl: https://findthatpod.com/best-podcasts-to-make-you-smarter/
+  podcasts:
+
+  - title: The History of the Twentieth Century
+    htmlUrl: http://historyofthetwentiethcentury.com/
+    xmlUrl: https://history20th.libsyn.com/rss
+
+  - title: The Atlas Obscura Podcast
+    htmlUrl: http://siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/xKJ93w_w
+
+  - title: Planet Money
+    htmlUrl: https://www.npr.org/podcasts/510289/planet-money
+    xmlUrl: https://feeds.npr.org/510289/podcast.xml
+
+  - title: Philosophize This!
+    htmlUrl: http://www.philosophizethis.org/
+    xmlUrl: https://feeds.megaphone.fm/QCD6036500916
+
+  - title: Let's Know Things
+    htmlUrl: https://letsknowthings.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1449053.rss
+
+  - title: Conversations with Tyler
+    htmlUrl: https://www.conversationswithtyler.com/
+    xmlUrl: https://cowenconvos.libsyn.com/rss
+
+  - title: Historically Thinking
+    htmlUrl: https://blubrry.com/historicallythinking/
+    xmlUrl: https://feeds.podcastmirror.com/historically-thinking
+
+  - title: Intelligence Squared
+    htmlUrl: http://www.intelligencesquared.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR6363847171
+
+  - title: Secretly Incredibly Fascinating
+    htmlUrl: https://maximumfun.org/podcasts/secretly-incredibly-fascinating/
+    xmlUrl: https://feeds.simplecast.com/_WI4mhWl
+
+  - title: The Jim Rutt Show
+    htmlUrl: https://www.jimruttshow.com/
+    xmlUrl: https://jimruttshow.blubrry.net/feed/podcast/
+
+  - title: Theories of Everything with Curt Jaimungal
+    htmlUrl: https://youtube.com/TheoriesOfEverything
+    xmlUrl: https://feeds.megaphone.fm/TOE4643226064
+
+  - title: You Are Not So Smart
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/N5eKDxJI
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: The Ezra Klein Show
+    htmlUrl: https://www.nytimes.com/ezra-klein-podcast
+    xmlUrl: https://feeds.simplecast.com/82FI35Px
+
+  - title: Bullseye with Jesse Thorn
+    htmlUrl: https://www.npr.org/podcasts/510309/bullseye
+    xmlUrl: https://feeds.npr.org/510309/podcast.xml
+
+  - title: Unexplainable
+    htmlUrl: https://feeds.megaphone.fm/VMP9331026707
+    xmlUrl: https://podcasterwallet.com/?pcid=1382958
+
+  - title: The Skeptics' Guide to the Universe
+    htmlUrl: https://www.theskepticsguide.org/podcast/sgu
+    xmlUrl: https://feed.theskepticsguide.org/feed
+
+  - title: 80,000 Hours Podcast
+    htmlUrl: https://80000hours.org/podcast/
+    xmlUrl: https://feeds.feedburner.com/80000HoursPodcast
+
+  - title: The Conversation Weekly
+    htmlUrl: https://theconversation.com/us/topics/the-conversation-weekly-98901
+    xmlUrl: https://feeds.captivate.fm/the-conversation-weekly/
+
+  - title: The Indicator from Planet Money
+    htmlUrl: https://www.npr.org/podcasts/510325/the-indicator-from-planet-money
+    xmlUrl: https://feeds.npr.org/510325/podcast.xml
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Science Vs
+    htmlUrl: https://gimletmedia.com/science-vs/
+    xmlUrl: https://feeds.megaphone.fm/sciencevs
+
+  - title: Do you really know?
+    htmlUrl: https://play.acast.com/s/do-you-really-know
+    xmlUrl: https://feeds.megaphone.fm/BABA9565245847
+
+  - title: Converging Dialogues
+    htmlUrl: https://convergingdialogues.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1171549.rss
+
+  - title: The History of English Podcast
+    htmlUrl: https://historyofenglishpodcast.com/
+    xmlUrl: https://historyofenglishpodcast.com/feed/podcast/
+
+  - title: Backlisted
+    htmlUrl: https://www.backlisted.fm/
+    xmlUrl: https://feeds.megaphone.fm/GLT2438307082
+
+  - title: No Such Thing As A Fish
+    htmlUrl: http://nosuchthingasafish.com/
+    xmlUrl: https://audioboom.com/channels/2399216.rss
+
+  - title: The Gray Area with Sean Illing
+    htmlUrl: https://www.vox.com/vox-conversations-podcast
+    xmlUrl: https://feeds.megaphone.fm/theezrakleinshow
+
+  - title: No Stupid Questions
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/dfh_verV
+
+  - title: Modern Wisdom
+    htmlUrl: https://chriswillx.com/books/
+    xmlUrl: https://feeds.megaphone.fm/SIXMSB5088139739
+
+  - title: Team Human
+    htmlUrl: http://teamhuman.fm/feed/episodes
+    xmlUrl: https://feed.pippa.io/public/shows/teamhuman
+
+  - title: Do Go On
+    htmlUrl: https://dogoonpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/60de27e6-b679-4a3b-a9aa-53fa8e6d0313
+
+  - title: Inquiring Minds
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/jUhKwVIJ
+
+  - title: The Life Scientific
+    htmlUrl: http://www.bbc.co.uk/programmes/b015sqc7
+    xmlUrl: https://podcasts.files.bbci.co.uk/b015sqc7.rss
+
+  - title: The Infinite Monkey Cage
+    htmlUrl: http://www.bbc.co.uk/programmes/b00snr0w
+    xmlUrl: https://podcasts.files.bbci.co.uk/b00snr0w.rss
+
+  - title: The James Altucher Show
+    htmlUrl: https://art19.com/shows/the-james-altucher-pod
+    xmlUrl: https://rss.art19.com/the-james-altucher-pod
+
+  - title: Timesuck with Dan Cummins
+    htmlUrl: https://www.badmagicproductions.com/pages/timesuck-podcast-2024
+    xmlUrl: https://feeds.simplecast.com/Llc7KL2K
+
+  - title: Ideas
+    htmlUrl: https://www.cbc.ca/radio/ideas
+    xmlUrl: https://www.cbc.ca/podcasting/includes/ideas.xml
+
+  - title: Stuff You Missed in History Class
+    htmlUrl: https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
+
+  - title: Make Me Smart
+    htmlUrl: https://www.marketplace.org/shows/make-me-smart
+    xmlUrl: https://feeds.publicradio.org/public_feeds/make-me-smart
+
+  - title: How To Do Everything
+    htmlUrl: https://www.npr.org/podcasts/510384/how-to-do-everything
+    xmlUrl: https://feeds.npr.org/510384/podcast.xml
+
+  - title: Omnibus
+    htmlUrl: https://audioboom.com/channels/5127257
+    xmlUrl: https://audioboom.com/channels/5127257.rss
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: Clearer Thinking with Spencer Greenberg
+    htmlUrl: https://podcast.clearerthinking.org/
+    xmlUrl: https://podcast.clearerthinking.org/rss.xml
+
+  - title: The Great Simplification with Nate Hagens
+    htmlUrl: http://thegreatsimplification.com/
+    xmlUrl: https://thegreatsimplification.libsyn.com/rss
+
+  - title: The Seen and the Unseen - hosted by Amit Varma
+    htmlUrl: http://www.seenunseen.in/
+    xmlUrl: https://seenunseen.libsyn.com/rss
+
+  - title: HBR IdeaCast
+    htmlUrl: https://hbr.org/podcasts/ideacast
+    xmlUrl: http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+
+  - title: Dwarkesh Podcast
+    htmlUrl: https://www.dwarkesh.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/69345.rss
+
+  - title: Hi-Phi Nation
+    htmlUrl: https://slate.com/podcasts/hi-phi-nation
+    xmlUrl: https://feeds.megaphone.fm/hiphination
+
+  - title: Go Fact Yourself
+    htmlUrl: http://maximumfun.org/shows/go-fact-yourself
+    xmlUrl: https://feeds.simplecast.com/FeofiXhA
+
 - name: The Best Long Form Podcasts
   opml: findthatpod-the-best-long-form-podcasts.opml
   date: 2025-07-30

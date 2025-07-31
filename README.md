@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Podcasts to Make You Smarter](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-to-make-you-smarter.opml) | 2025-07-31 |
 | [FindThatPod - The Best Long Form Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-long-form-podcasts.opml) | 2025-07-30 |
 | [FindThatPod - The Best Formula 1 Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-formula-1-podcasts.opml) | 2025-07-28 |
 | [FindThatPod - The Best Real Estate Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-real-estate-podcasts.opml) | 2025-07-23 |
