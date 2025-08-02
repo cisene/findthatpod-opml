@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    323
+    title:    'Find That Pod #323'
+    pubDate:  '2025-08-01'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Mac Power Users
+        htmlUrl: https://www.relay.fm/mpu
+        xmlUrl: https://www.relay.fm/mpu/feed
+
+    - podcast:
+        title: Sorry About The Murder
+        htmlUrl: https://www.sorryaboutthemurder.ca/
+        xmlUrl: https://feeds.megaphone.fm/sorryaboutthemurder
+
+    - podcast:
+        title: Threshold
+        htmlUrl: http://www.thresholdpodcast.org/
+        xmlUrl: https://feeds.captivate.fm/threshold/
+
+    - podcast:
+        title: 'Understood: Who Broke the Internet?'
+        htmlUrl: https://www.cbc.ca/radio/podcastnews
+        xmlUrl: https://www.cbc.ca/podcasting/includes/nakedemperor.xml
+
+    - podcast:
+        title: 'People Who Read People: A Behavior and Psychology Podcast'
+        htmlUrl: https://behavior-podcast.com/
+        xmlUrl: https://feeds.megaphone.fm/MP9422998013
+
   - issue:    322
     title:    'Find That Pod #322'
     pubDate:  '2025-07-25'
