@@ -6,6 +6,100 @@ global:
 
 issues:
 
+- name: The Best Architecture Podcasts
+  opml: findthatpod-the-best-architecture-podcasts.opml
+  date: 2025-08-07
+  htmlUrl: https://findthatpod.com/best-architecture-podcasts/
+  podcasts:
+
+  - title: Life of an Architect
+    htmlUrl: https://www.lifeofanarchitect.com/
+    xmlUrl: https://www.lifeofanarchitect.com/feed/podcast
+
+  - title: About Buildings + Cities
+    htmlUrl: https://about-buildings-and-cities.pinecast.co/
+    xmlUrl: https://pinecast.com/feed/about-buildings-and-cities
+
+  - title: USModernist Radio - Architecture You Love
+    htmlUrl: http://www.usmodernistradio.org/
+    xmlUrl: https://usmodernist.libsyn.com/rss
+
+  - title: Green Urbanist - Sustainable Placemaking, Planning and Urban Design
+    htmlUrl: https://greenurbanist.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1188260.rss
+
+  - title: She Builds Podcast
+    htmlUrl: https://www.shebuildspodcast.com/episodes/
+    xmlUrl: https://feeds.captivate.fm/she-builds-podcast/
+
+  - title: Architecturally Speaking
+    htmlUrl: https://architecturallyspeaking.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2255980.rss
+
+  - title: Archispeak
+    htmlUrl: https://www.archispeakpodcast.com/
+    xmlUrl: https://feeds.captivate.fm/archispeak/
+
+  - title: The Young Architect Podcast
+    htmlUrl: http://youngarchitect.libsyn.com/podcast
+    xmlUrl: https://youngarchitect.libsyn.com/rss
+
+  - title: Architectette
+    htmlUrl: https://www.architectette.com/
+    xmlUrl: https://anchor.fm/s/ca90db78/podcast/rss
+
+  - title: 'Detailed: An original podcast by ARCAT'
+    htmlUrl: https://www.arcat.com/podcast
+    xmlUrl: https://feeds.captivate.fm/detailed/
+
+  - title: Design Matters with Debbie Millman
+    htmlUrl: https://www.designmattersmedia.com/designmatters
+    xmlUrl: https://feeds.feedburner.com/DesignMattersWithDebbieMillman
+
+  - title: The Urbanist
+    htmlUrl: https://monocle.com/radio/shows/the-urbanist
+    xmlUrl: https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/7903d81a-7481-40dd-85ff-a8db009e611f/ff59014c-a954-4271-8920-a8db009e612d/podcast.rss
+
+  - title: Open Plan Podcast
+    htmlUrl: http://openplanpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1354450.rss
+
+  - title: Failed Architecture
+    htmlUrl: https://failedarchitecture.com/
+    xmlUrl: https://feeds.castos.com/q4jq
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: Business of Architecture Podcast
+    htmlUrl: http://www.businessofarchitecture.com/
+    xmlUrl: https://businessofarchitecture.libsyn.com/rss
+
+  - title: Inside The Firm
+    htmlUrl: http://www.insidethefirmpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:285760701/sounds.rss
+
+  - title: The Second Studio Design and Architecture Show
+    htmlUrl: http://www.secondstudiopod.com/
+    xmlUrl: https://midnightcharette.libsyn.com/rss
+
+  - title: Scaffold
+    htmlUrl: http://architecturefoundation.org.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/622e82ac18ddd00014e37a58
+
+  - title: Green Architects' Lounge
+    htmlUrl: http://www.greenbuildingadvisor.com/podcasts/rss
+    xmlUrl: https://feeds.simplecast.com/ew9eW5zd
+
+  - title: EntreArchitect Podcast with Mark R. LePage
+    htmlUrl: https://entrearchitect.com/
+    xmlUrl: https://feeds.captivate.fm/entrearchitect/
+
+  - title: Monocle on Design
+    htmlUrl: https://monocle.com/radio/shows/monocle-on-design
+    xmlUrl: http://feeds.feedburner.com/Monocle24SectionD
+
 - name: The Best Prepper & Survivalist Podcasts
   opml: findthatpod-the-best-prepper-survivalist-podcasts.opml
   date: 2025-08-05

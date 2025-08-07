@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Architecture Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-architecture-podcasts.opml) | 2025-08-07 |
 | [FindThatPod - The Best Prepper & Survivalist Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-prepper-survivalist-podcasts.opml) | 2025-08-05 |
 | [FindThatPod - The Best Podcasts to Make You Smarter](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-to-make-you-smarter.opml) | 2025-07-31 |
 | [FindThatPod - The Best Long Form Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-long-form-podcasts.opml) | 2025-07-30 |
