@@ -6,6 +6,96 @@ global:
 
 issues:
 
+- name: The Best Prepper & Survivalist Podcasts
+  opml: findthatpod-the-best-prepper-survivalist-podcasts.opml
+  date: 2025-08-05
+  htmlUrl: https://findthatpod.com/best-prepper-survivalist-podcasts/
+  podcasts:
+
+  - title: The Mind 4 Survival Prepping Podcast
+    htmlUrl: http://feeds.feedburner.com/Mind4Survival
+    xmlUrl: https://podcasterwallet.com/?pcid=471822
+
+  - title: Ready Your Future - A Prepper Podcast
+    htmlUrl: https://readyyourfuture.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/ac9c2100-5c0b-467f-a8f8-a7170050f8cc/f276f82e-dba1-4c37-947b-a71900433c17/d454a3d2-4ce0-45e1-b120-a719004534a7/podcast.rss
+
+  - title: The Survival Podcast
+    htmlUrl: https://www.thesurvivalpodcast.com/
+    xmlUrl: https://www.thesurvivalpodcast.com/feed/podcast
+
+  - title: How to Survive the End of the World
+    htmlUrl: https://www.endoftheworldshow.org/
+    xmlUrl: https://anchor.fm/s/1d2e26fc/podcast/rss
+
+  - title: Cramming for the Apocalypse Podcast
+    htmlUrl: https://crammingfortheapocalypse.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1059262.rss
+
+  - title: Pioneering Today
+    htmlUrl: https://melissaknorris.com/
+    xmlUrl: https://melissaknorris.libsyn.com/rss
+
+  - title: Prepper Talk Radio
+    htmlUrl: https://preppertalkradio.com/
+    xmlUrl: https://www.spreaker.com/show/2209431/episodes/feed
+
+  - title: The Survival Punk Podcast
+    htmlUrl: https://www.survivalpunk.com/
+    xmlUrl: https://www.survivalpunk.com/feed/podcast/
+
+  - title: Casual Preppers Podcast - Prepping, Survival, Entertainment.
+    htmlUrl: https://casualpreppers.podbean.com/
+    xmlUrl: https://casualpreppers.podbean.com/feed.xml
+
+  - title: Preparedness Works
+    htmlUrl: https://www.spreaker.com/show/preparedness-works
+    xmlUrl: https://www.spreaker.com/show/5517219/episodes/feed
+
+  - title: Prepping Academy
+    htmlUrl: https://www.preppingacademy.com/
+    xmlUrl: https://feeds.buzzsprout.com/794960.rss
+
+  - title: The Canadian Bushcraft Podcast, With Caleb Musgrave
+    htmlUrl: http://www.canadianbushcraft.ca/
+    xmlUrl: https://anchor.fm/s/1ac8aaa4/podcast/rss
+
+  - title: The SURVIVAL SHOW
+    htmlUrl: https://ultimatesurvivaltips.com/pages/the-survival-show-podcast
+    xmlUrl: https://anchor.fm/s/6acbbf0/podcast/rss
+
+  - title: Live Like the World is Dying
+    htmlUrl: http://www.tangledwilderness.org/
+    xmlUrl: https://pinecast.com/feed/live-like-the-world-is-dying
+
+  - title: Fieldcraft Survival
+    htmlUrl: https://fieldcraftsurvival.com/
+    xmlUrl: https://anchor.fm/s/3ea25b50/podcast/rss
+
+  - title: Urban Lady Prepper
+    htmlUrl: https://urbanladyprepper.podbean.com/
+    xmlUrl: https://feed.podbean.com/urbanladyprepper/feed.xml
+
+  - title: Pantry Chat - Homesteading Family
+    htmlUrl: https://www.buzzsprout.com/1248539
+    xmlUrl: https://feeds.buzzsprout.com/1248539.rss
+
+  - title: Practical Prepping Podcast
+    htmlUrl: http://www.practicalprepping.info/
+    xmlUrl: https://feeds.buzzsprout.com/1426777.rss
+
+  - title: The Poor Prole’s Almanac
+    htmlUrl: https://bleav.com/shows/the-poor-proles-almanac/
+    xmlUrl: https://feeds.simplecast.com/_nA0sj7Q
+
+  - title: The Common Sense Practical Prepper
+    htmlUrl: https://www.buzzsprout.com/2010280
+    xmlUrl: https://feeds.buzzsprout.com/2010280.rss
+
+  - title: Canadian Prepper Podcast
+    htmlUrl: https://www.prepperpodcast.ca/
+    xmlUrl: https://cdnprepperpodcast.podbean.com/feed.xml
+
 - name: The Best Podcasts to Make You Smarter
   opml: findthatpod-the-best-podcasts-to-make-you-smarter.opml
   date: 2025-07-31
