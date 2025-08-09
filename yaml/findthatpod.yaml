@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    324
+    title:    'Find That Pod #324'
+    pubDate:  '2025-08-08'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Multispective
+        htmlUrl: http://www.multispective.org/
+        xmlUrl: https://feeds.buzzsprout.com/1916661.rss
+
+    - podcast:
+        title: This Is Propaganda
+        htmlUrl: https://www.thisispropaganda.show/
+        xmlUrl: https://feed.podbean.com/thisispropaganda/feed.xml
+
+    - podcast:
+        title: 6 Degrees of Cats
+        htmlUrl: https://the6degreesofcatspodcast.podbean.com/
+        xmlUrl: https://feed.podbean.com/the6degreesofcatspodcast/feed.xml
+
+    - podcast:
+        title: Inspired with Alexa von Tobel
+        htmlUrl: https://www.inspiredcapital.com/content/podcasts
+        xmlUrl: https://feeds.megaphone.fm/MANV9211661499
+
+    - podcast:
+        title: Lawless Planet
+        htmlUrl: http://wondery.com/shows/lawless-planet/
+        xmlUrl: https://rss.art19.com/lawless-planet
+
   - issue:    323
     title:    'Find That Pod #323'
     pubDate:  '2025-08-01'
