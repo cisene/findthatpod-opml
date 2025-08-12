@@ -6,6 +6,289 @@ global:
 
 issues:
 
+- name: The Best Podcasts for Women
+  opml: findthatpod-the-best-podcasts-for-women.opml
+  date: 2025-08-12
+  htmlUrl: https://findthatpod.com/best-podcasts-for-women/
+  podcasts:
+
+  - title: Normal Gossip
+    htmlUrl: http://defector.com/
+    xmlUrl: https://publicfeeds.net/f/3492/feed-rss.xml
+
+  - title: 'The History Chicks: A Women''s History Podcast'
+    htmlUrl: https://thehistorychicks.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD2921626995
+
+  - title: Girls Gotta Eat
+    htmlUrl: https://art19.com/shows/girls-gotta-eat
+    xmlUrl: https://feeds.libsyn.com/115736/rss
+
+  - title: We Can Do Hard Things
+    htmlUrl: http://wecandohardthingspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/wcdht
+
+  - title: Healing Honeys with Louise Rumball
+    htmlUrl: https://www.thisisopenhouse.com/
+    xmlUrl: https://feeds.megaphone.fm/openhouse
+
+  - title: Call Your Girlfriend
+    htmlUrl: https://www.callyourgirlfriend.com/episodes
+    xmlUrl: https://www.omnycontent.com/d/playlist/2a15ad0f-779b-4334-bfba-af1d00e28029/d729c59d-9a7c-4e3a-8e0d-af1d00e50f2d/8884db02-3309-4a58-9b6a-af1d00e50f44/podcast.rss
+
+  - title: Wiser Than Me with Julia Louis-Dreyfus
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss
+
+  - title: Table Manners with Jessie and Lennie Ware
+    htmlUrl: https://www.acast.com/tablemanners
+    xmlUrl: https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9
+
+  - title: Sex With Emily
+    htmlUrl: https://www.sexwithemily.com/
+    xmlUrl: https://feeds.megaphone.fm/CFP9686758960
+
+  - title: Highest Self Podcast®
+    htmlUrl: http://highestself.libsyn.com/website
+    xmlUrl: https://highestself.libsyn.com/rss
+
+  - title: Why Won't You Date Me? with Nicole Byer
+    htmlUrl: https://headgum.com/why-wont-you-date-me
+    xmlUrl: https://rss.art19.com/why-wont-you-date-me
+
+  - title: Unladylike
+    htmlUrl: https://art19.com/shows/-unladylike-
+    xmlUrl: https://rss.art19.com/-unladylike-
+
+  - title: Womanica
+    htmlUrl: https://www.iheart.com/podcast/966-womanica-45926723/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f8636539-32d9-4082-a23a-afb001398707/d8c24a0b-3078-43ca-9714-afb0013988a4/podcast.rss
+
+  - title: Pop Culture Preservation Society
+    htmlUrl: https://redcircle.com/shows/pop-culture-preservation-society
+    xmlUrl: https://feeds.redcircle.com/111660b9-7389-4291-a38e-d5132ac5548b
+
+  - title: Stuff Mom Never Told You
+    htmlUrl: https://www.iheart.com/podcast/stuff-mom-never-told-you-21123631/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29EE4014-65AB-4D60-812E-AE4C00549B7F/3889A49B-3697-48AF-9765-AE4C00549B97/podcast.rss
+
+  - title: There Are No Girls on the Internet
+    htmlUrl: https://www.iheart.com/podcast/1119-there-are-no-girls-on-the-65877505/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/AD016D13-045E-48F3-9AA5-AE280172B27D/34CC8D15-19F1-45D8-A158-AE280172B294/podcast.rss
+
+  - title: I've Had It
+    htmlUrl: https://art19.com/shows/ive-had-it
+    xmlUrl: https://rss.art19.com/ive-had-it
+
+  - title: Heaving Bosoms
+    htmlUrl: https://bleav.com/shows/heaving-bosoms/
+    xmlUrl: https://feeds.simplecast.com/33RQJXv_
+
+  - title: Pantsuit Politics
+    htmlUrl: http://pantsuitpoliticsshow.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/f4e6ec9c-6c67-498c-b940-b225010bb8bf/f28ef5e6-cb4f-4b6e-8890-b225010bb8e9/podcast.rss
+
+  - title: Giggly Squad
+    htmlUrl: https://giggly-squad.com/
+    xmlUrl: https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3
+
+  - title: The Goal Digger Podcast | Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business
+    htmlUrl: http://www.goaldiggerpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YAP4895144602
+
+  - title: Female Founder World
+    htmlUrl: https://bestie.femalefounderworld.com/podcasts/female-founder-world
+    xmlUrl: https://anchor.fm/s/104df6b14/podcast/rss
+
+  - title: The Heart
+    htmlUrl: http://theheartradio.org/
+    xmlUrl: http://feeds.theheartradio.org/TheHeartRadio
+
+  - title: Leah on the Line
+    htmlUrl: https://shows.acast.com/62211f918a0b7300121928c6
+    xmlUrl: https://feeds.acast.com/public/shows/62211f918a0b7300121928c6
+
+  - title: Do We Know Them?
+    htmlUrl: https://audioboom.com/channels/5124337
+    xmlUrl: https://audioboom.com/channels/5124337.rss
+
+  - title: Thrive Sister Thrive! Holistic Wellness for Women Over 40
+    htmlUrl: https://thrivesisterthrive.com/podcast/
+    xmlUrl: https://thrivesisterthrive.libsyn.com/rss
+
+  - title: Love Letters
+    htmlUrl: https://loveletters.boston.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG3393929278
+
+  - title: Date Yourself Instead
+    htmlUrl: https://stan.store/dateyourselfinstead/p/get-started-with-this-amazing-course-xfj81
+    xmlUrl: https://anchor.fm/s/b5d1c468/podcast/rss
+
+  - title: Lost Women of Science
+    htmlUrl: https://lostwomenofscience.org/
+    xmlUrl: https://feed.lostwomenofscience.org/
+
+  - title: The Guilty Feminist
+    htmlUrl: https://guiltyfeminist.com/
+    xmlUrl: https://feeds.acast.com/public/shows/guiltyfeminist
+
+  - title: Ladies, We Need To Talk
+    htmlUrl: https://www.abc.net.au/listen/programs/ladies-we-need-to-talk/
+    xmlUrl: https://www.abc.net.au/feeds/8804158/podcast.xml
+
+  - title: Everything is Fine
+    htmlUrl: http://www.everythingisfinepodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/f1166c0e-d428-4fe0-bd68-c05111d2c0c5
+
+  - title: IMO with Michelle Obama and Craig Robinson
+    htmlUrl: https://art19.com/shows/hga-imo
+    xmlUrl: https://rss.art19.com/hga-imo
+
+  - title: 'Betwixt The Sheets: The History of Sex, Scandal & Society'
+    htmlUrl: https://play.acast.com/s/betwixt-the-sheets
+    xmlUrl: https://feeds.acast.com/public/shows/60032060-080e-42c5-ac26-f93fc2b4d612
+
+  - title: Nobody Panic
+    htmlUrl: https://twitter.com/nobodypanicpod
+    xmlUrl: https://feeds.acast.com/public/shows/3960fb4f-d91b-46bc-8832-6f258c9b10f7
+
+  - title: Woman's Hour
+    htmlUrl: http://www.bbc.co.uk/programmes/b007qlvb
+    xmlUrl: https://podcasts.files.bbci.co.uk/b007qlvb.rss
+
+  - title: The Bechdel Cast
+    htmlUrl: https://www.iheart.com/podcast/105-the-bechdel-cast-30089535/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a50ac151-73f4-4192-a26a-ae320005ba2d/dc746010-090c-490a-82a3-ae320005ba3b/podcast.rss
+
+  - title: Best Friends with Nicole Byer and Sasheer Zamata
+    htmlUrl: https://art19.com/shows/best-friends-nicole-byer-and-sasheer-zamata
+    xmlUrl: https://rss.art19.com/best-friends-nicole-byer-and-sasheer-zamata
+
+  - title: The Exploress
+    htmlUrl: http://www.theexploresspodcast.com/
+    xmlUrl: https://theexploress.libsyn.com/rss
+
+  - title: Two Hot Takes
+    htmlUrl: https://audioboom.com/channels/5064905-two-hot-takes
+    xmlUrl: https://feeds.megaphone.fm/GLT3561373177
+
+  - title: The Psychology of your 20s
+    htmlUrl: https://sbeghenjemma.wixsite.com/20spsychologypodcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bc44988a-a82a-4291-ab8b-afdd01187fa8/39e2f432-53df-43b8-a7b9-afdd01187fc4/podcast.rss
+
+  - title: Spinning Plates with Sophie Ellis-Bextor
+    htmlUrl: http://www.sophieellisbextor.net/
+    xmlUrl: https://feeds.acast.com/public/shows/fba1a06c-5366-4fde-9182-d47aa7f6f9f6
+
+  - title: Good Night Stories for Rebel Girls
+    htmlUrl: https://www.rebelgirls.com/pages/podcast
+    xmlUrl: https://feeds.megaphone.fm/RGS8260109708
+
+  - title: Forever 35
+    htmlUrl: https://podcasters.spotify.com/pod/show/swah-sheila
+    xmlUrl: https://anchor.fm/s/5dd40dfc/podcast/rss
+
+  - title: My Therapist Ghosted Me
+    htmlUrl: https://www.globalplayer.com/podcasts/42KtTu/
+    xmlUrl: https://feeds.captivate.fm/my-therapist-ghosted-me/
+
+  - title: Oversharing
+    htmlUrl: http://betches.com/
+    xmlUrl: https://feeds.megaphone.fm/BMLLC4876983588
+
+  - title: 'We Love to Hate Everything: A Sister Wives & Pop Culture Roast'
+    htmlUrl: https://shows.acast.com/lovetohatepod
+    xmlUrl: https://feeds.acast.com/public/shows/62976a53b60ca800136470e8
+
+  - title: Thanks For Asking
+    htmlUrl: https://www.ttfa.org/
+    xmlUrl: https://feeds.megaphone.fm/IMP8080110213
+
+  - title: GenX Women are Sick of This Shit!
+    htmlUrl: https://www.genxwomenpod.com/
+    xmlUrl: https://feeds.buzzsprout.com/2425753.rss
+
+  - title: How To Survive with Danielle & Kristine
+    htmlUrl: https://art19.com/shows/how-to-survive
+    xmlUrl: https://rss.art19.com/how-to-survive
+
+  - title: Do You Need A Ride? with Chris Fairbanks and Karen Kilgariff
+    htmlUrl: https://www.exactlyrightmedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/25e41e57-a31a-4998-bc8a-b24b002db5d2/952fde18-6ec9-4c27-8415-b24b002db5ed/podcast.rss
+
+  - title: Handsome
+    htmlUrl: https://art19.com/shows/handsome
+    xmlUrl: https://rss.art19.com/handsome
+
+  - title: The Mid•Point with Gabby Logan
+    htmlUrl: https://www.gabbylogan.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6310cebaae5d1300124c3544
+
+  - title: Short Black with Sandra Sully
+    htmlUrl: https://10play.com.au/short-black-with-sandra-sully
+    xmlUrl: https://feeds.acast.com/public/shows/65adb477d2ac210016e2e39d
+
+  - title: The Bitchuation Room
+    htmlUrl: https://bitchuationroom.com/
+    xmlUrl: https://feeds.megaphone.fm/thebitchuationroom
+
+  - title: Celebrity Memoir Book Club
+    htmlUrl: https://www.celebritymemoirbookclub.biz/
+    xmlUrl: https://feeds.megaphone.fm/HOOSWTABSGLOBALLLC7896801906
+
+  - title: Sentimental Garbage
+    htmlUrl: https://twitter.com/SentimentalPod
+    xmlUrl: https://feeds.acast.com/public/shows/edd6bde5-221e-4c07-bde8-2a0241ccc6e0
+
+  - title: You Are Not Broken
+    htmlUrl: https://kellycaspersonmd.com/
+    xmlUrl: https://feeds.megaphone.fm/HCASS6293568929
+
+  - title: Latina to Latina
+    htmlUrl: https://www.latinatolatina.com/
+    xmlUrl: https://feeds.simplecast.com/uUMa3TSo
+
+  - title: Culture Study Podcast
+    htmlUrl: https://culturestudypod.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2047147.rss
+
+  - title: Trashy Divorces
+    htmlUrl: https://trashydivorces.com/
+    xmlUrl: https://feeds.megaphone.fm/trashydivorces
+
+  - title: Call Her Daddy
+    htmlUrl: https://iamunwell.com/
+    xmlUrl: https://feeds.simplecast.com/mKn_QmLS
+
+  - title: Hysteria
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/7lcuMRbK
+
+  - title: Her Dinero Matters
+    htmlUrl: https://jenhemphill.com/
+    xmlUrl: https://feeds.transistor.fm/her-dinero-matters
+
+  - title: Where Should We Begin? with Esther Perel
+    htmlUrl: https://estherperel.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ep-wswb
+
+  - title: 'Katherine Ryan: Telling Everybody Everything'
+    htmlUrl: https://shows.acast.com/katherine-ryan-telling-everybody-everything
+    xmlUrl: https://rss.acast.com/katherine-ryan-telling-everybody-everything
+
+  - title: Second Life
+    htmlUrl: https://art19.com/shows/second-life
+    xmlUrl: https://rss.art19.com/second-life
+
+  - title: How To Fail With Elizabeth Day
+    htmlUrl: https://forms.sonymusicfans.com/campaign/how-to-fail-uk-2023/#
+    xmlUrl: https://feeds.megaphone.fm/howtofail
+
+  - title: Dear Chelsea
+    htmlUrl: https://www.iheart.com/podcast/1119-dear-chelsea-81449817/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39524BFA-DE3F-4FAC-BF1C-AE3300346E1F/CCA17EF5-974C-4E61-997C-AE3300346E3B/podcast.rss
+
+
 - name: The Best Architecture Podcasts
   opml: findthatpod-the-best-architecture-podcasts.opml
   date: 2025-08-07
