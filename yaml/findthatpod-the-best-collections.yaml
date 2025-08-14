@@ -6,6 +6,172 @@ global:
 
 issues:
 
+- name: The Best Liberal Podcasts
+  opml: findthatpod-the-best-liberal-podcasts.opml
+  date: 2025-08-14
+  htmlUrl: https://findthatpod.com/best-liberal-podcasts/
+  podcasts:
+
+  - title: The Ezra Klein Show
+    htmlUrl: https://www.nytimes.com/ezra-klein-podcast
+    xmlUrl: https://feeds.simplecast.com/82FI35Px
+
+  - title: The Daily Beans
+    htmlUrl: https://mswmedia.com/show/daily-beans/
+    xmlUrl: https://feeds.simplecast.com/bOogzwqU
+
+  - title: Pod Save America
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/dxZsm5kX
+
+  - title: The Weekly Show with Jon Stewart
+    htmlUrl: https://art19.com/shows/jon-stewart
+    xmlUrl: https://feeds.megaphone.fm/BVLLC2163264914
+
+  - title: No Lie with Brian Tyler Cohen
+    htmlUrl: https://art19.com/shows/no-lie
+    xmlUrl: https://rss.art19.com/no-lie
+
+  - title: The MeidasTouch Podcast
+    htmlUrl: https://www.meidastouch.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/PDR2572281095
+
+  - title: Wiser Than Me with Julia Louis-Dreyfus
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss
+
+  - title: 5-4
+    htmlUrl: https://redcircle.com/shows/5-4
+    xmlUrl: https://feeds.redcircle.com/b6f505a9-f29d-4915-9e94-85182953a0ba
+
+  - title: Political Gabfest
+    htmlUrl: https://slate.com/podcasts/political-gabfest
+    xmlUrl: https://feeds.megaphone.fm/slatespoliticalgabfest
+
+  - title: The Al Franken Podcast
+    htmlUrl: https://www.alfranken.com/
+    xmlUrl: https://audioboom.com/channels/5155312.rss
+
+  - title: Gaslit Nation
+    htmlUrl: https://www.patreon.com/gaslit
+    xmlUrl: https://gaslitnation.libsyn.com/rss
+
+  - title: Countdown with Keith Olbermann
+    htmlUrl: https://www.iheart.com/podcast/1119-countdown-with-keith-olbe-99705496/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4cab918b-b4e7-4a21-8300-aec3011bf3f1/e7682aaf-443f-41d8-945f-aec3011c5127/podcast.rss
+
+  - title: Weekly Skews
+    htmlUrl: https://www.buzzsprout.com/1720582
+    xmlUrl: https://feeds.buzzsprout.com/1720582.rss
+
+  - title: What A Day
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/M7qXQ5Pd
+
+  - title: Chapo Trap House
+    htmlUrl: https://www.patreon.com/chapotraphouse
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss
+
+  - title: The Young Turks
+    htmlUrl: http://www.tytnetwork.com/
+    xmlUrl: https://feeds.megaphone.fm/theyoungturks
+
+  - title: Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy
+    htmlUrl: https://www.bestoftheleft.com/listen
+    xmlUrl: https://hippiesympathizer.libsyn.com/mp3.rss
+
+  - title: Why Is This Happening? The Chris Hayes Podcast
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/why-is-this-happening-with-chris-hayes
+
+  - title: The Bob Cesca Show
+    htmlUrl: https://www.bobcesca.com/
+    xmlUrl: https://rss.art19.com/the-bob-cesca-show
+
+  - title: The Skepticrat
+    htmlUrl: https://audioboom.com/channels/4846754
+    xmlUrl: https://audioboom.com/channels/4846754.rss
+
+  - title: The Damage Report with John Iadarola
+    htmlUrl: http://www.tyt.com/
+    xmlUrl: https://feeds.megaphone.fm/thedamagereport
+
+  - title: Lovett or Leave It
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/pdSmCK46
+
+  - title: Democracy in Question?
+    htmlUrl: https://democracy-in-question.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/vDtVrAj9
+
+  - title: Mea Culpa
+    htmlUrl: https://www.meidastouch.com/tag/mea-culpa-with-michael-cohen
+    xmlUrl: https://feeds.megaphone.fm/meaculpapodcast
+
+  - title: Raging Moderates with Scott Galloway and Jessica Tarlov
+    htmlUrl: http://podcasts.voxmedia.com/show/the-prof-g-pod-with-scott-galloway
+    xmlUrl: https://feeds.megaphone.fm/VMP7229898872
+
+  - title: The Majority Report with Sam Seder
+    htmlUrl: http://majorityfm.libsyn.com/
+    xmlUrl: https://majorityfm.libsyn.com/rss
+
+  - title: Pod Save the World
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/AeLYwXNc
+
+  - title: The PoliticsGirl Podcast
+    htmlUrl: http://www.politicsgirl.com/
+    xmlUrl: https://feeds.megaphone.fm/PDR6752590894
+
+  - title: The Bulwark Podcast
+    htmlUrl: https://www.thebulwark.com/podcast/the-bulwark-podcast/
+    xmlUrl: https://audioboom.com/channels/5114286.rss
+
+  - title: What Now? with Trevor Noah
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/LNIsL2kT
+
+  - title: Election Profit Makers
+    htmlUrl: https://epm.fireside.fm/
+    xmlUrl: https://feeds.fireside.fm/epm/rss
+
+  - title: The NPR Politics Podcast
+    htmlUrl: https://www.npr.org/podcasts/510310/npr-politics-podcast
+    xmlUrl: https://feeds.npr.org/510310/podcast.xml
+
+  - title: The Rachel Maddow Show
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/msnbc-rachel-maddow
+
+  - title: Stephanie Miller's Happy Hour Podcast
+    htmlUrl: https://art19.com/shows/stephanie-millers-happy-hour-podcast
+    xmlUrl: https://rss.art19.com/stephanie-millers-happy-hour-podcast
+
+  - title: Strict Scrutiny
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/EyrYWMW2
+
+  - title: Unf*cking The Republic
+    htmlUrl: https://www.unftr.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/ed1c4567-4a2a-4d8b-862f-ab600003d530/e8f9d9b7-b747-4bb4-bc50-ac4f010d726b/bdc5ba7b-7fd4-4566-9839-ac4f01122991/podcast.rss
+
+  - title: The New Liberal Podcast
+    htmlUrl: https://www.cnliberalism.org/
+    xmlUrl: https://neolibpodcast.libsyn.com/rss
+
+  - title: Legal AF by MeidasTouch
+    htmlUrl: https://cms.megaphone.fm/channel/legalaf
+    xmlUrl: https://feeds.megaphone.fm/legalaf
+
+  - title: Knowledge Fight
+    htmlUrl: http://knowledgefight.libsyn.com/podcast
+    xmlUrl: https://knowledgefight.libsyn.com/rss
+
+  - title: The Necessary Conversation
+    htmlUrl: https://thenecessaryconversation.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2035895.rss
+
 - name: The Best Podcasts for Women
   opml: findthatpod-the-best-podcasts-for-women.opml
   date: 2025-08-12
