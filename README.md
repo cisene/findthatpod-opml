@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Conservative Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-conservative-podcasts.opml) | 2025-08-15 |
 | [FindThatPod - The Best Liberal Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-liberal-podcasts.opml) | 2025-08-14 |
 | [FindThatPod - The Best Podcasts for Women](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-women.opml) | 2025-08-12 |
 | [FindThatPod - The Best Architecture Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-architecture-podcasts.opml) | 2025-08-07 |

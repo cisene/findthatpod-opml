@@ -6,6 +6,85 @@ global:
 
 issues:
 
+- name: The Best Conservative Podcasts
+  opml: findthatpod-the-best-conservative-podcasts.opml
+  date: 2025-08-15
+  htmlUrl: https://findthatpod.com/best-conservative-podcasts/
+  podcasts:
+
+  - title: The Fifth Column
+    htmlUrl: https://www.wethefifth.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/815642.rss
+
+  - title: The Dishcast with Andrew Sullivan
+    htmlUrl: https://andrewsullivan.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/61371.rss
+
+  - title: The Ben Shapiro Show
+    htmlUrl: https://www.dailywire.com/show/the-ben-shapiro-show
+    xmlUrl: https://feeds.megaphone.fm/BVDWV5370667266
+
+  - title: Federalist Radio Hour
+    htmlUrl: https://ricochet.com/series/federalist-radio-hour/
+    xmlUrl: https://www.spreaker.com/show/5457726/episodes/feed
+
+  - title: Mark Levin Podcast
+    htmlUrl: http://www.marklevinshow.com/
+    xmlUrl: https://feeds.megaphone.fm/mark-levin-podcast
+
+  - title: The Dispatch Podcast
+    htmlUrl: https://podcast.thedispatch.com/
+    xmlUrl: https://feeds.megaphone.fm/DISPME9513417677
+
+  - title: Interesting Times with Ross Douthat
+    htmlUrl: https://www.nytimes.com/column/matter-of-opinion
+    xmlUrl: https://feeds.simplecast.com/2xzUiHxw
+
+  - title: Conversations With Coleman
+    htmlUrl: https://www.thefp.com/podcasts
+    xmlUrl: https://feeds.megaphone.fm/RUNMED8938522838
+
+  - title: RealClearPolitics Podcast
+    htmlUrl: https://realclearpolitics-takeaway.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/pzzjlbXr
+
+  - title: The Libertarian
+    htmlUrl: https://www.spreaker.com/podcast/on-liberty--6680461
+    xmlUrl: https://hooverinstitution.podbean.com/feed.xml
+
+  - title: The Rest Is Politics
+    htmlUrl: http://therestispolitics.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT9190936013
+
+  - title: Bannon`s War Room
+    htmlUrl: https://listen.warroom.org/
+    xmlUrl: https://listen.warroom.org/feed.xml
+
+  - title: The Glenn Show
+    htmlUrl: https://glennloury.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/259044.rss
+
+  - title: Quillette Podcast
+    htmlUrl: https://quillette.com/
+    xmlUrl: https://feeds.megaphone.fm/QLTUL2757454477
+
+  - title: Ruthless Podcast
+    htmlUrl: https://ruthlesspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/FOXM5875505224
+
+  - title: The Michael Knowles Show
+    htmlUrl: https://www.dailywire.com/show/the-michael-knowles-show
+    xmlUrl: https://feeds.megaphone.fm/BVDWV5810064903
+
+  - title: Conservative Review with Daniel Horowitz
+    htmlUrl: https://www.conservativereview.com/authors/daniel-horowitz
+    xmlUrl: https://feeds.megaphone.fm/BMDC8713803568
+
+  - title: Louder with Crowder
+    htmlUrl: https://rss.com/podcasts/louder-with-crowder
+    xmlUrl: https://media.rss.com/louder-with-crowder/feed.xml
+
+
 - name: The Best Liberal Podcasts
   opml: findthatpod-the-best-liberal-podcasts.opml
   date: 2025-08-14
