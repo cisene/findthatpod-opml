@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    325
+    title:    'Find That Pod #325'
+    pubDate:  '2025-08-15'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: 'True Spies: Espionage | Investigation | Crime | Murder | Detective | Politics'
+        htmlUrl: https://spyscape.com/podcasts
+        xmlUrl: https://feeds.megaphone.fm/truespies
+
+    - podcast:
+        title: '"Fine" Dining'
+        htmlUrl: https://www.finediningpodcast.com/
+        xmlUrl: https://feeds.libsyn.com/432342/rss
+
+    - podcast:
+        title: Talk ’90s to me
+        htmlUrl: https://www.podmasters.co.uk/
+        xmlUrl: https://feeds.megaphone.fm/NSR2448691535
+
+    - podcast:
+        title: Orbit for Creators
+        htmlUrl: https://www.orbitforcreators.com/
+        xmlUrl: https://anchor.fm/s/e8dc4310/podcast/rss
+
+    - podcast:
+        title: 'Normal Curves: Sexy Science, Serious Statistics'
+        htmlUrl: https://www.normalcurves.com/
+        xmlUrl: https://feeds.transistor.fm/normal-curves
+
   - issue:    324
     title:    'Find That Pod #324'
     pubDate:  '2025-08-08'
