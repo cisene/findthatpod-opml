@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    326
+    title:    'Find That Pod #326'
+    pubDate:  '2025-08-22'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Success is a Myth
+        htmlUrl: https://www.buzzsprout.com/2489053
+        xmlUrl: https://feeds.buzzsprout.com/2489053.rss
+
+    - podcast:
+        title: Antisocial Economics
+        htmlUrl: https://feeds.megaphone.fm/antisocialeconomics
+        xmlUrl: https://podcasterwallet.com/?pcid=7413099
+
+    - podcast:
+        title: LOST ROMAN HEROES
+        htmlUrl: https://www.lostromanheroes.com/
+        xmlUrl: https://feeds.megaphone.fm/TPG1699167846
+
+    - podcast:
+        title: Oceanography
+        htmlUrl: https://shows.acast.com/oceanography
+        xmlUrl: https://feeds.acast.com/public/shows/67fd1ac310b3098e4a3b2e25
+
+    - podcast:
+        title: The Nerd Reich
+        htmlUrl: https://nerdreich.podbean.com/
+        xmlUrl: https://feed.podbean.com/nerdreich/feed.xml
+
   - issue:    325
     title:    'Find That Pod #325'
     pubDate:  '2025-08-15'
