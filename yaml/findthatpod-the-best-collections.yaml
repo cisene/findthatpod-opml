@@ -6,6 +6,81 @@ global:
 
 issues:
 
+
+- name: The Best Baseball Podcasts
+  opml: findthatpod-the-best-baseball-podcasts.opml
+  date: 2025-08-27
+  htmlUrl: https://findthatpod.com/best-baseball-podcasts/
+  podcasts:
+
+  - title: 'The Windup: A show about Baseball'
+    htmlUrl: https://www.nytimes.com/athletic/podcasts/
+    xmlUrl: https://feeds.acast.com/public/shows/6818ceb0eb146d8e35d36017
+
+  - title: 'Effectively Wild: A FanGraphs Baseball Podcast'
+    htmlUrl: https://blogs.fangraphs.com/
+    xmlUrl: https://blogs.fangraphs.com/feed/effectively-wild/
+
+  - title: Baseball is Dead (MLB Podcast)
+    htmlUrl: https://underdogfantasy.com/
+    xmlUrl: https://feeds.megaphone.fm/baseballcarrabis
+
+  - title: MLB Morning Lineup Podcast
+    htmlUrl: https://www.mlb.com/fans/podcasts
+    xmlUrl: https://feeds.megaphone.fm/CAD5154456756
+
+  - title: Baseball Tonight with Buster Olney
+    htmlUrl: http://www.espn.com/podcenter
+    xmlUrl: https://feeds.megaphone.fm/ESP1723897648
+
+  - title: Foul Territory
+    htmlUrl: https://youtube.com/@foulterritoryshow
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c3f1e59a-1c1c-48cb-ab4c-b33100f0b468/781af1cf-e109-41c1-9c1b-b33100f0b471/podcast.rss
+
+  - title: Two Strike Noise - A Baseball History Podcast
+    htmlUrl: https://twostrikenoise.podbean.com/
+    xmlUrl: https://twostrikenoise.podbean.com/feed.xml
+
+  - title: The Infinite Inning
+    htmlUrl: https://www.spreaker.com/podcast/the-infinite-inning--3569757
+    xmlUrl: https://www.spreaker.com/show/3569757/episodes/feed
+
+  - title: Dugout Discussions with Chris Rose
+    htmlUrl: http://roserotation.libsyn.com/website
+    xmlUrl: https://feeds.simplecast.com/IFUFvQiV
+
+  - title: No Crying In Baseball
+    htmlUrl: https://www.nocryinginbball.com/
+    xmlUrl: https://feeds.transistor.fm/no-crying-in-baseball
+
+  - title: Baseball Today
+    htmlUrl: http://chrisroseigliveshow.libsyn.com/website
+    xmlUrl: https://feeds.simplecast.com/9pM3N4cY
+
+  - title: Barstool Baseball
+    htmlUrl: https://www.barstoolsports.com/shows/starting-9
+    xmlUrl: https://mcsorleys.barstoolsports.com/feed/starting-9
+
+  - title: 'Beyond The Glove: A JustGloves Podcast'
+    htmlUrl: https://www.justgloves.com/
+    xmlUrl: https://anchor.fm/s/eae8e488/podcast/rss
+
+  - title: 'Rates & Barrels: A show about Baseball'
+    htmlUrl: https://www.nytimes.com/athletic/podcasts/
+    xmlUrl: https://feeds.acast.com/public/shows/6818a1a4eb737caf8ca41879
+
+  - title: Talkin' Baseball (MLB Podcast)
+    htmlUrl: http://www.jomboymedia.com/
+    xmlUrl: https://feeds.simplecast.com/06DZNq60
+
+  - title: Tipping Pitches
+    htmlUrl: https://podcasters.spotify.com/pod/show/tipping-pitches
+    xmlUrl: https://anchor.fm/s/1904330/podcast/rss
+
+  - title: Baseball Bar-B-Cast
+    htmlUrl: https://sports.yahoo.com/videos/shows/baseball-bar-b-cast/
+    xmlUrl: https://feeds.simplecast.com/tZ75G3mD
+
 - name: The Best Conservative Podcasts
   opml: findthatpod-the-best-conservative-podcasts.opml
   date: 2025-08-15
