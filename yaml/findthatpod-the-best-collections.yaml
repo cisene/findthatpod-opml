@@ -6,6 +6,107 @@ global:
 
 issues:
 
+- name: The Best Self Help Podcasts for Women
+  opml: findthatpod-the-best-self-help-podcasts-for-women.opml
+  date: 2025-08-27
+  htmlUrl: https://findthatpod.com/best-self-help-podcasts-for-women/
+  podcasts:
+
+  - title: Life Will Be the Death of Me with Chelsea Handler
+    htmlUrl: https://www.iheart.com/podcast/1119-life-will-be-the-death-30919373/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/86b35e32-caad-4f17-8f9d-ae39005b24fa/b6ae1030-2ee8-4665-aa9d-ae39005b2508/podcast.rss
+
+  - title: We Can Do Hard Things
+    htmlUrl: https://wecandohardthingspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/wcdht
+
+  - title: The Mel Robbins Podcast
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/UCwaTX1J
+
+  - title: Forever35
+    htmlUrl: http://www.forever35podcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/07ce3a4e-2327-4692-be49-74ad7628c0a0
+
+  - title: Depresh Mode with John Moe
+    htmlUrl: https://maximumfun.org/podcasts/depresh-mode/
+    xmlUrl: https://feeds.simplecast.com/Hq3igj9D
+
+  - title: Ladies, We Need To Talk
+    htmlUrl: https://www.abc.net.au/listen/programs/ladies-we-need-to-talk/
+    xmlUrl: https://www.abc.net.au/feeds/8804158/podcast.xml
+
+  - title: The Calmer You Podcast
+    htmlUrl: https://www.calmer-you.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5ffbf534a502c646644d47c5
+
+  - title: How to Like Your Life
+    htmlUrl: https://howtolikeyourlife.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2296875.rss
+
+  - title: Dear Sugars
+    htmlUrl: https://www.wbur.org/podcasts/dearsugar
+    xmlUrl: https://rss.wbur.org/dearsugar/podcast
+
+  - title: The Happiness Lab with Dr. Laurie Santos
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
+
+  - title: How To Fail With Elizabeth Day
+    htmlUrl: https://forms.sonymusicfans.com/campaign/how-to-fail-uk-2023/#
+    xmlUrl: https://feeds.megaphone.fm/howtofail
+
+  - title: Struggle Care
+    htmlUrl: https://strugglecare.com/
+    xmlUrl: https://feeds.megaphone.fm/struggle-care
+
+  - title: Busy Philipps is Doing Her Best
+    htmlUrl: https://feeds.megaphone.fm/HSW9670766688
+    xmlUrl: https://podcasterwallet.com/?pcid=524135
+
+  - title: The Everygirl Podcast
+    htmlUrl: https://shows.acast.com/the-everygirl-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/62bc7de20ccf1e0012a5fdcb
+
+  - title: Pulling The Thread with Elise Loehnen
+    htmlUrl: http://theelisepodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/b0b0db27-e75e-41c4-abe9-b321013373d1/6faf36be-b7c3-4444-a994-b321013373e1/podcast.rss
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: Trash Tuesday w/ Esther Povitsky & Khalyla Kuhn
+    htmlUrl: https://www.instagram.com/itstrashtuesday
+    xmlUrl: https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/529f9060-0fc3-4b1b-840b-ae7c01035074/047d2023-e0a1-4faa-85f9-ae7c0103508b/podcast.rss
+
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
+
+  - title: Magical Overthinkers
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/magicaloverthinkers
+
+  - title: How To Survive with Danielle & Kristine
+    htmlUrl: https://art19.com/shows/how-to-survive
+    xmlUrl: https://rss.art19.com/how-to-survive
+
+  - title: Wiser Than Me with Julia Louis-Dreyfus
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss
+
+  - title: Busy, Yet Pretty
+    htmlUrl: https://art19.com/shows/busy-yet-pretty
+    xmlUrl: https://rss.art19.com/busy-yet-pretty
+
+  - title: Mental Illness Happy Hour
+    htmlUrl: https://art19.com/shows/mental-illness-happy-hour
+    xmlUrl: https://rss.art19.com/mental-illness-happy-hour
+
+  - title: Almost 30
+    htmlUrl: https://almost30.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV1241235105
 
 - name: The Best Baseball Podcasts
   opml: findthatpod-the-best-baseball-podcasts.opml
@@ -30,7 +131,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/CAD5154456756
 
   - title: Baseball Tonight with Buster Olney
-    htmlUrl: http://www.espn.com/podcenter
+    htmlUrl: https://www.espn.com/podcenter
     xmlUrl: https://feeds.megaphone.fm/ESP1723897648
 
   - title: Foul Territory
@@ -46,7 +147,7 @@ issues:
     xmlUrl: https://www.spreaker.com/show/3569757/episodes/feed
 
   - title: Dugout Discussions with Chris Rose
-    htmlUrl: http://roserotation.libsyn.com/website
+    htmlUrl: https://roserotation.libsyn.com/website
     xmlUrl: https://feeds.simplecast.com/IFUFvQiV
 
   - title: No Crying In Baseball
@@ -54,7 +155,7 @@ issues:
     xmlUrl: https://feeds.transistor.fm/no-crying-in-baseball
 
   - title: Baseball Today
-    htmlUrl: http://chrisroseigliveshow.libsyn.com/website
+    htmlUrl: https://chrisroseigliveshow.libsyn.com/website
     xmlUrl: https://feeds.simplecast.com/9pM3N4cY
 
   - title: Barstool Baseball
