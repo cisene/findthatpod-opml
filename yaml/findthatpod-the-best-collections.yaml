@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Disney Podcasts
+  opml: findthatpod-the-best-disney-podcasts.opml
+  date: 2025-08-29
+  htmlUrl: https://findthatpod.com/best-disney-podcasts/
+  podcasts:
+
+  - title: Disney World Today
+    htmlUrl: https://instagram.com/disneyworldtoday?igshid=OGQ5ZDc2ODk2ZA==
+    xmlUrl: https://anchor.fm/s/12ff7294/podcast/rss
+
+  - title: Connecting with Walt - A look into the history of the man behind Mickey Mouse, Disneyland and Walt Disney World
+    htmlUrl: https://shows.acast.com/connecting-with-walt
+    xmlUrl: https://feeds.acast.com/public/shows/64ad7013f41bdd001134e3db
+
+  - title: 'Unlocking The Magic: Talking all things Disney Parks, Universal and Cruising'
+    htmlUrl: http://unlockingthemagic.com/
+    xmlUrl: https://anchor.fm/s/f5ba6774/podcast/rss
+
+  - title: Happiest Podcast On Earth
+    htmlUrl: https://happiestpodcast.wixsite.com/website
+    xmlUrl: https://feeds.buzzsprout.com/260864.rss
+
+  - title: 'Disney Deciphered: a Disney World planning podcast'
+    htmlUrl: http://www.disneydeciphered.com/
+    xmlUrl: https://disneydeciphered.libsyn.com/rss
+
+  - title: Be Our Guest WDW Podcast
+    htmlUrl: https://beourguestpodcast.podbean.com/
+    xmlUrl: https://beourguestpodcast.podbean.com/feed.xml
+
+  - title: Hidden Mickeys
+    htmlUrl: http://hiddenmickeys.libsyn.com/website
+    xmlUrl: https://hiddenmickeys.libsyn.com/rss
+
+  - title: 'Zetus Lepetus: A Mammoth Club Original Podcast'
+    htmlUrl: https://podcasters.spotify.com/pod/show/mammothclub
+    xmlUrl: https://anchor.fm/s/a590ebd8/podcast/rss
+
+  - title: The Magical Park Hoppers
+    htmlUrl: https://linktr.ee/MagicalParkHoppers
+    xmlUrl: https://feeds.buzzsprout.com/2501580.rss
+
+  - title: Disney World is Awesome
+    htmlUrl: https://1173092.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1173092.rss
+
+  - title: 'Ropedrop & Parkhop: Helping you Dream, Plan and Do Disneyland'
+    htmlUrl: https://www.ropedropparkhop.com/
+    xmlUrl: https://anchor.fm/s/5db9ed50/podcast/rss
+
+  - title: The Main St Dish
+    htmlUrl: https://themainstdish.com/
+    xmlUrl: https://anchor.fm/s/7e53f998/podcast/rss
+
+  - title: Inside the Disney Vault
+    htmlUrl: http://wearecampfire.media/podcasts/inside-the-disney-vault/
+    xmlUrl: https://anchor.fm/s/9638b6c/podcast/rss
+
+  - title: Distory with Kate & Kirk
+    htmlUrl: https://disneycicerone.com/distory-with-kate-kirk-podcast/
+    xmlUrl: https://anchor.fm/s/9af12b34/podcast/rss
+
+  - title: 'The 3028: Theme Park History & Pop Culture Listory'
+    htmlUrl: http://thirty20eight.libsyn.com/podcast
+    xmlUrl: https://thirty20eight.libsyn.com/rss
+
+  - title: Mousetalgia! - Your Disneyland Podcast
+    htmlUrl: http://www.mousetalgia.com/
+    xmlUrl: https://mousetalgia.libsyn.com/rss
+
+  - title: 'WDW Radio: Your Guide to the Walt Disney World, Disneyland, Disney Cruise and More Disney Magic!'
+    htmlUrl: https://www.wdwradio.com/
+    xmlUrl: https://feeds.captivate.fm/wdwradio/
+
+  - title: 'Podcast: The Ride'
+    htmlUrl: https://art19.com/shows/podcasttheride
+    xmlUrl: https://rss.art19.com/podcasttheride
+
+  - title: 'Adventures of a Disney Dad: A Walt Disney World Trip Planning Podcast'
+    htmlUrl: https://adventuresofadisneydad.podbean.com/
+    xmlUrl: https://feed.podbean.com/adventuresofadisneydad/feed.xml
+
+  - title: Main Street Magic - A Walt Disney World Podcast
+    htmlUrl: http://www.mainstmagic.com/
+    xmlUrl: https://feeds.simplecast.com/ZY83mmKf
+
+  - title: 'Addicted to the Mouse: Disney Podcast | Disney World, Universal, & Cruise Vacation Planning'
+    htmlUrl: https://addictedtothemouse.com/
+    xmlUrl: https://addictedtothemouse.com/feed/podcast/
+
+  - title: Disney History Institute Podcast
+    htmlUrl: https://www.toddjamespierce.com/blog
+    xmlUrl: https://disneyhistoryinstitute.libsyn.com/rss
+
+  - title: Capture The Magic - Disney World Podcast | Disney World Travel Podcast | Disney World News & Rumors Podcast
+    htmlUrl: https://ctmpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/OxuKkNVQ
+
+  - title: The Disney Dish with Jim Hill
+    htmlUrl: https://www.podpage.com/network/jim-hill-media/show/the-disney-dish-with-jim-hill/
+    xmlUrl: https://feeds.megaphone.fm/JHM6229164720
+
+  - title: WDW Prep To Go - a Disney World planning podcast
+    htmlUrl: https://wdwprepschool.com/
+    xmlUrl: https://wdwprepschool.libsyn.com/rss
+
+  - title: Very Amusing with Carlye Wisel - A Theme Park Podcast
+    htmlUrl: https://redcircle.com/shows/very-amusing-with-carlye-wisel
+    xmlUrl: https://feeds.redcircle.com/74bfacf4-1083-4737-9183-ecbb0516ce92
+
 - name: The Best Self Help Podcasts for Women
   opml: findthatpod-the-best-self-help-podcasts-for-women.opml
   date: 2025-08-27

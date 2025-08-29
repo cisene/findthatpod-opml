@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Disney Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-disney-podcasts.opml) | 2025-08-29 |
 | [FindThatPod - The Best Self Help Podcasts for Women](https://b19.se/data/opml/findthatpod/findthatpod-the-best-self-help-podcasts-for-women.opml) | 2025-08-27 |
 | [FindThatPod - The Best Baseball Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-baseball-podcasts.opml) | 2025-08-27 |
 | [FindThatPod - The Best Conservative Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-conservative-podcasts.opml) | 2025-08-15 |
