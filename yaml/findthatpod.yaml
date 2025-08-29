@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    327
+    title:    'Find That Pod #327'
+    pubDate:  '2025-08-29'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: NO SUCH THING
+        htmlUrl: https://www.nosuchthing.show/
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/70949531-8ccc-49f3-8774-b31400f5a6de/82e119be-e7b2-48cf-9b1f-b31400f5a6f8/podcast.rss
+
+    - podcast:
+        title: Journey Through Time
+        htmlUrl: https://www.goalhanger.com/
+        xmlUrl: https://feeds.megaphone.fm/journeythroughtime
+
+    - podcast:
+        title: Our Ancestors Were Messy
+        htmlUrl: https://ourancestorsweremessy.com/
+        xmlUrl: https://feeds.simplecast.com/RRxyeBEQ
+
+    - podcast:
+        title: Inconceivable Truth
+        htmlUrl: https://audiochuck.com/
+        xmlUrl: https://feeds.simplecast.com/P2FwqleH
+
+    - podcast:
+        title: Solutions with Henry Blodget
+        htmlUrl: https://www.youtube.com/@solutionswithhenry
+        xmlUrl: https://feeds.megaphone.fm/VMP6677258445
+
   - issue:    326
     title:    'Find That Pod #326'
     pubDate:  '2025-08-22'
@@ -58,8 +89,8 @@ body:
 
     - podcast:
         title: Antisocial Economics
-        htmlUrl: https://feeds.megaphone.fm/antisocialeconomics
-        xmlUrl: https://podcasterwallet.com/?pcid=7413099
+        htmlUrl: 
+        xmlUrl: https://feeds.megaphone.fm/antisocialeconomics
 
     - podcast:
         title: LOST ROMAN HEROES
