@@ -6,6 +6,88 @@ global:
 
 issues:
 
+- name: The Best Fantasty Football Podcasts
+  opml: findthatpod-the-best-fantasy-football-podcasts.opml
+  date: 2025-08-29
+  htmlUrl: https://findthatpod.com/best-fantasy-football-podcasts/
+  podcasts:
+
+  - title: The Late-Round Fantasy Football Podcast
+    htmlUrl: http://www.lateround.com/
+    xmlUrl: https://lateround.libsyn.com/rss
+
+  - title: The Audible
+    htmlUrl: http://www.footballguys.com/
+    xmlUrl: https://theaudible.libsyn.com/rss
+
+  - title: Harris Fantasy Football Podcast
+    htmlUrl: http://www.harrisfootball.com/
+    xmlUrl: https://harrisfootball.libsyn.com/rss
+
+  - title: Establish The Run Fantasy Football
+    htmlUrl: https://podcasters.spotify.com/pod/show/establish-the-run-fantasy
+    xmlUrl: https://anchor.fm/s/60e53980/podcast/rss
+
+  - title: NFL Fantasy Football Podcast
+    htmlUrl: https://www.nfl.com/podcasts/nfl-fantasy
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/267B8710-AA47-4725-8EF5-AE270034320C/9213D6FE-A3AE-4A4C-A3EA-AE270034322D/podcast.rss
+
+  - title: Rotoviz Radio
+    htmlUrl: https://art19.com/shows/rotoviz-fantasy-sports-radio
+    xmlUrl: https://feeds.simplecast.com/_VDMK4uh
+
+  - title: Fantasy Football with Josh & Hayden
+    htmlUrl: https://underdogfantasy.com/
+    xmlUrl: https://feeds.megaphone.fm/BVLLC5943241697
+
+  - title: Fantasy Focus Football
+    htmlUrl: http://www.espn.com/espnradio/podcast/archive?id=2942325
+    xmlUrl: https://feeds.megaphone.fm/ESP7699980268
+
+  - title: Fantasy Football Happy Hour with Matthew Berry
+    htmlUrl: https://www.nbcsports.com/
+    xmlUrl: https://feeds.simplecast.com/8PBMLPBg
+
+  - title: Fantasy Footballers - Fantasy Football Podcast
+    htmlUrl: https://www.thefantasyfootballers.com/
+    xmlUrl: https://feeds.simplecast.com/sw7PGWfw
+
+  - title: Fantasy Football Today
+    htmlUrl: http://fantasynews.cbssports.com/fantasyfootball
+    xmlUrl: https://feeds.megaphone.fm/CBS8358037229
+
+  - title: Draft Sharks - Fantasy Football Podcast
+    htmlUrl: https://www.draftsharks.com/
+    xmlUrl: https://feeds.simplecast.com/PolPCqjA
+
+  - title: The Ringer Fantasy Football Show
+    htmlUrl: https://theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/ringer-fantasy-football-show
+
+  - title: Living the Stream - Fantasy Football Podcast
+    htmlUrl: http://sites.libsyn.com/435021
+    xmlUrl: https://feeds.libsyn.com/435021/rss
+
+  - title: RotoWire Fantasy Football Podcast
+    htmlUrl: https://www.rotowire.com/football
+    xmlUrl: https://feeds.simplecast.com/D9lea_gL
+
+  - title: School of Scott
+    htmlUrl: https://www.fantasypoints.com/
+    xmlUrl: https://feeds.megaphone.fm/schoolofscott
+
+  - title: Fantasy Football News Tracker - Daily
+    htmlUrl: https://www.spreaker.com/podcast/fantasy-football-news-tracker-daily--6248231
+    xmlUrl: https://www.spreaker.com/show/6248231/episodes/feed
+
+  - title: FantasyPros - Fantasy Football Podcast
+    htmlUrl: https://www.fantasypros.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a425ba31-4316-4647-847e-b0030136e912/0afc299b-d04e-4bd7-91a8-b0030136e938/podcast.rss
+
+  - title: Fantasy Football Today Beyond the Box Score
+    htmlUrl: https://www.cbssports.com/podcasts/fantasy-football-today-in-5/
+    xmlUrl: https://feeds.megaphone.fm/fftin5
+
 - name: The Best Disney Podcasts
   opml: findthatpod-the-best-disney-podcasts.opml
   date: 2025-08-29
