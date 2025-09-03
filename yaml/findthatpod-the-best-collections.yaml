@@ -6,6 +6,148 @@ global:
 
 issues:
 
+- name: The Best Podcasts for Teachers
+  opml: findthatpod-the-best-podcasts-for-teachers.opml
+  date: 2025-09-03
+  htmlUrl: https://findthatpod.com/best-podcasts-for-teachers/
+  podcasts:
+
+  - title: The Shake Up Learning Show with Kasey Bell
+    htmlUrl: https://shakeuplearning.com/
+    xmlUrl: https://shakeuplearning.libsyn.com/rss
+
+  - title: Two Mr Ps in a Pod(Cast)
+    htmlUrl: http://2mrpspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR2731345916
+
+  - title: They Behave For Me
+    htmlUrl: https://podcasters.spotify.com/pod/show/adam3564
+    xmlUrl: https://anchor.fm/s/ea34fd10/podcast/rss
+
+  - title: Teachers on Fire
+    htmlUrl: https://www.spreaker.com/show/teachers-on-fire
+    xmlUrl: https://www.spreaker.com/show/4068828/episodes/feed
+
+  - title: Let's K12 Better
+    htmlUrl: https://www.momofallcapes.com/letsk12better.html
+    xmlUrl: https://feeds.buzzsprout.com/1036873.rss
+
+  - title: Lab Out Loud
+    htmlUrl: https://www.laboutloud.com/
+    xmlUrl: https://nsta.libsyn.com/rss
+
+  - title: Teachers Off Duty
+    htmlUrl: https://sites.libsyn.com/526003
+    xmlUrl: https://feeds.libsyn.com/526003/rss
+
+  - title: Teaching Hard History
+    htmlUrl: https://www.learningforjustice.org/podcasts/teaching-hard-history
+    xmlUrl: https://hardhistory.libsyn.com/rss
+
+  - title: The Cult of Pedagogy Podcast
+    htmlUrl: http://www.cultofpedagogy.com/pod
+    xmlUrl: https://cultofpedagogy.libsyn.com/rss
+
+  - title: Teach Sleep Repeat
+    htmlUrl: https://www.teachsleeprepeat.co.uk/
+    xmlUrl: https://anchor.fm/s/da489164/podcast/rss
+
+  - title: Angela Watson's Truth for Teachers
+    htmlUrl: http://truthforteachers.com/podcast
+    xmlUrl: https://truthforteachers.libsyn.com/rss
+
+  - title: Sold a Story
+    htmlUrl: https://features.apmreports.org/sold-a-story/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/sold-a-story
+
+  - title: Punk Rock Classrooms
+    htmlUrl: https://soundcloud.com/punkrockclassrooms
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:698860287/sounds.rss
+
+  - title: 'Crying in My Car: A Podcast for Teachers'
+    htmlUrl: https://www.teachersneedlaughter.com/
+    xmlUrl: https://cryinginmycar.libsyn.com/rss
+
+  - title: MindShift Podcast
+    htmlUrl: https://www.kqed.org/podcasts/mindshift
+    xmlUrl: https://feeds.megaphone.fm/KQINC5764600429
+
+  - title: Emma & Tom Talk Teaching
+    htmlUrl: http://www.cardiffmet.ac.uk/education/cardiff-partnership
+    xmlUrl: https://feeds.blubrry.com/feeds/pgcepodcast.xml
+
+  - title: Mr Brown Podcast
+    htmlUrl: https://mrbrownpod.com/
+    xmlUrl: https://feeds.buzzsprout.com/2006296.rss
+
+  - title: 'Science of Reading: The Podcast'
+    htmlUrl: https://www.amplify.com/
+    xmlUrl: https://feeds.buzzsprout.com/612361.rss
+
+  - title: Tips for Teachers
+    htmlUrl: https://tipsforteachers.co.uk/
+    xmlUrl: https://anchor.fm/s/87577920/podcast/rss
+
+  - title: The Extraordinary Educators Podcast
+    htmlUrl: https://www.curriculumassociates.com/extraordinaryeducators
+    xmlUrl: https://feeds.buzzsprout.com/816196.rss
+
+  - title: Mr Barton Maths Podcast
+    htmlUrl: https://www.mrbartonmaths.com/
+    xmlUrl: https://anchor.fm/s/4af42a50/podcast/rss
+
+  - title: The Resilient Teacher Podcast
+    htmlUrl: http://www.teachingmindbodyandsoul.com/
+    xmlUrl: https://feeds.captivate.fm/theresilientteacherpodcast/
+
+  - title: Teachers Talking Tech
+    htmlUrl: https://www.podomatic.com/podcasts/erocypsi
+    xmlUrl: https://erocypsi.podomatic.com/rss2.xml
+
+  - title: The Creative Classroom with John Spencer
+    htmlUrl: https://spencereducation.com/category/podcast/
+    xmlUrl: http://feeds.feedburner.com/PodcastJohnSpencer
+
+  - title: Art Ed Radio
+    htmlUrl: https://www.theartofeducation.edu/
+    xmlUrl: https://artedradio.libsyn.com/rss
+
+  - title: Self-Care for Educators with Dr. Tina H. Boogren
+    htmlUrl: https://www.selfcareforeducators.com/
+    xmlUrl: https://feeds.buzzsprout.com/1124957.rss
+
+  - title: Teachers Talk Radio
+    htmlUrl: https://teacherstalkradio.podbean.com/
+    xmlUrl: https://feed.podbean.com/teacherstalkradio/feed.xml
+
+  - title: The Spark Creativity Teacher Podcast | ELA
+    htmlUrl: http://nowsparkcreativity.com/
+    xmlUrl: https://sparkcreativity.libsyn.com/rss
+
+  - title: Thinking Deeply about Primary Education
+    htmlUrl: https://www.thinkingdeeply.info/
+    xmlUrl: https://anchor.fm/s/45dcc8b0/podcast/rss
+
+  - title: Always A Lesson's Empowering Educators Podcast
+    htmlUrl: https://alwaysalesson.com/episodes/
+    xmlUrl: https://feeds.captivate.fm/alwaysalessonsempoweringeducatorspodcast/
+
+  - title: 10 Minute Teacher Podcast with Cool Cat Teacher
+    htmlUrl: https://www.coolcatteacher.com/podcast
+    xmlUrl: https://10minuteteacher.libsyn.com/rss
+
+  - title: Art Made Easy
+    htmlUrl: https://www.deepspacesparkle.com/
+    xmlUrl: https://www.deepspacesparkle.com/feed/podcast/
+
+  - title: 'Mind the Gap: Making Education Work Across the Globe'
+    htmlUrl: https://www.youtube.com/c/MindtheGapwithTomEmma
+    xmlUrl: https://anchor.fm/s/2277d52c/podcast/rss
+
+  - title: Teach Me, Teacher
+    htmlUrl: https://teachmeteacherpodcast.com/podcast-2/
+    xmlUrl: https://feeds.libsyn.com/418058/rss
+
 - name: The Best Fantasty Football Podcasts
   opml: findthatpod-the-best-fantasy-football-podcasts.opml
   date: 2025-08-29
