@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Advertising Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-advertising-podcasts.opml) | 2025-09-05 |
 | [FindThatPod - The Best Podcasts for Teachers](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-teachers.opml) | 2025-09-03 |
 | [FindThatPod - The Best Fantasty Football Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fantasy-football-podcasts.opml) | 2025-08-29 |
 | [FindThatPod - The Best Disney Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-disney-podcasts.opml) | 2025-08-29 |

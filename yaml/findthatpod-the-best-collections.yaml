@@ -6,6 +6,96 @@ global:
 
 issues:
 
+- name: The Best Advertising Podcasts
+  opml: findthatpod-the-best-advertising-podcasts.opml
+  date: 2025-09-05
+  htmlUrl: https://findthatpod.com/best-advertising-podcasts/
+  podcasts:
+
+  - title: Behind The Billboard
+    htmlUrl: https://behind-the-billboard.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/kFiQByOz
+
+  - title: Breaking and Entering Advertising Podcast
+    htmlUrl: https://breaking-entering.com/
+    xmlUrl: https://anchor.fm/s/f2d60914/podcast/rss
+
+  - title: Advertising Stories
+    htmlUrl: http://www.peterlevitan.com/
+    xmlUrl: https://feeds.buzzsprout.com/1092182.rss
+
+  - title: The Big Story
+    htmlUrl: http://thebigstory.libsyn.com/website
+    xmlUrl: https://thebigstory.libsyn.com/rss
+
+  - title: The Big Impression
+    htmlUrl: https://thecurrentpodcast.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/xOYmIzy4
+
+  - title: The Digiday Podcast
+    htmlUrl: http://www.digiday.com/
+    xmlUrl: https://feeds.megaphone.fm/DIGI5806832566
+
+  - title: IPA Podcast
+    htmlUrl: https://www.linkedin.com/company/theipa
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:153925040/sounds.rss
+
+  - title: MarTech Podcast ™ // Marketing + Technology = Business Growth
+    htmlUrl: https://martechpod.com/
+    xmlUrl: https://rss.art19.com/martech-podcast
+
+  - title: AdExchanger
+    htmlUrl: https://adexchanger.com/podcast/
+    xmlUrl: https://adexchanger.libsyn.com/rss
+
+  - title: The CMO Show
+    htmlUrl: https://www.thecmoshow.impactinstitute.com.au/
+    xmlUrl: https://thecmoshow.libsyn.com/rss
+
+  - title: Adspeak
+    htmlUrl: https://www.adweek.com/
+    xmlUrl: https://feeds.acast.com/public/shows/624c82166a8b540013b2990b
+
+  - title: Podcast Advertising Playbook
+    htmlUrl: https://www.podcastadvertisingplaybook.com/
+    xmlUrl: https://feeds.megaphone.fm/TNM4175397904
+
+  - title: 'Behind the Numbers: an EMARKETER Podcast'
+    htmlUrl: https://behindthenumbers.podbean.com/
+    xmlUrl: https://feed.podbean.com/behindthenumbers/feed.xml
+
+  - title: Ad Chatter
+    htmlUrl: http://adpulp.com/ad-chatter-2
+    xmlUrl: https://feeds.buzzsprout.com/1313542.rss
+
+  - title: The Glint Standard
+    htmlUrl: https://glintadv.com/
+    xmlUrl: https://feeds.buzzsprout.com/1054018.rss
+
+  - title: Social Media Marketing Podcast
+    htmlUrl: https://www.socialmediaexaminer.com/
+    xmlUrl: https://rss.art19.com/social-media-marketing-podcast
+
+  - title: Next Level Facebook Ads Podcast
+    htmlUrl: http://www.philgrahamdigital.com/
+    xmlUrl: https://fbadspodcast.libsyn.com/rss
+
+  - title: The Paid Search Podcast | A Weekly Podcast About Google Ads and Online Marketing
+    htmlUrl: https://paidsearchpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/57538.rss
+
+  - title: Uncensored CMO
+    htmlUrl: http://uncensoredcmo.com/
+    xmlUrl: https://feeds.transistor.fm/uncensored-cmo
+
+  - title: 'Marketecture: Get Smart. Fast.'
+    htmlUrl: http://www.marketecturepod.com/
+    xmlUrl: https://feeds.megaphone.fm/EAATE3740759293
+
+  - title: AdTechGod Pod
+    htmlUrl: https://www.adtechgodpod.com/
+    xmlUrl: https://feeds.megaphone.fm/EAATE5455623661
+
 - name: The Best Podcasts for Teachers
   opml: findthatpod-the-best-podcasts-for-teachers.opml
   date: 2025-09-03
