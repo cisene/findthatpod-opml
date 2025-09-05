@@ -6,6 +6,176 @@ global:
 
 issues:
 
+- name: The Best Design Podcasts
+  opml: findthatpod-the-best-design-podcasts.opml
+  date: 2025-09-05
+  htmlUrl: https://findthatpod.com/best-design-podcasts/
+  podcasts:
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: The Futur with Chris Do
+    htmlUrl: https://thefutur.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/TFL6245334029/
+
+  - title: My Life In Design Podcast
+    htmlUrl: https://redsetteragency.com/
+    xmlUrl: https://feeds.buzzsprout.com/1969366.rss
+
+  - title: Monocle on Design
+    htmlUrl: https://monocle.com/radio/shows/monocle-on-design
+    xmlUrl: http://feeds.feedburner.com/Monocle24SectionD
+
+  - title: Creative Pep Talk
+    htmlUrl: http://www.creativepeptalk.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG2212080179
+
+  - title: Design Details
+    htmlUrl: https://designdetails.fm/
+    xmlUrl: https://feeds.simplecast.com/eew_vyNL
+
+  - title: A Change of Brand
+    htmlUrl: http://www.achangeofbrand.com/
+    xmlUrl: https://feeds.buzzsprout.com/1575493.rss
+
+  - title: Material Matters with Grant Gibson
+    htmlUrl: https://materialmatters.design/
+    xmlUrl: https://feeds.buzzsprout.com/248727.rss
+
+  - title: Design Better
+    htmlUrl: http://designbetterpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/designbetter
+
+  - title: Designed this way
+    htmlUrl: http://www.designedthisway.com/
+    xmlUrl: https://anchor.fm/s/e741ecf8/podcast/rss
+
+  - title: Design Life
+    htmlUrl: https://designlife.fm/
+    xmlUrl: https://feeds.simplecast.com/R3170kJB
+
+  - title: The Crazy One
+    htmlUrl: http://www.thecrazy1.com/
+    xmlUrl: https://feeds.buzzsprout.com/539050.rss
+
+  - title: Design Systems Podcast
+    htmlUrl: https://www.designsystemspodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/887923.rss
+
+  - title: The Logo Geek Podcast
+    htmlUrl: https://logogeek.podbean.com/
+    xmlUrl: https://feeds.simplecast.com/pnrGw6or
+
+  - title: UX Institute - UX Research & Product Design
+    htmlUrl: http://www.uxinstitute.com/
+    xmlUrl: https://feeds.buzzsprout.com/1051753.rss
+
+  - title: Design Matters with Debbie Millman
+    htmlUrl: https://www.designmattersmedia.com/designmatters
+    xmlUrl: https://feeds.feedburner.com/DesignMattersWithDebbieMillman
+
+  - title: Be-Spoke
+    htmlUrl: https://wovenvoices.co.uk/
+    xmlUrl: https://feeds.captivate.fm/be-spoke/
+
+  - title: Talking Practice
+    htmlUrl: http://blubrry.com/talking_practice/
+    xmlUrl: https://feeds.blubrry.com/feeds/talking_practice.xml
+
+  - title: 'UI Breakfast: UI/UX Design and Product Strategy'
+    htmlUrl: http://www.uibreakfast.com/podcast
+    xmlUrl: https://feeds.simplecast.com/4MvgQ73R
+
+  - title: The Honest Designers Show
+    htmlUrl: https://www.honestdesigners.com/
+    xmlUrl: https://honestdesigners.libsyn.com/rss
+
+  - title: Design Emergency
+    htmlUrl: https://www.instagram.com/design.emergency/?hl=en
+    xmlUrl: https://feeds.acast.com/public/shows/6376036839b22e00111c4121
+
+  - title: Yo! Podcast
+    htmlUrl: https://yo.fm/
+    xmlUrl: https://feeds.simplecast.com/krDXNg2G
+
+  - title: Print Design Podcast
+    htmlUrl: https://www.printdesignacademy.com/podcasts/print-design-podcast
+    xmlUrl: https://app.kajabi.com/podcasts/2147486848/feed
+
+  - title: JUST Branding
+    htmlUrl: https://justcreative.com/
+    xmlUrl: https://feed.pod.co/just-branding
+
+  - title: Whiteboard
+    htmlUrl: https://www.ericforest.ca/podcast/
+    xmlUrl: https://www.ericforest.ca/podcast/feed.xml
+
+  - title: The Deeply Graphic Designcast - DGDC
+    htmlUrl: https://linktr.ee/dgdcpod
+    xmlUrl: https://anchor.fm/s/2e747010/podcast/rss
+
+  - title: Nodes of Design
+    htmlUrl: https://anchor.fm/tejj
+    xmlUrl: https://anchor.fm/s/11ae1bfc/podcast/rss
+
+  - title: The Weekly Typographic
+    htmlUrl: https://www.theleagueofmoveabletype.com/
+    xmlUrl: https://pinecast.com/feed/theleagueof
+
+  - title: On Design with Justyna Green
+    htmlUrl: https://www.ondesignpodcast.com/
+    xmlUrl: https://on-design.libsyn.com/rss
+
+  - title: Creative Capes
+    htmlUrl: https://futurelondonacademy.co.uk/en/
+    xmlUrl: https://anchor.fm/s/924feec/podcast/rss
+
+  - title: The Unapologetic Designer Podcast
+    htmlUrl: https://unapologeticdesigner.com/
+    xmlUrl: https://anchor.fm/s/9331dab0/podcast/rss
+
+  - title: The Angry Designer Graphic Design, Freelancing, Branding & Creative Business Podcast
+    htmlUrl: http://www.theangrydesigner.com/
+    xmlUrl: https://feeds.buzzsprout.com/1351396.rss
+
+  - title: The Creative Boom Podcast
+    htmlUrl: http://www.creativeboom.com/podcast/
+    xmlUrl: https://feed.pod.co/creative-boom
+
+  - title: Clever with Amy Devers
+    htmlUrl: http://www.cleverpodcast.com/
+    xmlUrl: https://rss.acast.com/clever
+
+  - title: Scratching the Surface
+    htmlUrl: http://scratchingthesurface.fm/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:208905158/sounds.rss
+
+  - title: Future of UX | Your Design, Tech and User Experience Podcast | AI Design
+    htmlUrl: https://www.patriciareiners.de/
+    xmlUrl: https://anchor.fm/s/df826ec/podcast/rss
+
+  - title: Let's talk branding
+    htmlUrl: https://letstalkbranding.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1011558.rss
+
+  - title: Ramblings of a Designer podcast
+    htmlUrl: https://www.ramblingsofadesigner.com/
+    xmlUrl: https://roads.libsyn.com/rss
+
+  - title: Talking Design
+    htmlUrl: https://player.whooshkaa.com/shows/talking-design
+    xmlUrl: https://feeds.acast.com/public/shows/633a14e427e2560015d24450
+
+  - title: Inspired Design
+    htmlUrl: https://seattledesigncenter.com/inspired-design-podcast/
+    xmlUrl: https://inspireddesign.libsyn.com/rss
+
+  - title: The Design Of Business | The Business of Design
+    htmlUrl: http://designobserver.com/designofbusiness
+    xmlUrl: https://feeds.buzzsprout.com/2283636.rss
+
 - name: The Best Advertising Podcasts
   opml: findthatpod-the-best-advertising-podcasts.opml
   date: 2025-09-05
