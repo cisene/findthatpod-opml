@@ -161,6 +161,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | Weekly issues                                                                         | Date       |
 | ------------------------------------------------------------------------------------- | ---------- |
+| [Find That Pod #328](https://b19.se/data/opml/findthatpod/findthatpod-issue-328.opml) | 2025-09-05 |
 | [Find That Pod #327](https://b19.se/data/opml/findthatpod/findthatpod-issue-327.opml) | 2025-08-29 |
 | [Find That Pod #326](https://b19.se/data/opml/findthatpod/findthatpod-issue-326.opml) | 2025-08-22 |
 | [Find That Pod #325](https://b19.se/data/opml/findthatpod/findthatpod-issue-325.opml) | 2025-08-15 |

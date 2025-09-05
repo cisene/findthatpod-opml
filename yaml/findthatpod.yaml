@@ -44,6 +44,36 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    328
+    title:    'Find That Pod #328'
+    pubDate:  '2025-09-05'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Destination Change
+        htmlUrl: https://bhap.us/news/podcast/
+        xmlUrl: https://feeds.zencastr.com/f/vA5XmFyp.rss
+
+    - podcast:
+        title: Love and Radio
+        htmlUrl: https://loveandradio.org/
+        xmlUrl: http://feed.loveandradio.org/loveplusradio
+
+    - podcast:
+        title: Mildly Informed
+        htmlUrl: https://www.thebuglepodcast.com/
+        xmlUrl: https://feeds.acast.com/public/shows/64189cb7202f500011b4df34
+
+    - podcast:
+        title: How Much Can I Make? - Career Insights and Jobs Tips for Your Career Change
+        htmlUrl: http://howmuchcanimake.info/
+        xmlUrl: https://feeds.buzzsprout.com/2426515.rss
+
+    - podcast:
+        title: Extrasensory
+        htmlUrl: https://apple.co/Extrasensory
+        xmlUrl: https://rss.art19.com/extrasensory
 
   - issue:    327
     title:    'Find That Pod #327'
