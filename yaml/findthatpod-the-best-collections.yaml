@@ -6,6 +6,100 @@ global:
 
 issues:
 
+- name: The Best Engineering Podcasts
+  opml: findthatpod-the-best-engineering-podcasts.opml
+  date: 2025-09-11
+  htmlUrl: https://findthatpod.com/best-engineering-podcasts/
+  podcasts:
+
+  - title: Well There‘s Your Problem
+    htmlUrl: https://wtyppod.podbean.com/
+    xmlUrl: https://feedcdn.podbean.com/wtyppod/feed.xml
+
+  - title: Embedded
+    htmlUrl: https://embedded.fm/
+    xmlUrl: https://makingembeddedsystems.libsyn.com/rss
+
+  - title: Circuit Break - A MacroFab Podcast
+    htmlUrl: https://www.macrofab.com/podcasts/
+    xmlUrl: https://feeds.transistor.fm/macrofab-engineering-podcast
+
+  - title: Level-up Engineering
+    htmlUrl: https://www.apexlab.io/podcast
+    xmlUrl: https://feeds.captivate.fm/level-up-engineering/
+
+  - title: Unprofessional Engineering
+    htmlUrl: https://soundcloud.com/unprofessionalengineering
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:236923839/sounds.rss
+
+  - title: Business of Machining
+    htmlUrl: http://businessofmachining.libsyn.com/podcast
+    xmlUrl: https://feeds.zencastr.com/f/GSPDEyHD.rss
+
+  - title: Engineering Matters
+    htmlUrl: https://engineeringmatters.reby.media/
+    xmlUrl: https://feeds.blubrry.com/feeds/engineeringmatters.xml
+
+  - title: omega tau - English only
+    htmlUrl: https://omegataupodcast.net/
+    xmlUrl: https://omegataupodcast.net/show/en/feed/mp3/
+
+  - title: 'Diverse: a SWE podcast'
+    htmlUrl: https://swe.org/podcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:147534958/sounds.rss
+
+  - title: Titans Of Nuclear | Interviewing World Experts on Nuclear Energy
+    htmlUrl: https://www.titansofnuclear.com/
+    xmlUrl: https://whynotnuclear.libsyn.com/rss
+
+  - title: Engines of Our Ingenuity
+    htmlUrl: https://uh.edu/engines/
+    xmlUrl: https://cdn.houstonpublicmedia.org/podcasts/engines-of-our-ingenuity-apple-podcasts.xml
+
+  - title: Voices from DARPA
+    htmlUrl: https://www.darpa.mil/news/podcast
+    xmlUrl: https://feeds.blubrry.com/feeds/voices_from_darpa.xml
+
+  - title: Upon Further Inspection
+    htmlUrl: http://www.uponfurtherinspection.com/
+    xmlUrl: https://feeds.buzzsprout.com/2489029.rss
+
+  - title: The Simple Electronics Podcast
+    htmlUrl: https://www.simpleelectronics.ca/
+    xmlUrl: https://anchor.fm/s/3463eb2c/podcast/rss
+
+  - title: The Amp Hour Electronics Podcast
+    htmlUrl: https://theamphour.com/
+    xmlUrl: https://theamphour.com/feed/podcast
+
+  - title: 'Materialism: A Materials Science Podcast'
+    htmlUrl: https://materialismpodcast.com/
+    xmlUrl: https://pinecast.com/feed/materialism
+
+  - title: The Engineering Commons Podcast
+    htmlUrl: https://theengineeringcommons.com/
+    xmlUrl: http://feeds.feedburner.com/TheEngineeringCommonsPodcast
+
+  - title: The Engineering History Podcast | Inventions, Builders, Hackers, Projects, and Stories from Our Past
+    htmlUrl: https://engineeringhistorypodcast.com/
+    xmlUrl: https://anchor.fm/s/97cfd630/podcast/rss
+
+  - title: Engineering Reimagined
+    htmlUrl: https://www.aurecongroup.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/ecc96d1a-e320-40ab-ba12-a97d00189589/4e816a1e-8dac-43b2-ac19-a9a501823bec/f343e2d1-e830-40a0-8343-a9a60006318e/podcast.rss
+
+  - title: EEs Talk Tech - An Electrical Engineering Podcast
+    htmlUrl: https://eestalktech.com/series/ees-talk-tech-an-electrical-engineering-podcast/
+    xmlUrl: https://eestalktech.com/feed/podcast/ees-talk-tech-an-electrical-engineering-podcast/
+
+  - title: Causality
+    htmlUrl: https://engineered.network/causality
+    xmlUrl: https://engineered.network/causality/feed/index.xml
+
+  - title: Being an Engineer
+    htmlUrl: https://teampipeline.us/
+    xmlUrl: https://feeds.buzzsprout.com/995575.rss
+
 - name: The Best Design Podcasts
   opml: findthatpod-the-best-design-podcasts.opml
   date: 2025-09-05
