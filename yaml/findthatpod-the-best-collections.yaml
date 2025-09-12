@@ -6,6 +6,172 @@ global:
 
 issues:
 
+- name: The Best Story Podcasts
+  opml: findthatpod-the-best-story-podcasts.opml
+  date: 2025-09-12
+  htmlUrl: https://findthatpod.com/best-story-podcasts/
+  podcasts:
+
+  - title: The Secret Room | True Stories
+    htmlUrl: http://thesecretroompodcast.com/
+    xmlUrl: https://secretroom.libsyn.com/rss
+
+  - title: Real Survival Stories
+    htmlUrl: https://www.noiser.com/
+    xmlUrl: https://feeds.megaphone.fm/realsurvivalstories
+
+  - title: Search Engine
+    htmlUrl: http://www.pjvogt.com/
+    xmlUrl: https://feeds.megaphone.fm/search-engine
+
+  - title: This is Love
+    htmlUrl: https://www.thisislovepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP8871377602
+
+  - title: Days Like These
+    htmlUrl: https://www.abc.net.au/listen/programs/days-like-these/
+    xmlUrl: https://www.abc.net.au/feeds/12694854/podcast.xml
+
+  - title: Short Cuts
+    htmlUrl: http://www.bbc.co.uk/programmes/b01mk3f8
+    xmlUrl: https://podcasts.files.bbci.co.uk/b01mk3f8.rss
+
+  - title: Snap Judgment
+    htmlUrl: http://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: 13 Minutes to the Moon
+    htmlUrl: https://www.spreaker.com/podcast/13-minutes-to-the-moon--3677449
+    xmlUrl: https://www.spreaker.com/show/3677449/episodes/feed
+
+  - title: Criminal
+    htmlUrl: http://thisiscriminal.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP7924981569
+
+  - title: The Truth
+    htmlUrl: http://thetruthpodcast.com/
+    xmlUrl: http://feeds.thetruthpodcast.com/thetruthapm
+
+  - title: The Thrilling Adventure Hour
+    htmlUrl: https://www.patreon.com/thrillingadventurehour
+    xmlUrl: https://feeds.acast.com/public/shows/6414da1f9a87fc0011e7a8ee
+
+  - title: Selected Shorts
+    htmlUrl: https://www.symphonyspace.org/selected-shorts
+    xmlUrl: https://feeds.simplecast.com/ZoGIhfvz
+
+  - title: 'Tooth & Claw: True Stories of Animal Attacks'
+    htmlUrl: https://qcodemedia.com/tooth-claw
+    xmlUrl: https://feeds.megaphone.fm/QCD9705695442
+
+  - title: the memory palace
+    htmlUrl: http://thememorypalace.us/
+    xmlUrl: http://feeds.thememorypalace.us/thememorypalace
+
+  - title: Other People's Pockets
+    htmlUrl: https://shows.acast.com/other-peoples-pockets
+    xmlUrl: https://rss.pdrl.fm/ff2b59/feeds.acast.com/public/shows/6658b770645b2d001247ddc3
+
+  - title: This Is Actually Happening
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/
+    xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
+
+  - title: Family Secrets
+    htmlUrl: https://www.iheart.com/podcast/105-family-secrets-30131253/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9216806A-7CF2-4EBE-B68B-AE2D0173CB71/4D305889-AA33-49D9-BEE7-AE2D0173CB7B/podcast.rss
+
+  - title: S-Town
+    htmlUrl: https://stownpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/CpvnpIaj
+
+  - title: 'MrBallen Podcast: Strange, Dark & Mysterious Stories'
+    htmlUrl: https://art19.com/shows/MrBallen-Podcast
+    xmlUrl: https://rss.art19.com/MrBallen-Podcast
+
+  - title: Stuff The British Stole
+    htmlUrl: https://www.abc.net.au/listen/programs/stuff-the-british-stole/
+    xmlUrl: https://www.abc.net.au/feeds/12754606/podcast.xml
+
+  - title: Ear Hustle
+    htmlUrl: https://www.earhustlesq.com/
+    xmlUrl: https://feeds.earhustlesq.com/earhustlesq
+
+  - title: The Grey Rooms
+    htmlUrl: https://www.spreaker.com/show/the-grey-rooms_2
+    xmlUrl: https://www.spreaker.com/show/5199473/episodes/feed
+
+  - title: Radio Rental
+    htmlUrl: http://www.radiorentalusa.com/
+    xmlUrl: https://feeds.megaphone.fm/radio-rental
+
+  - title: Life Changing
+    htmlUrl: http://www.bbc.co.uk/programmes/m000v5ng
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000v5ng.rss
+
+  - title: What Was That Like - True Stories. Real People.
+    htmlUrl: https://whatwasthatlike.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS8902204604
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: Story Pirates
+    htmlUrl: http://www.storypirates.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/storypirates
+
+  - title: Heavyweight
+    htmlUrl: https://www.pushkin.fm/podcasts
+    xmlUrl: https://feeds.megaphone.fm/heavyweight-spot
+
+  - title: An Old Timey Podcast
+    htmlUrl: http://patreon.com/oldtimeypodcast
+    xmlUrl: https://audioboom.com/channels/5130139.rss
+
+  - title: Myths and Legends
+    htmlUrl: https://www.mythpodcast.com/
+    xmlUrl: https://audioboom.com/channels/5094626.rss
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
+
+  - title: What It Was Like
+    htmlUrl: https://shows.acast.com/what-it-was-like
+    xmlUrl: https://feeds.acast.com/public/shows/what-it-was-like
+
+  - title: The Amelia Project
+    htmlUrl: https://ameliapodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/amelia
+
+  - title: True Story
+    htmlUrl: https://art19.com/shows/tig-and-cheryl-true-story
+    xmlUrl: https://rss.art19.com/tig-and-cheryl-true-story
+
+  - title: Love and Radio
+    htmlUrl: https://loveandradio.org/
+    xmlUrl: http://feed.loveandradio.org/loveplusradio
+
+  - title: Radiolab
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
+  - title: NFW
+    htmlUrl: http://nfwpodcast.libsyn.com/website
+    xmlUrl: https://podcasts.apple.com/us/podcast/nfw/id1537279649?uo=4
+
+  - title: Bodies
+    htmlUrl: https://www.kcrw.com/culture/shows/bodies
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/13/11/5b/13115b0f-63fb-44f7-9289-9dfde6512840.xml
+
+  - title: Cautionary Tales with Tim Harford
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss
+
+  - title: The Moth
+    htmlUrl: http://themoth.org/
+    xmlUrl: https://feeds.feedburner.com/themothpodcast
+
 - name: The Best Wrestling Podcasts
   opml: findthatpod-the-best-wrestling-podcasts.opml
   date: 2025-09-11
@@ -1912,7 +2078,7 @@ issues:
     xmlUrl: https://rss.art19.com/sean-carrolls-mindscape
 
   - title: Legacy
-    htmlUrl: https://wondery.com/shows/legacy/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/legacy/
     xmlUrl: https://rss.art19.com/legacy
 
   - title: Acquired
@@ -2458,7 +2624,7 @@ issues:
     xmlUrl: https://anchor.fm/s/a68453f4/podcast/rss
 
   - title: Against The Odds
-    htmlUrl: https://wondery.com/shows/against-the-odds/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/against-the-odds/
     xmlUrl: https://rss.art19.com/against-the-odds
 
   - title: Travel Tales by Afar
@@ -5395,7 +5561,7 @@ issues:
     xmlUrl: https://feeds.publicradio.org/public_feeds/smash-boom-best
 
   - title: Wow in the World
-    htmlUrl: https://wondery.com/shows/wow-in-the-world/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/wow-in-the-world/
     xmlUrl: https://rss.art19.com/wow-in-the-world
 
   - title: Raising Good Humans
@@ -15445,7 +15611,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
 
   - title: Tides of History
-    htmlUrl: https://wondery.com/shows/tides-of-history/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/tides-of-history/
     xmlUrl: https://rss.art19.com/tides-of-history
 
   - title: You’re Wrong About
