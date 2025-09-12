@@ -6,6 +6,112 @@ global:
 
 issues:
 
+- name: The Best Wrestling Podcasts
+  opml: findthatpod-the-best-wrestling-podcasts.opml
+  date: 2025-09-11
+  htmlUrl: https://findthatpod.com/best-wrestling-podcasts/
+  podcasts:
+
+  - title: The Lapsed Fan
+    htmlUrl: https://www.spreaker.com/show/the-lapsed-fan-wrestling-podcast
+    xmlUrl: https://www.spreaker.com/show/3572576/episodes/feed
+
+  - title: Wrestlenomics
+    htmlUrl: https://redcircle.com/shows/wrestlenomics
+    xmlUrl: https://feeds.redcircle.com/2d7480ac-97b2-4af1-a4b5-ce41e8e2a0f8
+
+  - title: Busted Open
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/85uBY5kw
+
+  - title: WrestleTalk Podcast
+    htmlUrl: https://www.youtube.com/channel/UCRSW0_U9cdAQU5FEOXs-DJw
+    xmlUrl: https://feeds.acast.com/public/shows/3cab5f39-d102-49be-abbc-4e20949d77bb
+
+  - title: Art of Wrestling
+    htmlUrl: https://www.spreaker.com/show/art-of-wrestling
+    xmlUrl: https://www.spreaker.com/show/4876561/episodes/feed
+
+  - title: Something to Wrestle with Bruce Prichard
+    htmlUrl: https://sites.libsyn.com/572740
+    xmlUrl: https://feeds.libsyn.com/572740/rss
+
+  - title: Grilling JR
+    htmlUrl: https://sites.libsyn.com/572750
+    xmlUrl: https://feeds.libsyn.com/572750/rss
+
+  - title: Six Feet Under with The Undertaker
+    htmlUrl: https://art19.com/shows/six-feet-under
+    xmlUrl: https://rss.art19.com/six-feet-under
+
+  - title: Jim Cornette Experience
+    htmlUrl: https://art19.com/shows/jim-cornette-experience
+    xmlUrl: https://www.omnycontent.com/d/playlist/68d88dd8-0e46-49d6-a04b-b03b00e5dcfc/e0e75fc1-875b-4b63-846e-b03b00f9b9d0/7d080a90-b553-41d6-88a2-b03b00f9ba04/podcast.rss
+
+  - title: 'Going In Raw: A Pro Wrestling Podcast'
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/STU1900299775
+
+  - title: Tights and Fights
+    htmlUrl: https://maximumfun.org/podcasts/tights-and-fights/
+    xmlUrl: https://feeds.simplecast.com/tgRswPWC
+
+  - title: Raw Recap with Sam Roberts and Megan Morant
+    htmlUrl: https://www.wwe.com/shows/raw
+    xmlUrl: https://feeds.megaphone.fm/rawrecap
+
+  - title: The WWE Podcast
+    htmlUrl: https://www.spreaker.com/show/the-wwe-podcast
+    xmlUrl: https://www.spreaker.com/show/2187791/episodes/feed
+
+  - title: Count Out! - Wrestling Podcast Network
+    htmlUrl: https://redcircle.com/shows/hit-the-books-realistic-wwe-fantasy-booking
+    xmlUrl: https://feeds.redcircle.com/cb5d630c-1be9-49e8-9061-fa6fc3c6b3b6
+
+  - title: Wrestling Observer Daily
+    htmlUrl: https://www.iheart.com/podcast/1119-wrestling-observer-daily-87137105/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/744f0bf7-ef34-4974-8fce-ae3c0021f43b/b4f66468-6370-4508-8531-ae3c0021f449/podcast.rss
+
+  - title: Solomonster Sounds Off
+    htmlUrl: https://www.spreaker.com/show/solomonster-sounds-off
+    xmlUrl: https://www.spreaker.com/show/5582990/episodes/feed
+
+  - title: Wrestling with Freddie
+    htmlUrl: https://www.iheart.com/podcast/1119-wrestling-with-freddie-89045423/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/08a72170-7999-4c77-8a71-ae3c0021f46a/285098da-b66e-44e3-b4e3-ae3c0021f478/podcast.rss
+
+  - title: WhatCulture Wrestling
+    htmlUrl: http://whatculture.com/wwe
+    xmlUrl: https://feeds.acast.com/public/shows/d249c145-32de-4fbe-a6ec-6298d314ad6a
+
+  - title: Talk Is Jericho
+    htmlUrl: https://www.audacy.com/podcast/talk-is-jericho-441f7
+    xmlUrl: https://feeds.megaphone.fm/talk-is-jericho
+
+  - title: The Steve Austin Show
+    htmlUrl: https://art19.com/shows/the-steve-austin-show
+    xmlUrl: https://rss.art19.com/the-steve-austin-show
+
+  - title: Women's Wrestling Talk
+    htmlUrl: https://www.wwtalkpod.com/
+    xmlUrl: https://anchor.fm/s/36c02bd8/podcast/rss
+
+  - title: POST Wrestling
+    htmlUrl: https://redcircle.com/shows/post-wrestling-w-john-pollock-and-wai-ting5738
+    xmlUrl: https://feeds.redcircle.com/04ed4c84-f182-4226-be0c-64728cc2c279
+
+  - title: Cheap Heat Productions Podcast
+    htmlUrl: https://youtube.com/channel/UC8EcTHHscSQTStezxpyjtqg
+    xmlUrl: https://anchor.fm/s/4dc86ae8/podcast/rss
+
+  - title: 'DEADLOCK: A Pro Wrestling Podcast'
+    htmlUrl: https://www.spreaker.com/show/deadlock-a-pro-wrestling-podcast
+    xmlUrl: https://www.spreaker.com/show/5810608/episodes/feed
+
+  - title: WRESTLING SOUP
+    htmlUrl: https://www.spreaker.com/show/wrestling-soup
+    xmlUrl: https://www.spreaker.com/show/1425249/episodes/feed
+
 - name: The Best Engineering Podcasts
   opml: findthatpod-the-best-engineering-podcasts.opml
   date: 2025-09-11

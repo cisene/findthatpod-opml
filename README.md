@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Wrestling Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-wrestling-podcasts.opml) | 2025-09-11 |
 | [FindThatPod - The Best Engineering Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-engineering-podcasts.opml) | 2025-09-11 |
 | [FindThatPod - The Best Design Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-design-podcasts.opml) | 2025-09-05 |
 | [FindThatPod - The Best Advertising Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-advertising-podcasts.opml) | 2025-09-05 |
