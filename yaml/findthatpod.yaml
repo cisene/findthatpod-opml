@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    330
+    title:    'Find That Pod #330'
+    pubDate:  '2025-09-19'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: 'Raising Us: A Parenting Podcast'
+        htmlUrl: https://a-kids-book-about-the-podcast.simplecast.com/
+        xmlUrl: https://feeds.simplecast.com/dfvgkWwK
+
+    - podcast:
+        title: Nice Genes!
+        htmlUrl: https://www.genomebc.ca/home-podcast
+        xmlUrl: https://feeds.cohostpodcasting.com/hrMBIbpd
+
+    - podcast:
+        title: The 30 Year Project
+        htmlUrl: https://sites.libsyn.com/541447
+        xmlUrl: https://feeds.libsyn.com/541447/rss
+
+    - podcast:
+        title: Hasan Minhaj Doesn't Know
+        htmlUrl: https://hasanminhaj.com/
+        xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/f58aff55-6f94-4064-b522-b2b2012e62fe/a8b9e568-fae0-4bc6-82ec-b2b2012e6311/podcast.rss
+
+    - podcast:
+        title: The David Frum Show
+        htmlUrl: https://www.theatlantic.com/podcasts/the-david-frum-show/
+        xmlUrl: https://feeds.megaphone.fm/thedavidfrumshow
+
   - issue:    329
     title:    'Find That Pod #329'
     pubDate:  '2025-09-12'
