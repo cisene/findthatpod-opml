@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    331
+    title:    'Find That Pod #331'
+    pubDate:  '2025-09-26'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: No Ordinary Monday
+        htmlUrl: https://noordinarymonday.com/
+        xmlUrl: https://feeds.buzzsprout.com/2517669.rss
+
+    - podcast:
+        title: 'Star Trek: Khan'
+        htmlUrl: https://www.startrek.com/
+        xmlUrl: https://feeds.megaphone.fm/star-trek-khan
+
+    - podcast:
+        title: How to Save It
+        htmlUrl: https://feeds.acast.com/public/shows/how-to-save-it
+        xmlUrl: https://feeds.acast.com/public/shows/66b2412a8ad6ad827c25f4fa
+
+    - podcast:
+        title: An Arm and a Leg
+        htmlUrl: https://armandalegshow.com/
+        xmlUrl: https://www.omnycontent.com/d/playlist/fa64d43e-1285-4f73-948e-aeae00546c65/4205721b-1235-43c8-b81c-b2330147e075/65cdb38a-4579-4932-b541-b2330147e0a4/podcast.rss
+
+    - podcast:
+        title: Buried Bones - a historical true crime podcast with Kate Winkler Dawson and Paul Holes
+        htmlUrl: https://www.exactlyrightmedia.com/
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/976825e3-37d8-4387-a0cd-b24b002d91e5/3df02c7c-f75a-4bea-abe8-b24b002d91ff/podcast.rss
+
   - issue:    330
     title:    'Find That Pod #330'
     pubDate:  '2025-09-19'
