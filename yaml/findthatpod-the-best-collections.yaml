@@ -6,6 +6,144 @@ global:
 
 issues:
 
+- name: The Best British Podcasts
+  opml: findthatpod-the-best-british-podcasts.opml
+  date: 2025-09-25
+  htmlUrl: https://findthatpod.com/best-british-podcasts/
+  podcasts:
+
+  - title: Three Bean Salad
+    htmlUrl: https://three-bean-salad.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/three-bean-salad/
+
+  - title: 'Betwixt The Sheets: The History of Sex, Scandal & Society'
+    htmlUrl: https://play.acast.com/s/betwixt-the-sheets
+    xmlUrl: https://feeds.acast.com/public/shows/60032060-080e-42c5-ac26-f93fc2b4d612
+
+  - title: Off Menu with Ed Gamble and James Acaster
+    htmlUrl: https://www.offmenupodcast.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4
+
+  - title: Evil Genius with Russell Kane
+    htmlUrl: http://www.bbc.co.uk/programmes/p0605sx6
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0605sx6.rss
+
+  - title: TRASHFUTURE
+    htmlUrl: https://trashfuture.co.uk/
+    xmlUrl: https://trashfuturepodcast.podbean.com/feed.xml
+
+  - title: The Two Pints Podcast!
+    htmlUrl: https://www.twopintspodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6788fc01371bc90e3930ba03
+
+  - title: Rex Factor
+    htmlUrl: https://www.rexfactorpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT5291067453
+
+  - title: Sherlock & Co.
+    htmlUrl: http://www.sherlockandco.co.uk/
+    xmlUrl: https://feeds.megaphone.fm/GLT1918729224
+
+  - title: Sh**ged Married Annoyed
+    htmlUrl: https://soundcloud.com/user-171851892
+    xmlUrl: https://feeds.megaphone.fm/sma
+
+  - title: The Skewer
+    htmlUrl: http://www.bbc.co.uk/programmes/m000czyb
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000czyb.rss
+
+  - title: Letters of Love in WW2
+    htmlUrl: https://www.history.co.uk/shows/letters-of-love-in-ww2
+    xmlUrl: https://rss.acast.com/lettersofloveinww2
+
+  - title: The Intelligence from The Economist
+    htmlUrl: https://theintelligence.economist.com/
+    xmlUrl: https://access.acast.com/rss/d556eb54-6160-4c85-95f4-47d9f5216c49
+
+  - title: THE ADAM BUXTON PODCAST
+    htmlUrl: http://adam-buxton.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645
+
+  - title: Football Cliches
+    htmlUrl: https://twitter.com/FootballCliches
+    xmlUrl: https://feeds.megaphone.fm/GLT7974369854
+
+  - title: The Factory Next Door
+    htmlUrl: http://blubrry.com/1713074/
+    xmlUrl: https://feeds.acast.com/public/shows/682f19c6ffbddaf282e88ca0
+
+  - title: The News Agents
+    htmlUrl: https://www.thenewsagents.co.uk/
+    xmlUrl: https://feeds.captivate.fm/the-news-agents/
+
+  - title: The Infinite Monkey Cage
+    htmlUrl: http://www.bbc.co.uk/programmes/b00snr0w
+    xmlUrl: https://podcasts.files.bbci.co.uk/b00snr0w.rss
+
+  - title: Where There's A Will, There's A Wake
+    htmlUrl: https://www.sonymusic.co.uk/podcast/where-theres-a-will-theres-a-wake/
+    xmlUrl: https://feeds.megaphone.fm/wtawtaw
+
+  - title: Reel Britannia
+    htmlUrl: http://reelbritannia.libsyn.com/website
+    xmlUrl: https://reelbritannia.libsyn.com/rss
+
+  - title: You're Dead to Me
+    htmlUrl: http://www.bbc.co.uk/programmes/p07mdbhg
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+
+  - title: No Such Thing As A Fish
+    htmlUrl: http://nosuchthingasafish.com/
+    xmlUrl: https://audioboom.com/channels/2399216.rss
+
+  - title: Newscast
+    htmlUrl: http://www.bbc.co.uk/programmes/p05299nl
+    xmlUrl: https://podcasts.files.bbci.co.uk/p05299nl.rss
+
+  - title: 'Pax Britannica: A History of the British Empire'
+    htmlUrl: https://www.langnessmedia.com/pax-britannica-1
+    xmlUrl: https://feeds.megaphone.fm/ADL3707263633
+
+  - title: Glue Factory Podcast
+    htmlUrl: https://gluefactory.podbean.com/
+    xmlUrl: https://feed.podbean.com/gluefactory/feed.xml
+
+  - title: Beef And Dairy Network
+    htmlUrl: http://www.beefanddairynetwork.com/
+    xmlUrl: https://feeds.simplecast.com/4NOSW3hj
+
+  - title: The Guilty Feminist
+    htmlUrl: https://guiltyfeminist.com/
+    xmlUrl: https://feeds.megaphone.fm/APL9072247766
+
+  - title: War Movie Theatre
+    htmlUrl: https://shows.acast.com/war-movie-theatre
+    xmlUrl: https://feeds.acast.com/public/shows/67bf06baddaea755a7c41553
+
+  - title: Have A Word with Adam Rowe & Dan Nightingale
+    htmlUrl: https://haveawordpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1
+
+  - title: The Times Tech Podcast
+    htmlUrl: https://www.thetimes.co.uk/podcasts/danny-in-the-valley
+    xmlUrl: https://feeds.acast.com/public/shows/8cf4cec7-5a0f-49c5-8ec9-36941b5c6b6e
+
+  - title: Roll Britannia - A British Dungeons & Dragons 5e Podcast
+    htmlUrl: https://www.rollbritannia.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/68b7ebdab4b4b9b3d2c1a6d9
+
+  - title: Fin vs History
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/finvshistory
+
+  - title: Help I Sexted My Boss
+    htmlUrl: http://www.sextedmyboss.com/
+    xmlUrl: https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default
+
+  - title: The British History Podcast
+    htmlUrl: https://www.thebritishhistorypodcast.com/
+    xmlUrl: http://feeds.feedburner.com/TheBritishHistoryPodcast
+
 - name: The Best Self-Help Podcasts for Everyone
   opml: findthatpod-the-best-self-help-podcasts-for-everyone.opml
   date: 2025-09-24
