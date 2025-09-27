@@ -16,6 +16,7 @@ MD_README = '../README.md'
 B19_PREFIX = 'https://b19.se/data/opml/findthatpod/'
 
 def readYAML(filepath):
+  content = None
   with open(filepath, 'r') as stream:
     try:
       content = yaml.safe_load(stream)

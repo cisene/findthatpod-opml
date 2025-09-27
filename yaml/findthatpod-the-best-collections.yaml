@@ -6,6 +6,88 @@ global:
 
 issues:
 
+- name: The Best Grief Podcasts
+  opml: findthatpod-the-best-grief-podcasts.opml
+  date: 2025-09-25
+  htmlUrl: https://findthatpod.com/best-grief-podcasts/
+  podcasts:
+
+  - title: Griefcast
+    htmlUrl: https://twitter.com/thegriefcast
+    xmlUrl: https://feeds.acast.com/public/shows/6b139f7b-0974-4b07-99fa-945390989fd8
+
+  - title: Good Mourning
+    htmlUrl: http://www.goodmourning.com.au/
+    xmlUrl: https://feeds.acast.com/public/shows/607fe320b396ab4dc7dabb28
+
+  - title: Good Grief
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/7704021d-33a2-44c3-bd52-ad670135e1d6/eba57ede-6005-4bed-8eda-ad67013f779d/podcast.rss
+
+  - title: Give Grief A Chance
+    htmlUrl: https://www.givegriefachance.com/
+    xmlUrl: https://anchor.fm/s/b95f848/podcast/rss
+
+  - title: Dead Parent Club
+    htmlUrl: https://www.thedeadparentclub.co.uk/
+    xmlUrl: https://rss.acast.com/deadparentclub
+
+  - title: A Good Cry
+    htmlUrl: https://art19.com/shows/a-good-cry
+    xmlUrl: https://rss.art19.com/a-good-cry
+
+  - title: Mobituaries with Mo Rocca
+    htmlUrl: https://www.iheart.com/podcast/1119-mobituaries-with-mo-rocca-30398541
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3257832-0c33-4e3b-80f8-aec100f574e1/5efd9016-983a-42cc-ae47-aec100f57502/podcast.rss
+
+  - title: Grief Out Loud
+    htmlUrl: https://www.dougy.org/news-media/podcasts
+    xmlUrl: https://deardougy.libsyn.com/rss
+
+  - title: Goodbye to All This
+    htmlUrl: http://www.bbc.co.uk/programmes/p08t2vn3
+    xmlUrl: https://podcasts.files.bbci.co.uk/p08t2vn3.rss
+
+  - title: Not Your Average Grief Podcast
+    htmlUrl: https://sites.libsyn.com/499353
+    xmlUrl: https://feeds.libsyn.com/499353/rss
+
+  - title: All There Is with Anderson Cooper
+    htmlUrl: https://www.cnn.com/audio/podcasts/all-there-is-with-anderson-cooper
+    xmlUrl: https://feeds.megaphone.fm/WMHY6497875466
+
+  - title: Grief Is My Side Hustle
+    htmlUrl: https://meghanrjarvis.podbean.com/
+    xmlUrl: https://feed.podbean.com/meghanrjarvis/feed.xml
+
+  - title: Grief Uncensored Podcast
+    htmlUrl: https://linktr.ee/griefuncensoredpodcast
+    xmlUrl: https://anchor.fm/s/7bd7d5a4/podcast/rss
+
+  - title: Thanks For Asking
+    htmlUrl: https://www.ttfa.org/
+    xmlUrl: https://feeds.megaphone.fm/IMP8080110213
+
+  - title: What's Your Grief Podcast
+    htmlUrl: http://whatsyourgrief.libsyn.com/webpage
+    xmlUrl: https://whatsyourgrief.libsyn.com/rss
+
+  - title: 'Coming Back: Conversations on life after loss'
+    htmlUrl: http://www.shelbyforsythia.com/
+    xmlUrl: https://comingback.libsyn.com/rss
+
+  - title: It’s OK That You’re Not OK with Megan Devine
+    htmlUrl: https://www.iheart.com/podcast/1248-here-after-with-megan-dev-89497701/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e13e9697-9055-4828-803d-ae39005133d5/dd70d16f-4027-4280-a010-ae39005133e7/podcast.rss
+
+  - title: Where's The Grief?
+    htmlUrl: http://wheresthegrief.libsyn.com/podcast
+    xmlUrl: https://wheresthegrief.libsyn.com/rss
+
+  - title: Grief is a Sneaky Bitch
+    htmlUrl: http://www.lisakeefauver.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5de94e45446232091b5d032f
+
 - name: The Best British Podcasts
   opml: findthatpod-the-best-british-podcasts.opml
   date: 2025-09-25
