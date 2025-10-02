@@ -6,6 +6,140 @@ global:
 
 issues:
 
+- name: The Best eCommerce Podcasts
+  opml: findthatpod-the-best-ecommerce-podcasts.opml
+  date: 2025-10-01
+  htmlUrl: https://findthatpod.com/best-ecommerce-podcasts/
+  podcasts:
+
+  - title: OPERATORS
+    htmlUrl: https://9operators.com/
+    xmlUrl: https://anchor.fm/s/d8c3d8e4/podcast/rss/
+
+  - title: Scaling for Good with Mike Beckham
+    htmlUrl: http://www.scalingforgood.com/
+    xmlUrl: https://feeds.transistor.fm/scaling-for-good-with-mike-beckham
+
+  - title: 'Ecommerce Playbook: Numbers, Struggles & Growth'
+    htmlUrl: http://www.commonthreadco.com/
+    xmlUrl: https://anchor.fm/s/c3d76a68/podcast/rss
+
+  - title: The Modern Retail Podcast
+    htmlUrl: https://www.modernretail.co/
+    xmlUrl: https://feeds.megaphone.fm/DIGI7307234532
+
+  - title: eComFuel
+    htmlUrl: http://www.ecommercefuel.com/
+    xmlUrl: https://ecommercefuel.libsyn.com/rss
+
+  - title: BRAVE COMMERCE
+    htmlUrl: https://www.adweek.com/podcasts/brave-commerce/
+    xmlUrl: https://feeds.acast.com/public/shows/6255a8c0c946f200129ac2df
+
+  - title: 'Add To Cart: Australia’s eCommerce Show'
+    htmlUrl: https://addtocart.com.au/
+    xmlUrl: https://feeds.buzzsprout.com/2521371.rss
+
+  - title: Future Commerce
+    htmlUrl: http://futurecommerce.fm/
+    xmlUrl: https://feeds.simplecast.com/hQ2eLzNW
+
+  - title: Ecommerce Conversations
+    htmlUrl: https://www.practicalecommerce.com/tag/podcasts
+    xmlUrl: https://feeds.buzzsprout.com/1995667.rss
+
+  - title: The Jason & Scot Show - E-Commerce And Retail News
+    htmlUrl: http://jasonandscot.com/
+    xmlUrl: https://jasshow.libsyn.com/rss
+
+  - title: The Ecomcrew Ecommerce Podcast
+    htmlUrl: http://ecomcrew.com/ecomcrew-podcast
+    xmlUrl: https://ecomcrew.libsyn.com/rss
+
+  - title: Down To Chat
+    htmlUrl: https://podcasters.spotify.com/pod/show/downtochat
+    xmlUrl: https://anchor.fm/s/9bb00950/podcast/rss
+
+  - title: The Unofficial Shopify Podcast
+    htmlUrl: https://unofficialshopifypodcast.com/
+    xmlUrl: https://feeds.simplecast.com/Ewol_LzH
+
+  - title: 'DTC POD: How The Best Brands Are Built'
+    htmlUrl: https://dtcpod.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/GliB4rwg
+
+  - title: The CPG Guys
+    htmlUrl: http://cpgguys.com/
+    xmlUrl: https://feeds.buzzsprout.com/1146830.rss
+
+  - title: Limited Supply
+    htmlUrl: https://limited-supply.captivate.fm/
+    xmlUrl: https://feeds.megaphone.fm/limited-supply
+
+  - title: Hit Subscribe | The subscription ecommerce podcast by Recharge
+    htmlUrl: https://rechargepayments.com/hit-subscribe
+    xmlUrl: https://feeds.captivate.fm/hit-subscribe/
+
+  - title: eCommerce Evolution
+    htmlUrl: http://ecommerceevolution.libsyn.com/podcast
+    xmlUrl: https://feeds.captivate.fm/ecommerce-evolution/
+
+  - title: The My Wife Quit Her Job Podcast With Steve Chou
+    htmlUrl: https://mywifequitherjob.com/category/podcast/
+    xmlUrl: https://mywifequitherjob.com/category/podcast/feed/
+
+  - title: Shopify Masters
+    htmlUrl: https://shopify-masters.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/_Mc9bpsL
+
+  - title: In Reviews We Trust
+    htmlUrl: http://www.reviews.io/
+    xmlUrl: https://feeds.buzzsprout.com/1381345.rss
+
+  - title: The Kara Goldin Show
+    htmlUrl: https://www.karagoldin.com/podcast
+    xmlUrl: https://feeds.simplecast.com/wtQSfmGG
+
+  - title: Ecommerce Braintrust
+    htmlUrl: http://www.ecommercebraintrust.com/
+    xmlUrl: https://bobsledmarketing.libsyn.com/rss
+
+  - title: eCommerce MasterPlan
+    htmlUrl: https://redcircle.com/shows/ecommerce-masterplan
+    xmlUrl: https://feeds.redcircle.com/a404370f-d5ea-48ad-8655-f6b7d89a91a6
+
+  - title: My First Million
+    htmlUrl: https://www.mfmpod.com/
+    xmlUrl: https://feeds.megaphone.fm/HS2300184645
+
+  - title: Chew on This - Digestable DTC Content
+    htmlUrl: https://podcasters.spotify.com/pod/show/chewonthispodcast
+    xmlUrl: https://anchor.fm/s/ba57ab10/podcast/rss
+
+  - title: Honest Ecommerce
+    htmlUrl: https://honestecommerce.co/
+    xmlUrl: https://feeds.simplecast.com/ZF32ZV4p
+
+  - title: eCom Collab Club Podcast - The eCommerce Podcast for DTC Businesses
+    htmlUrl: https://ecomcollabclub.com/
+    xmlUrl: https://anchor.fm/s/ffa09d44/podcast/rss
+
+  - title: Up Arrow Podcast
+    htmlUrl: http://elumynt.com/
+    xmlUrl: https://feeds.libsyn.com/467154/rss
+
+  - title: Retail Remix
+    htmlUrl: https://retailtouchpoints.com/podcast/retail-remix
+    xmlUrl: https://feeds.transistor.fm/retail-remix
+
+  - title: Leaders in Tech and Ecommerce
+    htmlUrl: https://alcottglobal.com/podcasts/leaders-in-tech-and-e-commerce-podcast
+    xmlUrl: https://feeds.buzzsprout.com/881569.rss
+
+  - title: 'eCommerce Fastlane: Shopify Growth Strategies—Where AI Efficiency Meets Human Connection'
+    htmlUrl: https://ecommercefastlane.com/
+    xmlUrl: https://feeds.transistor.fm/ecommercefastlane
+
 - name: The Best Biology Podcasts
   opml: findthatpod-the-best-biology-podcasts.opml
   date: 2025-10-01

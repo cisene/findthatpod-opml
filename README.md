@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best eCommerce Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ecommerce-podcasts.opml) | 2025-10-01 |
 | [FindThatPod - The Best Biology Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-biology-podcasts.opml) | 2025-10-01 |
 | [FindThatPod - The Best Grief Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-grief-podcasts.opml) | 2025-09-25 |
 | [FindThatPod - The Best British Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-british-podcasts.opml) | 2025-09-25 |
