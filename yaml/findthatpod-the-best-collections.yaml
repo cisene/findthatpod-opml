@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Biology Podcasts
+  opml: findthatpod-the-best-biology-podcasts.opml
+  date: 2025-10-01
+  htmlUrl: https://findthatpod.com/best-biology-podcasts/
+  podcasts:
+
+  - title: This Week in Microbiology
+    htmlUrl: http://www.asm.org/twim/
+    xmlUrl: https://twimshow.libsyn.com/rss
+
+  - title: Lab Notes
+    htmlUrl: http://alleninstitute.org/
+    xmlUrl: https://feeds.buzzsprout.com/1046011.rss
+
+  - title: Big Biology
+    htmlUrl: https://bigbiology.substack.com/s/big-biology-podcast
+    xmlUrl: https://feeds.chrt.fm/big-biology
+
+  - title: A-level Biology Revision Bites
+    htmlUrl: https://snaprevise.co.uk/
+    xmlUrl: https://feed.pippa.io/public/shows/5d319c1f71eaed3974636c1f
+
+  - title: Talking Biotech with Dr. Kevin Folta
+    htmlUrl: https://www.colabra.app/podcasts/talking-biotech/
+    xmlUrl: https://feeds.transistor.fm/talking-biotech
+
+  - title: The Common Descent Podcast
+    htmlUrl: http://commondescentpodcast.podbean.com/
+    xmlUrl: https://commondescentpodcast.podbean.com/feed.xml
+
+  - title: Ask A Biologist Podcast
+    htmlUrl: https://askabiologist.asu.edu/
+    xmlUrl: https://feeds.buzzsprout.com/214509.rss
+
+  - title: Raising Health
+    htmlUrl: https://raisinghealth.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/BXDamaKF
+
+  - title: RadioBio
+    htmlUrl: https://www.radiobio.net/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:294877481/sounds.rss
+
+  - title: Two Scientists Walk Into a Bar
+    htmlUrl: https://www.gene.com/stories/two-scientists-walk-into-a-bar
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:256626891/sounds.rss
+
+  - title: Short Stories of Bacteria
+    htmlUrl: https://www.buzzsprout.com/2134065
+    xmlUrl: https://feeds.buzzsprout.com/2134065.rss
+
+  - title: This Week in Virology
+    htmlUrl: http://www.microbe.tv/twiv
+    xmlUrl: https://twiv.libsyn.com/twiv
+
+  - title: Creature Feature
+    htmlUrl: https://www.iheart.com/podcast/105-creature-feature-30054205/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0476d19f-5abc-4f11-a193-ae2b00156334/136b5ea0-8dcb-49f5-b3a8-ae2b00156347/podcast.rss
+
+  - title: This Podcast Will Kill You
+    htmlUrl: https://www.exactlyrightmedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/64b4c224-562e-4b2f-9f31-b24c0111ae53/podcast.rss
+
+  - title: The Higher Biology Podcast
+    htmlUrl: https://thehigherbiologypodcast.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1049158.rss
+
+  - title: Base Pairs
+    htmlUrl: https://www.cshl.edu/news-stand/podcast-library/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:209518411/sounds.rss
+
+  - title: Nature Podcast
+    htmlUrl: http://www.nature.com/nature/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f
+
+  - title: Herpetological Highlights
+    htmlUrl: https://herphighlights.podbean.com/
+    xmlUrl: https://feed.podbean.com/herphighlights/feed.xml
+
+  - title: This Week in Evolution
+    htmlUrl: http://microbe.tv/twievo
+    xmlUrl: https://twievo.libsyn.com/rss
+
+  - title: In Defense of Plants Podcast
+    htmlUrl: https://www.indefenseofplants.com/
+    xmlUrl: https://www.indefenseofplants.com/podcast?format=rss
+
+  - title: New Species
+    htmlUrl: https://newspeciespodcast.net/
+    xmlUrl: https://anchor.fm/s/3a86c1f0/podcast/rss
+
+  - title: BacterioFiles
+    htmlUrl: https://www.asm.org/bacteriofiles
+    xmlUrl: https://bacteriofiles.libsyn.com/rss
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: This Week in Parasitism
+    htmlUrl: http://microbe.tv/twip
+    xmlUrl: https://twip.libsyn.com/rss
+
+  - title: The eLife Podcast
+    htmlUrl: https://www.thenakedscientists.com/podcasts/elife-podcast
+    xmlUrl: https://www.thenakedscientists.com/rss/eLife_podcast.xml
+
+  - title: Immune
+    htmlUrl: http://microbe.tv/immune
+    xmlUrl: https://immune.libsyn.com/rss
+
 - name: The Best Grief Podcasts
   opml: findthatpod-the-best-grief-podcasts.opml
   date: 2025-09-25
