@@ -6,6 +6,88 @@ global:
 
 issues:
 
+- name: The Best Podcasts for Creatives
+  opml: findthatpod-the-best-podcasts-for-creatives.opml
+  date: 2025-10-03
+  htmlUrl: https://findthatpod.com/best-podcasts-for-creatives/
+  podcasts:
+
+  - title: Daily Creative with Todd Henry
+    htmlUrl: https://podcast.toddhenry.com/
+    xmlUrl: https://feeds.captivate.fm/tac/
+
+  - title: Creativity in Captivity
+    htmlUrl: https://sweetwoodiscreative.com/
+    xmlUrl: https://feeds.megaphone.fm/STA9315271700
+
+  - title: Creative Pep Talk
+    htmlUrl: http://www.creativepeptalk.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG2212080179
+
+  - title: The Unmistakable Creative Podcast
+    htmlUrl: https://podcast.unmistakablecreative.com/
+    xmlUrl: https://feeds.acast.com/public/shows/f8cf3133-0543-5b5b-85cb-e7a4e48bfaf5
+
+  - title: Creative Rebels
+    htmlUrl: https://creativerebels.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2643844.rss
+
+  - title: The Illustration Department Podcast
+    htmlUrl: https://illustrationdept.com/podcast
+    xmlUrl: https://feeds.simplecast.com/wOb7buHf
+
+  - title: The Creative Boom Podcast
+    htmlUrl: http://www.creativeboom.com/podcast/
+    xmlUrl: https://feed.pod.co/creative-boom
+
+  - title: Being Freelance
+    htmlUrl: http://www.beingfreelance.com/
+    xmlUrl: https://feeds.simplecast.com/HuZ8ZhD4
+
+  - title: Creative Codex
+    htmlUrl: http://www.mjdorian.com/
+    xmlUrl: https://anchor.fm/s/5ae76f8/podcast/rss
+
+  - title: Strong Songs
+    htmlUrl: https://strongsongspodcast.com/
+    xmlUrl: https://feeds.strongsongspodcast.com/main
+
+  - title: Unleash Your Inner Creative with Lauren LoGrasso (A Creativity Podcast)
+    htmlUrl: https://www.unleashyourinnercreative.com/
+    xmlUrl: https://feed.ausha.co/XLGpwCKlEavp
+
+  - title: Scratching the Surface
+    htmlUrl: http://scratchingthesurface.fm/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:208905158/sounds.rss
+
+  - title: Working
+    htmlUrl: https://slate.com/podcasts/working
+    xmlUrl: https://feeds.megaphone.fm/slatesworking
+
+  - title: My Life In Design Podcast
+    htmlUrl: https://redsetteragency.com/
+    xmlUrl: https://feeds.buzzsprout.com/1969366.rss
+
+  - title: Radio Juxtapoz by The Unibrow
+    htmlUrl: https://www.juxtapoz.com/radio-juxtapoz
+    xmlUrl: https://anchor.fm/s/802cb84/podcast/rss
+
+  - title: Draftsmen
+    htmlUrl: http://www.proko.com/
+    xmlUrl: http://feeds.feedburner.com/Draftsmen
+
+  - title: The Creative Condition podcast
+    htmlUrl: https://www.bentallonwriter.com/shop/p/champagne-and-wax-crayons-riding-the-madness-of-the-creative-industries
+    xmlUrl: https://feeds.buzzsprout.com/2362295.rss
+
+  - title: Make It Then Tell Everybody
+    htmlUrl: http://makeitthentelleverybody.com/
+    xmlUrl: https://mitte.libsyn.com/rss
+
+  - title: Song Exploder
+    htmlUrl: http://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
 - name: The Best eCommerce Podcasts
   opml: findthatpod-the-best-ecommerce-podcasts.opml
   date: 2025-10-01
