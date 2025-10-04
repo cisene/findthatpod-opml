@@ -44,6 +44,36 @@ template:
         xmlUrl:   ''
 
 body:
+  - issue:    332
+    title:    'Find That Pod #332'
+    pubDate:  '2025-10-03'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Lit Up
+        htmlUrl: https://feeds.acast.com/public/shows/lit-up
+        xmlUrl: https://feeds.acast.com/public/shows/671936bb83ac9fccac2021d3
+
+    - podcast:
+        title: Are We Old Podcast
+        htmlUrl: https://shows.acast.com/are-we-old-podcast
+        xmlUrl: https://feeds.acast.com/public/shows/66d9aec406792f68ecccf4de
+
+    - podcast:
+        title: Happy Enough
+        htmlUrl: https://happy-enough-bc3cd850.simplecast.com/
+        xmlUrl: https://feeds.simplecast.com/NPHxUuaD
+
+    - podcast:
+        title: 'Dua Lipa: At Your Service'
+        htmlUrl: http://www.bbc.co.uk/programmes/p0cgz10v
+        xmlUrl: https://podcasts.files.bbci.co.uk/p0cgz10v.rss
+
+    - podcast:
+        title: Havana Helmet Club
+        htmlUrl: http://www.bbc.co.uk/programmes/p0lgrwds
+        xmlUrl: https://podcasts.files.bbci.co.uk/p0lgrwds.rss
 
   - issue:    331
     title:    'Find That Pod #331'
