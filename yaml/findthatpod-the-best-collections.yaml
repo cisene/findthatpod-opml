@@ -6,6 +6,92 @@ global:
 
 issues:
 
+- name: The Best Dog Training Podcasts
+  opml: findthatpod-the-best-dog-training-podcasts.opml
+  date: 2025-10-09
+  htmlUrl: https://findthatpod.com/best-dog-training-podcasts/
+  podcasts:
+
+  - title: Canine Conversations - Dog Training Podcast
+    htmlUrl: https://robertcabral.com/
+    xmlUrl: https://robertcabral.libsyn.com/rss
+
+  - title: Think Like a Dog
+    htmlUrl: https://www.thinklikeadogpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2082129.rss
+
+  - title: Training Without Conflict Podcast
+    htmlUrl: https://trainingwithoutconflict.com/podcast
+    xmlUrl: https://anchor.fm/s/ff4b31b0/podcast/rss
+
+  - title: No Bad Dogs Podcast
+    htmlUrl: https://redcircle.com/shows/no-bad-dogs-podcast
+    xmlUrl: https://feeds.redcircle.com/b12edd38-fb43-4c65-b829-e900502f38a3
+
+  - title: Caffeine and Canines
+    htmlUrl: https://yorkshirecanineacademy.co.uk/
+    xmlUrl: https://anchor.fm/s/90387968/podcast/rss
+
+  - title: The Davidthedogtrainer Podcast
+    htmlUrl: https://thedavidthedogtrainerpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/thedavidthedogtrainerpodcast/feed.xml
+
+  - title: Your New Puppy
+    htmlUrl: https://www.playtimepaws.com/
+    xmlUrl: https://yournewpuppy.libsyn.com/rss
+
+  - title: Dog Training Is My Passion
+    htmlUrl: https://podcasters.spotify.com/pod/show/dogtrainingismypassion
+    xmlUrl: https://anchor.fm/s/279b678/podcast/rss
+
+  - title: Dog Trainer's Podcast
+    htmlUrl: https://www.youtube.com/channel/UCWv-SFd--Ihwx4dB540fWeQ/playlists
+    xmlUrl: https://feeds.buzzsprout.com/901066.rss
+
+  - title: Animal Training Academy
+    htmlUrl: https://www.atamember.com/
+    xmlUrl: https://animaltrainingacademy.libsyn.com/rss
+
+  - title: 'Drinking From the Toilet: Real dogs, Real training'
+    htmlUrl: http://www.wonderpupstraining.com/
+    xmlUrl: https://drinkingfromthetoilet.libsyn.com/rss
+
+  - title: Positively Dog Training - The Official Victoria Stilwell Podcast
+    htmlUrl: https://positively.com/community/podcasts/
+    xmlUrl: https://feeds.buzzsprout.com/2074339.rss
+
+  - title: Beyond The Leash
+    htmlUrl: https://linktr.ee/beyondtheleashpodcast
+    xmlUrl: https://feeds.buzzsprout.com/1869198.rss
+
+  - title: Cog-Dog Radio
+    htmlUrl: http://www.thecognitivecanine.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:236473103/sounds.rss
+
+  - title: The Canine Paradigm
+    htmlUrl: https://thecanineparadigm.com/
+    xmlUrl: https://www.thecanineparadigm.com/feed/podcast/
+
+  - title: The Bitey End of the Dog
+    htmlUrl: https://thebiteyendofthedog.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1185767.rss
+
+  - title: Shaped by Dog with Susan Garrett
+    htmlUrl: https://shapedbydog.com/
+    xmlUrl: https://shapedbydog.libsyn.com/rss
+
+  - title: 'Sexier Than A Squirrel: Dog Training That Gets Real Life Results'
+    htmlUrl: https://absolute-dogs.com/
+    xmlUrl: https://feeds.buzzsprout.com/761645.rss
+
+  - title: The Puppy Training Podcast
+    htmlUrl: https://www.baxterandbella.com/learn-more
+    xmlUrl: https://feeds.buzzsprout.com/274881.rss
+
+  - title: Confessions of a Dog Trainer
+    htmlUrl: https://walkingdogtraining.com/product-category/e-books/
+    xmlUrl: https://anchor.fm/s/3704920/podcast/rss
+
 - name: The Best Weight Loss Podcasts
   opml: findthatpod-the-best-weight-loss-podcasts.opml
   date: 2025-10-08
