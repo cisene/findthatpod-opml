@@ -6,6 +6,84 @@ global:
 
 issues:
 
+- name: The Best Weight Loss Podcasts
+  opml: findthatpod-the-best-weight-loss-podcasts.opml
+  date: 2025-10-08
+  htmlUrl: https://findthatpod.com/best-weight-loss-podcasts/
+  podcasts:
+
+  - title: Six Miles To Supper
+    htmlUrl: http://sixmilestosupper.libsyn.com/website
+    xmlUrl: https://sixmilestosupper.libsyn.com/rss
+
+  - title: Food Psych Podcast with Christy Harrison
+    htmlUrl: https://redcircle.com/shows/food-psych-podcast-with-christy-harrison
+    xmlUrl: https://feeds.redcircle.com/dbc4991c-d957-4d84-81e4-25899121a95b
+
+  - title: We Only LOOK Thin
+    htmlUrl: https://www.weonlylookthin.com/
+    xmlUrl: https://www.weonlylookthin.com/feed/podcast/
+
+  - title: Intermittent Fasting Stories
+    htmlUrl: https://art19.com/shows/intermittent-fasting-stories
+    xmlUrl: https://rss.art19.com/intermittent-fasting-stories
+
+  - title: Diet Starts Tomorrow
+    htmlUrl: https://www.buzzsprout.com/2431516
+    xmlUrl: https://feeds.buzzsprout.com/2431516.rss
+
+  - title: The Jordan Syatt Podcast
+    htmlUrl: https://www.sfinnercircle.com/
+    xmlUrl: https://anchor.fm/s/c86c34/podcast/rss
+
+  - title: American Glutton
+    htmlUrl: https://www.spreaker.com/show/american-glutton
+    xmlUrl: https://feeds.acast.com/public/shows/621e8cf93d918f0012469294
+
+  - title: Real Life Weight Loss
+    htmlUrl: https://real-life-weight-loss.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/real-life-weight-loss/
+
+  - title: The Not So Fit Couple Podcast
+    htmlUrl: http://thenotsofitcouple.libsyn.com/website
+    xmlUrl: https://anchor.fm/s/9d5643f0/podcast/rss
+
+  - title: Food, We Need To Talk
+    htmlUrl: https://www.foodweneedtotalk.com/
+    xmlUrl: https://feed.foodweneedtotalk.com/
+
+  - title: Half Size Me
+    htmlUrl: https://www.halfsizeme.com/articles/
+    xmlUrl: https://feeds.podcastmirror.com/half-size-me
+
+  - title: The Model Health Show
+    htmlUrl: https://themodelhealthshow.com/
+    xmlUrl: https://themodelhealthshow.libsyn.com/rss
+
+  - title: ZOE Science & Nutrition
+    htmlUrl: http://zoe.com/
+    xmlUrl: https://feeds.megaphone.fm/ZOELIMITED9301524082
+
+  - title: Life After Sugar
+    htmlUrl: https://aftersugarclub.com/
+    xmlUrl: https://feeds.buzzsprout.com/1499752.rss
+
+  - title: 'Weight Loss For Women: empowering health, strength and nourishment'
+    htmlUrl: https://redcircle.com/shows/weight-loss-for-women-empowering-health-strength-and-nourishment
+    xmlUrl: https://feeds.redcircle.com/ee394603-85e0-4b06-85d3-34ac29ba86c7
+
+  - title: Dishing Up Nutrition
+    htmlUrl: https://www.weightandwellness.com/resources/podcasts/
+    xmlUrl: https://dishingupnutrition.podbean.com/feed.xml
+
+  - title: The Fasting Method Podcast
+    htmlUrl: https://www.thefastingmethod.com/
+    xmlUrl: https://thefastingmethodpodcast.libsyn.com/rss
+
+  - title: The Chris Terrell Podcast
+    htmlUrl: https://www.christerrellcoaching.com/
+    xmlUrl: https://anchor.fm/s/4cfe8368/podcast/rss
+
 - name: The Best Stock Market Podcasts
   opml: findthatpod-the-best-stock-market-podcasts.opml
   date: 2025-10-08
