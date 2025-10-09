@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Stock Market Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-stock-market-podcasts.opml) | 2025-10-08 |
 | [FindThatPod - The Best Podcasts for Creatives](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-creatives.opml) | 2025-10-03 |
 | [FindThatPod - The Best eCommerce Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ecommerce-podcasts.opml) | 2025-10-01 |
 | [FindThatPod - The Best Biology Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-biology-podcasts.opml) | 2025-10-01 |
