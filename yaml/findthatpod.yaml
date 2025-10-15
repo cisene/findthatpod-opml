@@ -44,6 +44,38 @@ template:
         xmlUrl:   ''
 
 body:
+
+  - issue:    333
+    title:    'Find That Pod #333'
+    pubDate:  '2025-10-10'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Cardiac Cowboys
+        htmlUrl: https://www.iheart.com/podcast/1119-cardiac-cowboys-291672933/
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e389d72e-ffa1-4854-bea0-b0a8010c07dc/d8dd72a0-b73c-4c85-9c1e-b0a8010c82f8/podcast.rss
+
+    - podcast:
+        title: Ruined By The Internet?
+        htmlUrl: https://www.ruinedbytheinternet.com/
+        xmlUrl: https://anchor.fm/s/10662c724/podcast/rss
+
+    - podcast:
+        title: 5 Random Questions
+        htmlUrl: https://fiverandomquestions.com/
+        xmlUrl: https://feeds.captivate.fm/5-random-questions/
+
+    - podcast:
+        title: The Lodge
+        htmlUrl: https://www.rnz.co.nz/podcast/the-lodge
+        xmlUrl: https://www.rnz.co.nz/podcasts/acast/the-lodge.rss
+
+    - podcast:
+        title: Monumental
+        htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F4878%2Ffeed-rss.xml
+        xmlUrl: https://publicfeeds.net/f/4878/feed-rss.xml
+
   - issue:    332
     title:    'Find That Pod #332'
     pubDate:  '2025-10-03'
