@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Podcasts for Teens
+  opml: findthatpod-the-best-podcasts-for-teens.opml
+  date: 2025-10-15
+  htmlUrl: https://findthatpod.com/best-podcasts-for-teens/
+  podcasts:
+
+  - title: The Mortified Podcast
+    htmlUrl: http://getmortified.com/
+    xmlUrl: https://feeds.feedburner.com/MortifiedPod
+
+  - title: Smologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/s1I4c1jt
+
+  - title: Mostly Mindful for Teens and Tweens
+    htmlUrl: https://www.buzzsprout.com/1024489
+    xmlUrl: https://feeds.buzzsprout.com/1024489.rss
+
+  - title: This Teenage Life
+    htmlUrl: http://thisteenagelife.org/
+    xmlUrl: https://thisteenlife.libsyn.com/rss
+
+  - title: The Socially Awkward Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/sociallyawkwardpodcast
+    xmlUrl: https://anchor.fm/s/10bbebfc/podcast/rss
+
+  - title: The Teen Life Coach
+    htmlUrl: https://soundcloud.com/theteenlifecoach
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:612713718/sounds.rss
+
+  - title: 'Hold Me Back: Son and Father Change the Conversation'
+    htmlUrl: https://holdmeback.com/
+    xmlUrl: https://holdmeback.libsyn.com/rss
+
+  - title: Grown, a podcast from The Moth
+    htmlUrl: http://grownpod.com/
+    xmlUrl: https://feed.grown.themoth.org/
+
+  - title: Tai Asks Why
+    htmlUrl: https://www.cbc.ca/taiaskswhy
+    xmlUrl: https://www.cbc.ca/podcasting/includes/taiaskswhy.xml
+
+  - title: Podcrushed
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/218a37a2-b703-40d0-8347-b10a01456416/0b080783-dd59-4005-801e-b10a01456437/podcast.rss
+
+  - title: 10 for Teens + Tweens
+    htmlUrl: https://empowerfulgirls.com/
+    xmlUrl: https://feeds.buzzsprout.com/1418581.rss
+
+  - title: Girls Make Beats Podcast
+    htmlUrl: http://www.girlsmakebeats.org/
+    xmlUrl: https://anchor.fm/s/4b13b294/podcast/rss
+
+  - title: Let's Be Real with Sammy Jaye
+    htmlUrl: https://www.iheart.com/podcast/1248-lets-be-real-with-sammy-j-56806419/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b9bbed6e-e863-4704-b99e-ae270179ef8a/0de56baa-1aa3-4130-905d-ae270179ef9d/podcast.rss
+
+  - title: Ooh You're In Trouble
+    htmlUrl: https://play.prx.org/listen?uf=http%3A%2F%2Ffeeds.feedburner.com%2FOohYoureInTrouble
+    xmlUrl: https://feeds.feedburner.com/OohYoureInTrouble
+
+  - title: Teen Girl Talk
+    htmlUrl: https://www.spreaker.com/show/teen-girl-talk_2
+    xmlUrl: https://www.spreaker.com/show/5437764/episodes/feed
+
+  - title: The Genius Generation
+    htmlUrl: https://www.seeker.com/podcasts
+    xmlUrl: https://thegeniusgeneration.feeds.seeker.com/
+
+  - title: This Is So Awkward
+    htmlUrl: https://lessawkward.com/
+    xmlUrl: https://feeds.megaphone.fm/WFH2067314356
+
+  - title: Fierce Girls
+    htmlUrl: https://www.abc.net.au/listen/programs/fierce-girls/
+    xmlUrl: https://www.abc.net.au/feeds/9405360/podcast.xml
+
+  - title: Dear Hank & John
+    htmlUrl: https://art19.com/shows/dear-hank-john
+    xmlUrl: https://rss.art19.com/dear-hank-john
+
+  - title: she persisted | mental health, self-care, psychology, gen z, dbt, depression, anxiety, healing
+    htmlUrl: https://www.shepersistedpodcast.com/
+    xmlUrl: https://anchor.fm/s/1032b3460/podcast/rss
+
+  - title: Teen Boss Babes
+    htmlUrl: https://www.teenbossbabes.com/
+    xmlUrl: https://anchor.fm/s/14ae1eec/podcast/rss
+
+  - title: StoryCorps
+    htmlUrl: https://www.npr.org/podcasts/510200/storycorps
+    xmlUrl: https://feeds.npr.org/510200/podcast.xml
+
+  - title: Sssh! Periods
+    htmlUrl: https://www.instagram.com/ssshperiods/
+    xmlUrl: https://feeds.buzzsprout.com/674537.rss
+
 - name: The Best Dog Training Podcasts
   opml: findthatpod-the-best-dog-training-podcasts.opml
   date: 2025-10-09
