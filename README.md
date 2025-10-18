@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Sobriety Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sobriety-podcasts.opml) | 2025-10-16 |
 | [FindThatPod - The Best Podcasts for Teens](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-teens.opml) | 2025-10-15 |
 | [FindThatPod - The Best Dog Training Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-dog-training-podcasts.opml) | 2025-10-09 |
 | [FindThatPod - The Best Weight Loss Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-weight-loss-podcasts.opml) | 2025-10-08 |

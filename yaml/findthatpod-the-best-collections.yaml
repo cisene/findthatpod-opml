@@ -6,6 +6,124 @@ global:
 
 issues:
 
+- name: The Best Sobriety Podcasts
+  opml: findthatpod-the-best-sobriety-podcasts.opml
+  date: 2025-10-16
+  htmlUrl: https://findthatpod.com/best-sobriety-podcasts/
+  podcasts:
+
+  - title: Recovery Happy Hour
+    htmlUrl: https://www.recoveryhappyhour.com/
+    xmlUrl: https://recoveryhappyhour.libsyn.com/rss
+
+  - title: In Recovery
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/59639e74-655e-4b76-8dfb-ad11012c6ada/3b020649-bb51-4f10-9f12-ad11012c6aec/podcast.rss
+
+  - title: Sober Awkward
+    htmlUrl: https://soberawkward.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6595ff3d9616e6001613f21f
+
+  - title: More Than Sobriety
+    htmlUrl: https://morethansobriety.com/
+    xmlUrl: https://anchor.fm/s/de767c9c/podcast/rss
+
+  - title: Addiction Unlimited Podcast
+    htmlUrl: https://addictionunlimited.com/
+    xmlUrl: https://addictionunlimited.com/feed/podcast/
+
+  - title: Sober Shares - Alcoholics Anonymous addiction recovery interviews
+    htmlUrl: https://sobershares.com/
+    xmlUrl: https://anchor.fm/s/58d1588c/podcast/rss
+
+  - title: Soberful
+    htmlUrl: http://soberful.libsyn.com/website
+    xmlUrl: https://feeds.libsyn.com/117480/rss
+
+  - title: Ambitious Addicts Podcast
+    htmlUrl: http://ambitiuosaddicts.libsyn.com/ambitiousaddicts
+    xmlUrl: https://ambitiuosaddicts.libsyn.com/rss
+
+  - title: Friend of Jerry
+    htmlUrl: https://www.barstoolsports.com/
+    xmlUrl: https://mcsorleys.barstoolsports.com/podcasts/139d662e/feed.xml
+
+  - title: Recovery Elevator
+    htmlUrl: http://www.recoveryelevator.com/
+    xmlUrl: https://recoveryelevator.libsyn.com/rss
+
+  - title: Flourishing After Addiction with Carl Erik Fisher
+    htmlUrl: https://podcast.carlerikfisher.com/
+    xmlUrl: https://feeds.buzzsprout.com/1828018.rss
+
+  - title: That Sober Guy Podcast
+    htmlUrl: http://www.thatsoberguy.com/
+    xmlUrl: https://thatsoberguy.libsyn.com/rss
+
+  - title: Take a Break from Drinking
+    htmlUrl: http://www.rachelhart.com/podcast
+    xmlUrl: https://rachelhart.libsyn.com/rss
+
+  - title: 'Breaking Free: Your Recovery. Your Way.'
+    htmlUrl: https://www.breakingfreerecovery.com/
+    xmlUrl: https://anchor.fm/s/a939c70/podcast/rss
+
+  - title: Sideways
+    htmlUrl: http://www.grahamlandiwellbeing.co.uk/
+    xmlUrl: https://feeds.buzzsprout.com/738812.rss
+
+  - title: This Naked Mind Podcast
+    htmlUrl: https://thisnakedmind.com/
+    xmlUrl: https://feeds.megaphone.fm/YAP6428289906
+
+  - title: A Sober Girls Guide Podcast
+    htmlUrl: https://asobergirlsguide.podbean.com/
+    xmlUrl: https://feed.podbean.com/asobergirlsguide/feed.xml
+
+  - title: The Sober Highway Podcast
+    htmlUrl: https://www.instagram.com/thesoberhighway_/
+    xmlUrl: https://anchor.fm/s/d55e83ac/podcast/rss
+
+  - title: The Addicted Mind Podcast
+    htmlUrl: https://art19.com/shows/the-addicted-mind
+    xmlUrl: https://rss.art19.com/the-addicted-mind
+
+  - title: They Think It's All Sober
+    htmlUrl: https://theythinkitsallsober.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2198976.rss
+
+  - title: It's All Bad
+    htmlUrl: https://audioboom.com/channels/5026555
+    xmlUrl: https://audioboom.com/channels/5026555.rss
+
+  - title: 'Sober Powered: The Neuroscience of Being Sober'
+    htmlUrl: https://www.soberpowered.com/
+    xmlUrl: https://feeds.megaphone.fm/SPMLLC9869350592
+
+  - title: The Unruffled Podcast
+    htmlUrl: http://www.tammisalas.com/
+    xmlUrl: https://anchor.fm/s/102251928/podcast/rss
+
+  - title: The Reset by Sam Delaney
+    htmlUrl: https://samdelaney.substack.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/60ddc0008471380013ddd171
+
+  - title: Last Day
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/be240bb3-cb38-49f0-9e2d-ad11012d5620/bd8f5027-0c82-49da-aa60-ad11012d562a/podcast.rss
+
+  - title: Sober Speak- Alcoholics Anonymous Recovery Interviews
+    htmlUrl: https://soberspeak.podbean.com/
+    xmlUrl: https://soberspeak.podbean.com/feed.xml
+
+  - title: The Sober Mom Life
+    htmlUrl: https://art19.com/shows/the-sober-mom-life
+    xmlUrl: https://rss.art19.com/the-sober-mom-life
+
+  - title: Recovered Podcast
+    htmlUrl: http://recoveredcast.com/
+    xmlUrl: https://talktherapy.libsyn.com/rss
+
 - name: The Best Podcasts for Teens
   opml: findthatpod-the-best-podcasts-for-teens.opml
   date: 2025-10-15
