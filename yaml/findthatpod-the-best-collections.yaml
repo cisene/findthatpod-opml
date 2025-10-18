@@ -6,6 +6,120 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Japan & Japanese Culture
+  opml: findthatpod-the-best-podcasts-about-japan-and-japanese-culture.opml
+  date: 2025-10-17
+  htmlUrl: https://findthatpod.com/best-podcasts-about-japan/
+  podcasts:
+
+  - title: Uncanny Japan
+    htmlUrl: https://www.uncannyjapan.com/
+    xmlUrl: https://feeds.megaphone.fm/uncannyjapan
+
+  - title: Nante Japan Podcast
+    htmlUrl: https://aramajapan.com/
+    xmlUrl: https://feeds.buzzsprout.com/787751.rss
+
+  - title: Abroad in Japan
+    htmlUrl: https://shows.acast.com/abroadinjapan
+    xmlUrl: https://feeds.acast.com/public/shows/4d1eb966-6f07-4562-b9f1-9fd512f9631e
+
+  - title: Unpacking Japan
+    htmlUrl: https://unpacking.jp/
+    xmlUrl: https://anchor.fm/s/103c3f63c/podcast/rss
+
+  - title: Japan Eats!
+    htmlUrl: https://art19.com/shows/japan-eats
+    xmlUrl: https://rss.art19.com/japan-eats
+
+  - title: Disrupting Japan
+    htmlUrl: https://www.disruptingjapan.com/
+    xmlUrl: https://www.disruptingjapan.com/feed/podcast/
+
+  - title: Living Japan
+    htmlUrl: https://livingjapanpodcast.wordpress.com/
+    xmlUrl: http://feeds.feedburner.com/livingjapan
+
+  - title: A History of Japan
+    htmlUrl: http://ahistoryofjapan.com/
+    xmlUrl: https://feeds.buzzsprout.com/1152851.rss
+
+  - title: Made in Japan-- Conversations with Meljo Catalan
+    htmlUrl: https://linktr.ee/madeinjapanpodcast
+    xmlUrl: https://anchor.fm/s/279b358/podcast/rss
+
+  - title: Samurai Archives Japanese History Podcast
+    htmlUrl: http://www.samuraipodcast.com/
+    xmlUrl: https://www.samuraipodcast.com/rss
+
+  - title: Japan Travel and Friends
+    htmlUrl: https://en.japantravel.com/
+    xmlUrl: https://anchor.fm/s/9d01d838/podcast/rss
+
+  - title: 'Evaporated: Gone with the Gods'
+    htmlUrl: https://www.sonymusic.com/sonymusic/campside-media-and-sme-debut-the-evaporated-gone-with-the-gods/
+    xmlUrl: https://feeds.megaphone.fm/evaporatedgwtg
+
+  - title: Hikikomori
+    htmlUrl: http://hikikomori.libsyn.com/website
+    xmlUrl: https://hikikomori.libsyn.com/rss
+
+  - title: Tokyo Lens
+    htmlUrl: https://www.itstokyolens.com/
+    xmlUrl: https://anchor.fm/s/17959f4/podcast/rss
+
+  - title: Deep Dive from The Japan Times
+    htmlUrl: https://www.japantimes.co.jp/
+    xmlUrl: https://audioboom.com/channels/4970813.rss
+
+  - title: 'Japan Station: A Podcast About Japanese Culture & the Japanese Language'
+    htmlUrl: https://japankyo.com/
+    xmlUrl: https://japanstation.libsyn.com/rss
+
+  - title: Cat with Beard from JAPAN
+    htmlUrl: https://podcastqr.joqr.co.jp/programs/nippon
+    xmlUrl: https://www.omnycontent.com/d/playlist/92f07af0-df9c-498e-a68a-ab4201477bd9/1b09462c-806f-4261-bd7a-ae6300cc0b94/2ab991d3-f2c3-413e-9174-ae6300ccc261/podcast.rss
+
+  - title: 'Japan Experts: Effortless Planning & Immersive Travel'
+    htmlUrl: https://www.miyukiseguchi.com/
+    xmlUrl: https://anchor.fm/s/2a2cdc7c/podcast/rss
+
+  - title: History of Japan
+    htmlUrl: http://historyofjapan.libsyn.com/
+    xmlUrl: https://historyofjapan.libsyn.com/rss
+
+  - title: Sake On Air
+    htmlUrl: http://sakeonair.staba.jp/
+    xmlUrl: https://www.sakeonair.com/feed/podcast/
+
+  - title: Business Success Japan
+    htmlUrl: https://podcasters.spotify.com/pod/show/businesssuccessjapan
+    xmlUrl: https://anchor.fm/s/127927ac/podcast/rss
+
+  - title: Trash Taste Podcast
+    htmlUrl: https://trashtaste.com/
+    xmlUrl: https://feeds.megaphone.fm/trashtaste
+
+  - title: Deep in Japan
+    htmlUrl: https://deepinjapan.transistor.fm/
+    xmlUrl: https://feeds.transistor.fm/deep-in-japan
+
+  - title: Voice in Japan
+    htmlUrl: https://podcasters.spotify.com/pod/show/yukimasa-matsuda
+    xmlUrl: https://anchor.fm/s/13945698/podcast/rss
+
+  - title: Lost Without Japan
+    htmlUrl: http://lostwithoutjapan.libsyn.com/
+    xmlUrl: https://lostwithoutjapan.libsyn.com/rss
+
+  - title: Got Faded Japan
+    htmlUrl: http://gotfadedjapankrew.podbean.com/
+    xmlUrl: https://gotfadedjapankrew.podbean.com/feed.xml
+
+  - title: Just Japan Podcast
+    htmlUrl: https://justjapanstuff.com/
+    xmlUrl: https://justjapan.libsyn.com/rss
+
 - name: The Best Sobriety Podcasts
   opml: findthatpod-the-best-sobriety-podcasts.opml
   date: 2025-10-16
