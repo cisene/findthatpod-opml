@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    334
+    title:    'Find That Pod #334'
+    pubDate:  '2025-10-17'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: The Westerosi Primer
+        htmlUrl: https://redcircle.com/shows/the-westerosi-primer
+        xmlUrl: https://feeds.redcircle.com/da0f12b4-cbb6-442a-a01a-245d0736608d
+
+    - podcast:
+        title: The Box of Oddities
+        htmlUrl: https://www.theboxofoddities.com/
+        xmlUrl: https://feeds.megaphone.fm/ARML9966973519
+
+    - podcast:
+        title: Talking Rubbish - The Recycling Podcast
+        htmlUrl: https://www.talkingrubbishpodcast.com/
+        xmlUrl: https://feeds.simplecast.com/l7x_wiEc
+
+    - podcast:
+        title: The Dystopian Republic
+        htmlUrl: https://rss.com/podcasts/thedystopianrepublic
+        xmlUrl: https://media.rss.com/thedystopianrepublic/feed.xml
+
+    - podcast:
+        title: Write the Good Fight
+        htmlUrl: https://riseliterary.com/
+        xmlUrl: https://anchor.fm/s/1051d4a24/podcast/rss
+
   - issue:    333
     title:    'Find That Pod #333'
     pubDate:  '2025-10-10'
