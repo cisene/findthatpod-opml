@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Sports Betting Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sports-betting-podcasts.opml) | 2025-10-22 |
 | [FindThatPod - The Best Podcasts About Japan & Japanese Culture](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-japan-and-japanese-culture.opml) | 2025-10-17 |
 | [FindThatPod - The Best Sobriety Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sobriety-podcasts.opml) | 2025-10-16 |
 | [FindThatPod - The Best Podcasts for Teens](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-teens.opml) | 2025-10-15 |

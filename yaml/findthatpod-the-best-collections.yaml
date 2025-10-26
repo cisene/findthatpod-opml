@@ -6,6 +6,112 @@ global:
 
 issues:
 
+- name: The Best Sports Betting Podcasts
+  opml: findthatpod-the-best-sports-betting-podcasts.opml
+  date: 2025-10-22
+  htmlUrl: https://findthatpod.com/best-sports-betting-podcasts/
+  podcasts:
+
+  - title: Bet The Process
+    htmlUrl: https://soundcloud.com/bettheprocess
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:330500902/sounds.rss
+
+  - title: Betfair Betting Podcast
+    htmlUrl: https://soundcloud.com/betfair-betting-podcast
+    xmlUrl: https://feeds.megaphone.fm/BETFAIR2985351996
+
+  - title: 'Even Money: NFL Betting Podcast'
+    htmlUrl: http://www.rosstucker.com/podcasts/even-money-with-ross-tucker/
+    xmlUrl: https://feeds.megaphone.fm/DFT4986441816
+
+  - title: NFL Best Bets
+    htmlUrl: https://www.fantasypoints.com/
+    xmlUrl: https://feeds.megaphone.fm/nflbestbets
+
+  - title: Sports Gambling Podcast
+    htmlUrl: https://www.sportsgamblingpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/MqvHchJZ
+
+  - title: Beating The Book with Gill Alexander
+    htmlUrl: https://www.iheart.com/podcast/256-beating-the-book-with-gill-30928064/
+    xmlUrl: https://feeds.simplecast.com/yHrCf9a8
+
+  - title: 'WagerTalk: Sports Betting Tips'
+    htmlUrl: https://www.wagertalk.com/
+    xmlUrl: https://www.spreaker.com/show/2834270/episodes/feed
+
+  - title: The Baseball Betting Show with Greg Peterson
+    htmlUrl: http://www.brokencontrollermedia.com/
+    xmlUrl: https://feeds.simplecast.com/edqrZb8q
+
+  - title: Barstool Pick Em
+    htmlUrl: https://linktr.ee/barstoolpickem
+    xmlUrl: https://mcsorleys.barstoolsports.com/feed/barstool-pickem
+
+  - title: Matchbook Betting Podcast
+    htmlUrl: http://www.matchbook.com/
+    xmlUrl: https://matchbook.libsyn.com/rss
+
+  - title: The Daily Juice - BettingPros
+    htmlUrl: https://www.bettingpros.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/58472ddd-be56-4002-8937-b2d70144b8d5/cddd4ab4-85f4-4769-9ca3-b2d70144b8ef/podcast.rss
+
+  - title: Against All Odds with Cousin Sal
+    htmlUrl: https://theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/against-all-odds
+
+  - title: VSiN At The Track, A Horse Racing Podcast
+    htmlUrl: https://vsin-at-the-track.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Dvma5tnf
+
+  - title: RJ Bell's Dream Preview
+    htmlUrl: https://pregame.com/
+    xmlUrl: https://feeds.megaphone.fm/GEMINIMEDIA9700454818
+
+  - title: The Crazy Sheet - College Football Handicapping
+    htmlUrl: https://www.podomatic.com/podcasts/thecrazysheet
+    xmlUrl: https://thecrazysheet.podomatic.com/rss2.xml
+
+  - title: BettingPros Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/bettingpros-nfl-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/80c4e557-2a08-4bc7-92ea-b2d70144b89e/76a7de50-facb-42a2-b042-b2d70144b8af/podcast.rss
+
+  - title: Stanford Steve & The Bear
+    htmlUrl: http://www.espn.com/espnradio/podcast/index
+    xmlUrl: https://feeds.megaphone.fm/ESP9647913084
+
+  - title: Bottom Line Bombs w/ CJ Sullivan
+    htmlUrl: https://www.sportsgamblingpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/Qy7jXGvE
+
+  - title: 'Long Shots: VSiN''s Golf Betting Podcast'
+    htmlUrl: https://www.iheart.com/podcast/1119-long-shots-63922526/
+    xmlUrl: https://feeds.simplecast.com/SgTzZCFv
+
+  - title: The Sharp 600 - Sports Betting Podcast
+    htmlUrl: https://www.covers.com/
+    xmlUrl: https://audioboom.com/channels/5026191.rss
+
+  - title: Gridiron Gamble
+    htmlUrl: https://www.spreaker.com/podcast/gridiron-gamble--3645120
+    xmlUrl: https://www.spreaker.com/show/3645120/episodes/feed
+
+  - title: Business of Betting Podcast
+    htmlUrl: https://businessofbetting.podbean.com/
+    xmlUrl: https://feed.podbean.com/businessofbetting/feed.xml
+
+  - title: NBA Gambling Podcast
+    htmlUrl: https://www.sportsgamblingpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/uxdOBkrq
+
+  - title: The Favorites Sports Betting Podcast
+    htmlUrl: https://podcasts.apple.com/us/podcast/the-favorites-sports-betting-podcast/id1293897220
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f806745c-9af9-4941-bf75-ae3300346a6c/012b8953-dca4-461c-becc-ae3300346a7a/podcast.rss
+
+  - title: VSiN Best Bets
+    htmlUrl: https://www.vsin.com/about/podcasts-welcome/
+    xmlUrl: https://feeds.simplecast.com/iXBZFZCf
+
 - name: The Best Podcasts About Japan & Japanese Culture
   opml: findthatpod-the-best-podcasts-about-japan-and-japanese-culture.opml
   date: 2025-10-17
