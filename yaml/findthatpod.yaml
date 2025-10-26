@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    335
+    title:    'Find That Pod #335'
+    pubDate:  '2025-10-24'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: The Dragoning
+        htmlUrl: https://www.messengertheatreco.org/
+        xmlUrl: https://anchor.fm/s/1b47ef80/podcast/rss
+
+    - podcast:
+        title: Cyber Hack
+        htmlUrl: http://www.bbc.co.uk/programmes/w13xtvg9
+        xmlUrl: https://podcasts.files.bbci.co.uk/w13xtvg9.rss
+
+    - podcast:
+        title: Mildly Informed
+        htmlUrl: https://www.thebuglepodcast.com/
+        xmlUrl: https://feeds.acast.com/public/shows/64189cb7202f500011b4df34
+
+    - podcast:
+        title: The Rest Is Classified
+        htmlUrl: https://therestisclassified.supportingcast.fm/
+        xmlUrl: https://feeds.megaphone.fm/therestisclassified
+
+    - podcast:
+        title: Liberty Lost
+        htmlUrl: https://wondery.com/shows/liberty-lost/
+        xmlUrl: https://rss.art19.com/liberty-lost
+
   - issue:    334
     title:    'Find That Pod #334'
     pubDate:  '2025-10-17'
