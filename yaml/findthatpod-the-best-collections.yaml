@@ -6,6 +6,292 @@ global:
 
 issues:
 
+- name: The Best Podcasts By Women
+  opml: findthatpod-the-best-podcasts-by-women.opml
+  date: 2025-10-23
+  htmlUrl: https://findthatpod.com/best-podcasts-by-women/
+  podcasts:
+
+  - title: The Guilty Feminist
+    htmlUrl: https://guiltyfeminist.com/
+    xmlUrl: https://feeds.megaphone.fm/APL9072247766
+
+  - title: Everything Happens with Kate Bowler
+    htmlUrl: https://katebowler.com/everything-happens/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/60757c05-994f-49f5-8e50-b05b00e0e6dc/c09f1bf9-cfdd-4980-8628-b05b00e0e70d/podcast.rss
+
+  - title: Unladylike
+    htmlUrl: https://art19.com/shows/-unladylike-
+    xmlUrl: https://rss.art19.com/-unladylike-
+
+  - title: RedHanded
+    htmlUrl: https://wondery.com/shows/redhanded?utm_source=rss
+    xmlUrl: https://rss.art19.com/redhanded
+
+  - title: Womanica
+    htmlUrl: https://www.iheart.com/podcast/966-womanica-45926723/
+    xmlUrl: https://feeds.acast.com/public/shows/68cb1eb40f8ecbdab5fe0fad
+
+  - title: Sex With Emily
+    htmlUrl: https://www.sexwithemily.com/
+    xmlUrl: https://feeds.megaphone.fm/CFP9686758960
+
+  - title: She Makes Money Moves | Glamour
+    htmlUrl: https://www.glamour.com/
+    xmlUrl: https://publicfeeds.net/f/7386/she-makes-money-moves
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: Dear Chelsea
+    htmlUrl: https://www.iheart.com/podcast/1119-dear-chelsea-81449817/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39524BFA-DE3F-4FAC-BF1C-AE3300346E1F/CCA17EF5-974C-4E61-997C-AE3300346E3B/podcast.rss
+
+  - title: Table Manners with Jessie and Lennie Ware
+    htmlUrl: https://www.acast.com/tablemanners
+    xmlUrl: https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9
+
+  - title: LOVERS by shan
+    htmlUrl: http://loversbyshan.com/
+    xmlUrl: https://audioboom.com/channels/5085699.rss
+
+  - title: 'In Her Element: Unfiltered Stories of Women Finding Their Voice — and Their Power'
+    htmlUrl: https://sites.google.com/view/in-her-element-unfiltered/home
+    xmlUrl: https://media.rss.com/in-her-element/feed.xml
+
+  - title: Wrong Turns with Jameela Jamil
+    htmlUrl: https://shows.acast.com/wrong-turns-with-jameela-jamil
+    xmlUrl: https://feeds.acast.com/public/shows/686302e79951fac41b1d2418
+
+  - title: Highest Self Podcast®
+    htmlUrl: http://highestself.libsyn.com/website
+    xmlUrl: https://highestself.libsyn.com/rss
+
+  - title: Side Hustle Pro
+    htmlUrl: https://sidehustlepro.co/
+    xmlUrl: https://feeds.acast.com/public/shows/659c22ccb31581001651ebcd
+
+  - title: Stuff Mom Never Told You
+    htmlUrl: https://www.iheart.com/podcast/stuff-mom-never-told-you-21123631/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29EE4014-65AB-4D60-812E-AE4C00549B7F/3889A49B-3697-48AF-9765-AE4C00549B97/podcast.rss
+
+  - title: The Daily Beans
+    htmlUrl: https://mswmedia.com/show/daily-beans/
+    xmlUrl: https://feeds.simplecast.com/bOogzwqU
+
+  - title: After Bedtime with Big Little Feelings
+    htmlUrl: https://art19.com/shows/after-bedtime-with-big-little-feelings
+    xmlUrl: https://rss.art19.com/after-bedtime-with-big-little-feelings
+
+  - title: Latina to Latina
+    htmlUrl: https://www.latinatolatina.com/
+    xmlUrl: https://feeds.simplecast.com/uUMa3TSo
+
+  - title: Good Inside with Dr. Becky
+    htmlUrl: https://good-inside.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Y5N0xWWZ
+
+  - title: The Goal Digger Podcast | Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business
+    htmlUrl: http://www.goaldiggerpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YAP4895144602
+
+  - title: On Being with Krista Tippett
+    htmlUrl: https://onbeing.org/
+    xmlUrl: https://feeds.simplecast.com/AuAxH_Bf
+
+  - title: Office Ladies
+    htmlUrl: https://officeladies.com/
+    xmlUrl: https://feeds.megaphone.fm/office-ladies
+
+  - title: Feminist Survival Project
+    htmlUrl: https://www.feministsurvivalproject.com/
+    xmlUrl: https://anchor.fm/s/fe4f520/podcast/rss
+
+  - title: This Podcast Will Kill You
+    htmlUrl: https://www.exactlyrightmedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/64b4c224-562e-4b2f-9f31-b24c0111ae53/podcast.rss
+
+  - title: The Hidden Economics of Remarkable Women (HERO)
+    htmlUrl: https://foreignpolicy.com/podcasts/hidden-economics-of-remarkable-women-hero/
+    xmlUrl: https://feeds.megaphone.fm/FGP9594832406
+
+  - title: Death, Sex & Money
+    htmlUrl: https://slate.com/podcasts/death-sex-money
+    xmlUrl: https://feeds.megaphone.fm/SLT2123367297
+
+  - title: Sounds Like A Cult
+    htmlUrl: https://www.soundslikeacult.com/
+    xmlUrl: https://feeds.megaphone.fm/soundslikeacult
+
+  - title: What Makes Us Stronger
+    htmlUrl: https://www.womenforwomen.org/
+    xmlUrl: https://www.omnycontent.com/d/playlist/2e9a850c-e6b9-48c2-afec-a8f8010f70f4/92549d35-2124-4d96-b6a3-aeb7009578de/e4e61eb2-92de-433f-937c-aeb700961688/podcast.rss
+
+  - title: Where Are You Going?
+    htmlUrl: https://shows.acast.com/where-are-you-going
+    xmlUrl: https://feeds.acast.com/public/shows/641c83dad369e500116efc28
+
+  - title: Giggly Squad
+    htmlUrl: https://giggly-squad.com/
+    xmlUrl: https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3
+
+  - title: Big Careers, Small Children
+    htmlUrl: http://www.leadersplus.org.uk/
+    xmlUrl: https://feeds.captivate.fm/big-careers-small-children/
+
+  - title: Oversharing
+    htmlUrl: http://betches.com/
+    xmlUrl: https://feeds.megaphone.fm/BMLLC4876983588
+
+  - title: Stuff You Missed in History Class
+    htmlUrl: https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
+
+  - title: back from the borderline
+    htmlUrl: http://backfromtheborderline.com/
+    xmlUrl: https://feeds.acast.com/public/shows/60e8deaefb090f0013116d69
+
+  - title: The GIST of It
+    htmlUrl: https://www.spreaker.com/show/the-gist-of-it
+    xmlUrl: https://www.spreaker.com/show/5678978/episodes/feed
+
+  - title: There Are No Girls on the Internet
+    htmlUrl: https://www.iheart.com/podcast/1119-there-are-no-girls-on-the-65877505/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/AD016D13-045E-48F3-9AA5-AE280172B27D/34CC8D15-19F1-45D8-A158-AE280172B294/podcast.rss
+
+  - title: You're Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://feeds.buzzsprout.com/1112270.rss
+
+  - title: Absolutely Not
+    htmlUrl: https://art19.com/shows/absolutely-not
+    xmlUrl: https://rss.art19.com/absolutely-not
+
+  - title: Career Contessa
+    htmlUrl: https://art19.com/shows/career-contessa
+    xmlUrl: https://rss.art19.com/career-contessa
+
+  - title: Girls Gotta Eat
+    htmlUrl: https://art19.com/shows/girls-gotta-eat
+    xmlUrl: https://feeds.libsyn.com/115736/rss
+
+  - title: The Allusionist
+    htmlUrl: https://art19.com/shows/the-allusionist
+    xmlUrl: https://rss.art19.com/the-allusionist
+
+  - title: Woman's Hour
+    htmlUrl: http://www.bbc.co.uk/programmes/b007qlvb
+    xmlUrl: https://podcasts.files.bbci.co.uk/b007qlvb.rss
+
+  - title: Scamfluencers
+    htmlUrl: http://wondery.com/shows/scamfluencers/?utm_source=rss
+    xmlUrl: https://rss.art19.com/scamfluencers
+
+  - title: 'UnF*ck Your Brain: Feminist Self-Help for Everyone'
+    htmlUrl: https://schoolofnewfeministthought.com/podcasts/
+    xmlUrl: https://feeds.captivate.fm/the-school-of-new-feminist-thought/
+
+  - title: On with Kara Swisher
+    htmlUrl: http://nymag.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP1684715893
+
+  - title: 'Betwixt The Sheets: The History of Sex, Scandal & Society'
+    htmlUrl: https://play.acast.com/s/betwixt-the-sheets
+    xmlUrl: https://feeds.acast.com/public/shows/60032060-080e-42c5-ac26-f93fc2b4d612
+
+  - title: Maintenance Phase
+    htmlUrl: http://maintenancephase.com/
+    xmlUrl: https://feeds.buzzsprout.com/1411126.rss
+
+  - title: We Can Do Hard Things
+    htmlUrl: http://wecandohardthingspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/wcdht
+
+  - title: The Bechdel Cast
+    htmlUrl: https://www.iheart.com/podcast/105-the-bechdel-cast-30089535/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a50ac151-73f4-4192-a26a-ae320005ba2d/dc746010-090c-490a-82a3-ae320005ba3b/podcast.rss
+
+  - title: Second Life
+    htmlUrl: https://art19.com/shows/second-life
+    xmlUrl: https://rss.art19.com/second-life
+
+  - title: This is Love
+    htmlUrl: https://www.thisislovepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP8871377602
+
+  - title: Normal Gossip
+    htmlUrl: http://defector.com/
+    xmlUrl: https://publicfeeds.net/f/3492/feed-rss.xml
+
+  - title: Handsome
+    htmlUrl: https://art19.com/shows/handsome
+    xmlUrl: https://rss.art19.com/handsome
+
+  - title: The Clever Girls Know Podcast With Bola Sokunbi
+    htmlUrl: https://sites.libsyn.com/540737
+    xmlUrl: https://feeds.libsyn.com/540737/rss
+
+  - title: Call Her Daddy
+    htmlUrl: https://iamunwell.com/
+    xmlUrl: https://feeds.simplecast.com/mKn_QmLS
+
+  - title: A Certain Age
+    htmlUrl: https://www.acertainagepod.com/
+    xmlUrl: https://feeds.megaphone.fm/GEMINIMEDIA6854858301
+
+  - title: 'The History Chicks : A Women''s History Podcast'
+    htmlUrl: https://thehistorychicks.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD2921626995
+
+  - title: My Therapist Ghosted Me
+    htmlUrl: https://www.globalplayer.com/podcasts/42KtTu/
+    xmlUrl: https://feeds.captivate.fm/my-therapist-ghosted-me/
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: The Game Changers
+    htmlUrl: https://www.fearlesswomen.co.uk/thegamechangers
+    xmlUrl: https://feeds.buzzsprout.com/2033210.rss
+
+  - title: Why Won't You Date Me? with Nicole Byer
+    htmlUrl: https://headgum.com/why-wont-you-date-me
+    xmlUrl: https://rss.art19.com/why-wont-you-date-me
+
+  - title: Crime Junkie
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/qm_9xx0g
+
+  - title: Financial Feminist
+    htmlUrl: https://herfirst100k.com/financial-feminist-show-notes/
+    xmlUrl: https://feeds.megaphone.fm/ADL7662808451
+
+  - title: Be There in Five
+    htmlUrl: https://bethereinfive.com/podcast/
+    xmlUrl: https://feeds.libsyn.com/312701/rss
+
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
+
+  - title: Pantsuit Politics
+    htmlUrl: http://pantsuitpoliticsshow.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/f4e6ec9c-6c67-498c-b940-b225010bb8bf/f28ef5e6-cb4f-4b6e-8890-b225010bb8e9/podcast.rss
+
+  - title: My Favorite Murder with Karen Kilgariff and Georgia Hardstark
+    htmlUrl: https://www.myfavoritemurder.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss
+
+  - title: Wiser Than Me with Julia Louis-Dreyfus
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss
+
+  - title: Forever 35
+    htmlUrl: https://podcasters.spotify.com/pod/show/swah-sheila
+    xmlUrl: https://anchor.fm/s/5dd40dfc/podcast/rss
+
 - name: The Best Geopolitics Podcasts
   opml: findthatpod-the-best-geopolitics-podcasts.opml
   date: 2025-10-23
