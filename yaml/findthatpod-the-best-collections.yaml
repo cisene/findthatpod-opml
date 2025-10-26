@@ -6,6 +6,160 @@ global:
 
 issues:
 
+- name: The Best Geopolitics Podcasts
+  opml: findthatpod-the-best-geopolitics-podcasts.opml
+  date: 2025-10-23
+  htmlUrl: https://findthatpod.com/best-geopolitics-podcasts/
+  podcasts:
+
+  - title: Pod Save the World
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/AeLYwXNc
+
+  - title: 'The New Statesman: politics and culture'
+    htmlUrl: https://www.newstatesman.com/podcasts
+    xmlUrl: http://rss.acast.com/newstatesman
+
+  - title: Asia Geopolitics
+    htmlUrl: https://thediplomat.com/category/asia-geopolitics
+    xmlUrl: https://thediplomat.com/?feed=itunes&podcast=asia-geopolitics
+
+  - title: Hold Your Fire!
+    htmlUrl: https://podcast.ausha.co/hold-your-fire
+    xmlUrl: https://feeds.acast.com/public/shows/60b001bcdb92290012060084
+
+  - title: Curious Worldview
+    htmlUrl: http://atlasgeographica.com/
+    xmlUrl: https://feeds.buzzsprout.com/1485736.rss
+
+  - title: ChinaPower
+    htmlUrl: https://www.csis.org/podcasts/chinapower
+    xmlUrl: https://feeds.megaphone.fm/CSIS6301448962
+
+  - title: The Red Line
+    htmlUrl: https://www.theredlinepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML4010200722
+
+  - title: Talking Geopolitics
+    htmlUrl: https://geopoliticalfutures.com/podcast
+    xmlUrl: https://geopoliticalfutures.libsyn.com/rss
+
+  - title: Angry Planet
+    htmlUrl: https://angryplanetpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/3dd76634-7b1c-45c2-a9cf-2f6f96d4e0b4
+
+  - title: The World Unpacked
+    htmlUrl: https://worldunpacked.com/
+    xmlUrl: https://feeds.simplecast.com/9gMGui5w
+
+  - title: This Week Explained
+    htmlUrl: https://www.spreaker.com/podcast/this-week-explained--6199515
+    xmlUrl: https://www.spreaker.com/show/6199515/episodes/feed
+
+  - title: American Prestige
+    htmlUrl: https://www.americanprestigepod.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/SLT3432769861
+
+  - title: Ones and Tooze
+    htmlUrl: https://foreignpolicy.com/podcasts/ones-and-tooze/
+    xmlUrl: https://feeds.megaphone.fm/FGP6717686883
+
+  - title: Democracy Paradox
+    htmlUrl: https://www.democracyparadox.com/
+    xmlUrl: https://feeds.buzzsprout.com/1174532.rss
+
+  - title: Explaining Ukraine
+    htmlUrl: https://ukraineworld.org/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:379777835/sounds.rss
+
+  - title: The Duran Podcast
+    htmlUrl: https://theduran.com/
+    xmlUrl: https://anchor.fm/s/fc3f6c34/podcast/rss
+
+  - title: Popular Front
+    htmlUrl: https://popularfront.co/
+    xmlUrl: https://popularfront.libsyn.com/rss
+
+  - title: The Energy Transition Show with Chris Nelder
+    htmlUrl: https://xenetwork.org/ets
+    xmlUrl: http://feeds.feedburner.com/TheEnergyTransitionShow
+
+  - title: EU Confidential
+    htmlUrl: https://www.politico.eu/eu-confidential-podcast/
+    xmlUrl: https://feeds.megaphone.fm/ASD6061651607
+
+  - title: What in the World
+    htmlUrl: https://www.bbc.co.uk/programmes/w13xtvrv
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtvrv.rss
+
+  - title: American Exception
+    htmlUrl: https://aarontgood.podbean.com/
+    xmlUrl: https://feed.podbean.com/aarontgood/feed.xml
+
+  - title: Horns of a Dilemma
+    htmlUrl: https://tnsr.org/
+    xmlUrl: https://hornsofadilemma.libsyn.com/rss
+
+  - title: The President’s Inbox
+    htmlUrl: https://www.cfr.org/podcasts/presidents-inbox
+    xmlUrl: https://feed.podbean.com/thepresidentsinbox/feed.xml
+
+  - title: Net Assessment
+    htmlUrl: https://warontherocks.com/
+    xmlUrl: https://netassessment.libsyn.com/rss
+
+  - title: Pekingology
+    htmlUrl: https://www.csis.org/podcasts/pekingology
+    xmlUrl: https://feeds.megaphone.fm/pekingology
+
+  - title: Middle East Focus
+    htmlUrl: https://www.mei.edu/
+    xmlUrl: https://middleeastinst.libsyn.com/rss
+
+  - title: The DSR Network
+    htmlUrl: https://thedsrnetwork.com/
+    xmlUrl: https://feeds.megaphone.fm/TRGM9230955824
+
+  - title: The Geopolitical Pickle
+    htmlUrl: https://thegeopoliticalpickle.podbean.com/
+    xmlUrl: https://thegeopoliticalpickle.podbean.com/feed.xml
+
+  - title: Deep Dish on Global Affairs
+    htmlUrl: https://deepdishonglobalaffairs.libsyn.com/
+    xmlUrl: https://deepdishonglobalaffairs.libsyn.com/rss
+
+  - title: Global News Podcast
+    htmlUrl: https://www.bbc.co.uk/programmes/p02nq0gn
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+
+  - title: Interpreting India
+    htmlUrl: https://interpreting-india.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/PJlAlBwi
+
+  - title: The Lawfare Podcast
+    htmlUrl: https://www.lawfareblog.com/
+    xmlUrl: https://feeds.acast.com/public/shows/lawfare
+
+  - title: The Horn
+    htmlUrl: https://www.crisisgroup.org/
+    xmlUrl: https://feeds.acast.com/public/shows/60affad1bcce600012cebcf1
+
+  - title: War on the Rocks
+    htmlUrl: https://warontherocks.com/
+    xmlUrl: https://warontherocks.libsyn.com/rss
+
+  - title: The Trade Guys
+    htmlUrl: https://www.csis.org/podcasts/trade-guys
+    xmlUrl: https://feeds.megaphone.fm/CSIS2753183348
+
+  - title: Rational Security
+    htmlUrl: https://www.lawfareblog.com/topic/rational-security
+    xmlUrl: https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d
+
+  - title: One Decision
+    htmlUrl: https://www.onedecisionpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR7393370733
+
 - name: The Best Sports Betting Podcasts
   opml: findthatpod-the-best-sports-betting-podcasts.opml
   date: 2025-10-22
