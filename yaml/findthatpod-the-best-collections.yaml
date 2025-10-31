@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Anxiety
+  opml: findthatpod-the-best-podcasts-about-anxiety.opml
+  date: 2025-10-31
+  htmlUrl: https://findthatpod.com/best-podcasts-about-anxiety/
+  podcasts:
+
+  - title: The Calmer You Podcast
+    htmlUrl: https://www.calmer-you.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5ffbf534a502c646644d47c5
+
+  - title: The Anxiety Chicks
+    htmlUrl: https://theanxietyhealer.com/
+    xmlUrl: https://feeds.megaphone.fm/CTL3545437424
+
+  - title: The Anxious Achiever
+    htmlUrl: https://www.linkedin.com/newsletters/the-anxious-achiever-6898999572757041155/
+    xmlUrl: https://feeds.megaphone.fm/LI1251116275
+
+  - title: The Anxious Truth - A Panic, Anxiety, and Mental Health Podcast
+    htmlUrl: https://theanxioustruth.com/
+    xmlUrl: https://feeds.buzzsprout.com/2271214.rss
+
+  - title: 'Owning It: The Anxiety Podcast'
+    htmlUrl: https://play.acast.com/s/owningittheanxietypodcast
+    xmlUrl: https://feeds.acast.com/public/shows/32dbc2ec-ca42-4062-bb32-a4b401da8020
+
+  - title: Happier with Gretchen Rubin
+    htmlUrl: http://www.gretchenrubin.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/e1b22d0b-6974-4bb8-81ba-b2480119983c/751ada7f-ded3-44b9-bfb8-b2480119985b/podcast.rss
+
+  - title: 'Disordered: Anxiety Help'
+    htmlUrl: https://disordered.fm/
+    xmlUrl: https://anchor.fm/s/dbeebdf4/podcast/rss
+
+  - title: The Overwhelmed Brain
+    htmlUrl: http://sites.libsyn.com/49002/site
+    xmlUrl: https://theoverwhelmedbrain.libsyn.com/rss
+
+  - title: The Anxiety Guy Podcast
+    htmlUrl: https://www.theanxietyguy.com/
+    xmlUrl: https://anxietyguypodcast.libsyn.com/rss
+
+  - title: Ten Percent Happier with Dan Harris | 5 minute podcast summaries
+    htmlUrl: https://www.spreaker.com/show/ten-percent-happier-with-dan-harris-5-mi
+    xmlUrl: https://www.spreaker.com/show/4922682/episodes/feed
+
+  - title: 'UnF*ck Your Brain: Feminist Self-Help for Everyone'
+    htmlUrl: https://schoolofnewfeministthought.com/podcasts/
+    xmlUrl: https://feeds.captivate.fm/the-school-of-new-feminist-thought/
+
+  - title: Therapy Chat
+    htmlUrl: https://redcircle.com/shows/therapy-chat
+    xmlUrl: https://feeds.redcircle.com/303d5792-3fd7-4731-b268-57d1f542269b
+
+  - title: Your Anxiety Toolkit - Practical Skills for Anxiety, Panic & Depression
+    htmlUrl: http://kimberleyquinlan.libsyn.com/podcast
+    xmlUrl: https://kimberleyquinlan.libsyn.com/rss
+
+  - title: Feeling Good Podcast | TEAM-CBT - The New Mood Therapy
+    htmlUrl: https://feelinggood.com/category/podcast/
+    xmlUrl: https://feelinggood.libsyn.com/rss
+
+  - title: Untangle
+    htmlUrl: https://art19.com/shows/untangle
+    xmlUrl: https://rss.art19.com/untangle
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: The Happiness Lab with Dr. Laurie Santos
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
+
+  - title: Not Another Anxiety Show
+    htmlUrl: http://www.notanotheranxietyshow.com/
+    xmlUrl: https://notanotheranxietyshow.libsyn.com/rss
+
+  - title: Thanks For Asking
+    htmlUrl: https://www.ttfa.org/
+    xmlUrl: https://feeds.megaphone.fm/IMP8080110213
+
+  - title: The Anxiety Coaches Podcast
+    htmlUrl: https://art19.com/shows/the-anxiety-coaches-podcast
+    xmlUrl: https://rss.art19.com/the-anxiety-coaches-podcast
+
+  - title: Mental Illness Happy Hour
+    htmlUrl: https://art19.com/shows/mental-illness-happy-hour
+    xmlUrl: https://rss.art19.com/mental-illness-happy-hour
+
+  - title: Anxiety Slayer™ with Shann and Ananga
+    htmlUrl: https://anxietyslayer.com/
+    xmlUrl: https://anxietyslayer.podbean.com/feed.xml
+
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
+
 - name: The Best Fashion Podcasts
   opml: findthatpod-the-best-fashion-podcasts.opml
   date: 2025-10-31
