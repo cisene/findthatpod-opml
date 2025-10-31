@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Software Engineering Podcasts
+  opml: findthatpod-the-best-software-engineering-podcasts.opml
+  date: 2025-10-29
+  htmlUrl: https://findthatpod.com/best-software-engineering-podcasts/
+  podcasts:
+
+  - title: 'The Changelog: Software Development, Open Source'
+    htmlUrl: https://changelog.com/podcast
+    xmlUrl: https://changelog.com/podcast/feed
+
+  - title: Programming Throwdown
+    htmlUrl: https://www.programmingthrowdown.com/
+    xmlUrl: https://feeds.transistor.fm/programming-throwdown
+
+  - title: Software Engineering Daily
+    htmlUrl: https://softwareengineeringdaily.com/
+    xmlUrl: https://softwareengineeringdaily.com/feed/podcast/
+
+  - title: The Stack Overflow Podcast
+    htmlUrl: https://art19.com/shows/the-stack-overflow-podcast
+    xmlUrl: https://rss.art19.com/the-stack-overflow-podcast
+
+  - title: Developer Tea
+    htmlUrl: http://www.developertea.com/
+    xmlUrl: https://feeds.simplecast.com/dLRotFGk
+
+  - title: Signals and Threads
+    htmlUrl: https://signals-threads.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/L9810DOa
+
+  - title: Maintainable
+    htmlUrl: https://maintainable.fm/
+    xmlUrl: https://feeds.simplecast.com/7y1CbAbN
+
+  - title: Refactoring Podcast
+    htmlUrl: https://refactoring.fm/
+    xmlUrl: https://anchor.fm/s/ee484c90/podcast/rss
+
+  - title: Dev Interrupted
+    htmlUrl: http://linearb.io/
+    xmlUrl: https://feeds.buzzsprout.com/1422892.rss
+
+  - title: Under the Radar
+    htmlUrl: https://www.relay.fm/radar
+    xmlUrl: https://www.relay.fm/radar/feed
+
+  - title: JavaScript Jabber
+    htmlUrl: https://topenddevs.com/podcasts/javascript-jabber
+    xmlUrl: https://www.spreaker.com/show/6102064/episodes/feed
+
+  - title: The Confident Commit
+    htmlUrl: http://circleci.com/
+    xmlUrl: https://feeds.buzzsprout.com/1753881.rss
+
+  - title: Coffee with Developers
+    htmlUrl: https://www.wearedevelopers.com/
+    xmlUrl: https://feeds.buzzsprout.com/1863461.rss
+
+  - title: Semaphore Uncut
+    htmlUrl: https://semaphoreci.com/
+    xmlUrl: https://feeds.buzzsprout.com/276133.rss
+
+  - title: Syntax - Tasty Web Development Treats
+    htmlUrl: https://syntax.fm/
+    xmlUrl: https://feed.syntax.fm/rss
+
+  - title: The CSS Podcast
+    htmlUrl: https://thecsspodcast.libsyn.com/
+    xmlUrl: https://thecsspodcast.libsyn.com/rss
+
+  - title: Coding Blocks
+    htmlUrl: https://www.codingblocks.net/
+    xmlUrl: https://www.codingblocks.net/podcast-feed.xml
+
+  - title: The Pragmatic Engineer
+    htmlUrl: https://newsletter.pragmaticengineer.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/458709.rss
+
+  - title: Hanselminutes with Scott Hanselman
+    htmlUrl: https://www.hanselminutes.com/
+    xmlUrl: https://feeds.simplecast.com/gvtxUiIf
+
+  - title: ShopTalk
+    htmlUrl: https://shoptalkshow.com/series/default-podcast/
+    xmlUrl: https://shoptalkshow.com/feed/podcast/
+
+  - title: The Cloudcast
+    htmlUrl: https://www.thecloudcast.net/
+    xmlUrl: https://feeds.buzzsprout.com/3195.rss
+
+  - title: 'CoRecursive: Coding Stories'
+    htmlUrl: http://corecursive.com/
+    xmlUrl: https://corecursive.libsyn.com/feed
+
+  - title: Software Engineering Radio - the podcast for professional software developers
+    htmlUrl: https://www.se-radio.net/
+    xmlUrl: https://seradio.libsyn.com/rss
+
+  - title: Talk Python To Me
+    htmlUrl: https://talkpython.fm/
+    xmlUrl: https://talkpython.fm/episodes/rss
+
+  - title: Fork Around And Find Out
+    htmlUrl: https://fafo.fm/
+    xmlUrl: https://feeds.transistor.fm/fork-around-and-find-out
+
+  - title: Soft Skills Engineering
+    htmlUrl: https://softskills.audio/
+    xmlUrl: https://softskills.audio/feed.xml
+
 - name: The Best Podcasts By Women
   opml: findthatpod-the-best-podcasts-by-women.opml
   date: 2025-10-23
