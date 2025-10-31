@@ -6,6 +6,108 @@ global:
 
 issues:
 
+- name: The Best Fashion Podcasts
+  opml: findthatpod-the-best-fashion-podcasts.opml
+  date: 2025-10-31
+  htmlUrl: https://findthatpod.com/best-fashion-podcasts/
+  podcasts:
+
+  - title: WARDROBE CRISIS with Clare Press
+    htmlUrl: http://www.thewardrobecrisis.com/
+    xmlUrl: https://feeds.acast.com/public/shows/60ee3a8f1f9831001383bf3e
+
+  - title: Garmology - A podcast about clothes, and stuff.
+    htmlUrl: https://garmology.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Tqcrl_iP
+
+  - title: Fashion & Founders The Podcast
+    htmlUrl: https://fashionandfounders.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2177930.rss
+
+  - title: Style and Direction
+    htmlUrl: https://alittlebitofrest.com/category/show-notes/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:312960898/sounds.rss
+
+  - title: Pop Fashion
+    htmlUrl: http://www.popfashionpodcast.com/
+    xmlUrl: https://popfashion.libsyn.com/rss
+
+  - title: Dior Talks
+    htmlUrl: https://podcasts.dior-lady-art.com/
+    xmlUrl: https://feed.ausha.co/yOaPNcX3agnR
+
+  - title: The Who What Wear Podcast
+    htmlUrl: http://www.whowhatwear.com/
+    xmlUrl: https://rss.art19.com/who-what-wear-with-hillary-kerr
+
+  - title: Unravel A Fashion Podcast
+    htmlUrl: http://www.unravelpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:22393740/sounds.rss
+
+  - title: Articles of Interest
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeed.articlesofinterest.club%2F
+    xmlUrl: https://feed.articlesofinterest.club/
+
+  - title: This Old Thing?
+    htmlUrl: http://thisoldthingpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1231832.rss
+
+  - title: Beyond Luxury
+    htmlUrl: https://crodben.com/
+    xmlUrl: https://anchor.fm/s/ec61c244/podcast/rss
+
+  - title: The Business of Fashion Podcast
+    htmlUrl: https://www.businessoffashion.com/podcasts?search
+    xmlUrl: https://feeds.acast.com/public/shows/6355d904dd5e0e0012da88d1
+
+  - title: The Run-Through with Vogue
+    htmlUrl: https://www.vogue.com/podcast/the-run-through
+    xmlUrl: https://publicfeeds.net/f/5736/the-run-through
+
+  - title: 'Dressed: The History of Fashion'
+    htmlUrl: https://redcircle.com/shows/dressed-the-history-of-fashion
+    xmlUrl: https://feeds.megaphone.fm/ARML9655034287
+
+  - title: What's Contemporary Now?
+    htmlUrl: https://www.whatscontemporary.com/
+    xmlUrl: https://feeds.megaphone.fm/CINLH9495032058
+
+  - title: Fashion People
+    htmlUrl: https://puck.news/
+    xmlUrl: https://feeds.megaphone.fm/fashion-people
+
+  - title: After Work Drinks
+    htmlUrl: https://www.afterworkdrinks.net/
+    xmlUrl: https://feeds.acast.com/public/shows/fb927ae8-2bde-4284-bb5c-cc2d1b90b406
+
+  - title: Beyond the Garment with Drew Joiner
+    htmlUrl: https://www.beyondthegarmentpodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1161959.rss
+
+  - title: Clotheshorse with Amanda Lee McCarty
+    htmlUrl: https://www.clotheshorsepodcast.com/
+    xmlUrl: https://feeds.transistor.fm/clotheshorse
+
+  - title: The Glossy Podcast
+    htmlUrl: http://glossy.co/
+    xmlUrl: https://feeds.megaphone.fm/DIGI4036367252
+
+  - title: Fashion Neurosis with Bella Freud
+    htmlUrl: https://fashionneurosis.com/
+    xmlUrl: https://feeds.megaphone.fm/fashionneurosis
+
+  - title: Every Outfit
+    htmlUrl: https://audioboom.com/channels/5149472
+    xmlUrl: https://audioboom.com/channels/5149472.rss
+
+  - title: Style-ish
+    htmlUrl: https://www.shamelessmediaco.com/
+    xmlUrl: https://feeds.megaphone.fm/ASEMS7120192725
+
+  - title: 'Dansplaining: The Danny Lomas Podcast'
+    htmlUrl: https://podcasters.spotify.com/pod/show/dansplainingpod
+    xmlUrl: https://anchor.fm/s/907651d4/podcast/rss
+
 - name: The Best Software Engineering Podcasts
   opml: findthatpod-the-best-software-engineering-podcasts.opml
   date: 2025-10-29

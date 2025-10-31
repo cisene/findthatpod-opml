@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Fashion Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fashion-podcasts.opml) | 2025-10-31 |
 | [FindThatPod - The Best Software Engineering Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-software-engineering-podcasts.opml) | 2025-10-29 |
 | [FindThatPod - The Best Podcasts By Women](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-by-women.opml) | 2025-10-23 |
 | [FindThatPod - The Best Geopolitics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-geopolitics-podcasts.opml) | 2025-10-23 |
