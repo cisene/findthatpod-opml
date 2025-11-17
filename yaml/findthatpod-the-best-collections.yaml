@@ -6,6 +6,68 @@ global:
 
 issues:
 
+- name: The Best History Podcasts for Kids
+  opml: findthatpod-the-best-history-podcasts-for-kids.opml
+  date: 2025-11-12
+  htmlUrl: https://findthatpod.com/best-history-podcasts-for-kids/
+  podcasts:
+
+  - title: The Ancients
+    htmlUrl: https://www.historyhit.com/
+    xmlUrl: https://access.acast.com/rss/f2925f7a-eb08-471a-9958-387cb5ee6353
+
+  - title: 'Bedtime History: Inspirational Stories for Kids and Families'
+    htmlUrl: http://www.bedtimehistorystories.com/
+    xmlUrl: https://feeds.megaphone.fm/TNM4740080425
+
+  - title: 'The Past and The Curious: A History Podcast for Kids and Families'
+    htmlUrl: http://thepastandthecurious.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML5717012507
+
+  - title: Good Night Stories for Rebel Girls
+    htmlUrl: https://www.rebelgirls.com/pages/podcast
+    xmlUrl: https://feeds.megaphone.fm/RGS8260109708
+
+  - title: Historical Records
+    htmlUrl: https://www.iheart.com/podcast/1119-historical-records-212884903/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/88f08e26-2b32-4038-9b36-b1d201415424/199752c1-6944-4343-9e51-b1d20141ec68/podcast.rss
+
+  - title: Gone Medieval
+    htmlUrl: https://www.historyhit.com/podcasts/
+    xmlUrl: https://access.acast.com/rss/11c1773b-6d50-4dbb-b543-483046bdc241
+
+  - title: Forever Ago
+    htmlUrl: https://www.brainson.org/collection/forever-ago-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/b8875c63-a193-45b5-aa1d-b375011931fc/e0ab420a-193b-4f3c-89bb-b37501193208/podcast.rss
+
+  - title: History Storytime - For Kids
+    htmlUrl: https://historystorytime.podbean.com/
+    xmlUrl: https://feed.podbean.com/historystorytime/feed.xml
+
+  - title: The Explorers Podcast
+    htmlUrl: http://www.explorerspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL4434397541
+
+  - title: Real Cool History for Kids
+    htmlUrl: https://directory.libsyn.com/shows/view/id/realcoolhistoryforkids
+    xmlUrl: https://realcoolhistoryforkids.libsyn.com/rss
+
+  - title: You're Dead to Me
+    htmlUrl: http://www.bbc.co.uk/programmes/p07mdbhg
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+
+  - title: Anytime Now
+    htmlUrl: https://honesthistory.co/
+    xmlUrl: https://honesthistory.libsyn.com/rss
+
+  - title: Who, When, Wow!
+    htmlUrl: https://art19.com/shows/who-when-wow
+    xmlUrl: https://rss.art19.com/who-when-wow
+
+  - title: Cool People Who Did Cool Stuff
+    htmlUrl: https://www.iheart.com/podcast/1119-cool-people-who-did-cool-96003360/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/45bcda9a-4724-45c0-82ca-ae7f00e1dd18/f21245f2-a297-42f7-a016-ae7f00e390c4/podcast.rss
+
 - name: The Best Unbiased News Podcasts
   opml: findthatpod-the-best-unbiased-news-podcasts.opml
   date: 2025-11-11
