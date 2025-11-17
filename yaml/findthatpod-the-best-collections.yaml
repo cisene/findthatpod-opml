@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Interior Design Podcasts
+  opml: findthatpod-the-best-interior-design-podcasts.opml
+  date: 2025-11-13
+  htmlUrl: https://findthatpod.com/best-interior-design-podcasts/
+  podcasts:
+
+  - title: The Great Indoors
+    htmlUrl: https://cms.megaphone.fm/channel/thegreatindoors?selected=NSR8182875809
+    xmlUrl: https://feeds.megaphone.fm/thegreatindoors
+
+  - title: Hot Young Designers Club | Interior Design Business Podcast
+    htmlUrl: http://www.hotyoungdesignersclub.com/
+    xmlUrl: https://feeds.captivate.fm/hotyoungdesignersclub/
+
+  - title: Dear Alice | Interior Design
+    htmlUrl: https://dearalice.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/ALH1698619045
+
+  - title: Holistic Interior Design Podcast
+    htmlUrl: https://www.tigerveil.com/
+    xmlUrl: https://feeds.captivate.fm/holistic-interior-design/
+
+  - title: The Chairish Podcast
+    htmlUrl: http://www.chairish.com/
+    xmlUrl: https://feed.pippa.io/public/shows/the-chairish-podcast
+
+  - title: The Ins & Outs
+    htmlUrl: https://shows.acast.com/the-ins
+    xmlUrl: https://feeds.acast.com/public/shows/64c8a536fc49e20011f996b0
+
+  - title: The Chromologist
+    htmlUrl: https://www.farrow-ball.com/the-chromologist/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/the-chromologist
+
+  - title: How to Decorate
+    htmlUrl: http://www.howtodecorate.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/BDS9462352629
+
+  - title: Fig & Farm at Home, Decorating Home, Interior Design, Decorating Home Ideas, Home Design, Decorating Ideas Room
+    htmlUrl: https://figandfarmathome.com/
+    xmlUrl: https://feed.podbean.com/figandfarmathome/feed.xml
+
+  - title: Decorating Tips and Tricks
+    htmlUrl: https://art19.com/shows/decorating-tips-and-tricks
+    xmlUrl: https://rss.art19.com/decorating-tips-and-tricks
+
+  - title: The Inside Stylists podcast
+    htmlUrl: http://insidestylists.com/podcast/
+    xmlUrl: https://insidestylists.libsyn.com/rss
+
+  - title: Uploft Interior Design
+    htmlUrl: https://affordableinteriordesign.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/IMP5018112653
+
+  - title: At Home with Lauren Keenan | Home, Lifestyle & Interior Design
+    htmlUrl: https://laurenkeenan.com.au/interior-design-podcast
+    xmlUrl: https://rss.whooshkaa.com/rss/podcast/id/1234
+
+  - title: Resilient by Design with Rebecca Hay
+    htmlUrl: https://rebeccahay.com/podcast/
+    xmlUrl: https://resilientbydesign.libsyn.com/rss
+
+  - title: House Guest by Country & Town House | Interior Designer Interviews
+    htmlUrl: https://podcasters.spotify.com/pod/show/house-guest
+    xmlUrl: https://anchor.fm/s/73554ee8/podcast/rss
+
+  - title: Monocle on Design
+    htmlUrl: https://monocle.com/radio/shows/monocle-on-design
+    xmlUrl: http://feeds.feedburner.com/Monocle24SectionD
+
+  - title: Home Design Chat with Nancy
+    htmlUrl: http://designerscirclehq.com/
+    xmlUrl: https://anchor.fm/s/1512f240/podcast/rss
+
+  - title: Interior Design Business
+    htmlUrl: https://interiordesignbusinessacademy.com/
+    xmlUrl: https://rss.buzzsprout.com/2026987.rss
+
+  - title: The Interiors Podcast
+    htmlUrl: https://tanyaneufeld.com/theinteriorspodcast
+    xmlUrl: https://anchor.fm/s/10ab9e6cc/podcast/rss
+
+  - title: Design Time
+    htmlUrl: https://anchor.fm/dominodesigntime
+    xmlUrl: https://feeds.megaphone.fm/RECU3690892334
+
+  - title: The Interior Design Business
+    htmlUrl: https://www.podfollow.com/the-interior-design-business
+    xmlUrl: https://feeds.castos.com/kwd2v
+
+  - title: A Well-Designed Business® | Interior Design Business Podcast
+    htmlUrl: https://luannnigara.com/a-well-designed-business
+    xmlUrl: https://feeds.megaphone.fm/awelldesignedbusiness
+
+  - title: The Interior Design Business CEO
+    htmlUrl: https://www.desicreswell.com/podcast
+    xmlUrl: https://feeds.libsyn.com/445578/rss
+
 - name: The Best History Podcasts for Kids
   opml: findthatpod-the-best-history-podcasts-for-kids.opml
   date: 2025-11-12
