@@ -45,10 +45,41 @@ template:
 
 body:
 
+  - issue:    337
+    title:    'Find That Pod #337'
+    pubDate:  '2025-11-07'
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-337
+    contents:
+
+    - podcast:
+        title: Babalu
+        htmlUrl: https://uneasytiger.com/
+        xmlUrl: https://feeds.transistor.fm/babalu
+
+    - podcast:
+        title: How Do We Manage?
+        htmlUrl: https://www.instagram.com/howdowemanage/
+        xmlUrl: https://feeds.megaphone.fm/howdowemanage
+
+    - podcast:
+        title: So Your Parents Are Old
+        htmlUrl: https://www.campsidemedia.com/about
+        xmlUrl: https://feeds.megaphone.fm/fallen-angel
+
+    - podcast:
+        title: The Devil You Know with Sarah Marshall
+        htmlUrl: https://www.cbc.ca/radio/podcastnews
+        xmlUrl: https://www.cbc.ca/podcasting/includes/thedevilyouknow.xml
+
+    - podcast:
+        title: 'Suspicious Minds: AI and Psychosis'
+        htmlUrl: https://shows.acast.com/suspicious-minds
+        xmlUrl: https://feeds.acast.com/public/shows/68e4372725822f0dae584c79
+
   - issue:    336
     title:    'Find That Pod #336'
     pubDate:  '2025-10-31'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-336
     contents:
 
     - podcast:
@@ -79,7 +110,7 @@ body:
   - issue:    335
     title:    'Find That Pod #335'
     pubDate:  '2025-10-24'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-335
     contents:
 
     - podcast:
@@ -110,7 +141,7 @@ body:
   - issue:    334
     title:    'Find That Pod #334'
     pubDate:  '2025-10-17'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-334
     contents:
 
     - podcast:
@@ -141,7 +172,7 @@ body:
   - issue:    333
     title:    'Find That Pod #333'
     pubDate:  '2025-10-10'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-333
     contents:
 
     - podcast:
@@ -172,7 +203,7 @@ body:
   - issue:    332
     title:    'Find That Pod #332'
     pubDate:  '2025-10-03'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-332
     contents:
 
     - podcast:
@@ -203,7 +234,7 @@ body:
   - issue:    331
     title:    'Find That Pod #331'
     pubDate:  '2025-09-26'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-331
     contents:
 
     - podcast:
@@ -234,7 +265,7 @@ body:
   - issue:    330
     title:    'Find That Pod #330'
     pubDate:  '2025-09-19'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-330
     contents:
 
     - podcast:
@@ -265,7 +296,7 @@ body:
   - issue:    329
     title:    'Find That Pod #329'
     pubDate:  '2025-09-12'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-329
     contents:
 
     - podcast:
@@ -296,7 +327,7 @@ body:
   - issue:    328
     title:    'Find That Pod #328'
     pubDate:  '2025-09-05'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-328
     contents:
 
     - podcast:
@@ -327,7 +358,7 @@ body:
   - issue:    327
     title:    'Find That Pod #327'
     pubDate:  '2025-08-29'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-327
     contents:
 
     - podcast:
@@ -358,7 +389,7 @@ body:
   - issue:    326
     title:    'Find That Pod #326'
     pubDate:  '2025-08-22'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-326
     contents:
 
     - podcast:
@@ -389,7 +420,7 @@ body:
   - issue:    325
     title:    'Find That Pod #325'
     pubDate:  '2025-08-15'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-325
     contents:
 
     - podcast:
@@ -420,7 +451,7 @@ body:
   - issue:    324
     title:    'Find That Pod #324'
     pubDate:  '2025-08-08'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-324
     contents:
 
     - podcast:
@@ -451,7 +482,7 @@ body:
   - issue:    323
     title:    'Find That Pod #323'
     pubDate:  '2025-08-01'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-323
     contents:
 
     - podcast:
@@ -482,7 +513,7 @@ body:
   - issue:    322
     title:    'Find That Pod #322'
     pubDate:  '2025-07-25'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-322
     contents:
 
     - podcast:
@@ -513,7 +544,7 @@ body:
   - issue:    321
     title:    'Find That Pod #321'
     pubDate:  '2025-07-18'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-321
     contents:
 
     - podcast:
@@ -544,7 +575,7 @@ body:
   - issue: 320
     title: 'Find That Pod #320'
     pubDate:  '2025-07-11'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-320
     contents:
 
     - podcast:
@@ -575,7 +606,7 @@ body:
   - issue: 319
     title: 'Find That Pod #319'
     pubDate:  '2025-07-04'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-319
     contents:
 
     - podcast:
@@ -606,7 +637,7 @@ body:
   - issue: 318
     title: 'Find That Pod #318'
     pubDate: '2025-06-27'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-318
     contents:
 
     - podcast:
@@ -637,7 +668,7 @@ body:
   - issue:    317
     title:    'Find That Pod #317'
     pubDate:  '2025-06-20'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-317
     contents:
 
     - podcast:
@@ -668,7 +699,7 @@ body:
   - issue:    316
     title:    'Find That Pod #316'
     pubDate:  '2026-06-13'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-316
     contents:
 
     - podcast:
@@ -699,7 +730,7 @@ body:
   - issue:    315
     title:    'Find That Pod #315'
     pubDate:  '2025-06-06'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-315
     contents:
 
     - podcast:
@@ -730,7 +761,7 @@ body:
   - issue:    314
     title:    'Find That Pod #314'
     pubDate:  '2025-05-30'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-314
     contents:
 
     - podcast:
@@ -761,7 +792,7 @@ body:
   - issue:    313
     title:    'Find That Pod #313'
     pubDate:  '2005-05-23'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-313
     contents:
 
     - podcast:
@@ -792,7 +823,7 @@ body:
   - issue:    312
     title:    'Find That Pod #312'
     pubDate:  '2025-05-16'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-312
     contents:
 
     - podcast:
@@ -823,7 +854,7 @@ body:
   - issue:    311
     title:    'Find That Pod #311'
     pubDate:  '2025-05-09'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-311
     contents:
 
     - podcast:
@@ -854,7 +885,7 @@ body:
   - issue:    310
     title:    'Find That Pod #310'
     pubDate:  '2025-05-02'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-310
     contents:
 
     - podcast:
@@ -885,7 +916,7 @@ body:
   - issue:    309
     title:    'Find That Pod #309'
     pubDate:  '2025-04-25'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-309
     contents:
 
     - podcast:
@@ -916,7 +947,7 @@ body:
   - issue:    308
     title:    'Find That Pod #308'
     pubDate:  '2025-04-18'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-308
     contents:
 
     - podcast:
@@ -947,7 +978,7 @@ body:
   - issue:    307
     title:    'Find That Pod #307'
     pubDate:  '2025-04-11'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-307
     contents:
 
     - podcast:
@@ -978,7 +1009,7 @@ body:
   - issue:    306
     title:    'Find That Pod #306'
     pubDate:  '2025-04-04'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-306
     contents:
 
     - podcast:
@@ -1009,7 +1040,7 @@ body:
   - issue:    305
     title:    'Find That Pod #305'
     pubDate:  '2025-03-28'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-305
     contents:
 
     - podcast:
@@ -1040,7 +1071,7 @@ body:
   - issue:    304
     title:    'Find That Pod #304'
     pubDate:  '2025-03-21'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-304
     contents:
 
     - podcast:
@@ -1071,7 +1102,7 @@ body:
   - issue:    303
     title:    'Find That Pod #303'
     pubDate:  '2020-03-14'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-303
     contents:
 
     - podcast:
@@ -1102,7 +1133,7 @@ body:
   - issue:    302
     title:    'Find That Pod #302'
     pubDate:  '2025-03-07'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-302
     contents:
 
     - podcast:
@@ -1133,7 +1164,7 @@ body:
   - issue:    301
     title:    'Find That Pod #301'
     pubDate:  '2025-02-28'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-301
     contents:
 
     - podcast:
@@ -1164,7 +1195,7 @@ body:
   - issue:    300
     title:    'Find That Pod #300'
     pubDate:  '2025-02-21'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-300
     contents:
 
     - podcast:
@@ -1195,7 +1226,7 @@ body:
   - issue:    299
     title:    'Find That Pod #299'
     pubDate:  '2025-02-14'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-299
     contents:
 
     - podcast:
@@ -1226,7 +1257,7 @@ body:
   - issue:    298
     title:    'Find That Pod #298'
     pubDate:  '2025-02-07'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-298
     contents:
 
     - podcast:
@@ -1257,7 +1288,7 @@ body:
   - issue:    297
     title:    'Find That Pod #297'
     pubDate:  '2025-01-31'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-297
     contents:
 
     - podcast:
@@ -1288,7 +1319,7 @@ body:
   - issue:    296
     title:    'Find That Pod #296'
     pubDate:  '2025-01-24'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-296
     contents:
 
     - podcast:
@@ -1319,7 +1350,7 @@ body:
   - issue:    295
     title:    'Find That Pod #295'
     pubDate:  '2025-01-17'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-295
     contents:
 
     - podcast:
@@ -1350,7 +1381,7 @@ body:
   - issue:    294
     title:    'Find That Pod #294'
     pubDate:  '2025-01-10'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-294
     contents:
 
     - podcast:
@@ -1381,7 +1412,7 @@ body:
   - issue:    293
     title:    'Find That Pod #293'
     pubDate:  '2025-01-03'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-293
     contents:
 
     - podcast:
@@ -1412,7 +1443,7 @@ body:
   - issue:    292
     title:    'Find That Pod #292'
     pubDate:  '2024-12-13'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-292
     contents:
 
     - podcast:
@@ -1443,7 +1474,7 @@ body:
   - issue:    291
     title:    'Find That Pod #291'
     pubDate:  '2024-12-06'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-291
     contents:
 
     - podcast:
@@ -1474,7 +1505,7 @@ body:
   - issue:    290
     title:    'Find That Pod #290'
     pubDate:  '2024-11-29'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-290
     contents:
 
     - podcast:
@@ -1505,7 +1536,7 @@ body:
   - issue:    289
     title:    'Find That Pod #289'
     pubDate:  '2024-11-22'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-289
     contents:
 
     - podcast:
@@ -1536,7 +1567,7 @@ body:
   - issue:    288
     title:    'Find That Pod #288'
     pubDate:  '2024-11-15'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-288
     contents:
 
     - podcast:
@@ -1567,7 +1598,7 @@ body:
   - issue:    287
     title:    'Find That Pod #287'
     pubDate:  '2024-11-08'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-287
     contents:
 
     - podcast:
@@ -1598,7 +1629,7 @@ body:
   - issue:    286
     title:    'Find That Pod #286'
     pubDate:  '2024-11-01'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-286
     contents:
 
     - podcast:
@@ -1629,7 +1660,7 @@ body:
   - issue:    285
     title:    'Find That Pod #285'
     pubDate:  '2024-10-25'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-285
     contents:
 
     - podcast:
@@ -1660,7 +1691,7 @@ body:
   - issue:    284
     title:    'Find That Pod #284'
     pubDate:  '2024-10-18'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-284
     contents:
 
     - podcast:
@@ -1691,7 +1722,7 @@ body:
   - issue:    283
     title:    'Find That Pod #283'
     pubDate:  '2024-10-11'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-283
     contents:
 
     - podcast:
@@ -1722,7 +1753,7 @@ body:
   - issue:    282
     title:    'Find That Pod #282'
     pubDate:  '2024-10-04'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-282
     contents:
 
     - podcast:
@@ -1753,7 +1784,7 @@ body:
   - issue:    281
     title:    'Find That Pod #281'
     pubDate:  '2024-09-27'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-281
     contents:
 
     - podcast:
@@ -1784,7 +1815,7 @@ body:
   - issue:    280
     title:    'Find That Pod #280'
     pubDate:  '2024-09-20'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-280
     contents:
 
     - podcast:
@@ -1815,7 +1846,7 @@ body:
   - issue:    279
     title:    'Find That Pod #279'
     pubDate:  '2024-09-13'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-279
     contents:
 
     - podcast:
@@ -1846,7 +1877,7 @@ body:
   - issue:    278
     title:    'Find That Pod #278'
     pubDate:  '2024-09-06'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-278
     contents:
 
     - podcast:
@@ -1877,7 +1908,7 @@ body:
   - issue:    277
     title:    'Find That Pod #277'
     pubDate:  '2024-08-30'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-277
     contents:
 
     - podcast:
@@ -1908,7 +1939,7 @@ body:
   - issue:    276
     title:    'Find That Pod #276'
     pubDate:  '2024-08-23'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-276
     contents:
 
     - podcast:
@@ -1939,7 +1970,7 @@ body:
   - issue:    275
     title:    'Find That Pod #275'
     pubDate:  '2024-08-16'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-275
     contents:
 
     - podcast:
@@ -1970,7 +2001,7 @@ body:
   - issue:    274
     title:    'Find That Pod #274'
     pubDate:  '2024-08-09'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-274
     contents:
 
     - podcast:
@@ -2001,7 +2032,7 @@ body:
   - issue:    273
     title:    'Find That Pod #273'
     pubDate:  '2024-08-02'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-273
     contents:
 
     - podcast:
@@ -2032,7 +2063,7 @@ body:
   - issue:    272
     title:    'Find That Pod #272'
     pubDate:  '2024-07-26'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-272
     contents:
 
     - podcast:
@@ -2063,7 +2094,7 @@ body:
   - issue:    271
     title:    'Find That Pod #271'
     pubDate:  '2024-07-19'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-271
     contents:
 
     - podcast:
@@ -2094,7 +2125,7 @@ body:
   - issue:    270
     title:    'Find That Pod #270'
     pubDate:  '2024-07-12'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-270
     contents:
 
     - podcast:
@@ -2125,7 +2156,7 @@ body:
   - issue:    269
     title:    'Find That Pod #269'
     pubDate:  '2024-07-05'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-269
     contents:
 
     - podcast:
