@@ -6,6 +6,88 @@ global:
 
 issues:
 
+- name: The Best Unbiased News Podcasts
+  opml: findthatpod-the-best-unbiased-news-podcasts.opml
+  date: 2025-11-11
+  htmlUrl: https://findthatpod.com/best-unbiased-news-podcasts/
+  podcasts:
+
+  - title: Global News Podcast
+    htmlUrl: http://www.bbc.co.uk/programmes/p02nq0gn
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+
+  - title: Tangle
+    htmlUrl: https://www.readtangle.com/
+    xmlUrl: https://feeds.acast.com/public/shows/66510864c0852400122bc7be
+
+  - title: NPR News Now
+    htmlUrl: https://www.npr.org/podcasts/500005/npr-news-now
+    xmlUrl: https://feeds.npr.org/500005/podcast.xml
+
+  - title: Marketplace
+    htmlUrl: https://www.marketplace.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/marketplace
+
+  - title: PBS News Hour
+    htmlUrl: https://www.pbs.org/newshour/video
+    xmlUrl: https://www.pbs.org/newshour/feeds/rss/podcasts/show
+
+  - title: The Globalist
+    htmlUrl: https://monocle.com/radio/shows/the-globalist
+    xmlUrl: https://feeds.feedburner.com/Monocle24TheGlobalist
+
+  - title: The World with Richard Engel and Yalda Hakim
+    htmlUrl: https://the-world.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/the-world/
+
+  - title: Reuters World News
+    htmlUrl: https://www.reuters.com/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/reutersworldnews
+
+  - title: WSJ What’s News
+    htmlUrl: https://www.wsj.com/podcasts/whats-news
+    xmlUrl: https://video-api.wsj.com/podcast/rss/wsj/whats-news
+
+  - title: Left, Right & Center
+    htmlUrl: https://www.kcrw.com/news/shows/left-right-center?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://leftrightandcenter-feed.kcrw.com/
+
+  - title: Skimm This
+    htmlUrl: https://www.theskimm.com/skimm-this
+    xmlUrl: https://feeds.megaphone.fm/skimm-this
+
+  - title: No Agenda Show
+    htmlUrl: http://noagendashow.net/
+    xmlUrl: http://feed.nashownotes.com/rss.xml
+
+  - title: Morning Wire
+    htmlUrl: https://www.dailywire.com/podcasts/morning-wire
+    xmlUrl: https://feeds.megaphone.fm/BVDWV8747925072
+
+  - title: Breaking Points with Krystal and Saagar
+    htmlUrl: https://www.iheart.com/podcast/867-breaking-points-with-kryst-83441143/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss
+
+  - title: The News Agents
+    htmlUrl: https://www.thenewsagents.co.uk/
+    xmlUrl: https://feeds.captivate.fm/the-news-agents/
+
+  - title: Today, Explained
+    htmlUrl: https://www.vox.com/todayexplained
+    xmlUrl: https://feeds.megaphone.fm/VMP5705694065
+
+  - title: Newscast
+    htmlUrl: http://www.bbc.co.uk/programmes/p05299nl
+    xmlUrl: https://podcasts.files.bbci.co.uk/p05299nl.rss
+
+  - title: The Intelligence from The Economist
+    htmlUrl: https://www.economist.com/audio/podcasts/the-intelligence
+    xmlUrl: https://access.acast.com/rss/d556eb54-6160-4c85-95f4-47d9f5216c49
+
+  - title: Up First from NPR
+    htmlUrl: https://www.npr.org/podcasts/510318/up-first
+    xmlUrl: https://feeds.npr.org/510318/podcast.xml
+
 - name: The Best Podcasts About Anxiety
   opml: findthatpod-the-best-podcasts-about-anxiety.opml
   date: 2025-10-31

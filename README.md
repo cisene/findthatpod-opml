@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Unbiased News Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-unbiased-news-podcasts.opml) | 2025-11-11 |
 | [FindThatPod - The Best Podcasts About Anxiety](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-anxiety.opml) | 2025-10-31 |
 | [FindThatPod - The Best Fashion Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-fashion-podcasts.opml) | 2025-10-31 |
 | [FindThatPod - The Best Software Engineering Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-software-engineering-podcasts.opml) | 2025-10-29 |
