@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    338
+    title:    'Find That Pod #338'
+    pubDate:  '2025-11-14'
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-338
+    contents:
+
+    - podcast:
+        title: Deep Dream State
+        htmlUrl: https://deepdreamstate.blubrry.net/
+        xmlUrl: https://feeds.blubrry.com/feeds/3796123.xml
+
+    - podcast:
+        title: The Last Invention
+        htmlUrl: https://groundnews.com/invent
+        xmlUrl: https://feeds.megaphone.fm/thelastinvention
+
+    - podcast:
+        title: Not Another Medical Podcast
+        htmlUrl: https://notanothermedicalpodcast.podbean.com/
+        xmlUrl: https://feed.podbean.com/notanothermedicalpodcast/feed.xml
+
+    - podcast:
+        title: The British Broadcasting Century with Paul Kerensa
+        htmlUrl: https://bbcentury.podbean.com/
+        xmlUrl: https://feed.podbean.com/bbcentury/feed.xml
+
+    - podcast:
+        title: Havoc Town
+        htmlUrl: https://www.iheart.com/podcast/1119-havoc-town-289344752/
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/35639ce5-ab17-4677-9bfd-b3360175b4cb/536644e9-e61c-4859-9460-b3360175baa4/podcast.rss
+
   - issue:    337
     title:    'Find That Pod #337'
     pubDate:  '2025-11-07'
