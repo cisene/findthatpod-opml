@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Personal Finance Podcasts
+  opml: findthatpod-the-best-personal-finance-podcasts.opml
+  date: 2025-11-19
+  htmlUrl: https://findthatpod.com/best-personal-finance-podcasts/
+  podcasts:
+
+  - title: So Money with Farnoosh Torabi
+    htmlUrl: http://somoneypodcast.com/
+    xmlUrl: https://access.acast.com/rss/65675c71c3ca8a0012804645
+
+  - title: Optimal Finance Daily - Financial Independence and Money Advice
+    htmlUrl: https://oldpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/OLD5541344269
+
+  - title: Your Money, Your Wealth
+    htmlUrl: http://yourmoneyyourwealth.com/
+    xmlUrl: https://yourmoneyyourwealth.libsyn.com/rss
+
+  - title: Many Happy Returns
+    htmlUrl: https://many-happy-returns.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/many-happy-returns/
+
+  - title: The Clark Howard Podcast
+    htmlUrl: https://www.clark.com/podcasts
+    xmlUrl: https://feeds.megaphone.fm/clarkhoward
+
+  - title: Money For the Rest of Us
+    htmlUrl: https://moneyfortherestofus.com/
+    xmlUrl: https://rss.art19.com/money-for-the-rest-of-us
+
+  - title: Jill on Money with Jill Schlesinger
+    htmlUrl: http://www.jillonmoney.com/
+    xmlUrl: https://feeds.megaphone.fm/jill-on-money
+
+  - title: Money Rehab with Nicole Lapin
+    htmlUrl: https://moneynewsnetwork.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG1669083856
+
+  - title: The Personal Finance Podcast
+    htmlUrl: http://www.thepersonalfinancepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/LLL5449685314
+
+  - title: Allworth Financial‘s Money Matters
+    htmlUrl: http://www.moneymatters.com/
+    xmlUrl: http://podcast.moneymatters.com/feed.xml
+
+  - title: Mind Your Money
+    htmlUrl: https://finance.yahoo.com/videos/series/mind-your-money/
+    xmlUrl: https://feeds.megaphone.fm/YFL4852741200
+
+  - title: Beginning Balance
+    htmlUrl: http://begbal.ynab.libsynpro.com/website
+    xmlUrl: https://begbal.libsyn.com/rss
+
+  - title: 'Women & Money: The Shit We Don''t Talk About!'
+    htmlUrl: https://pursestrings.co/
+    xmlUrl: https://rss.buzzsprout.com/1920161.rss
+
+  - title: Afford Anything
+    htmlUrl: https://affordanything.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/PDR2376775771
+
+  - title: More Money Podcast
+    htmlUrl: https://jessicamoorhouse.com/
+    xmlUrl: https://feeds.acast.com/public/shows/677d62753888e2bd7ed74c14
+
+  - title: Financial Audit
+    htmlUrl: https://calebhammer.com/
+    xmlUrl: https://rss.pdrl.fm/243632/feeds.megaphone.fm/ROOSTER4571910246
+
+  - title: Money For Couples with Ramit Sethi
+    htmlUrl: https://iwt.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/IWTYB6912370287/
+
+  - title: How to Money
+    htmlUrl: https://www.howtomoney.com/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63841C13-0D18-43DA-80AF-AE320005B8A3/AC04F6C2-CAA5-49C7-9E23-AE320005B8AD/podcast.rss
+
+  - title: It's Personal Finance Canada
+    htmlUrl: https://braunfinancial.com/
+    xmlUrl: https://anchor.fm/s/c7511ce8/podcast/rss
+
+  - title: The Stacking Benjamins Show
+    htmlUrl: https://stackingbenjamins.com/
+    xmlUrl: https://feeds.megaphone.fm/stacking-benjamins
+
+  - title: Money Guy Show
+    htmlUrl: https://moneyguy.com/
+    xmlUrl: https://feeds.megaphone.fm/moneyguyshow
+
+  - title: Financial Feminist
+    htmlUrl: https://herfirst100k.com/financial-feminist-show-notes/
+    xmlUrl: https://feeds.megaphone.fm/ADL7662808451
+
+  - title: The Financial Confessions
+    htmlUrl: https://thefinancialdiet.podbean.com/
+    xmlUrl: https://anchor.fm/s/f144b6cc/podcast/rss
+
 - name: The Best Interior Design Podcasts
   opml: findthatpod-the-best-interior-design-podcasts.opml
   date: 2025-11-13
