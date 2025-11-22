@@ -6,6 +6,128 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Math
+  opml: findthatpod-the-best-podcasts-about-math.opml
+  date: 2025-11-20
+  htmlUrl: https://findthatpod.com/best-podcasts-about-math/
+  podcasts:
+
+  - title: The Joy of x
+    htmlUrl: https://www.quantamagazine.org/tag/the-joy-of-x/
+    xmlUrl: https://api.quantamagazine.org/feed/the-joy-of-x/
+
+  - title: 'Infinitely Irrational: A Math Podcast'
+    htmlUrl: https://infinitelyirrational.podbean.com/
+    xmlUrl: https://feed.podbean.com/infinitelyirrational/feed.xml
+
+  - title: Math! Science! History!
+    htmlUrl: https://www.mathsciencehistory.com/
+    xmlUrl: https://feeds.libsyn.com/212183/rss
+
+  - title: 'Relatively Prime: Stories from the Mathematical Domain'
+    htmlUrl: https://relprime.com/
+    xmlUrl: http://feeds.feedburner.com/relprime
+
+  - title: The Build Math Minds Podcast
+    htmlUrl: https://buildmathminds.com/
+    xmlUrl: https://buildmathminds.libsyn.com/rss
+
+  - title: Breaking Math Podcast
+    htmlUrl: http://www.breakingmath.io/
+    xmlUrl: https://www.spreaker.com/show/5545277/episodes/feed
+
+  - title: Math Ed Podcast
+    htmlUrl: https://www.podomatic.com/podcasts/mathed
+    xmlUrl: https://mathed.podomatic.com/rss2.xml
+
+  - title: My Favorite Theorem
+    htmlUrl: https://kpknudson.com/my-favorite-theorem/
+    xmlUrl: https://kpknudson.com/my-favorite-theorem?format=rss
+
+  - title: A Brief History of Mathematics
+    htmlUrl: http://www.bbc.co.uk/programmes/b00srz5b
+    xmlUrl: https://podcasts.files.bbci.co.uk/b00srz5b.rss
+
+  - title: Math & Physics Podcast
+    htmlUrl: https://mathandphysics.podbean.com/
+    xmlUrl: https://anchor.fm/s/ec6b0c64/podcast/rss
+
+  - title: Math Teacher Lounge
+    htmlUrl: https://amplify.com/math-teacher-lounge
+    xmlUrl: https://feeds.buzzsprout.com/1952225.rss
+
+  - title: The Function Room
+    htmlUrl: https://link.goloudplayer.com/s/sGqTL9x7PFul
+    xmlUrl: https://rss.podplaystudio.com/2651.xml
+
+  - title: Ten Minute Math
+    htmlUrl: https://www.tenminutemath.com/
+    xmlUrl: https://anchor.fm/s/66b3ef8c/podcast/rss
+
+  - title: The Art of Mathematics
+    htmlUrl: https://theartofmathematicspodcast.com/
+    xmlUrl: https://anchor.fm/s/2da99340/podcast/rss
+
+  - title: The Joy of Why
+    htmlUrl: https://quantamagazine.org/tag/the-joy-of-why
+    xmlUrl: https://joy.quantamagazine.org/
+
+  - title: Data Science Decoded
+    htmlUrl: https://datasciencedecodedpodcast.com/
+    xmlUrl: https://anchor.fm/s/f7fd29f4/podcast/rss
+
+  - title: The Numberphile Podcast
+    htmlUrl: https://www.numberphile.com/podcast/
+    xmlUrl: https://www.numberphile.com/podcast?format=rss
+
+  - title: Chalk & Talk
+    htmlUrl: https://chalkandtalkpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/chalkandtalkpodcast/feed.xml
+
+  - title: Carry the Two
+    htmlUrl: https://www.imsi.institute/series/carry-the-two/
+    xmlUrl: https://www.imsi.institute/feed/podcast/carry-the-two/
+
+  - title: Odds and Evenings
+    htmlUrl: https://www.oddsandevenings.com/
+    xmlUrl: https://feeds.fireside.fm/oddsandevenings/rss
+
+  - title: Mathematically Speaking Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/mathematically-speaking
+    xmlUrl: https://anchor.fm/s/573b9dc/podcast/rss
+
+  - title: Math Therapy
+    htmlUrl: http://www.maththerapypodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/1734392.rss
+
+  - title: The Quanta Podcast
+    htmlUrl: https://www.quantamagazine.org/
+    xmlUrl: https://quantapodcast.quantamagazine.org/
+
+  - title: The Universe Speaks in Numbers
+    htmlUrl: https://grahamfarmelo.com/
+    xmlUrl: https://feeds.acast.com/public/shows/579a062e-90f0-49ba-abe3-6ebee6725298
+
+  - title: New Books in Mathematics
+    htmlUrl: https://newbooksnetwork.com/category/science-technology/mathematics/
+    xmlUrl: https://feeds.megaphone.fm/LIT8989774512
+
+  - title: 'Women in Math: The Limit Does Not Exist'
+    htmlUrl: https://soundcloud.com/damien-adams-662584563
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:265080741/sounds.rss
+
+  - title: The Math Club
+    htmlUrl: https://sites.libsyn.com/410831
+    xmlUrl: https://feeds.libsyn.com/410831/rss
+
+  - title: Mathematics Simplified
+    htmlUrl: https://podcasters.spotify.com/pod/show/anjalisharmamaths
+    xmlUrl: https://anchor.fm/s/206763ec/podcast/rss
+
+  - title: Making Math Moments That Matter
+    htmlUrl: https://makemathmoments.com/
+    xmlUrl: https://rss.buzzsprout.com/1721682.rss
+
 - name: The Best Personal Finance Podcasts
   opml: findthatpod-the-best-personal-finance-podcasts.opml
   date: 2025-11-19

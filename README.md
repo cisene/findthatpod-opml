@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Podcasts About Math](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-math.opml) | 2025-11-20 |
 | [FindThatPod - The Best Personal Finance Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-personal-finance-podcasts.opml) | 2025-11-19 |
 | [FindThatPod - The Best Interior Design Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-interior-design-podcasts.opml) | 2025-11-13 |
 | [FindThatPod - The Best History Podcasts for Kids](https://b19.se/data/opml/findthatpod/findthatpod-the-best-history-podcasts-for-kids.opml) | 2025-11-12 |
