@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    339
+    title:    'Find That Pod #339'
+    pubDate:  '2025-11-21'
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-339
+    contents:
+
+    - podcast:
+        title: People of Agency
+        htmlUrl: https://peopleofagency.podbean.com/
+        xmlUrl: https://feed.podbean.com/peopleofagency/feed.xml
+
+    - podcast:
+        title: David Greene is Obsessed
+        htmlUrl: https://www.campsidemedia.com/
+        xmlUrl: https://feeds.megaphone.fm/CMA5302841389
+
+    - podcast:
+        title: Agents of Scale
+        htmlUrl: https://agentsofscale.transistor.fm/
+        xmlUrl: https://feeds.transistor.fm/agents-of-scale
+
+    - podcast:
+        title: Open to Debate
+        htmlUrl: http://opentodebate.org/
+        xmlUrl: https://feeds.megaphone.fm/PNP1207584390
+
+    - podcast:
+        title: Particles of Thought
+        htmlUrl: https://www.pbs.org/wgbh/nova/
+        xmlUrl: https://publicfeeds.net/f/322/particlesofthought/feed-rss.xml
+
   - issue:    338
     title:    'Find That Pod #338'
     pubDate:  '2025-11-14'
