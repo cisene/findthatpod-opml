@@ -6,6 +6,120 @@ global:
 
 issues:
 
+- name: The Best Productivity Podcasts
+  opml: findthatpod-the-best-productivity-podcasts.opml
+  date: 2025-11-21
+  htmlUrl: https://findthatpod.com/best-productivity-podcasts/
+  podcasts:
+
+  - title: Getting Things Done
+    htmlUrl: https://gettingthingsdone.com/podcasts/
+    xmlUrl: https://gettingthingsdone.libsyn.com/rss
+
+  - title: Automators
+    htmlUrl: https://www.relay.fm/automators
+    xmlUrl: https://www.relay.fm/automators/feed
+
+  - title: Before Breakfast
+    htmlUrl: https://www.iheart.com/podcast/105-before-breakfast-30642889/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/CEBB260D-5FFC-4157-90CF-AE2D0145CA54/40E09F1F-C07A-4E46-9C4E-AE2D0145CA62/podcast.rss
+
+  - title: Mindful Productivity Podcast
+    htmlUrl: https://www.sarahsteckler.com/
+    xmlUrl: https://feeds.buzzsprout.com/1001887.rss
+
+  - title: The Action Catalyst
+    htmlUrl: https://theactioncatalyst.com/
+    xmlUrl: https://feeds.captivate.fm/the-action-catalyst
+
+  - title: ReThink Productivity Podcast
+    htmlUrl: https://rethinkproductivity.co.uk/
+    xmlUrl: https://rss.buzzsprout.com/1057942.rss
+
+  - title: The ONE Thing
+    htmlUrl: https://the1thing.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/TNM2162145979
+
+  - title: Focus on This
+    htmlUrl: https://focusonthispodcast.com/
+    xmlUrl: https://feeds.transistor.fm/focus-on-this-27f06b45-b4ab-4225-8142-4aee42d7d9ed
+
+  - title: Deep Dive with Ali Abdaal
+    htmlUrl: https://aliabdaal.com/
+    xmlUrl: https://feeds.transistor.fm/deep-dive-with-ali-abdaal
+
+  - title: Beyond The Prompt - How to use AI in your company
+    htmlUrl: https://podcast.beyondtheprompt.ai/
+    xmlUrl: https://feeds.simplecast.com/CIt_otUg
+
+  - title: The Daily Mastery Podcast by Robin Sharma
+    htmlUrl: https://www.robinsharma.com/
+    xmlUrl: https://rss.buzzsprout.com/1182776.rss
+
+  - title: The Digital Project Manager
+    htmlUrl: http://thedigitalprojectmanager.com/
+    xmlUrl: https://rss.buzzsprout.com/109730.rss
+
+  - title: Beyond the To-Do List - Productivity for Work and Life
+    htmlUrl: https://art19.com/shows/beyond-the-to-do-list
+    xmlUrl: https://rss.pdrl.fm/861b51/feeds.megaphone.fm/TNM6091206471
+
+  - title: The Tim Ferriss Show
+    htmlUrl: https://tim.blog/podcast
+    xmlUrl: https://rss.art19.com/tim-ferriss-show
+
+  - title: You've Got This | Tips & Strategies for Meaningful Productivity and Alignment in Work and Life
+    htmlUrl: https://katielinder.work/podcasts
+    xmlUrl: https://feeds.simplecast.com/LvANXQ3h
+
+  - title: Eat Sleep Work Repeat - better workplace culture
+    htmlUrl: https://www.eatsleepworkrepeat.com/
+    xmlUrl: https://feeds.acast.com/public/shows/a3c828c3-73ec-4a4b-995c-958894896ec0
+
+  - title: Best Laid Plans
+    htmlUrl: http://bestlaidplans.libsyn.com/website
+    xmlUrl: https://feeds.megaphone.fm/SAS3499979595
+
+  - title: The Productivity Show
+    htmlUrl: https://www.asianefficiency.com/podcasts/
+    xmlUrl: https://www.asianefficiency.com/podcasts/feed/
+
+  - title: 'The 5 AM Miracle: Healthy Productivity for High Achievers'
+    htmlUrl: https://www.jeffsanders.com/podcast/
+    xmlUrl: https://rss.art19.com/5-am-miracle
+
+  - title: A Productive Conversation
+    htmlUrl: https://mikevardy.com/category/podcast/
+    xmlUrl: https://feeds.transistor.fm/a-productive-conversation
+
+  - title: The Productive Woman
+    htmlUrl: https://theproductivewoman.com/
+    xmlUrl: https://feeds.podcastmirror.com/theproductivewoman
+
+  - title: Kwik Brain with Jim Kwik
+    htmlUrl: https://art19.com/shows/kwik-brain
+    xmlUrl: https://rss.art19.com/kwik-brain
+
+  - title: The Marie Forleo Podcast
+    htmlUrl: https://www.marieforleo.com/podcast
+    xmlUrl: https://themarieforleopodcast.libsyn.com/rss
+
+  - title: Just Keep Learning
+    htmlUrl: https://www.justkeeplearning.ca/
+    xmlUrl: https://feeds.simplecast.com/ImMcOmA3
+
+  - title: Deep Questions with Cal Newport
+    htmlUrl: https://www.buzzsprout.com/1121972
+    xmlUrl: https://feeds.simplecast.com/_IjaDYAj
+
+  - title: Worklife with Adam Grant
+    htmlUrl: https://www.ted.com/podcasts/worklife
+    xmlUrl: https://feeds.feedburner.com/WorklifeWithAdamGrant
+
+  - title: Cortex
+    htmlUrl: https://www.relay.fm/cortex
+    xmlUrl: https://www.relay.fm/cortex/feed
+
 - name: The Best Podcasts About Math
   opml: findthatpod-the-best-podcasts-about-math.opml
   date: 2025-11-20
