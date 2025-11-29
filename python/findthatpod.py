@@ -23,6 +23,7 @@ def htmlEncode(data):
 
 def formatDateStringUTCNow():
   result = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S")
+  # datetime.datetime.now(datetime.UTC)
   return result
 
 def formatDateString(data):

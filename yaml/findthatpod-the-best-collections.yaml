@@ -6,6 +6,60 @@ global:
 
 issues:
 
+- name: The Best Podcasts About YouTube Growth
+  opml: findthatpod-the-best-podcasts-about-youtube-growth.opml
+  date: 2025-11-26
+  htmlUrl: https://findthatpod.com/best-podcasts-about-youtube-growth/
+  podcasts:
+
+  - title: The Colin and Samir Show
+    htmlUrl: http://youtube.com/colinandsamir
+    xmlUrl: https://feeds.megaphone.fm/LI6529969937
+
+  - title: The YouTube Power Hour Podcast
+    htmlUrl: https://masterclass.erikavieira.net/podcasts/the-youtube-power-hour-podcast
+    xmlUrl: https://app.kajabi.com/podcasts/2147998220/feed
+
+  - title: YouTube Creators Hub
+    htmlUrl: http://www.youtubecreatorshub.com/
+    xmlUrl: https://youtubecreatorshub.libsyn.com/rss
+
+  - title: 'TubeTalk: Your YouTube How-To Guide'
+    htmlUrl: https://vidiq.com/
+    xmlUrl: https://rss.buzzsprout.com/271511.rss
+
+  - title: Women Of Video
+    htmlUrl: https://womenofvideo.com/
+    xmlUrl: https://anchor.fm/s/712f4fb0/podcast/rss
+
+  - title: YouTube Success - YouTube for Business & YouTube Growth, Video Marketing
+    htmlUrl: https://kingofvideo.co.uk/podcast
+    xmlUrl: https://feeds.captivate.fm/youtubesuccess/
+
+  - title: The Think Media Podcast
+    htmlUrl: http://thinkmarketingshow.com/
+    xmlUrl: https://rss.buzzsprout.com/391945.rss
+
+  - title: 'TubeBuddy Express: YouTube News and Discussion'
+    htmlUrl: http://tubebuddy.libsyn.com/podcast
+    xmlUrl: https://tubebuddy.libsyn.com/rss
+
+  - title: Video Creators
+    htmlUrl: https://videocreators.com/
+    xmlUrl: https://videocreators.libsyn.com/rss
+
+  - title: Nimmin Live - Learn About YouTube
+    htmlUrl: https://nimminlive.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/nimminlive/
+
+  - title: Tube Labs Podcast - A Podcast For YouTube Creators About Growing A YouTube Channel
+    htmlUrl: http://www.thetubeblog.com/
+    xmlUrl: https://anchor.fm/s/d990e0/podcast/rss
+
+  - title: The Upload
+    htmlUrl: https://substack.com/@robbalasabas
+    xmlUrl: https://anchor.fm/s/125c652c/podcast/rss
+
 - name: The Best Productivity Podcasts
   opml: findthatpod-the-best-productivity-podcasts.opml
   date: 2025-11-21
