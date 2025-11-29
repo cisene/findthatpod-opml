@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    340
+    title:    'Find That Pod #340'
+    pubDate:  '2025-11-28'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: A Christmas Carol
+        htmlUrl: https://themerrybeggars.com/christmas
+        xmlUrl: https://www.omnycontent.com/d/playlist/134e18ca-7af8-403f-a7eb-ad7f01861f48/8fda3a51-4ea2-45af-a92b-addb013ce03d/df2dabf6-0932-4be2-8d33-addb013d5a8b/podcast.rss
+
+    - podcast:
+        title: Crew Collective
+        htmlUrl: https://crewcollectivepodcast.com/
+        xmlUrl: https://feeds.transistor.fm/crew-collective
+
+    - podcast:
+        title: Disclosure
+        htmlUrl: https://www.iheart.com/podcast/1119-disclosure-302237686/
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/52867e9a-91f7-42c6-8553-b37800ff5dfb/4cfad03b-3a6c-4b80-9626-b37800ff61ce/podcast.rss
+
+    - podcast:
+        title: Adrift
+        htmlUrl: https://apple.co/Adrift
+        xmlUrl: https://rss.art19.com/adrift
+
+    - podcast:
+        title: Operation Night Cat
+        htmlUrl: https://www.nhpr.org/podcasts
+        xmlUrl: https://feeds.megaphone.fm/TPG5446308633
+
   - issue:    339
     title:    'Find That Pod #339'
     pubDate:  '2025-11-21'
