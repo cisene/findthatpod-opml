@@ -6,6 +6,141 @@ global:
 
 issues:
 
+
+- name: The Best Aviation Podcasts
+  opml: findthatpod-the-best-aviation-podcasts.opml
+  date: 2025-11-27
+  htmlUrl: https://findthatpod.com/best-aviation-podcasts/
+  podcasts:
+
+  - title: Airline Pilot Guy - Aviation Podcast
+    htmlUrl: http://airlinepilotguy.com/
+    xmlUrl: https://captjeff.libsyn.com/rss
+
+  - title: Hangar Talk - An Aviation Podcast
+    htmlUrl: https://aopa.org/news-and-media/podcasts/podcasts/hangar-talk
+    xmlUrl: https://feeds.megaphone.fm/AOPA4032384286
+
+  - title: Fighter Pilot Podcast
+    htmlUrl: https://redcircle.com/shows/the-fighter-pilot-podcast
+    xmlUrl: https://feeds.redcircle.com/87e44bb8-fa63-4642-a11d-e341c14c2243
+
+  - title: Pilot's Discretion from Sporty's
+    htmlUrl: https://www.sportys.com/
+    xmlUrl: https://anchor.fm/s/acb6678/podcast/rss
+
+  - title: Flight Safety Detectives
+    htmlUrl: https://flightsafetydetectives.podbean.com/
+    xmlUrl: https://feeds.simplecast.com/Wz3NUatb
+
+  - title: '"There I was..." An Aviation Podcast'
+    htmlUrl: http://www.airsafetyinstitute.org/thereiwas
+    xmlUrl: https://feeds.megaphone.fm/AOPA1855704656
+
+  - title: Simple Flying Aviation News Podcast
+    htmlUrl: https://simpleflying.com/
+    xmlUrl: https://anchor.fm/s/138024ac/podcast/rss
+
+  - title: 'Uncontrolled Airspace: General Aviation Podcast'
+    htmlUrl: https://www.uncontrolledairspace.com/
+    xmlUrl: http://feeds.feedburner.com/uncontrolledairspace
+
+  - title: Midlife Pilot Podcast
+    htmlUrl: https://midlifepilotpodcast.com/
+    xmlUrl: https://anchor.fm/s/708e26a8/podcast/rss
+
+  - title: EAA's The Green Dot - An Aviation Podcast
+    htmlUrl: https://inspire.eaa.org/series/eaas-the-green-dot-an-aviation-podcast/
+    xmlUrl: https://inspire.eaa.org/feed/podcast/
+
+  - title: 'Opposing Bases: Air Traffic Talk'
+    htmlUrl: https://www.opposingbases.com/
+    xmlUrl: https://opposingbases.libsyn.com/rss
+
+  - title: On Centerline
+    htmlUrl: https://www.buzzsprout.com/2182804
+    xmlUrl: https://feeds.buzzsprout.com/2182804.rss
+
+  - title: Inside the Aluminum Tube - The Aviation History Podcast
+    htmlUrl: https://altubepodcast.com/
+    xmlUrl: https://feed.justcast.com/shows/inside-the-aluminum-tube-with-shanon-baker/audioposts.rss
+
+  - title: AvTalk - Aviation Podcast
+    htmlUrl: https://www.flightradar24.com/blog/
+    xmlUrl: https://www.flightradar24.com/blog/feed/podcast/
+
+  - title: The Finer Points - Aviation Podcast
+    htmlUrl: https://www.learnthefinerpoints.com/
+    xmlUrl: https://tfpaviation.libsyn.com/rss
+
+  - title: Ready 4 Pushback
+    htmlUrl: https://sites.libsyn.com/449574
+    xmlUrl: https://feeds.libsyn.com/449574/rss
+
+  - title: Pilot to Pilot
+    htmlUrl: http://www.pilottopilothq.com/
+    xmlUrl: https://feeds.captivate.fm/pilot-to-pilot/
+
+  - title: Airplane Geeks Podcast
+    htmlUrl: https://www.airplanegeeks.com/
+    xmlUrl: http://www.airplanegeeks.com/?feed=podcast
+
+  - title: Captains Speaking - An Aviation Podcast
+    htmlUrl: https://feeds.acast.com/public/shows/captains-speaking-an-aviation-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/683850ae998551779f11b31c
+
+  - title: Black Box Down
+    htmlUrl: https://linktr.ee/BlackBoxDownPod
+    xmlUrl: https://feeds.megaphone.fm/blackboxdown
+
+  - title: Ask the A&Ps
+    htmlUrl: https://www.aopa.org/news-and-media/podcasts/podcasts
+    xmlUrl: https://feeds.megaphone.fm/AOPA5756489272
+
+  - title: Coffee In A Hangar
+    htmlUrl: https://coffeeinahangar.com/
+    xmlUrl: https://anchor.fm/s/f6a6ae90/podcast/rss
+
+  - title: I Learned About Flying From That
+    htmlUrl: https://podcasters.spotify.com/pod/show/ilafft
+    xmlUrl: https://feeds.megaphone.fm/FREIGHT1355878907
+
+  - title: The Afterburn Podcast
+    htmlUrl: https://bleav.com/shows/the-afterburn-podcast/
+    xmlUrl: https://feeds.simplecast.com/dHpQYpnV
+
+  - title: Two Guys on a Plane
+    htmlUrl: https://www.twoguysonaplane.com/
+    xmlUrl: https://rss.buzzsprout.com/2458177.rss
+
+  - title: Aviation Careers Podcast
+    htmlUrl: https://www.aviationcareerspodcast.com/
+    xmlUrl: https://www.aviationcareerspodcast.com/feed/
+
+  - title: Airlines Confidential Podcast
+    htmlUrl: https://www.airlinesconfidential.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:721588654/sounds.rss
+
+  - title: 21.FIVE - Professional Pilots Podcast
+    htmlUrl: https://www.21fivepodcast.com/
+    xmlUrl: https://21five.libsyn.com/rss
+
+  - title: The VSL Aviation Podcast
+    htmlUrl: http://vsl.aero/
+    xmlUrl: https://feeds.libsyn.com/98460/rss
+
+  - title: Audio Ground School by Part Time Pilot
+    htmlUrl: https://audiogroundschool.podbean.com/
+    xmlUrl: https://feed.podbean.com/AudioGroundSchool/feed.xml
+
+  - title: Behind the Prop
+    htmlUrl: https://www.behindtheprop.com/
+    xmlUrl: https://feeds.simplecast.com/eMZPyKiE
+
+  - title: Fly Cool Shit - An Aviation Podcast About Flying Cool Shit
+    htmlUrl: https://www.flycoolshit.com/episodes/
+    xmlUrl: https://flycoolshit.squarespace.com/episodes?format=rss
+
 - name: The Best Personal Development Podcasts
   opml: findthatpod-the-best-personal-development-podcasts.opml
   date: 2025-11-26

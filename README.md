@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Aviation Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-aviation-podcasts.opml) | 2025-11-27 |
 | [FindThatPod - The Best Personal Development Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-personal-development-podcasts.opml) | 2025-11-26 |
 | [FindThatPod - The Best Podcasts About YouTube Growth](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-youtube-growth.opml) | 2025-11-26 |
 | [FindThatPod - The Best Productivity Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-productivity-podcasts.opml) | 2025-11-21 |
