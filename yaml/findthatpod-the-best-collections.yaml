@@ -6,6 +6,107 @@ global:
 
 issues:
 
+- name: The Best Cryptid Podcasts
+  opml: findthatpod-the-best-cryptid-podcasts.opml
+  date: 2025-12-03
+  htmlUrl: https://findthatpod.com/best-cryptid-podcasts/
+  podcasts:
+
+  - title: Redwood Bureau
+    htmlUrl: https://eeriecast.com/
+    xmlUrl: https://feeds.megaphone.fm/dreadwood
+
+  - title: The Cryptonaut Podcast
+    htmlUrl: http://cryptonautpodcast.com/
+    xmlUrl: https://cryptonaut.libsyn.com/rss
+
+  - title: MonsterTalk
+    htmlUrl: https://www.spreaker.com/podcast/monstertalk--6267523
+    xmlUrl: https://www.spreaker.com/show/6267523/episodes/feed
+
+  - title: Quite Unusual
+    htmlUrl: https://quiteunusualpod.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/968464.rss
+
+  - title: Sasquatch Chronicles
+    htmlUrl: http://sasquatchchronicles.libsyn.com/site
+    xmlUrl: https://sasquatchchronicles.libsyn.com/rss
+
+  - title: Mothboys
+    htmlUrl: http://mothboys.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/264140.rss
+
+  - title: Ballyraven Cryptid Wildlife Protection Agency
+    htmlUrl: http://ballyraven.com/
+    xmlUrl: https://rss.buzzsprout.com/1678525.rss
+
+  - title: Cryptid Creatures
+    htmlUrl: https://cryptidcreatures.podbean.com/
+    xmlUrl: https://feed.podbean.com/cryptidcreatures/feed.xml
+
+  - title: Wild Thing
+    htmlUrl: https://www.foxtopus.ink/wildthing/
+    xmlUrl: https://media.rss.com/wild-thing/feed.xml
+
+  - title: The Boogie Monster
+    htmlUrl: https://audioboom.com/channels/4962998
+    xmlUrl: https://audioboom.com/channels/4962998.rss
+
+  - title: Urban Legends
+    htmlUrl: https://www.lukemordue.com/podcast
+    xmlUrl: https://rss.buzzsprout.com/2328999.rss
+
+  - title: Monsters Among Us
+    htmlUrl: https://audioboom.com/channels/5147816
+    xmlUrl: https://audioboom.com/channels/5147816.rss
+
+  - title: Folklore on the Rocks
+    htmlUrl: http://www.folkloreontherocks.com/
+    xmlUrl: https://folkloreontherocks.com/rss
+
+  - title: 'The Why Files: Operation Podcast'
+    htmlUrl: https://thewhyfiles.com/
+    xmlUrl: https://audioboom.com/channels/5117675.rss
+
+  - title: Yeti
+    htmlUrl: http://www.bbc.co.uk/programmes/m001nhj4
+    xmlUrl: https://podcasts.files.bbci.co.uk/m001nhj4.rss
+
+  - title: Astonishing Legends
+    htmlUrl: http://www.astonishinglegends.com/
+    xmlUrl: https://audioboom.com/channels/4322549.rss
+
+  - title: Ghosts-n-Heauxs
+    htmlUrl: https://www.ghostsnheauxs.com/
+    xmlUrl: https://rss.buzzsprout.com/261323.rss
+
+  - title: Blurry Creatures
+    htmlUrl: https://blurrycreatures.com/
+    xmlUrl: https://feeds.megaphone.fm/blurrycreatures
+
+  - title: Necronomipod
+    htmlUrl: https://www.necronomipod.com/
+    xmlUrl: https://feeds.megaphone.fm/necronomipod
+
+  - title: The Cryptid Factor
+    htmlUrl: http://www.thecryptidfactor.com/
+    xmlUrl: https://feeds.acast.com/public/shows/65f7db095765b60016059179
+
+  - title: Conspiracies & Cryptids
+    htmlUrl: https://www.conspiraciesandcryptids.com/
+    xmlUrl: https://anchor.fm/s/5da3aec8/podcast/rss
+
+  - title: Paranormal Round Table
+    htmlUrl: http://prtpodcast.com/
+    xmlUrl: https://anchor.fm/s/6f9bcae8/podcast/rss
+
+  - title: Camp Cryptid
+    htmlUrl: https://www.campcryptidhorrorpodcast.com/
+    xmlUrl: https://anchor.fm/s/1059e5c54/podcast/rss
+
+  - title: Bigfoot Society
+    htmlUrl: https://www.spreaker.com/show/bigfoot-society
+    xmlUrl: https://www.spreaker.com/show/5828342/episodes/feed
 
 - name: The Best Climate Change Podcasts
   opml: findthatpod-the-best-climate-change-podcasts.opml

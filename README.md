@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Cryptid Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cryptid-podcasts.opml) | 2025-12-03 |
 | [FindThatPod - The Best Climate Change Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-climate-change-podcasts.opml) | 2025-12-03 |
 | [FindThatPod - The Best Aviation Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-aviation-podcasts.opml) | 2025-11-27 |
 | [FindThatPod - The Best Personal Development Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-personal-development-podcasts.opml) | 2025-11-26 |
