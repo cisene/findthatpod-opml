@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Podcasts About ADHD
+  opml: findthatpod-the-best-podcasts-about-adhd.opml
+  date: 2025-12-04
+  htmlUrl: https://findthatpod.com/best-podcasts-about-adhd/
+  podcasts:
+
+  - title: 'The Faster Than Normal Podcast: ADD | ADHD | Health'
+    htmlUrl: http://fasterthannormal.com/
+    xmlUrl: https://fasterthannormal.libsyn.com/rss
+
+  - title: The ADHD Skills Lab
+    htmlUrl: https://www.unconventionalorganisation.com/
+    xmlUrl: https://rss.buzzsprout.com/2179424.rss
+
+  - title: I Have ADHD Podcast
+    htmlUrl: https://art19.com/shows/i-have-adhd
+    xmlUrl: https://rss.art19.com/i-have-adhd
+
+  - title: The Hidden 20%
+    htmlUrl: https://shows.acast.com/hidden-20
+    xmlUrl: https://feeds.acast.com/public/shows/657b32c48f98e20016664592
+
+  - title: ADHD Experts Podcast
+    htmlUrl: http://additudemag.libsyn.com/
+    xmlUrl: https://additudemag.libsyn.com/rss
+
+  - title: ADHD Essentials
+    htmlUrl: https://adhdessentials.podbean.com/
+    xmlUrl: https://adhdessentials.podbean.com/feed.xml
+
+  - title: It's The ADHD-Friendly Show | Personal Growth, Well-being and Productivity for Distractible Minds
+    htmlUrl: https://itsadhdfriendly.com/
+    xmlUrl: https://anchor.fm/s/100038aa8/podcast/rss
+
+  - title: Translating ADHD
+    htmlUrl: https://translatingadhd.podbean.com/
+    xmlUrl: https://feed.podbean.com/translatingadhd/feed.xml
+
+  - title: 'Weirds of a Feather: An AuDHD-Adjacent Podcast'
+    htmlUrl: https://weirdsofafeather.podbean.com/
+    xmlUrl: https://feed.podbean.com/weirdsofafeather/feed.xml
+
+  - title: SuccessFULL With ADHD
+    htmlUrl: https://www.coachingwithbrooke.com/successfull-with-adhd
+    xmlUrl: https://rss.buzzsprout.com/2131721.rss
+
+  - title: Neurodivergent Moments
+    htmlUrl: https://shows.acast.com/neurodivergent-moments
+    xmlUrl: https://feeds.acast.com/public/shows/621d333e83ff8c00129de286
+
+  - title: The Adulting With ADHD Podcast
+    htmlUrl: https://adultingwithadhd.com/
+    xmlUrl: https://adultingwithadhd.libsyn.com/rss
+
+  - title: ADHD Chatter
+    htmlUrl: https://podcasters.spotify.com/pod/show/adhdchatter
+    xmlUrl: https://feeds.megaphone.fm/ADHD3164407625
+
+  - title: Your ADHD Besties
+    htmlUrl: http://www.adhdbesties.com/
+    xmlUrl: https://feeds.buzzsprout.com/2320105.rss
+
+  - title: Holy Sh*t I Have ADHD
+    htmlUrl: https://patreon.com/holyshitihaveadhd
+    xmlUrl: https://anchor.fm/s/4690c34c/podcast/rss
+
+  - title: Hacking Your ADHD
+    htmlUrl: http://www.hackingyouradhd.com/
+    xmlUrl: https://feeds.libsyn.com/549837/rss
+
+  - title: The Neurodivergent Woman
+    htmlUrl: https://www.dm.org.au/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/53aa80d7-d256-4221-911f-af9000132d46/aad65972-96bd-4fcf-b34e-af9000132d54/podcast.rss
+
+  - title: ADHD reWired
+    htmlUrl: http://www.adhdrewired.com/
+    xmlUrl: https://adhdbrainpod.libsyn.com/rss
+
+  - title: Secondhand Therapy
+    htmlUrl: https://secondhandtherapypod.com/
+    xmlUrl: https://feed.podbean.com/secondhandtherapypod/feed.xml
+
+  - title: AuDHD Flourishing
+    htmlUrl: https://shows.acast.com/audhd
+    xmlUrl: https://feeds.acast.com/public/shows/643789a2ba30d20010916124
+
+  - title: Divergent Conversations
+    htmlUrl: https://www.divergentpod.com/
+    xmlUrl: https://feeds.captivate.fm/divergentconversations/
+
+  - title: LadyHD
+    htmlUrl: http://www.ladyhdpod.com/
+    xmlUrl: https://ladyhd.libsyn.com/rss
+
+  - title: ADHD for Smart Ass Women with Tracy Otsuka
+    htmlUrl: https://adhdforsmartwomen.com/
+    xmlUrl: https://rss.buzzsprout.com/2316437.rss
+
 - name: The Best Cryptid Podcasts
   opml: findthatpod-the-best-cryptid-podcasts.opml
   date: 2025-12-03
