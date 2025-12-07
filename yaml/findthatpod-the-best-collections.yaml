@@ -7,6 +7,128 @@ global:
 issues:
 
 
+- name: The Best Climate Change Podcasts
+  opml: findthatpod-the-best-climate-change-podcasts.opml
+  date: 2025-12-03
+  htmlUrl: https://findthatpod.com/best-climate-change-podcasts/
+  podcasts:
+
+  - title: How to Save a Planet
+    htmlUrl: https://gimletmedia.com/shows/howtosaveaplanet
+    xmlUrl: https://feeds.megaphone.fm/howtosaveaplanet
+
+  - title: Climate Rising
+    htmlUrl: https://www.hbs.edu/environment/podcast/Pages/default.aspx
+    xmlUrl: https://feeds.megaphone.fm/TPG7476737324
+
+  - title: Climate History Podcast
+    htmlUrl: http://www.dagomardegroot.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:164549983/sounds.rss
+
+  - title: What On Earth
+    htmlUrl: https://www.cbc.ca/radio/whatonearth
+    xmlUrl: https://www.cbc.ca/podcasting/includes/whatonearth.xml
+
+  - title: A Matter of Degrees
+    htmlUrl: https://www.degreespod.com/
+    xmlUrl: https://feeds.megaphone.fm/FRQNCY1934622158
+
+  - title: What Could Go Right?
+    htmlUrl: https://theprogressnetwork.org/
+    xmlUrl: https://feeds.megaphone.fm/TPG9895805104
+
+  - title: Invested In Climate
+    htmlUrl: https://invested-in-climate.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/invested-in-climate/
+
+  - title: The Climate Pod
+    htmlUrl: http://theclimatepod.libsyn.com/website
+    xmlUrl: https://theclimatepod.libsyn.com/rss
+
+  - title: Sea Change
+    htmlUrl: https://www.wwno.org/podcast/sea-change
+    xmlUrl: https://publicfeeds.net/f/3426/feed-rss.xml
+
+  - title: 'Outrage + Optimism: The Climate Podcast'
+    htmlUrl: https://shows.acast.com/outrage-optimism
+    xmlUrl: https://feeds.acast.com/public/shows/6781112bec40818e0b501b6a
+
+  - title: For What It’s Earth
+    htmlUrl: https://forwhatitsearth.podbean.com/
+    xmlUrl: https://feedcdn.podbean.com/forwhatitsearth/feed.xml
+
+  - title: The RADIO ECOSHOCK Show
+    htmlUrl: https://www.ecoshock.org/
+    xmlUrl: https://www.ecoshock.org/feed/lofi
+
+  - title: The Climate Question
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xtvb6
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtvb6.rss
+
+  - title: Climate Connections
+    htmlUrl: https://www.yaleclimateconnections.org/
+    xmlUrl: https://climateconnections.libsyn.com/rss
+
+  - title: Reversing Climate Change
+    htmlUrl: https://www.rosskenyon.com/
+    xmlUrl: https://anchor.fm/s/23e4da18/podcast/rss
+
+  - title: World Ocean Radio
+    htmlUrl: https://podcasts.apple.com/us/podcast/world-ocean-radio/id425361249
+    xmlUrl: https://rss.buzzsprout.com/1717967.rss
+
+  - title: Drilled
+    htmlUrl: https://www.drilled.media/
+    xmlUrl: https://feeds.megaphone.fm/CFQ4717310530
+
+  - title: Energy Gang
+    htmlUrl: https://art19.com/shows/the-energy-gang
+    xmlUrl: https://rss.art19.com/the-energy-gang
+
+  - title: Climate Tech Cocktails
+    htmlUrl: https://climate-tech-cocktails.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/zqeLhvOb
+
+  - title: Hardware to Save a Planet
+    htmlUrl: https://podcasts.fame.so/hardware-to-save-a-planet
+    xmlUrl: https://feeds.bcast.fm/hardware-to-save-a-planet
+
+  - title: Sustainababble
+    htmlUrl: https://www.sustainababble.fish/
+    xmlUrl: https://feeds.buzzsprout.com/2441041.rss
+
+  - title: Watt It Takes
+    htmlUrl: https://www.powerhouse.fund/wattittakes
+    xmlUrl: https://feeds.simplecast.com/vP_9pXZm
+
+  - title: 'Zero: The Climate Race'
+    htmlUrl: https://www.iheart.com/podcast/1119-zero-109889882
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/podcast.rss
+
+  - title: Planet A - Talks on Climate Change
+    htmlUrl: https://www.buzzsprout.com/1196159
+    xmlUrl: https://feeds.buzzsprout.com/1196159.rss
+
+  - title: America Adapts the Climate Change Podcast
+    htmlUrl: http://americaadapts.libsyn.com/podcast
+    xmlUrl: https://americaadapts.libsyn.com/rss
+
+  - title: Climate One
+    htmlUrl: http://www.climateone.org/
+    xmlUrl: https://feeds.megaphone.fm/CCC9544803627
+
+  - title: TILclimate
+    htmlUrl: http://tilclimate.mit.edu/
+    xmlUrl: https://feeds.simplecast.com/w5_4mil2
+
+  - title: The IcePod
+    htmlUrl: https://www.polarprediction.net/
+    xmlUrl: https://anchor.fm/s/69344b30/podcast/rss
+
+  - title: Catalyst with Shayle Kann
+    htmlUrl: https://www.latitudemedia.com/podcasts/catalyst
+    xmlUrl: https://feeds.megaphone.fm/catalyst
+
 - name: The Best Aviation Podcasts
   opml: findthatpod-the-best-aviation-podcasts.opml
   date: 2025-11-27
