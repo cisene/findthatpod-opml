@@ -45,10 +45,41 @@ template:
 
 body:
 
+  - issue:    342
+    title:    'Find That Pod #342'
+    pubDate:  '2025-12-12'
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-342
+    contents:
+
+    - podcast:
+        title: Business History
+        htmlUrl: https://www.pushkin.fm/podcasts
+        xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7f3d9150-a284-4eb5-afdd-b36b012c131c/d0eda9ea-f1f7-4dbc-aeac-b36b012c1726/podcast.rss
+
+    - podcast:
+        title: 1440 Explores
+        htmlUrl: https://shows.acast.com/1440-explores
+        xmlUrl: https://feeds.acast.com/public/shows/68cc5611f524410c4b2783f5
+
+    - podcast:
+        title: Under the Influence with Jo Piazza
+        htmlUrl: https://www.iheart.com/podcast/1119-under-the-influence-with-76687187/
+        xmlUrl: https://feeds.megaphone.fm/WFH6560130105
+
+    - podcast:
+        title: Sweat, Strategy, and Success
+        htmlUrl: https://www.soleilrain.com/
+        xmlUrl: https://anchor.fm/s/107bf3210/podcast/rss/
+
+    - podcast:
+        title: The Female Stoic | Literature and Philosophy Podcast
+        htmlUrl: https://www.neworldbooks.uk/
+        xmlUrl: https://anchor.fm/s/5cf3d14c/podcast/rss
+
   - issue:    341
     title:    'Find That Pod #341'
     pubDate:  '2025-12-05'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-341
     contents:
 
     - podcast:
@@ -79,7 +110,7 @@ body:
   - issue:    340
     title:    'Find That Pod #340'
     pubDate:  '2025-11-28'
-    htmlUrl:  null
+    htmlUrl:  https://findthatpod.beehiiv.com/p/find-that-pod-340
     contents:
 
     - podcast:
