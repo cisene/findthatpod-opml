@@ -6,6 +6,100 @@ global:
 
 issues:
 
+- name: The Best Canadian Politics Podcasts
+  opml: findthatpod-the-best-canadian-politics-podcasts.opml
+  date: 2025-12-11
+  htmlUrl: https://findthatpod.com/best-canadian-politics-podcasts/
+  podcasts:
+
+  - title: The House
+    htmlUrl: https://www.cbc.ca/radio/thehouse
+    xmlUrl: https://www.cbc.ca/podcasting/includes/thehouse.xml
+
+  - title: The Numbers
+    htmlUrl: https://www.patreon.com/thenumberspod
+    xmlUrl: https://feeds.acast.com/public/shows/64c804c28577ee0011417150
+
+  - title: The Strategists
+    htmlUrl: http://www.thestrategists.ca/
+    xmlUrl: https://feeds.acast.com/public/shows/624b672001207c001233d4a6
+
+  - title: West of Centre
+    htmlUrl: https://twitter.com/westofcentrecbc?lang=en
+    xmlUrl: https://www.cbc.ca/podcasting/includes/westofcentre.xml
+
+  - title: Curse of Politics
+    htmlUrl: https://www.airquotesmedia.com/curseofpolitics
+    xmlUrl: https://rss.buzzsprout.com/1827904.rss
+
+  - title: Nation to Nation
+    htmlUrl: http://aptnnews.ca/nationtonation-podcast/
+    xmlUrl: https://nationtonation.libsyn.com/rss
+
+  - title: Uncommons with Nate Erskine-Smith
+    htmlUrl: https://www.uncommons.ca/s/uncommons-podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1524264/s/104558.rss
+
+  - title: Coastal Front
+    htmlUrl: https://coastalfront.podbean.com/
+    xmlUrl: https://feed.podbean.com/coastalfront/feed.xml
+
+  - title: The Big Story
+    htmlUrl: https://thebigstorypodcast.ca/
+    xmlUrl: https://feeds.simplecast.com/Okax44bo
+
+  - title: The Hatchet
+    htmlUrl: https://hatchetmedia.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/3224756.rss
+
+  - title: CANADALAND
+    htmlUrl: https://www.canadaland.com/shows/canadaland/
+    xmlUrl: https://feeds.acast.com/public/shows/630ceae33fe37400122828c6
+
+  - title: The Beaverton Weekly Report
+    htmlUrl: https://www.thebeaverton.com/
+    xmlUrl: https://thebeaverton.libsyn.com/rss
+
+  - title: The Decibel
+    htmlUrl: https://www.theglobeandmail.com/podcasts/the-decibel/
+    xmlUrl: https://feeds.simplecast.com/TGclX98p
+
+  - title: Front Burner
+    htmlUrl: https://www.cbc.ca/frontburner
+    xmlUrl: https://www.cbc.ca/podcasting/includes/frontburner.xml
+
+  - title: '#onpoli, a TVO podcast'
+    htmlUrl: https://tvo.org/current-affairs
+    xmlUrl: https://www.omnycontent.com/d/playlist/dec49068-1c54-472a-b92f-abcd002ce4f4/084473dd-aa36-4d1d-8fbe-ac4c00f86522/226b57b9-a90e-4a70-a536-ac4c00f86530/podcast.rss
+
+  - title: At Issue
+    htmlUrl: http://www.cbc.ca/thenational
+    xmlUrl: https://www.cbc.ca/podcasting/includes/atissue.xml
+
+  - title: The CGAI Podcast Network
+    htmlUrl: https://www.cgai.ca/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:232306367/sounds.rss
+
+  - title: It's Political with Althia Raj
+    htmlUrl: https://www.thestar.com/podcasts/its-political.html
+    xmlUrl: https://feeds.libsyn.com/412859/rss
+
+  - title: On The Ledge - your Ontario politics podcast
+    htmlUrl: https://www.spreaker.com/show/on-the-ledge_1
+    xmlUrl: https://www.spreaker.com/show/5713561/episodes/feed
+
+  - title: The Backbench
+    htmlUrl: https://www.canadalandshow.com/shows/backbench
+    xmlUrl: https://feeds.acast.com/public/shows/73fb297d-023b-5595-a03d-88c27dbc7890
+
+  - title: As It Happens
+    htmlUrl: https://www.cbc.ca/aih
+    xmlUrl: https://www.cbc.ca/podcasting/includes/asithappens.xml
+
+  - title: The Bridge with Peter Mansbridge
+    htmlUrl: http://www.thepetermansbridge.ca/
+    xmlUrl: https://feeds.simplecast.com/imTmqqal
+
 - name: The Best BBC Podcasts
   opml: findthatpod-the-best-bbc-podcasts.opml
   date: 2025-12-11
