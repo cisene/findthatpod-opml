@@ -6,6 +6,120 @@ global:
 
 issues:
 
+- name: The Best Spy and Espionage Podcasts
+  opml: findthatpod-the-best-spy-and-espionage-podcasts.opml
+  date: 2025-12-10
+  htmlUrl: https://findthatpod.com/best-spy-podcasts/
+  podcasts:
+
+  - title: The Spy Who
+    htmlUrl: https://wondery.com/
+    xmlUrl: https://rss.art19.com/the-spy-who
+
+  - title: The Rest Is Classified
+    htmlUrl: https://therestisclassified.supportingcast.fm/
+    xmlUrl: https://feeds.megaphone.fm/therestisclassified
+
+  - title: SpyCast
+    htmlUrl: https://www.airwavemedia.com/spycast
+    xmlUrl: https://feeds.megaphone.fm/spycast
+
+  - title: 'The Langley Files: CIA''s Podcast'
+    htmlUrl: https://www.cia.gov/podcast/the-langley-files/
+    xmlUrl: https://feeds.transistor.fm/the-langley-files-a-cia-podcast
+
+  - title: Spybrary Spy Podcast
+    htmlUrl: http://spybrary.libsyn.com/website
+    xmlUrl: https://spybrary.libsyn.com/rss
+
+  - title: The Agent
+    htmlUrl: https://www.instagram.com/imperativepodcasts/
+    xmlUrl: https://feeds.megaphone.fm/theagent
+
+  - title: Good Assassins
+    htmlUrl: https://diversionaudio.com/podcast/good-assassins/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2f078109-3085-4bd2-a354-ae320081d9b4/5c01ece8-c254-4b40-9d0d-ae320081d9cb/podcast.rss
+
+  - title: Spy Affair
+    htmlUrl: https://wondery.com/shows/spy-affair
+    xmlUrl: https://rss.art19.com/spy-affair
+
+  - title: The Spy-Fi Guys
+    htmlUrl: https://www.the-spy-fi-guys.castos.com/
+    xmlUrl: https://feeds.castos.com/zno4
+
+  - title: I Spy
+    htmlUrl: https://foreignpolicy.com/
+    xmlUrl: https://feeds.megaphone.fm/FGP7241363441
+
+  - title: 'True Spies: Espionage | Investigation | Crime | Murder | Detective | Politics'
+    htmlUrl: https://spyscape.com/podcasts
+    xmlUrl: https://feeds.megaphone.fm/truespies
+
+  - title: SpyMasters
+    htmlUrl: https://aspectsofhistory.com/spy-masters-podcasts/
+    xmlUrl: https://feeds.megaphone.fm/IMP7041106883
+
+  - title: To Die For
+    htmlUrl: https://www.iheart.com/podcast/1119-to-die-for-157352863/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/866e1c5c-cb08-4bca-8ca2-b1260137d267/adc6e906-c7d0-4922-899e-b12601389641/podcast.rss
+
+  - title: History's Heroes
+    htmlUrl: http://www.bbc.co.uk/programmes/m001mcbp
+    xmlUrl: https://podcasts.files.bbci.co.uk/m001mcbp.rss
+
+  - title: The Black Spy Podcast
+    htmlUrl: https://blackspypodcast.libsyn.com/
+    xmlUrl: https://blackspypodcast.libsyn.com/rss
+
+  - title: 'Rachel Maddow Presents: Ultra'
+    htmlUrl: https://www.ms.now/
+    xmlUrl: https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra
+
+  - title: 'Agent of Betrayal: The Double Life of Robert Hanssen'
+    htmlUrl: https://www.cbsnews.com/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/CBS1672130867
+
+  - title: 'Secrets and Spies Podcast: Espionage | Global Issues | Current Affairs'
+    htmlUrl: https://secretsandspiespodcast.com/
+    xmlUrl: https://audioboom.com/channels/5038215.rss
+
+  - title: SpyTalk
+    htmlUrl: https://mswmedia.com/show/spytalk/
+    xmlUrl: https://feeds.simplecast.com/1uoJyOtV
+
+  - title: Spies and Lies
+    htmlUrl: https://www.facebook.com/SpiesandLiesPodcast/
+    xmlUrl: https://feeds.acast.com/public/shows/f08d3d6e-795b-44c2-9460-fe3492ee3448
+
+  - title: Mission Implausible
+    htmlUrl: https://www.iheart.com/podcast/1119-mission-implausible-146774875/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/485bef61-b08e-4849-88be-b0fa0111de37/93e2b79d-acec-404d-abfe-b0fa01125f97/podcast.rss
+
+  - title: Wind of Change
+    htmlUrl: https://crooked.com/podcast-series/wind-of-change/
+    xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
+
+  - title: Cracking the Code of Spy Movies!
+    htmlUrl: https://spymovienavigator.libsyn.com/
+    xmlUrl: https://spymovienavigator.libsyn.com/rss
+
+  - title: SPYCRAFT 101
+    htmlUrl: https://bleav.com/shows/spycraft-101/
+    xmlUrl: https://feeds.simplecast.com/ks51mpfs
+
+  - title: Cold War Conversations Podcast
+    htmlUrl: http://www.coldwarconversations.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR5326520675
+
+  - title: Operation Midnight Climax
+    htmlUrl: https://www.iheart.com/podcast/1119-operation-midnight-climax-79441951/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c7e4d0ae-6859-4cf7-934f-ae3100473251/b2f66cdb-df9f-479b-bd10-ae310047325a/podcast.rss
+
+  - title: I Spied
+    htmlUrl: https://diamantina.com.au/portfolio-item/i-spied/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/10aba7b5-e764-4c61-86e9-af900013dbec/e1ab211b-0048-4ad6-95f1-af900013dbf6/podcast.rss
+
 - name: The Best Podcasts About ADHD
   opml: findthatpod-the-best-podcasts-about-adhd.opml
   date: 2025-12-04
