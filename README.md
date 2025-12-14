@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best BBC Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-bbc-podcasts.opml) | 2025-12-11 |
 | [FindThatPod - The Best Spy and Espionage Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-spy-and-espionage-podcasts.opml) | 2025-12-10 |
 | [FindThatPod - The Best Podcasts About ADHD](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-adhd.opml) | 2025-12-04 |
 | [FindThatPod - The Best Cryptid Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-cryptid-podcasts.opml) | 2025-12-03 |

@@ -6,6 +6,140 @@ global:
 
 issues:
 
+- name: The Best BBC Podcasts
+  opml: findthatpod-the-best-bbc-podcasts.opml
+  date: 2025-12-11
+  htmlUrl: https://findthatpod.com/best-bbc-podcasts/
+  podcasts:
+
+  - title: Two Minutes Past Nine
+    htmlUrl: http://www.bbc.co.uk/programmes/m000mqp1
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000mqp1.rss
+
+  - title: Woman's Hour
+    htmlUrl: http://www.bbc.co.uk/programmes/b007qlvb
+    xmlUrl: https://podcasts.files.bbci.co.uk/b007qlvb.rss
+
+  - title: '13 Minutes Presents: The Space Shuttle'
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xttx2
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xttx2.rss
+
+  - title: Good Bad Billionaire
+    htmlUrl: http://www.bbc.co.uk/programmes/p0g7xj36
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0g7xj36.rss
+
+  - title: James Acaster's Perfect Sounds
+    htmlUrl: http://www.bbc.co.uk/programmes/p089rfmk
+    xmlUrl: https://podcasts.files.bbci.co.uk/p089rfmk.rss
+
+  - title: Extreme
+    htmlUrl: http://www.bbc.co.uk/programmes/m0021j2v
+    xmlUrl: https://podcasts.files.bbci.co.uk/m0021j2v.rss
+
+  - title: World Business Report
+    htmlUrl: http://www.bbc.co.uk/programmes/p02tb8vq
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02tb8vq.rss
+
+  - title: Desert Island Discs
+    htmlUrl: http://www.bbc.co.uk/programmes/b006qnmr
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qnmr.rss
+
+  - title: Things Fell Apart
+    htmlUrl: http://www.bbc.co.uk/programmes/m0011cpr
+    xmlUrl: https://podcasts.files.bbci.co.uk/m0011cpr.rss
+
+  - title: The Great Post Office Trial
+    htmlUrl: http://www.bbc.co.uk/programmes/m000jf7j
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000jf7j.rss
+
+  - title: A History of the World in 100 Objects
+    htmlUrl: http://www.bbc.co.uk/programmes/b00nrtd2
+    xmlUrl: https://podcasts.files.bbci.co.uk/b00nrtd2.rss
+
+  - title: Business Daily
+    htmlUrl: http://www.bbc.co.uk/programmes/p002vsxs
+    xmlUrl: https://podcasts.files.bbci.co.uk/p002vsxs.rss
+
+  - title: You're Dead to Me
+    htmlUrl: http://www.bbc.co.uk/programmes/p07mdbhg
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+
+  - title: The Missing Cryptoqueen
+    htmlUrl: http://www.bbc.co.uk/programmes/p07nkd84
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07nkd84.rss
+
+  - title: BBC Inside Science
+    htmlUrl: http://www.bbc.co.uk/programmes/b036f7w2
+    xmlUrl: https://podcasts.files.bbci.co.uk/b036f7w2.rss
+
+  - title: Bloodsport
+    htmlUrl: http://www.bbc.co.uk/programmes/m000kmjm
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000kmjm.rss
+
+  - title: The Bomb
+    htmlUrl: http://www.bbc.co.uk/programmes/p08llv8n
+    xmlUrl: https://podcasts.files.bbci.co.uk/p08llv8n.rss
+
+  - title: Bad People
+    htmlUrl: http://www.bbc.co.uk/programmes/p08lj2sz
+    xmlUrl: https://podcasts.files.bbci.co.uk/p08lj2sz.rss
+
+  - title: Death in Ice Valley
+    htmlUrl: http://www.bbc.co.uk/programmes/p060ms2h
+    xmlUrl: https://podcasts.files.bbci.co.uk/p060ms2h.rss
+
+  - title: In Our Time
+    htmlUrl: http://www.bbc.co.uk/programmes/b006qykl
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qykl.rss
+
+  - title: Uncanny
+    htmlUrl: http://www.bbc.co.uk/programmes/m0010x7c
+    xmlUrl: https://podcasts.files.bbci.co.uk/m0010x7c.rss
+
+  - title: Forest 404
+    htmlUrl: http://www.bbc.co.uk/programmes/p06tqsg3
+    xmlUrl: https://podcasts.files.bbci.co.uk/p06tqsg3.rss
+
+  - title: Sideways
+    htmlUrl: http://www.bbc.co.uk/programmes/m000s2kt
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000s2kt.rss
+
+  - title: I'm Not a Monster
+    htmlUrl: http://www.bbc.co.uk/programmes/p08yblkf
+    xmlUrl: https://podcasts.files.bbci.co.uk/p08yblkf.rss
+
+  - title: Strike
+    htmlUrl: http://www.bbc.co.uk/programmes/p0hkjrt2
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0hkjrt2.rss
+
+  - title: Fake Heiress
+    htmlUrl: http://www.bbc.co.uk/programmes/m000c9mb
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000c9mb.rss
+
+  - title: The Comb
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xtv78
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtv78.rss
+
+  - title: Discovery
+    htmlUrl: http://www.bbc.co.uk/programmes/p002w557
+    xmlUrl: https://podcasts.files.bbci.co.uk/p002w557.rss
+
+  - title: Americast
+    htmlUrl: http://www.bbc.co.uk/programmes/p07h19zz
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07h19zz.rss
+
+  - title: Who Killed Emma?
+    htmlUrl: http://www.bbc.co.uk/programmes/p09bxhkf
+    xmlUrl: https://podcasts.files.bbci.co.uk/p09bxhkf.rss
+
+  - title: Miss Me?
+    htmlUrl: http://www.bbc.co.uk/programmes/p0hhgmp6
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0hhgmp6.rss
+
+  - title: The History Hour
+    htmlUrl: http://www.bbc.co.uk/programmes/p016tmg1
+    xmlUrl: https://podcasts.files.bbci.co.uk/p016tmg1.rss
+
 - name: The Best Spy and Espionage Podcasts
   opml: findthatpod-the-best-spy-and-espionage-podcasts.opml
   date: 2025-12-10
