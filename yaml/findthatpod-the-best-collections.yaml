@@ -6,6 +6,128 @@ global:
 
 issues:
 
+- name: The Best Healthcare Podcasts
+  opml: findthatpod-the-best-healtcare-podcasts.opml
+  date: 2025-12-17
+  htmlUrl: https://findthatpod.com/best-healthcare-podcasts/
+  podcasts:
+
+  - title: What the Health? From KFF Health News
+    htmlUrl: https://kffhealthnews.org/what-the-health/
+    xmlUrl: https://whatthehealth.feeds.wamu.org/
+
+  - title: Health Affairs This Week
+    htmlUrl: http://www.healthaffairs.org/
+    xmlUrl: https://feeds.transistor.fm/health-affairs-this-week
+
+  - title: Healthcare Strategies
+    htmlUrl: https://healthcarestrategies.podbean.com/
+    xmlUrl: https://feed.podbean.com/healthcarestrategies/feed.xml
+
+  - title: Practice Acceleration Podcast
+    htmlUrl: http://practiceacceleration.com/podcast
+    xmlUrl: https://practiceacceleration.libsyn.com/rss
+
+  - title: The Business of Healthcare Podcast
+    htmlUrl: https://businessofhealthcarepodcast.com/
+    xmlUrl: https://businessofhealthcarepodcast.libsyn.com/rss
+
+  - title: Pharma Sessions
+    htmlUrl: https://podcasts.fame.so/pharma-sessions
+    xmlUrl: https://feeds.buzzsprout.com/2039560.rss
+
+  - title: Becker’s Healthcare Podcast
+    htmlUrl: https://www.beckershospitalreview.com/multimedia/podcasts.html
+    xmlUrl: https://feeds.blubrry.com/feeds/beckershealthcarepodcast.xml
+
+  - title: The WoMed
+    htmlUrl: https://art19.com/shows/the-womed
+    xmlUrl: https://rss.art19.com/the-womed
+
+  - title: The Heart of Healthcare | A Digital Health Podcast
+    htmlUrl: https://www.heartofhealthcarepodcast.com/
+    xmlUrl: https://rss.art19.com/the-heart-of-healthcare
+
+  - title: The Pulse
+    htmlUrl: https://whyy.org/programs/the-pulse/
+    xmlUrl: https://publicfeeds.net/f/12369/thepulse.xml
+
+  - title: First Opinion Podcast
+    htmlUrl: https://soundcloud.com/stat-first-opinion
+    xmlUrl: https://feeds.megaphone.fm/TTSAA7504675985
+
+  - title: Everyday Emergency
+    htmlUrl: https://www.msf.org.uk/everyday-emergency-the-msf-podcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:214103820/sounds.rss
+
+  - title: This Week in Health Tech
+    htmlUrl: http://www.thisweekinhealthtech.com/
+    xmlUrl: https://rss.buzzsprout.com/767912.rss
+
+  - title: AMA Update
+    htmlUrl: https://www.ama-assn.org/podcasts
+    xmlUrl: https://feeds.simplecast.com/NO8s3nBg
+
+  - title: 'Behind The Knife: The Surgery Podcast'
+    htmlUrl: http://behindtheknife.org/
+    xmlUrl: https://audioboom.com/channels/5046960.rss
+
+  - title: A Health Podyssey
+    htmlUrl: https://www.healthaffairs.org/podcasts
+    xmlUrl: https://feeds.transistor.fm/a-health-podyssey
+
+  - title: White Coat, Black Art
+    htmlUrl: https://www.cbc.ca/radio/whitecoat
+    xmlUrl: https://www.cbc.ca/podcasting/includes/whitecoat.xml
+
+  - title: Healthcare for Humans
+    htmlUrl: https://www.healthcareforhumans.org/
+    xmlUrl: https://feeds.megaphone.fm/healthcare-for-humans
+
+  - title: Tradeoffs
+    htmlUrl: https://www.tradeoffs.org/
+    xmlUrl: https://feeds.acast.com/public/shows/170f7fea-3078-4315-9c6b-57b666e73855
+
+  - title: Bedside Rounds
+    htmlUrl: http://www.bedside-rounds.org/
+    xmlUrl: https://bedsiderounds.libsyn.com/rss
+
+  - title: 'CareTalk: Healthcare. Unfiltered.'
+    htmlUrl: https://www.caretalkpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/1357189.rss
+
+  - title: Freakonomics, M.D.
+    htmlUrl: https://freakonomics.com/
+    xmlUrl: https://feeds.simplecast.com/Bx9_hnJH
+
+  - title: Medtech Talk
+    htmlUrl: http://healthegy.com/
+    xmlUrl: https://rss.buzzsprout.com/41374.rss
+
+  - title: The Nocturnists
+    htmlUrl: https://thenocturnists.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2404469.rss
+
+  - title: Leader to Leader
+    htmlUrl: https://www.healthcareitleaders.com/
+    xmlUrl: https://feeds.cohostpodcasting.com/oQqkBITt
+
+  - title: Creating a New Healthcare
+    htmlUrl: https://www.creatinganewhealthcare.com/
+    xmlUrl: https://www.creatinganewhealthcare.com/feed/podcast/
+
+  - title: Transforming Medical Communications
+    htmlUrl: https://podcasts.fame.so/transforming-medical-communications
+    xmlUrl: https://feeds.bcast.fm/transforming-medical-communications
+
+  - title: The Genetics Podcast
+    htmlUrl: https://podcasts.fame.so/the-genetics-podcast
+    xmlUrl: https://feeds.bcast.fm/the-genetics-podcast
+
+  - title: 'Sawbones: A Marital Tour of Misguided Medicine'
+    htmlUrl: https://sawbones.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/y1LF_sn2
+
 - name: The Best Canadian Politics Podcasts
   opml: findthatpod-the-best-canadian-politics-podcasts.opml
   date: 2025-12-11

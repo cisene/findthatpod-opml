@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Healthcare Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-healtcare-podcasts.opml) | 2025-12-17 |
 | [FindThatPod - The Best Canadian Politics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-canadian-politics-podcasts.opml) | 2025-12-11 |
 | [FindThatPod - The Best BBC Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-bbc-podcasts.opml) | 2025-12-11 |
 | [FindThatPod - The Best Spy and Espionage Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-spy-and-espionage-podcasts.opml) | 2025-12-10 |
