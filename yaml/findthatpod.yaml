@@ -45,6 +45,37 @@ template:
 
 body:
 
+  - issue:    343
+    title:    'Find That Pod #343'
+    pubDate:  '2025-12-19'
+    htmlUrl:  null
+    contents:
+
+    - podcast:
+        title: Podmasana - Illuminating Timeless Spirituality and Wisdom
+        htmlUrl: https://podmasana.castos.com/
+        xmlUrl: https://feeds.castos.com/24zpj
+
+    - podcast:
+        title: Time Zero
+        htmlUrl: http://timezeropod.com/
+        xmlUrl: https://feeds.libsyn.com/572095/rss
+
+    - podcast:
+        title: Sabotage
+        htmlUrl: https://goodluckmedia.co/
+        xmlUrl: https://feeds.megaphone.fm/sabotage
+
+    - podcast:
+        title: Debt Heads
+        htmlUrl: https://debtheadspodcast.com/
+        xmlUrl: https://feeds.transistor.fm/debt-heads
+
+    - podcast:
+        title: Next We Have with Gareth Reynolds
+        htmlUrl: https://art19.com/shows/next-we-have-with-gareth-reynolds
+        xmlUrl: https://rss.art19.com/next-we-have-with-gareth-reynolds
+
   - issue:    342
     title:    'Find That Pod #342'
     pubDate:  '2025-12-12'
