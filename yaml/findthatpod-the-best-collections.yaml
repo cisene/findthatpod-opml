@@ -6,6 +6,112 @@ global:
 
 issues:
 
+- name: The Best Sales Podcasts
+  opml: findthatpod-the-best-sales-podcasts.opml
+  date: 2025-12-18
+  htmlUrl: https://findthatpod.com/best-sales-podcasts/
+  podcasts:
+
+  - title: The Advanced Selling Podcast
+    htmlUrl: https://advancedsellingpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/2517440.rss
+
+  - title: The Sales Stoic
+    htmlUrl: https://the-sales-stoic.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/the-sales-stoic/
+
+  - title: Conversations with Women in Sales
+    htmlUrl: https://womensalespros.com/podcast/
+    xmlUrl: https://womeninsales.libsyn.com/rss
+
+  - title: The Brutal Truth about Sales and Selling - We interview the world's best B2B Enterprise salespeople.
+    htmlUrl: https://sites.libsyn.com/478476
+    xmlUrl: https://feeds.libsyn.com/478476/rss
+
+  - title: The Sales Hunter Podcast
+    htmlUrl: http://thesaleshunter.libsyn.com/website
+    xmlUrl: https://feeds.libsyn.com/381965/rss
+
+  - title: Scale Your Sales w/ Jillian Murphy
+    htmlUrl: https://scaleyoursales.podbean.com/
+    xmlUrl: https://feed.podbean.com/scaleyoursales/feed.xml
+
+  - title: The Sales Evangelist
+    htmlUrl: https://thesalesevangelist.com/
+    xmlUrl: https://feeds.captivate.fm/the-sales-evangelist/
+
+  - title: Sales Pipeline Radio
+    htmlUrl: https://salespipelineradio.com/
+    xmlUrl: https://feed.podbean.com/salespipelineradio.com/feed.xml
+
+  - title: Make It Happen Mondays - B2B Sales Talk with John Barrows
+    htmlUrl: https://podcast.jbarrows.com/public/60/Make-It-Happen-Mondays---B2B-Sales-Talk-with-John-Barrows-e8d5c0d3
+    xmlUrl: https://feeds.captivate.fm/make-it-happen-mondays/
+
+  - title: Why Did It Fail?
+    htmlUrl: https://redefiningoutbound.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/redefiningoutbound/
+
+  - title: 'Sales Gravy: Jeb Blount'
+    htmlUrl: https://salesgravy.com/
+    xmlUrl: https://salesgravy.com/feed/podcast/
+
+  - title: Higher Levels Tech Sales Podcast
+    htmlUrl: https://higherlevels.com/
+    xmlUrl: https://anchor.fm/s/f3984420/podcast/rss
+
+  - title: Sales Influence Podcast
+    htmlUrl: http://salesinfluence.libsyn.com/podcast
+    xmlUrl: https://salesinfluence.libsyn.com/rss
+
+  - title: 30 Minutes to President's Club | No-Nonsense Sales
+    htmlUrl: https://www.30mpc.com/
+    xmlUrl: https://feeds.megaphone.fm/30mpc
+
+  - title: Outbound Squad
+    htmlUrl: https://outboundsquad.com/
+    xmlUrl: https://feeds.megaphone.fm/HS5757379794
+
+  - title: 'Mental Selling: The Sales Performance Podcast'
+    htmlUrl: https://www.integritysolutions.com/
+    xmlUrl: https://feeds.transistor.fm/mental-selling-the-sales-performance-podcast
+
+  - title: 'No Big Deal : A Sales Podcast'
+    htmlUrl: https://rss.com/podcasts/nobigdeal
+    xmlUrl: https://media.rss.com/nobigdeal/feed.xml
+
+  - title: 'The Official SaaStr Podcast: SaaS | Founders | Investors'
+    htmlUrl: http://www.saastr.com/
+    xmlUrl: https://saastr.libsyn.com/rss
+
+  - title: Selling To Corporate
+    htmlUrl: https://selltocorporates.com/selling-to-corporate-podcast/
+    xmlUrl: https://sellingtocorporates.libsyn.com/rss
+
+  - title: Revenue Builders
+    htmlUrl: https://www.forcemanagement.com/revenue-builders-podcast
+    xmlUrl: https://feeds.simplecast.com/0ZQTlM6I
+
+  - title: Sales Success Stories
+    htmlUrl: https://top1.fm/
+    xmlUrl: https://top1sales.libsyn.com/rss
+
+  - title: Sales Logic - Selling Strategies That Work
+    htmlUrl: https://saleslogicpodcast.com/
+    xmlUrl: https://thriveinuncertainty.libsyn.com/rss
+
+  - title: The Win Rate Podcast with Andy Paul
+    htmlUrl: http://www.andypaul.com/
+    xmlUrl: https://feeds.transistor.fm/the-win-rate-podcast-with-andy-paul-the-science-and-art-of-great-selling
+
+  - title: Surf and Sales
+    htmlUrl: http://surfandsales.libsyn.com/website
+    xmlUrl: https://surfandsales.libsyn.com/rss
+
+  - title: Good Morning, Thought Leaders! Welcome to Your Sales Enablement Podcast
+    htmlUrl: https://goodmorningenablement.podbean.com/
+    xmlUrl: https://feed.podbean.com/goodmorningenablement/feed.xml
+
 - name: The Best Christmas Podcasts
   opml: findthatpod-the-best-christmas-podcasts.opml
   date: 2025-12-18
