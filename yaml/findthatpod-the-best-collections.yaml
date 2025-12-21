@@ -6,6 +6,108 @@ global:
 
 issues:
 
+- name: The Best Art History Podcasts
+  opml: findthatpod-the-best-art-history-podcasts.opml
+  date: 2025-12-17
+  htmlUrl: https://findthatpod.com/best-art-history-podcasts/
+  podcasts:
+
+  - title: ArtCurious Podcast
+    htmlUrl: http://www.artcuriouspodcast.com/artcuriouspodcast/
+    xmlUrl: https://feeds.megaphone.fm/artcuriouspodcast
+
+  - title: Accessible Art History
+    htmlUrl: https://www.accessiblearthistory.com/
+    xmlUrl: https://anchor.fm/s/20c95750/podcast/rss
+
+  - title: The Lonely Palette
+    htmlUrl: http://www.thelonelypalette.com/
+    xmlUrl: https://feeds.simplecast.com/tIcKNegX
+
+  - title: Getty Art + Ideas
+    htmlUrl: https://blogs.getty.edu/podcast/
+    xmlUrl: https://feeds.blubrry.com/feeds/3953921.xml
+
+  - title: 'Who Arted: Weekly Art History for All Ages'
+    htmlUrl: https://www.whoartedpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML1644080429
+
+  - title: ArtHoles
+    htmlUrl: https://artholes.podbean.com/
+    xmlUrl: https://artholes.podbean.com/feed.xml
+
+  - title: The Great Women Artists
+    htmlUrl: http://www.thegreatwomenartists.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:698800785/sounds.rss
+
+  - title: 'Stuff about Things: An Art History Podcast'
+    htmlUrl: https://soundcloud.com/lindsay-sheedy
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:113769431/sounds.rss
+
+  - title: Baroque B*tches - An Art History Gossip Podcast
+    htmlUrl: https://baroquebpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/baroquebpodcast/feed.xml
+
+  - title: 'History of Art: Undergraduate Course Lectures'
+    htmlUrl: http://podcasts.ox.ac.uk/units/department-history-art
+    xmlUrl: http://mediapub.it.ox.ac.uk/feeds/145895/audio.xml
+
+  - title: The Conversation Art Podcast
+    htmlUrl: https://theconversationpod.com/
+    xmlUrl: https://theconversationartpodcast.libsyn.com/rss
+
+  - title: A brush with...
+    htmlUrl: https://www.theartnewspaper.com/a-brush-with-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/5f243899beb8e05834e414d6
+
+  - title: Art Fraud
+    htmlUrl: https://www.iheart.com/podcast/1119-art-fraud-91404660/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f092f3a8-7837-427b-bd24-ae3900376055/dd09f2b3-e533-4835-914e-ae390037606d/podcast.rss
+
+  - title: 'In the Foreground: Conversations on Art & Writing'
+    htmlUrl: https://www.clarkart.edu/Research-Academic/Podcast/Podcast-homepage
+    xmlUrl: https://feeds.buzzsprout.com/1258175.rss
+
+  - title: The Art History Babes
+    htmlUrl: http://www.arthistorybabes.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL5120302422
+
+  - title: Dr Great Art! Art, Art History, Visual Metaphor, Politics!
+    htmlUrl: http://drgreatart.libsyn.com/podcast
+    xmlUrl: https://drgreatart.libsyn.com/rss
+
+  - title: Art of History
+    htmlUrl: https://tiktok.com/@artofhistorypod
+    xmlUrl: https://feeds.megaphone.fm/ARML4578495264
+
+  - title: The Sculptor's Funeral
+    htmlUrl: http://thesculptorsfuneral.com/
+    xmlUrl: https://thesculptorsfuneral.libsyn.com/rss
+
+  - title: Art Sense
+    htmlUrl: https://canvia.art/blogs/news
+    xmlUrl: https://www.spreaker.com/show/4993862/episodes/feed
+
+  - title: Art History for All
+    htmlUrl: https://arthistoryforall.com/
+    xmlUrl: http://feeds.feedburner.com/ArtHistoryForAll
+
+  - title: Art Sistory
+    htmlUrl: http://artsistory.libsyn.com/website
+    xmlUrl: https://artsistory.libsyn.com/rss
+
+  - title: Art Slice - A Palatable Serving of Art History
+    htmlUrl: https://redcircle.com/shows/art-slice-a-palatable-serving-of-art-history
+    xmlUrl: https://feeds.redcircle.com/0a4f122d-be7c-41d5-b626-75a76f637a0e
+
+  - title: PORTRAITS
+    htmlUrl: https://npg.si.edu/podcasts
+    xmlUrl: http://feeds.npg.si.edu/portraitspodcast
+
+  - title: Waldy and Bendy’s Adventures in Art
+    htmlUrl: https://waldyandbendy.podbean.com/
+    xmlUrl: https://feed.podbean.com/waldyandbendy/feed.xml
+
 - name: The Best Healthcare Podcasts
   opml: findthatpod-the-best-healtcare-podcasts.opml
   date: 2025-12-17
