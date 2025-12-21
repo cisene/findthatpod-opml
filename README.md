@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Christmas Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-christmas-podcasts.opml) | 2025-12-18 |
 | [FindThatPod - The Best Art History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-history-podcasts.opml) | 2025-12-17 |
 | [FindThatPod - The Best Healthcare Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-healtcare-podcasts.opml) | 2025-12-17 |
 | [FindThatPod - The Best Canadian Politics Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-canadian-politics-podcasts.opml) | 2025-12-11 |

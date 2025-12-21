@@ -6,6 +6,92 @@ global:
 
 issues:
 
+- name: The Best Christmas Podcasts
+  opml: findthatpod-the-best-christmas-podcasts.opml
+  date: 2025-12-18
+  htmlUrl: https://findthatpod.com/best-christmas-podcasts/
+  podcasts:
+
+  - title: A Christmas Carol
+    htmlUrl: https://themerrybeggars.com/christmas
+    xmlUrl: https://www.omnycontent.com/d/playlist/134e18ca-7af8-403f-a7eb-ad7f01861f48/8fda3a51-4ea2-45af-a92b-addb013ce03d/df2dabf6-0932-4be2-8d33-addb013d5a8b/podcast.rss
+
+  - title: 12 Days Pod
+    htmlUrl: https://www.spreaker.com/podcast/12-days-pod--4669422
+    xmlUrl: https://www.spreaker.com/show/4669422/episodes/feed
+
+  - title: George Bailey Was Never Born
+    htmlUrl: https://www.iheart.com/podcast/1119-george-bailey-was-never-b-127106279/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a0541a0c-64aa-4dad-b5aa-b08f00f62003/51445fd7-c7b2-4b99-bf21-b08f00f81131/podcast.rss
+
+  - title: Season's Eatings podcast
+    htmlUrl: https://seasonseatingspodcast.libsyn.com/website
+    xmlUrl: https://seasonseatingspodcast.libsyn.com/rss
+
+  - title: Christmas Past
+    htmlUrl: http://christmaspastpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/2299135.rss
+
+  - title: Christmas 365
+    htmlUrl: https://www.instagram.com/christmas365podcast
+    xmlUrl: https://feeds.megaphone.fm/PLAS5132925501
+
+  - title: Totally Rad Christmas!
+    htmlUrl: http://totallyradchristmas.com/
+    xmlUrl: https://rss.buzzsprout.com/840331.rss
+
+  - title: Christmas Podding
+    htmlUrl: http://chrstmaspodding.libsyn.com/website
+    xmlUrl: https://chrstmaspodding.libsyn.com/rss
+
+  - title: 'Bah Humbug: A Christmas Movie Podcast with Helen O''Hara'
+    htmlUrl: http://stripped.media/
+    xmlUrl: https://feeds.megaphone.fm/AUDD2195697549
+
+  - title: Christmas Stories
+    htmlUrl: https://www.focusonthefamily.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/6b62b447-e557-44a9-ae88-af6300da5440/2b12a281-b226-4636-ab33-af88014d8dd7/e052a6e9-8a12-4416-b08f-af88014d8de0/podcast.rss
+
+  - title: The Cinnamon Bear
+    htmlUrl: https://www.cinnamonbear.org/
+    xmlUrl: https://s3.amazonaws.com/cinnamonbear.org/podcast.xml
+
+  - title: Christmas Countdown
+    htmlUrl: https://www.christmascountdownshow.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP3867986710
+
+  - title: Advent Calendar House
+    htmlUrl: https://adventcalendar.house/
+    xmlUrl: https://feeds.transistor.fm/advent-calendar-house
+
+  - title: Santa Maybe, a Criminal
+    htmlUrl: https://www.spreaker.com/podcast/santa-maybe-a-criminal--6791553
+    xmlUrl: https://www.podbean.com/pw/pbblog-jk4xm-5cb3d6
+
+  - title: A Cozy Christmas Podcast
+    htmlUrl: http://cozychristmas.libsyn.com/website
+    xmlUrl: https://cozychristmas.libsyn.com/rss
+
+  - title: The Lost Christmas Podcast
+    htmlUrl: https://lostchristmaspodcast.com/
+    xmlUrl: https://anchor.fm/s/722306b4/podcast/rss
+
+  - title: Christmas Creeps
+    htmlUrl: https://www.christmascreeps.com/
+    xmlUrl: https://christmascreeps.libsyn.com/rss
+
+  - title: Weird Christmas Podcast
+    htmlUrl: https://weirdxmas.podbean.com/
+    xmlUrl: https://feed.podbean.com/weirdxmas/feed.xml
+
+  - title: It's a Wonderful Lie
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/rHwKqPkj
+
+  - title: Christmas Movies Actually
+    htmlUrl: http://nowplayingnetwork.net/christmasmoviesactually
+    xmlUrl: https://christmasmoviesactually.libsyn.com/rss
+
 - name: The Best Art History Podcasts
   opml: findthatpod-the-best-art-history-podcasts.opml
   date: 2025-12-17
@@ -13,7 +99,7 @@ issues:
   podcasts:
 
   - title: ArtCurious Podcast
-    htmlUrl: http://www.artcuriouspodcast.com/artcuriouspodcast/
+    htmlUrl: https://www.artcuriouspodcast.com/artcuriouspodcast/
     xmlUrl: https://feeds.megaphone.fm/artcuriouspodcast
 
   - title: Accessible Art History
@@ -21,7 +107,7 @@ issues:
     xmlUrl: https://anchor.fm/s/20c95750/podcast/rss
 
   - title: The Lonely Palette
-    htmlUrl: http://www.thelonelypalette.com/
+    htmlUrl: https://www.thelonelypalette.com/
     xmlUrl: https://feeds.simplecast.com/tIcKNegX
 
   - title: Getty Art + Ideas
@@ -37,7 +123,7 @@ issues:
     xmlUrl: https://artholes.podbean.com/feed.xml
 
   - title: The Great Women Artists
-    htmlUrl: http://www.thegreatwomenartists.com/
+    htmlUrl: https://www.thegreatwomenartists.com/
     xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:698800785/sounds.rss
 
   - title: 'Stuff about Things: An Art History Podcast'
@@ -49,8 +135,8 @@ issues:
     xmlUrl: https://feed.podbean.com/baroquebpodcast/feed.xml
 
   - title: 'History of Art: Undergraduate Course Lectures'
-    htmlUrl: http://podcasts.ox.ac.uk/units/department-history-art
-    xmlUrl: http://mediapub.it.ox.ac.uk/feeds/145895/audio.xml
+    htmlUrl: https://podcasts.ox.ac.uk/units/department-history-art
+    xmlUrl: https://mediapub.it.ox.ac.uk/feeds/145895/audio.xml
 
   - title: The Conversation Art Podcast
     htmlUrl: https://theconversationpod.com/
@@ -69,7 +155,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/1258175.rss
 
   - title: The Art History Babes
-    htmlUrl: http://www.arthistorybabes.com/
+    htmlUrl: https://www.arthistorybabes.com/
     xmlUrl: https://feeds.megaphone.fm/ADL5120302422
 
   - title: Dr Great Art! Art, Art History, Visual Metaphor, Politics!
@@ -81,7 +167,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/ARML4578495264
 
   - title: The Sculptor's Funeral
-    htmlUrl: http://thesculptorsfuneral.com/
+    htmlUrl: https://thesculptorsfuneral.com/
     xmlUrl: https://thesculptorsfuneral.libsyn.com/rss
 
   - title: Art Sense
@@ -90,10 +176,10 @@ issues:
 
   - title: Art History for All
     htmlUrl: https://arthistoryforall.com/
-    xmlUrl: http://feeds.feedburner.com/ArtHistoryForAll
+    xmlUrl: https://feeds.feedburner.com/ArtHistoryForAll
 
   - title: Art Sistory
-    htmlUrl: http://artsistory.libsyn.com/website
+    htmlUrl: https://artsistory.libsyn.com/website
     xmlUrl: https://artsistory.libsyn.com/rss
 
   - title: Art Slice - A Palatable Serving of Art History
@@ -102,7 +188,7 @@ issues:
 
   - title: PORTRAITS
     htmlUrl: https://npg.si.edu/podcasts
-    xmlUrl: http://feeds.npg.si.edu/portraitspodcast
+    xmlUrl: https://feeds.npg.si.edu/portraitspodcast
 
   - title: Waldy and Bendy’s Adventures in Art
     htmlUrl: https://waldyandbendy.podbean.com/
