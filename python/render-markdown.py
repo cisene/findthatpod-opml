@@ -99,18 +99,22 @@ def main():
     buffer.append(f"| Weekly issues                                                                         | Date       |")
     buffer.append(f"| ------------------------------------------------------------------------------------- | ---------- |")
 
-    for issue in data['body']:
+    #for issue in data['body']:
+    for issue in data['issues']:
       line = []
       #print(issue)
 
       # findthatpod-issue-291.opml
-      filename = f"findthatpod-issue-{issue['issue']:03}.opml"
+      #filename = f"findthatpod-issue-{issue['issue']:03}.opml"
+      opml = issue['opml']
       #print(filename)
 
       line.append(f"| ")
-      line.append(f"[{issue['title']}]({B19_PREFIX}{filename})")
+      #line.append(f"[{issue['title']}]({B19_PREFIX}{opml})")
+      line.append(f"[{issue['name']}]({B19_PREFIX}{opml})")
       line.append(f" | ")
-      line.append(f"{issue['pubDate']}")
+      #line.append(f"{issue['pubDate']}")
+      line.append(f"{issue['date']}")
       line.append(f" |")
       # | [Find That Pod #291](https://b19.se/data/opml/findthatpod/findthatpod-issue-291.opml) | 2024-12-06 |
 
