@@ -154,8 +154,8 @@ def main():
       print(f"Wrote {issue_opml} ..")
       issue_count += 1
 
-      #if issue_count >= 1:
-      #  break
+      if issue_count >= 1:
+        break
 
 if __name__ == '__main__':
   main()
