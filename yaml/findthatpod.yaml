@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #344'
+  opml: findthatpod-issue-344.opml
+  date: 2025-12-26
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-344
+  podcasts:
+
+  - title: 'Yoga Scussion: Yoga, Health, Mindfulness & Culture Podcast'
+    htmlUrl: https://yogascussion.castos.com/
+    xmlUrl: https://feeds.castos.com/r3890
+
+  - title: Odd One Out - A Daily Puzzle and Brain Teaser Podcast
+    htmlUrl: https://www.spreaker.com/podcast/odd-one-out-a-daily-puzzle-and-brain-teaser-podcast--6813871
+    xmlUrl: https://www.spreaker.com/show/6813871/episodes/feed
+
+  - title: Floating Space
+    htmlUrl: https://audioboom.com/channels/5151417
+    xmlUrl: https://audioboom.com/channels/5151417.rss
+
+  - title: People vs Algorithms
+    htmlUrl: https://www.pvapod.com/
+    xmlUrl: https://feeds.captivate.fm/people-vs-algorithms/
+
+  - title: Sweet Little Human
+    htmlUrl: https://sweetlittlehuman.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2531647.rss
+
 - name: 'Find That Pod #343'
   opml: findthatpod-issue-343.opml
   date: 2025-12-19
