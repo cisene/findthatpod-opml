@@ -498,7 +498,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2489053.rss
 
   - title: Antisocial Economics
-    htmlUrl: null
+    htmlUrl: https://www.lse.ac.uk/international-inequalities/research/wealth-elites-and-tax-justice/talking-about-wealth-a-podcast-series
     xmlUrl: https://feeds.megaphone.fm/antisocialeconomics
 
   - title: LOST ROMAN HEROES
@@ -1712,7 +1712,7 @@ issues:
 - name: 'Find That Pod #279'
   opml: findthatpod-issue-279.opml
   date: 2024-09-13
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-279
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-279
   podcasts:
 
   - title: This is Taste
@@ -1738,7 +1738,7 @@ issues:
 - name: 'Find That Pod #278'
   opml: findthatpod-issue-278.opml
   date: 2024-09-06
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-278
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-278
   podcasts:
 
   - title: In the Making
@@ -1764,7 +1764,7 @@ issues:
 - name: 'Find That Pod #277'
   opml: findthatpod-issue-277.opml
   date: 2024-08-30
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-277
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-277
   podcasts:
 
   - title: Dear Alana,
@@ -1790,7 +1790,7 @@ issues:
 - name: 'Find That Pod #276'
   opml: findthatpod-issue-276.opml
   date: 2024-08-23
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-276
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-276
   podcasts:
 
   - title: Dungeon Masters
@@ -1816,7 +1816,7 @@ issues:
 - name: 'Find That Pod #275'
   opml: findthatpod-issue-275.opml
   date: 2024-08-16
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-275
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-275
   podcasts:
 
   - title: Global Pillage
@@ -1842,7 +1842,7 @@ issues:
 - name: 'Find That Pod #274'
   opml: findthatpod-issue-274.opml
   date: 2024-08-09
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-274
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-274
   podcasts:
 
   - title: Salad With a Side of Fries
@@ -1868,7 +1868,7 @@ issues:
 - name: 'Find That Pod #273'
   opml: findthatpod-issue-273.opml
   date: 2024-08-02
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-273
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-273
   podcasts:
 
   - title: Fandom on the Rocks
@@ -1894,7 +1894,7 @@ issues:
 - name: 'Find That Pod #272'
   opml: findthatpod-issue-272.opml
   date: 2024-07-26
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-272
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-272
   podcasts:
 
   - title: HyperThetical
@@ -1920,7 +1920,7 @@ issues:
 - name: 'Find That Pod #271'
   opml: findthatpod-issue-271.opml
   date: 2024-07-19
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-271
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-271
   podcasts:
 
   - title: The Life Shift
@@ -1946,7 +1946,7 @@ issues:
 - name: 'Find That Pod #270'
   opml: findthatpod-issue-270.opml
   date: 2024-07-12
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-270
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-270
   podcasts:
 
   - title: 'Crash Course Pods: The Universe'
@@ -1972,7 +1972,7 @@ issues:
 - name: 'Find That Pod #269'
   opml: findthatpod-issue-269.opml
   date: 2024-07-05
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-269
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-269
   podcasts:
 
   - title: The Documentary Podcast
@@ -1998,7 +1998,7 @@ issues:
 - name: 'Find That Pod #268'
   opml: findthatpod-issue-268.opml
   date: 2024-06-28
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-268
   podcasts:
 
   - title: 'I Know Dino: The Big Dinosaur Podcast'
@@ -2024,7 +2024,7 @@ issues:
 - name: 'Find That Pod #267'
   opml: findthatpod-issue-267.opml
   date: 2024-06-21
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-267
   podcasts:
 
   - title: Vertical Farming Podcast
@@ -2050,7 +2050,7 @@ issues:
 - name: 'Find That Pod #266'
   opml: findthatpod-issue-266.opml
   date: 2024-06-14
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-266
   podcasts:
 
   - title: 'Broomgate: A Curling Scandal'
@@ -2076,7 +2076,7 @@ issues:
 - name: 'Find That Pod #265'
   opml: findthatpod-issue-265.opml
   date: 2024-06-07
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-265
   podcasts:
 
   - title: Intercepted
@@ -2102,7 +2102,7 @@ issues:
 - name: 'Find That Pod #264'
   opml: findthatpod-issue-264.opml
   date: 2024-05-31
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-264
   podcasts:
 
   - title: Robinson’s Podcast
@@ -2128,7 +2128,7 @@ issues:
 - name: 'Find That Pod #263'
   opml: findthatpod-issue-263.opml
   date: 2024-05-24
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-263
   podcasts:
 
   - title: Imaginary Worlds
@@ -2154,7 +2154,7 @@ issues:
 - name: 'Find That Pod #262'
   opml: findthatpod-issue-262.opml
   date: 2024-05-17
-  htmlUrl: null
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-pod-262
   podcasts:
 
   - title: Killer in the Family
