@@ -149,7 +149,7 @@ def main():
       opml.append(body)
 
       opml_contents = etree.tostring(opml, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
-      writeOPML(f"../opml/{issue_opml}", opml_contents)
+      writeOPML(f"../{issue_opml}", opml_contents)
 
       print(f"Wrote {issue_opml} ..")
       issue_count += 1
