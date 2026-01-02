@@ -6,6 +6,84 @@ global:
 
 issues:
 
+- name: The Best Erotic Podcasts
+  opml: findthatpod-the-best-erotic-podcasts.opml
+  date: 2026-01-01
+  htmlUrl: https://findthatpod.com/best-erotic-podcasts/
+  podcasts:
+
+  - title: Fangasm
+    htmlUrl: https://www.fangasmpodcast.com/episodes/
+    xmlUrl: https://www.fangasmpodcast.com/episodes?format=rss
+
+  - title: Erotic Stories
+    htmlUrl: https://www.spreaker.com/podcast/erotic-stories--5923896
+    xmlUrl: https://www.spreaker.com/show/5923896/episodes/feed
+
+  - title: All The Filthy Details Podcast
+    htmlUrl: https://www.amazon.com/s?i=digital-text&rh=p_27%3ALiterally%20Lovesick&_encoding=UTF8&ref=dbs_m_mng_rwt_byln
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:916184275/sounds.rss
+
+  - title: AudioFun With Ash
+    htmlUrl: https://podcasters.spotify.com/pod/show/ash1731
+    xmlUrl: https://anchor.fm/s/10401a34c/podcast/rss
+
+  - title: Strictly Anonymous Confessions
+    htmlUrl: http://strictlyanonymouspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/strictlyanonymous
+
+  - title: Oh F*ck Yeah with Ruan Willow
+    htmlUrl: https://ruanwillowauthor.com/
+    xmlUrl: https://rss.libsyn.com/shows/601700/destinations/5236285.xml
+
+  - title: Romantasy - Spicy Fantasy Stories
+    htmlUrl: https://www.dipseastories.com/
+    xmlUrl: https://feeds.captivate.fm/dipsea-romantasy/
+
+  - title: Erotic Awakening
+    htmlUrl: http://www.eroticawakening.com/
+    xmlUrl: https://eroticawakening.libsyn.com/rss
+
+  - title: The Kiss Me Quick's Erotica
+    htmlUrl: http://www.thekissmequicks.com/
+    xmlUrl: https://kisstherose.libsyn.com/rss
+
+  - title: Dantes Erotica
+    htmlUrl: http://www.danteserotica.uk/
+    xmlUrl: https://anchor.fm/s/4e2866c8/podcast/rss
+
+  - title: 'Lala''s Bedtime Tales: Erotic Stories'
+    htmlUrl: http://www.lalasbedtimetales.com/
+    xmlUrl: https://rss.buzzsprout.com/1838982.rss
+
+  - title: Wholesome Addiction - Sexuality, Relationships, and Adult Entertainment.
+    htmlUrl: http://wholesomeaddiction.com/
+    xmlUrl: https://wholesomeaddiction.libsyn.com/rss
+
+  - title: Bawdy Storytelling
+    htmlUrl: http://bawdystorytelling.com/
+    xmlUrl: https://bawdystorytelling.libsyn.com/rss
+
+  - title: Reading Smut
+    htmlUrl: https://maximumfun.org/podcasts/reading-smut/
+    xmlUrl: https://feeds.simplecast.com/QaeG4hpc
+
+  - title: The Erotic Realm
+    htmlUrl: https://art19.com/shows/the-erotic-realm
+    xmlUrl: https://rss.art19.com/the-erotic-realm
+
+  - title: Knightly Pleasures - Erotica for Women
+    htmlUrl: https://www.knightlypleasurespodcast.com/
+    xmlUrl: https://thegreyknight.podbean.com/feed.xml
+
+  - title: 'Cum With Us: Erotic Audio Stories for Women'
+    htmlUrl: https://www.spreaker.com/show/cum-with-us-erotic-audio-stories-for-wom
+    xmlUrl: https://www.spreaker.com/show/5950513/episodes/feed
+
+  - title: Erotic Stories from Wylde in Bed
+    htmlUrl: https://www.spreaker.com/show/erotic-stories-from-wylde-in-bed
+    xmlUrl: https://www.spreaker.com/show/5520412/episodes/feed
+
 - name: The Best Small Business Podcasts
   opml: findthatpod-the-best-small-business-podcasts.opml
   date: 2026-01-01
@@ -143,7 +221,7 @@ issues:
   - title: Small Business War Stories
     htmlUrl: https://smallbusinesswarstories.com/
     xmlUrl: https://smallbusinesswarstories.libsyn.com/rss
-    
+
 - name: The Best Ancient History Podcasts
   opml: findthatpod-the-best-ancient-history-podcasts.opml
   date: 2025-12-31
