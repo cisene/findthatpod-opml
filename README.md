@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Ancient History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ancient-history-podcasts.opml) | 2025-12-31 |
 | [FindThatPod - The Best Sales Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-sales-podcasts.opml) | 2025-12-18 |
 | [FindThatPod - The Best Christmas Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-christmas-podcasts.opml) | 2025-12-18 |
 | [FindThatPod - The Best Art History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-history-podcasts.opml) | 2025-12-17 |

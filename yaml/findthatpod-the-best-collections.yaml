@@ -6,6 +6,188 @@ global:
 
 issues:
 
+- name: The Best Ancient History Podcasts
+  opml: findthatpod-the-best-ancient-history-podcasts.opml
+  date: 2025-12-31
+  htmlUrl: https://findthatpod.com/best-ancient-history-podcasts/
+  podcasts:
+
+  - title: The Ancients
+    htmlUrl: https://www.historyhit.com/
+    xmlUrl: https://access.acast.com/rss/f2925f7a-eb08-471a-9958-387cb5ee6353
+
+  - title: 'Roman Emperors: Totalus Rankium'
+    htmlUrl: https://totalusrankium.podbean.com/
+    xmlUrl: https://totalusrankium.podbean.com/feed.xml
+
+  - title: Ancient History Fangirl
+    htmlUrl: http://www.ancienthistoryfangirl.com/
+    xmlUrl: https://feeds.megaphone.fm/ancienthistoryfangirl
+
+  - title: History of the World podcast
+    htmlUrl: https://historyoftheworldpodcast.com/
+    xmlUrl: https://anchor.fm/s/24a03a74/podcast/rss
+
+  - title: Ancient Warfare Podcast
+    htmlUrl: http://thehistorynetwork.org/
+    xmlUrl: https://ancientwarfare.libsyn.com/rss
+
+  - title: The History of China
+    htmlUrl: http://thehistoryofchina.wordpress.com/
+    xmlUrl: http://feeds.feedburner.com/thehistoryofchina
+
+  - title: The Ancient World
+    htmlUrl: https://ancientworldpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML5394164180
+
+  - title: The Hellenistic Age Podcast
+    htmlUrl: https://soundcloud.com/user-103425037
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:439067766/sounds.rss
+
+  - title: Viking Age Podcast
+    htmlUrl: http://vikingagepodcast.com/
+    xmlUrl: https://vikingagepod.libsyn.com/rss
+
+  - title: Ancient Anecdotes
+    htmlUrl: https://podcasts.listencub.com/
+    xmlUrl: https://feeds.buzzsprout.com/2256112.rss
+
+  - title: History of Persia
+    htmlUrl: https://redcircle.com/shows/history-of-persia
+    xmlUrl: https://feeds.redcircle.com/60378feb-a889-47bf-b268-3de2fe6f93f3
+
+  - title: The Partial Historians
+    htmlUrl: https://partialhistorians.com/
+    xmlUrl: https://feeds.acast.com/public/shows/67e2e3b05926376d2a9d0de8
+
+  - title: Casting Through Ancient Greece
+    htmlUrl: http://www.castingthroughancientgreece.com/
+    xmlUrl: https://rss.buzzsprout.com/809024.rss
+
+  - title: Western Civ
+    htmlUrl: https://www.westerncivpodcast.com/
+    xmlUrl: https://www.spreaker.com/show/5553835/episodes/feed
+
+  - title: Spartan History Podcast
+    htmlUrl: http://spartanhistorypodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/685886.rss
+
+  - title: In Our Time
+    htmlUrl: http://www.bbc.co.uk/programmes/b006qykl
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qykl.rss
+
+  - title: Ancient Art Podcast, Ancient Worlds
+    htmlUrl: http://www.ancientartpodcast.org/
+    xmlUrl: http://feeds.feedburner.com/ancientartpodcast
+
+  - title: The Roman World
+    htmlUrl: http://www.latrobe.edu.au/
+    xmlUrl: https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/mds1trw.xml
+
+  - title: Tides of History
+    htmlUrl: https://wondery.com/shows/tides-of-history/?utm_source=rss
+    xmlUrl: https://rss.art19.com/tides-of-history
+
+  - title: The Archaeology Show
+    htmlUrl: https://www.archaeologypodcastnetwork.com/archaeology/
+    xmlUrl: https://feeds.simplecast.com/MGJ78Sv7
+
+  - title: Peopling the Past
+    htmlUrl: https://peoplingthepast.com/
+    xmlUrl: https://peoplingthepast.libsyn.com/rss
+
+  - title: A History of the World in 100 Objects
+    htmlUrl: http://www.bbc.co.uk/programmes/b00nrtd2
+    xmlUrl: https://podcasts.files.bbci.co.uk/b00nrtd2.rss
+
+  - title: Ancient Civilisations
+    htmlUrl: https://www.noiser.com/
+    xmlUrl: https://feeds.megaphone.fm/ancientcivilisations
+
+  - title: Ancient History Hound
+    htmlUrl: http://ancientblogger.libsyn.com/website
+    xmlUrl: https://ancientblogger.libsyn.com/rss
+
+  - title: Museum Secrets
+    htmlUrl: http://www.ashmolean.org/museum-secrets
+    xmlUrl: https://feeds.buzzsprout.com/1557707.rss
+
+  - title: The History of Byzantium
+    htmlUrl: https://thehistoryofbyzantium.com/
+    xmlUrl: https://rss.acast.com/thehistoryofbyzantium
+
+  - title: Emperors of Rome
+    htmlUrl: http://www.latrobe.edu.au/
+    xmlUrl: https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/caesar.xml
+
+  - title: History in the Bible
+    htmlUrl: https://www.historyinthebible.com/index.html
+    xmlUrl: https://historyinthebible.libsyn.com/rss
+
+  - title: Earth Ancients
+    htmlUrl: https://www.spreaker.com/show/earth-ancients_1
+    xmlUrl: https://www.spreaker.com/show/2790919/episodes/feed
+
+  - title: The Prehistory Guys
+    htmlUrl: https://prehistoryguys.podbean.com/
+    xmlUrl: https://feed.podbean.com/prehistoryguys/feed.xml
+
+  - title: History of Japan
+    htmlUrl: http://historyofjapan.libsyn.com/
+    xmlUrl: https://historyofjapan.libsyn.com/rss
+
+  - title: The History of Rome
+    htmlUrl: http://thehistoryofrome.typepad.com/the_history_of_rome/
+    xmlUrl: https://historyofrome.libsyn.com/rss
+
+  - title: History on Fire
+    htmlUrl: http://historyonfirepodcast.com/episodes/
+    xmlUrl: https://rss.introcast.io/1038514498/feeds.megaphone.fm/TPG8904827717
+
+  - title: Dive & Dig
+    htmlUrl: https://honorfrostfoundation.org/podcast/
+    xmlUrl: https://audioboom.com/channels/5052122.rss
+
+  - title: Great Battles in History
+    htmlUrl: https://greatbattlesinhistory.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/1182245.rss
+
+  - title: Oldest Stories
+    htmlUrl: https://oldeststories.net/
+    xmlUrl: https://anchor.fm/s/fddb990/podcast/rss
+
+  - title: The Fall of Rome Podcast
+    htmlUrl: https://wondery.com/shows/the-fall-of-rome-podcast/?utm_source=rss
+    xmlUrl: https://rss.art19.com/the-fall-of-rome-podcast
+
+  - title: History of Africa
+    htmlUrl: https://historyofafricapodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/historyofafricapodcast/feed.xml
+
+  - title: Life Of Caesar
+    htmlUrl: https://lifeofcaesar.com/
+    xmlUrl: https://lifeofcaesar.com/feed/podcast/
+
+  - title: The History of Ancient Greece
+    htmlUrl: http://www.thehistoryofancientgreece.com/
+    xmlUrl: https://ancientgreece.libsyn.com/rss
+
+  - title: The Maritime History Podcast
+    htmlUrl: https://maritimehistorypodcast.com/
+    xmlUrl: https://maritimehistorypodcast.libsyn.com/rss
+
+  - title: Dan Snow's History Hit
+    htmlUrl: https://www.historyhit.com/podcasts/
+    xmlUrl: https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5
+
+  - title: Cost of Glory
+    htmlUrl: https://costofglory.com/
+    xmlUrl: https://feeds.transistor.fm/the-cost-of-glory
+
+  - title: The Toldinstone Podcast
+    htmlUrl: https://toldinstone.com/the-toldinstone-podcast/
+    xmlUrl: https://toldinstone.com/feed/podcast/
+
 - name: The Best Sales Podcasts
   opml: findthatpod-the-best-sales-podcasts.opml
   date: 2025-12-18
