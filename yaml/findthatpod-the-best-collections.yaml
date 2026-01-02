@@ -6,6 +6,144 @@ global:
 
 issues:
 
+- name: The Best Small Business Podcasts
+  opml: findthatpod-the-best-small-business-podcasts.opml
+  date: 2026-01-01
+  htmlUrl: https://findthatpod.com/best-small-business-podcasts/
+  podcasts:
+
+  - title: How I Built This with Guy Raz
+    htmlUrl: https://wondery.com/shows/how-i-built-this/?utm_source=rss
+    xmlUrl: https://rss.art19.com/how-i-built-this
+
+  - title: The Startup Ideas Podcast
+    htmlUrl: https://www.gregisenberg.com/
+    xmlUrl: https://rss.flightcast.com/ordbkg8yojpehffas7vr7qpc.xml
+
+  - title: The Pitch
+    htmlUrl: https://www.thepitch.show/
+    xmlUrl: https://feeds.megaphone.fm/thepitch
+
+  - title: She Scales
+    htmlUrl: https://www.sarahbucklandcoaching.com/
+    xmlUrl: https://anchor.fm/s/ea699138/podcast/rss
+
+  - title: My First Million
+    htmlUrl: https://www.mfmpod.com/
+    xmlUrl: https://feeds.megaphone.fm/HS2300184645
+
+  - title: Small Business Rundown
+    htmlUrl: https://nfibsmallbusinessrundown.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2105730.rss
+
+  - title: The Bootstrapped Founder
+    htmlUrl: https://thebootstrappedfounder.com/
+    xmlUrl: https://feeds.transistor.fm/bootstrapped-founder
+
+  - title: 'Making Good: Small Business Marketing Podcast'
+    htmlUrl: http://makinggoodpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/710256.rss
+
+  - title: The How of Business - How to start, run, grow and exit a small business.
+    htmlUrl: http://sites.libsyn.com/77073/site
+    xmlUrl: https://howofbusiness.libsyn.com/rss
+
+  - title: Build The Damn Thing with Kathryn Finney
+    htmlUrl: https://kathrynfinney.substack.com/podcast
+    xmlUrl: https://api.riverside.fm/hosting/mFkl9QdG.rss
+
+  - title: The Product Boss with Jacqueline Snyder
+    htmlUrl: http://www.theproductboss.com/podcast
+    xmlUrl: https://feeds.captivate.fm/the-product-boss/
+
+  - title: Social Proof Podcast
+    htmlUrl: https://redcircle.com/shows/social-proof-podcast6302
+    xmlUrl: https://feeds.redcircle.com/a9b2dcd3-056f-4771-a45c-257dfa7193fc
+
+  - title: The $100 MBA Show
+    htmlUrl: http://siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/equXS9ic
+
+  - title: HBR IdeaCast
+    htmlUrl: https://hbr.org/podcasts/ideacast
+    xmlUrl: http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+
+  - title: The Goal Digger Podcast | Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business
+    htmlUrl: http://www.goaldiggerpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YAP4895144602
+
+  - title: The Best Small Business Show
+    htmlUrl: http://www.richgee.com/
+    xmlUrl: https://richgee.libsyn.com/rss
+
+  - title: The StoryBrand Podcast
+    htmlUrl: https://storybrand.com/
+    xmlUrl: https://storybrand.libsyn.com/rss
+
+  - title: The Duct Tape Marketing Podcast
+    htmlUrl: https://www.ducttapemarketing.com/about/duct-tape-marketing-podcast/
+    xmlUrl: https://feeds.libsyn.com/18353/rss
+
+  - title: This Is Small Business
+    htmlUrl: https://www.cohostpodcasting.com/
+    xmlUrl: https://feeds.cohostpodcasting.com/RBWGsGKZ
+
+  - title: Entrepreneurs on Fire
+    htmlUrl: https://www.eofire.com/
+    xmlUrl: https://entrepreneuronfire.libsyn.com/rss
+
+  - title: Unfrazzle
+    htmlUrl: https://www.bettylouonline.com/podcast/
+    xmlUrl: https://www.bettylouonline.com/podcast?format=rss
+
+  - title: Think Like an Owner
+    htmlUrl: https://sites.libsyn.com/585035
+    xmlUrl: https://feeds.libsyn.com/585035/rss
+
+  - title: Startups For the Rest of Us
+    htmlUrl: https://www.startupsfortherestofus.com/
+    xmlUrl: https://feeds.castos.com/mqv6
+
+  - title: indie business club
+    htmlUrl: https://indiebusinessclub.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2223749.rss
+
+  - title: Side Hustle School
+    htmlUrl: http://sidehustleschool.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/938adda7-7996-48c0-af83-b248016bcac9/b3d91cd9-913b-495c-9dc4-b248016bcadd/podcast.rss
+
+  - title: Nurture Small Business
+    htmlUrl: https://dcavirtual.com/
+    xmlUrl: https://feeds.buzzsprout.com/900445.rss
+
+  - title: This Old Marketing - News Podcast Weekly with Joe Pulizzi and Robert Rose
+    htmlUrl: https://thisoldmarketing.com/
+    xmlUrl: https://pnrmarketing.libsyn.com/rss
+
+  - title: The Small Business Radio Show
+    htmlUrl: https://www.spreaker.com/show/the-small-business-radio-show
+    xmlUrl: https://www.spreaker.com/show/3306444/episodes/feed
+
+  - title: Side Hustle Pro
+    htmlUrl: https://sidehustlepro.co/
+    xmlUrl: https://feeds.acast.com/public/shows/659c22ccb31581001651ebcd
+
+  - title: Be a PROFITABLE Badass Small Business Owner
+    htmlUrl: https://babolearning.com/
+    xmlUrl: https://localsmallbusinesscoach.libsyn.com/rss
+
+  - title: Perpetual Traffic
+    htmlUrl: https://www.perpetualtraffic.com/
+    xmlUrl: https://feeds.captivate.fm/perpetual-traffic/
+
+  - title: The SmallBizChat with Melinda Emerson
+    htmlUrl: https://smallbizchatpodcast.com/
+    xmlUrl: https://feeds.podcastai.com/OB1adaRW5KZRxNx3IC4jac.xml
+
+  - title: Small Business War Stories
+    htmlUrl: https://smallbusinesswarstories.com/
+    xmlUrl: https://smallbusinesswarstories.libsyn.com/rss
+    
 - name: The Best Ancient History Podcasts
   opml: findthatpod-the-best-ancient-history-podcasts.opml
   date: 2025-12-31
