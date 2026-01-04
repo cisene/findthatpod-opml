@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #345'
+  opml: findthatpod-issue-345.opml
+  date: 2026-01-02
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-345
+  podcasts:
+
+  - title: The Birth Keepers | The Guardian Investigates
+    htmlUrl: https://www.theguardian.com/technology/series/blackbox
+    xmlUrl: https://www.theguardian.com/technology/series/blackbox/podcast.xml
+
+  - title: The Coldest Shift
+    htmlUrl: https://www.hattrick.co.uk/
+    xmlUrl: https://audioboom.com/channels/5162264.rss
+
+  - title: Howl
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F12567%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/12567/feed-rss.xml
+
+  - title: A Whole Other Country
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F14382%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/14382/feed-rss.xml
+
+  - title: Forged
+    htmlUrl: https://www.cbc.ca/radio/podcastnews
+    xmlUrl: https://www.cbc.ca/podcasting/includes/forged.xml
+
 - name: 'Find That Pod #344'
   opml: findthatpod-issue-344.opml
   date: 2025-12-26
