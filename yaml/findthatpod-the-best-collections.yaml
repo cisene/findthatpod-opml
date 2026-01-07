@@ -6,6 +6,140 @@ global:
 
 issues:
 
+- name: The Best Spiritual Podcasts
+  opml: findthatpod-the-best-spiritual-podcasts.opml
+  date: 2026-01-06
+  htmlUrl: https://findthatpod.com/best-spiritual-podcasts/
+  podcasts:
+
+  - title: Insight Hour with Joseph Goldstein
+    htmlUrl: https://art19.com/shows/insight-hour-with-joseph-goldstein
+    xmlUrl: https://rss.art19.com/insight-hour-with-joseph-goldstein
+
+  - title: 'Eckhart Tolle: Essential Teachings'
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/u3N69R7M
+
+  - title: Spiritual Grit
+    htmlUrl: https://www.suryagian.com/
+    xmlUrl: https://anchor.fm/s/3eaa12b4/podcast/rss
+
+  - title: Deconstructing Yourself
+    htmlUrl: https://deconstructingyourself.com/
+    xmlUrl: https://rss.art19.com/deconstructing-yourself
+
+  - title: Next Level Soul Podcast with Alex Ferrari
+    htmlUrl: https://www.spreaker.com/show/next-level-soul-podcast
+    xmlUrl: https://www.spreaker.com/show/4858435/episodes/feed
+
+  - title: Daily Wisdom - Walking The Path with The Buddha
+    htmlUrl: https://www.buddhadailywisdom.com/
+    xmlUrl: https://anchor.fm/s/1377dbf8/podcast/rss
+
+  - title: Wisdom of the Masters
+    htmlUrl: https://vivekahermitage.com/
+    xmlUrl: https://anchor.fm/s/49a54198/podcast/rss
+
+  - title: Spirit Speakers
+    htmlUrl: https://spiritspeakers.podbean.com/
+    xmlUrl: https://feed.podbean.com/spiritspeakers/feed.xml
+
+  - title: The One You Feed
+    htmlUrl: https://art19.com/shows/the-one-you-feed-podcast
+    xmlUrl: https://feeds.megaphone.fm/GBLL2287897073
+
+  - title: Spiritual Shit
+    htmlUrl: https://thelovelyalea.com/
+    xmlUrl: https://anchor.fm/s/e6e1780/podcast/rss
+
+  - title: Ancient Wisdom Today
+    htmlUrl: https://anchor.fm/ancient-wisdom-today
+    xmlUrl: https://feeds.megaphone.fm/GMI4863704979
+
+  - title: A Soulful Rebellion
+    htmlUrl: https://asoulfulrebellion.com/
+    xmlUrl: https://anchor.fm/s/287a6ffc/podcast/rss
+
+  - title: Gaia Consciousness
+    htmlUrl: http://www.gaia.com/
+    xmlUrl: https://rss.buzzsprout.com/1949910.rss
+
+  - title: Conspirituality
+    htmlUrl: https://conspirituality.net/
+    xmlUrl: https://feeds.megaphone.fm/GLSS1122389842
+
+  - title: Science and Spirituality
+    htmlUrl: https://www.kevincarton.com/
+    xmlUrl: https://anchor.fm/s/c2c3024/podcast/rss
+
+  - title: Awareness Explorers
+    htmlUrl: https://www.awarenessexplorers.com/
+    xmlUrl: https://awarenessexplorers.libsyn.com/rss
+
+  - title: Spirit Levels
+    htmlUrl: https://www.podpage.com/spirit-levels/
+    xmlUrl: https://feeds.acast.com/public/shows/650542b0fbef88001154dff6
+
+  - title: Michael Singer Podcast
+    htmlUrl: https://product.soundstrue.com/authors/michael-singer/
+    xmlUrl: https://feeds.podcastmirror.com/michael-singer-podcast
+
+  - title: The Reality Revolution Podcast
+    htmlUrl: http://therealityrevolution.com/
+    xmlUrl: https://feeds.simplecast.com/P6E1uZ9f
+
+  - title: 'Inner Work: A Spiritual Growth Podcast'
+    htmlUrl: https://www.josephinehardman.com/
+    xmlUrl: https://purefieldradio.libsyn.com/rss
+
+  - title: Heart Wisdom with Jack Kornfield
+    htmlUrl: https://art19.com/shows/heart-wisdom-with-jack-kornfield
+    xmlUrl: https://rss.art19.com/heart-wisdom-with-jack-kornfield
+
+  - title: Highest Self Podcast®
+    htmlUrl: http://highestself.libsyn.com/website
+    xmlUrl: https://highestself.libsyn.com/rss
+
+  - title: The Positive Head Podcast
+    htmlUrl: http://positivehead.com/
+    xmlUrl: https://positivehead.libsyn.com/rss
+
+  - title: The Way Out Is In
+    htmlUrl: https://plumvillage.org/podcasts/the-way-out-is-in
+    xmlUrl: https://plumvillage.org/feed/audio/the-way-out-is-in/
+
+  - title: Tara Brach
+    htmlUrl: https://www.tarabrach.com/
+    xmlUrl: https://tarabrach.libsyn.com/rss
+
+  - title: The Sadhguru Podcast - Of Mystics and Mistakes
+    htmlUrl: https://www.omnycontent.com/d/playlist/ff838d5b-d787-4f8b-9a75-af9500e3acd3/d60c2ada-2f3e-4359-b0af-af960079f937/e1036464-868b-4320-98af-af960079f958/podcast.rss
+    xmlUrl: https://feeds.megaphone.fm/ISHAFOUNDATIONINC6546953794
+
+  - title: Wisdom of the Sages
+    htmlUrl: http://wisdomofthesages.libsyn.com/website
+    xmlUrl: https://wisdomofthesages.libsyn.com/rss
+
+  - title: Secular Buddhism
+    htmlUrl: http://secularbuddhism.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6359a8448c5fe9001207c0ac
+
+  - title: On Being with Krista Tippett
+    htmlUrl: https://onbeing.org/
+    xmlUrl: https://feeds.simplecast.com/AuAxH_Bf
+
+  - title: Know Thyself
+    htmlUrl: https://www.knowthyselfpodcast.com/
+    xmlUrl: https://anchor.fm/s/dd622f68/podcast/rss
+
+  - title: The Higher Self with Danny Morel
+    htmlUrl: https://www.dannymorel.com/podcast
+    xmlUrl: https://realestatesalesshow.libsyn.com/rss
+
+  - title: 'Sounds True: Insights at the Edge'
+    htmlUrl: https://art19.com/shows/sounds-true-insights-at-the-edge
+    xmlUrl: https://feeds.podcastmirror.com/sounds-true-insights
+
 - name: The Best Erotic Podcasts
   opml: findthatpod-the-best-erotic-podcasts.opml
   date: 2026-01-01

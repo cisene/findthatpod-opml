@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Spiritual Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-spiritual-podcasts.opml) | 2026-01-06 |
 | [FindThatPod - The Best Erotic Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-erotic-podcasts.opml) | 2026-01-01 |
 | [FindThatPod - The Best Small Business Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-small-business-podcasts.opml) | 2026-01-01 |
 | [FindThatPod - The Best Ancient History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ancient-history-podcasts.opml) | 2025-12-31 |
