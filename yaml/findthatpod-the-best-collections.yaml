@@ -6,6 +6,120 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Infidelity
+  opml: findthatpod-the-best-podcasts-about-infidelity.opml
+  date: 2026-01-06
+  htmlUrl: https://findthatpod.com/best-podcasts-about-infidelity/
+  podcasts:
+
+  - title: Healing Broken Trust In Your Marriage After Infidelity
+    htmlUrl: https://healingbrokentrust.com/
+    xmlUrl: https://bradandmorgan.libsyn.com/rss
+
+  - title: Pathway to Recovery
+    htmlUrl: http://www.salifeline.org/
+    xmlUrl: https://rss.buzzsprout.com/2171696.rss
+
+  - title: Where Should We Begin? with Esther Perel
+    htmlUrl: https://estherperel.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ep-wswb
+
+  - title: Sex, Love, and Addiction
+    htmlUrl: https://taminp.podbean.com/
+    xmlUrl: https://feed.podbean.com/taminp/feed.xml
+
+  - title: Helping Couples Heal Podcast
+    htmlUrl: https://redcircle.com/shows/helping-couples-heal-podcast
+    xmlUrl: https://feeds.redcircle.com/81e6d1e6-d3cb-456e-bf1e-1ffede344e6b
+
+  - title: The Affair Recovery Room
+    htmlUrl: https://www.affairhealing.com/podcasts/
+    xmlUrl: https://www.affairhealing.com/podcasts?format=rss
+
+  - title: 'Relationship Radio: Marriage, Sex, Limerence & Avoiding Divorce'
+    htmlUrl: https://www.spreaker.com/show/marriage-radio-helping-your-marriage
+    xmlUrl: https://rss.buzzsprout.com/1725542.rss
+
+  - title: Ask the Unfaithful
+    htmlUrl: https://sites.libsyn.com/548157
+    xmlUrl: https://feeds.libsyn.com/548157/rss
+
+  - title: Beyond Affairs
+    htmlUrl: https://www.buzzsprout.com/2250258
+    xmlUrl: https://rss.buzzsprout.com/2250258.rss
+
+  - title: After the Affair
+    htmlUrl: https://lukeshillings.podbean.com/
+    xmlUrl: https://feed.podbean.com/lukeshillings/feed.xml
+
+  - title: Beyond the Facade with Choose Recovery Services
+    htmlUrl: https://www.chooserecoveryservices.com/
+    xmlUrl: https://anchor.fm/s/e7602d80/podcast/rss
+
+  - title: Betrayal Trauma Recovery
+    htmlUrl: https://www.btr.org/group
+    xmlUrl: https://feeds.podcastmirror.com/btr
+
+  - title: Reimagining Love with Dr. Alexandra Solomon
+    htmlUrl: http://reimagininglove.com/
+    xmlUrl: https://feeds.simplecast.com/LgSQqepl
+
+  - title: 'Tell Me How You''re Mighty: Real Talk About Cheating'
+    htmlUrl: https://tellmehowyouremighty.com/
+    xmlUrl: https://feeds.libsyn.com/477381/rss
+
+  - title: Happily Even After Betrayal with Life Coach Jen
+    htmlUrl: https://www.buzzsprout.com/1772565
+    xmlUrl: https://rss.buzzsprout.com/1772565.rss
+
+  - title: 'Just Break Up: Relationship Advice from Your Queer Besties'
+    htmlUrl: https://www.justbreakuppod.com/
+    xmlUrl: https://feeds.megaphone.fm/JBU4683240154
+
+  - title: 'Raw Truth: Stories of Female Infidelity'
+    htmlUrl: https://rt20storiesoffemaleinfidelity.podbean.com/
+    xmlUrl: https://feed.podbean.com/rt20storiesoffemaleinfidelity/feed.xml
+
+  - title: FLAUNT! Create a Life You Love After Infidelity or Betrayal
+    htmlUrl: https://loracheadle.podbean.com/
+    xmlUrl: https://feed.podbean.com/loracheadle/feed.xml
+
+  - title: 'I Am The Wife: From D-day to OK'
+    htmlUrl: https://www.iamthewife.com/
+    xmlUrl: https://anchor.fm/s/7a96caec/podcast/rss
+
+  - title: Marriage Therapy Radio
+    htmlUrl: https://marriagetherapyradio.com/
+    xmlUrl: https://feeds.megaphone.fm/CTL2266719450
+
+  - title: The Empowered Divorce Podcast; Navigating Divorce After Betrayal Trauma and Abuse
+    htmlUrl: https://amiewoolsey.com/
+    xmlUrl: https://anchor.fm/s/43c1418c/podcast/rss
+
+  - title: Choose In
+    htmlUrl: http://choosein.libsyn.com/website
+    xmlUrl: https://choosein.libsyn.com/rss
+
+  - title: The Infidelity Recovery Podcast
+    htmlUrl: https://mysoundwise.com/soundcasts/1704253800503s
+    xmlUrl: https://app.mysoundwise.com/rss/1704253800503s
+
+  - title: 'Cheating: When Love Lies'
+    htmlUrl: https://art19.com/shows/cheating-when-love-lies
+    xmlUrl: https://rss.art19.com/cheating-when-love-lies
+
+  - title: Relationships Uncomplicated
+    htmlUrl: https://iditsharoni.com/relationship-podcast/
+    xmlUrl: https://relationshipsuncomplicated.libsyn.com/rss
+
+  - title: Your Secret Is Safe With Me
+    htmlUrl: https://www.mariemurphyphd.com/podcast
+    xmlUrl: https://mariemurphyphd.libsyn.com/rss
+
+  - title: 'Heal from Infidelity: Reclaiming Your Peace, Power, and Self-Trust After Betrayal'
+    htmlUrl: https://andreagiles.com/
+    xmlUrl: https://healfrominfidelity.libsyn.com/rss
+
 - name: The Best Spiritual Podcasts
   opml: findthatpod-the-best-spiritual-podcasts.opml
   date: 2026-01-06
