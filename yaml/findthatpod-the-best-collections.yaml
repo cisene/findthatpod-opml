@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Anime Podcasts
+  opml: findthatpod-the-best-anime-podcasts.opml
+  date: 2026-01-08
+  htmlUrl: https://findthatpod.com/best-anime-podcasts/
+  podcasts:
+
+  - title: Anime Addicts Anonymous
+    htmlUrl: http://www.aaapodcast.com/
+    xmlUrl: https://www.aaapodcast.com/aaapodcast_episode1.xml
+
+  - title: THAT ANIME PODCAST
+    htmlUrl: https://thatanimepod.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/1657903.rss
+
+  - title: Gateway to Anime
+    htmlUrl: https://gatewaytoanime.podbean.com/
+    xmlUrl: https://feed.podbean.com/gatewaytoanime/feed.xml
+
+  - title: Shoujo Sundae
+    htmlUrl: https://www.shoujosundae.com/
+    xmlUrl: https://anchor.fm/s/9faa98e0/podcast/rss
+
+  - title: Otaku Spirit Anime
+    htmlUrl: http://otakuspirit.com/
+    xmlUrl: https://otakuspirit.com/animecast/otakuspirit.xml
+
+  - title: AniPro Podcast
+    htmlUrl: https://anipropod.com/
+    xmlUrl: https://anchor.fm/s/686128cc/podcast/rss
+
+  - title: Trash Taste Podcast
+    htmlUrl: https://trashtaste.com/
+    xmlUrl: https://feeds.megaphone.fm/trashtaste
+
+  - title: Anime Sickos
+    htmlUrl: http://animesickos.com/
+    xmlUrl: https://animesickos.libsyn.com/rss
+
+  - title: Anime Savants
+    htmlUrl: https://linktr.ee/animesavants
+    xmlUrl: https://anchor.fm/s/29fb36b8/podcast/rss
+
+  - title: Fandom Post Radio
+    htmlUrl: http://www.fandompost.com/
+    xmlUrl: https://fandompost.libsyn.com/rss
+
+  - title: Third Impact Anime Podcast
+    htmlUrl: https://thirdimpactanimepodcast.podbean.com/
+    xmlUrl: https://thirdimpactanimepodcast.podbean.com/feed.xml
+
+  - title: Anime Out of Context
+    htmlUrl: https://animeoutofcontext.podbean.com/
+    xmlUrl: https://animeoutofcontext.podbean.com/feed.xml
+
+  - title: Anime Brothers
+    htmlUrl: https://anime-brothers.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/YCCrLNgZ
+
+  - title: Talking Yugioh
+    htmlUrl: https://rss.com/podcasts/talkingyugioh
+    xmlUrl: https://media.rss.com/talkingyugioh/feed.xml
+
+  - title: Anime Summit Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/anime-summit
+    xmlUrl: https://anchor.fm/s/6d9357c/podcast/rss
+
+  - title: Ballin'' Out Super
+    htmlUrl: https://www.teepublic.com/user/ballinoutsuper
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:291962045/sounds.rss
+
+  - title: Baka Banter Anime Podcast
+    htmlUrl: https://bakabanter.com/
+    xmlUrl: https://anchor.fm/s/4b328e30/podcast/rss
+
+  - title: Shonen Flop
+    htmlUrl: http://shonenflop.com/
+    xmlUrl: https://shonenflop.libsyn.com/rss
+
+  - title: The One Piece Podcast
+    htmlUrl: https://onepiecepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/one-piece
+
+  - title: Chatsunami
+    htmlUrl: https://www.chatsunami.com/
+    xmlUrl: https://feeds.zencastr.com/f/FwXhbVFn.rss
+
+  - title: Anime Was (Not) A Mistake
+    htmlUrl: https://animewasnotamistake.podbean.com/
+    xmlUrl: https://animewasnotamistake.podbean.com/feed.xml
+
+  - title: Strictly Anime
+    htmlUrl: https://www.thestrictlyseries.com/
+    xmlUrl: https://pinecast.com/feed/strictly-anime
+
+  - title: Anime World Order Podcast
+    htmlUrl: http://www.animeworldorder.com/
+    xmlUrl: http://feeds.feedburner.com/AnimeWorldOrder
+
+  - title: Vintage Anime Club Podcast
+    htmlUrl: http://vintageanimeclub.libsyn.com/
+    xmlUrl: https://vintageanimeclub.libsyn.com/rss
+
+  - title: Otaku''s Anonymous
+    htmlUrl: https://www.buzzsprout.com/2115827
+    xmlUrl: https://anchor.fm/s/f8498d6c/podcast/rss
+
+  - title: Let''s Anime
+    htmlUrl: https://comicbastards.com/
+    xmlUrl: https://feeds.buzzsprout.com/175177.rss
+
 - name: The Best Podcasts About Infidelity
   opml: findthatpod-the-best-podcasts-about-infidelity.opml
   date: 2026-01-06

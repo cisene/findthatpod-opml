@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Anime Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-anime-podcasts.opml) | 2026-01-08 |
 | [FindThatPod - The Best Podcasts About Infidelity](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-infidelity.opml) | 2026-01-06 |
 | [FindThatPod - The Best Spiritual Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-spiritual-podcasts.opml) | 2026-01-06 |
 | [FindThatPod - The Best Erotic Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-erotic-podcasts.opml) | 2026-01-01 |
