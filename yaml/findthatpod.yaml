@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #346'
+  opml: findthatpod-issue-346.opml
+  date: 2026-01-09
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-346
+  podcasts:
+
+  - title: 'Doomsday: History''s Most Dangerous Podcast'
+    htmlUrl: https://www.spreaker.com/show/doomsday-historys-most-dangerous-podcast
+    xmlUrl: https://www.spreaker.com/show/4866335/episodes/feed
+
+  - title: Charlie''s Place
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/437c6987-8699-45e2-bc45-b300016a0df4/3e4abd45-f29b-40e4-bb42-b300016a1765/podcast.rss
+
+  - title: Like This, Love This
+    htmlUrl: https://shows.acast.com/like-this-love-this
+    xmlUrl: https://feeds.acast.com/public/shows/6877a33ec32bf359c0d2d440
+
+  - title: In Ten Years Time
+    htmlUrl: https://www.intenyearstime.com/
+    xmlUrl: https://feeds.acast.com/public/shows/63c6cb27636a950010192d7c
+
+  - title: Byte Sized Biographies…
+    htmlUrl: https://bytesizedbiographies.com/
+    xmlUrl: https://bytesizedbiographies.com/feed/podcast/
+
 - name: 'Find That Pod #345'
   opml: findthatpod-issue-345.opml
   date: 2026-01-02
