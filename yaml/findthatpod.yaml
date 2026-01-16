@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #347'
+  opml: findthatpod-issue-347.opml
+  date: 2026-01-16
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-347
+  podcasts:
+
+  - title: 'Stop Rewind: The Lost Boy'
+    htmlUrl: https://www.curiouscast.ca/podcast/stop-rewind-the-lost-boy/
+    xmlUrl: https://feeds.megaphone.fm/stoprewind-thelostboy
+
+  - title: Well, I Laughed
+    htmlUrl: https://bleav.com/shows/well-i-laughed/
+    xmlUrl: https://feeds.simplecast.com/gVKRwKM9
+
+  - title: Starter Marriage
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/startermarriage
+
+  - title: Learning Curve
+    htmlUrl: https://learningcurve.fm/
+    xmlUrl: https://feeds.simplecast.com/zN3vEQsu
+
+  - title: What Happened in Skinner
+    htmlUrl: https://redcircle.com/shows/what-happened-in-skinner
+    xmlUrl: https://feeds.redcircle.com/ffc9cb95-6db5-4722-b4ff-7db753dde720
+
 - name: 'Find That Pod #346'
   opml: findthatpod-issue-346.opml
   date: 2026-01-09
