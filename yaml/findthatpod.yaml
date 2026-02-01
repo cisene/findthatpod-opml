@@ -19,6 +19,31 @@ global:
 
 issues:
 
+- name: 'Find That Pod #349'
+  opml: findthatpod-issue-349.opml
+  date: 2026-01-30
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-348
+  podcasts:
+
+  - title: Strange Health
+    htmlUrl: https://theconversation.com/
+    xmlUrl: https://feeds.captivate.fm/strange-health/
+
+  - title: On Hold
+    htmlUrl: https://onhold.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2548555.rss
+
+  - title: The Europeans | European news, politics and culture
+    htmlUrl: https://europeanspodcast.com/
+    xmlUrl: https://feed.podbean.com/helloqg/feed.xml
+
+  - title: Mind Games
+    htmlUrl: https://www.k-scope.com/mindgames
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/898005b3-4ab4-4dd9-b4ee-b3cb0117508e/faac7073-e699-453c-abcc-b3cb01175507/podcast.rss
+
+  - title: People of Agency
+    htmlUrl: https://peopleofagency.podbean.com/
+    xmlUrl: https://feed.podbean.com/peopleofagency/feed.xml
 
 - name: 'Find That Pod #348'
   opml: findthatpod-issue-348.opml
