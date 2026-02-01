@@ -19,6 +19,33 @@ global:
 
 issues:
 
+
+- name: 'Find That Pod #348'
+  opml: findthatpod-issue-348.opml
+  date: 2026-01-23
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-348
+  podcasts:
+
+  - title: 'More Human More Kind: Practical Guidance for Parenting LGBTQ Teens'
+    htmlUrl: https://morehumanmorekind.com/
+    xmlUrl: https://feeds.captivate.fm/more-human-more-kind/
+
+  - title: What Your Therapist Thinks
+    htmlUrl: https://www.besttherapists.com/podcast
+    xmlUrl: https://feeds.captivate.fm/wytt/
+
+  - title: Comic Sans
+    htmlUrl: https://art19.com/shows/comic-sans
+    xmlUrl: https://rss.art19.com/comic-sans
+
+  - title: Scenecraft
+    htmlUrl: https://sites.libsyn.com/458679/scenecraftpodcast
+    xmlUrl: https://feeds.libsyn.com/458679/rss
+
+  - title: On NOTUS
+    htmlUrl: https://www.notus.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/TPG5164035606
+
 - name: 'Find That Pod #347'
   opml: findthatpod-issue-347.opml
   date: 2026-01-16
