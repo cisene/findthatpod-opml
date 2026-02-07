@@ -19,10 +19,36 @@ global:
 
 issues:
 
+- name: 'Find That Pod #350'
+  opml: findthatpod-issue-350.opml
+  date: 2026-02-06
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-350
+  podcasts:
+
+  - title: Future Around & Find Out
+    htmlUrl: https://www.futurearound.com/
+    xmlUrl: https://feeds.transistor.fm/crafted
+
+  - title: One Song
+    htmlUrl: https://www.hartbeat.com/
+    xmlUrl: https://feeds.megaphone.fm/IMP6296096176
+
+  - title: The Messy Parts
+    htmlUrl: https://themessypartspodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/2463801.rss
+
+  - title: Wall Street Breakfast
+    htmlUrl: https://seekingalpha.com/wsb
+    xmlUrl: https://www.spreaker.com/show/5725002/episodes/feed
+
+  - title: Harvey in Hell
+    htmlUrl: https://shows.acast.com/harvey-in-hell
+    xmlUrl: https://feeds.acast.com/public/shows/68b5dbabc06740a07667f561
+
 - name: 'Find That Pod #349'
   opml: findthatpod-issue-349.opml
   date: 2026-01-30
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-348
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-349
   podcasts:
 
   - title: Strange Health
