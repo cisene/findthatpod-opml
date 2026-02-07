@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Funniest History Podcasts
+  opml: findthatpod-the-best-funniest-history-podcasts.opml
+  date: 2026-02-04
+  htmlUrl: https://findthatpod.com/funniest-history-podcasts/
+  podcasts:
+
+  - title: You''re Dead to Me
+    htmlUrl: http://www.bbc.co.uk/programmes/p07mdbhg
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+
+  - title: What the HELL Were You Thinking?
+    htmlUrl: http://www.whatthehellpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV7184357572
+
+  - title: The Alarmist
+    htmlUrl: https://www.instagram.com/thealarmistpodcast/?hl=en
+    xmlUrl: https://feeds.acast.com/public/shows/f7690f61-80c5-48b0-b55d-9b99a463a956
+
+  - title: History Defeats Itself
+    htmlUrl: https://historydefeatsitself.com/
+    xmlUrl: https://feeds.zencastr.com/f/fY50IVmX.rss
+
+  - title: The Year Is
+    htmlUrl: https://shows.acast.com/the-year-is
+    xmlUrl: https://access.acast.com/rss/61a8b4edc9a9540012938ccc/
+
+  - title: Hard Fried History
+    htmlUrl: https://podcasters.spotify.com/pod/show/hardfriedhistory
+    xmlUrl: https://anchor.fm/s/f6cfbd8/podcast/rss
+
+  - title: Oh What A Time...
+    htmlUrl: http://www.ohwhatatime.com/
+    xmlUrl: https://feeds.acast.com/public/shows/68f23f70ace6eea8f89132b5
+
+  - title: Rex Factor
+    htmlUrl: https://www.rexfactorpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT5291067453
+
+  - title: The Dollop with Dave Anthony and Gareth Reynolds
+    htmlUrl: http://dolloppodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss
+
+  - title: Timesuck with Dan Cummins
+    htmlUrl: https://www.badmagicproductions.com/pages/timesuck-podcast-2024
+    xmlUrl: https://feeds.simplecast.com/Llc7KL2K
+
+  - title: An Old Timey Podcast
+    htmlUrl: http://patreon.com/oldtimeypodcast
+    xmlUrl: https://audioboom.com/channels/5130139.rss
+
+  - title: Gone Medieval
+    htmlUrl: https://www.historyhit.com/podcasts/
+    xmlUrl: https://access.acast.com/rss/11c1773b-6d50-4dbb-b543-483046bdc241
+
+  - title: 'The Constant: A History of Getting Things Wrong'
+    htmlUrl: https://www.constantpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV8582947768
+
+  - title: History Hyenas with Chris Distefano and Yannis Pappas
+    htmlUrl: https://historyhyenaspod.com/
+    xmlUrl: https://feeds.megaphone.fm/YMH4579690980
+
+  - title: Evil Genius with Russell Kane
+    htmlUrl: http://www.bbc.co.uk/programmes/p0605sx6
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0605sx6.rss
+
+  - title: 'Let Them Fight: A Comedy History Podcast'
+    htmlUrl: http://letthemfightpod.libsyn.com/website
+    xmlUrl: https://letthemfightpod.libsyn.com/rss
+
+  - title: No One Is Competent
+    htmlUrl: https://podcasters.spotify.com/pod/show/nooneiscompetent
+    xmlUrl: https://anchor.fm/s/67523e80/podcast/rss
+
+  - title: Our Fake History
+    htmlUrl: https://art19.com/shows/our-fake-history
+    xmlUrl: https://rss.art19.com/our-fake-history
+
+  - title: Lions Led By Donkeys Podcast
+    htmlUrl: https://www.patreon.com/lionsledbydonkeys
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:457245963/sounds.rss
+
+  - title: That Was Genius - A Funny History Podcast
+    htmlUrl: https://thatwasgeniuspodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/thatwasgenius/feed.xml
+
+  - title: Do Go On
+    htmlUrl: https://dogoonpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/60de27e6-b679-4a3b-a9aa-53fa8e6d0313
+
+  - title: Ridiculous History
+    htmlUrl: https://www.iheart.com/podcast/105-ridiculous-history-28588696/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/DCA0D8AD-E0B8-4A52-A2A8-AE300188D1E2/FE9400D8-DD2A-489F-82D9-AE300188D1EB/podcast.rss
+
+  - title: SNAFU with Ed Helms
+    htmlUrl: https://www.iheart.com/podcast/1119-snafu-102539700/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cca4a312-f307-4ecb-b14f-aed7010422f6/2a05ffa6-0933-4af4-83f3-aed701046cfa/podcast.rss
+
+  - title: History for You with Douglas and Hugh
+    htmlUrl: http://linktr.ee/historyforyou
+    xmlUrl: https://anchor.fm/s/e8471b78/podcast/rss
+
+  - title: Omnibus
+    htmlUrl: https://audioboom.com/channels/5127257
+    xmlUrl: https://audioboom.com/channels/5127257.rss
+
+  - title: Futility Closet
+    htmlUrl: https://www.futilitycloset.com/podcast/
+    xmlUrl: https://futilitycloset.libsyn.com/rss
+
 - name: The Best Anime Podcasts
   opml: findthatpod-the-best-anime-podcasts.opml
   date: 2026-01-08
