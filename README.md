@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Horror Fiction Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-horror-fiction-podcasts.opml) | 2026-02-05 |
 | [FindThatPod - The Best Inspirational Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-inspirational-podcasts.opml) | 2026-02-04 |
 | [FindThatPod - The Best Funniest History Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-funniest-history-podcasts.opml) | 2026-02-04 |
 | [FindThatPod - The Best Anime Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-anime-podcasts.opml) | 2026-01-08 |
