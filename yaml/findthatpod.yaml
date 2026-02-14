@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #351'
+  opml: findthatpod-issue-351.opml
+  date: 2026-02-13
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-351
+  podcasts:
+
+  - title: Cultureful
+    htmlUrl: https://www.buzzsprout.com/2271294
+    xmlUrl: https://rss.buzzsprout.com/2271294.rss
+
+  - title: Curiosity Meets The Past
+    htmlUrl: https://smitinathan.com/podcast
+    xmlUrl: https://anchor.fm/s/105f6ce20/podcast/rss
+
+  - title: 'Good Grief: Life After Loss'
+    htmlUrl: https://goodgrieflifeafterloss.podbean.com/
+    xmlUrl: https://feed.podbean.com/goodgrieflifeafterloss/feed.xml
+
+  - title: Man vs Mind
+    htmlUrl: https://manvsmindpod.com/
+    xmlUrl: https://api.riverside.fm/hosting/JBIBQQ0Q.rss
+
+  - title: Moonburn
+    htmlUrl: https://www.augustyearround.com/
+    xmlUrl: https://anchor.fm/s/f557623c/podcast/rss
+
 - name: 'Find That Pod #350'
   opml: findthatpod-issue-350.opml
   date: 2026-02-06
