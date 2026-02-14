@@ -6,6 +6,140 @@ global:
 
 issues:
 
+- name: The Best NPR Podcasts
+  opml: findthatpod-the-best-npr-podcasts.opml
+  date: 2026-02-11
+  htmlUrl: https://findthatpod.com/best-npr-podcasts/
+  podcasts:
+
+  - title: A Real Piece of Work
+    htmlUrl: https://www.wvik.org/
+    xmlUrl: https://wvik-rss.streamguys1.com/wvikfm/a-real-piece-of-work.xml
+
+  - title: Up First from NPR
+    htmlUrl: https://www.npr.org/podcasts/510318/up-first
+    xmlUrl: https://feeds.npr.org/510318/podcast.xml
+
+  - title: It's Been a Minute
+    htmlUrl: https://www.npr.org/podcasts/510317/its-been-a-minute
+    xmlUrl: https://feeds.npr.org/510317/podcast.xml
+
+  - title: Throughline
+    htmlUrl: https://www.npr.org/podcasts/510333/throughline
+    xmlUrl: https://feeds.npr.org/510333/podcast.xml
+
+  - title: StoryCorps
+    htmlUrl: https://www.npr.org/podcasts/510200/storycorps
+    xmlUrl: https://feeds.npr.org/510200/podcast.xml
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: World Cafe Words and Music Podcast
+    htmlUrl: https://www.npr.org/podcasts/510008/world-cafe-words-and-music-from-wxpn
+    xmlUrl: https://feeds.npr.org/510008/podcast.xml
+
+  - title: Embedded
+    htmlUrl: https://www.npr.org/podcasts/510311/embedded
+    xmlUrl: https://feeds.npr.org/510311/podcast.xml
+
+  - title: Civics 101
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG3969164236
+
+  - title: Fresh Air
+    htmlUrl: https://www.npr.org/podcasts/381444908/fresh-air
+    xmlUrl: https://feeds.npr.org/381444908/podcast.xml
+
+  - title: All Songs Considered
+    htmlUrl: https://www.npr.org/podcasts/510019/all-songs-considered
+    xmlUrl: https://feeds.npr.org/510019/podcast.xml
+
+  - title: Pop Culture Happy Hour
+    htmlUrl: https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+    xmlUrl: https://feeds.npr.org/510282/podcast.xml
+
+  - title: Consider This from NPR
+    htmlUrl: https://www.npr.org/podcasts/510355/considerthis
+    xmlUrl: https://feeds.npr.org/510355/podcast.xml
+
+  - title: Rough Translation
+    htmlUrl: https://www.npr.org/podcasts/510324/rough-translation
+    xmlUrl: https://feeds.npr.org/510324/podcast.xml
+
+  - title: Wait Wait... Don''t Tell Me!
+    htmlUrl: https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me
+    xmlUrl: https://feeds.npr.org/344098539/podcast.xml
+
+  - title: The NPR Politics Podcast
+    htmlUrl: https://www.npr.org/podcasts/510310/npr-politics-podcast
+    xmlUrl: https://feeds.npr.org/510310/podcast.xml
+
+  - title: How To Do Everything
+    htmlUrl: https://www.npr.org/podcasts/510384/how-to-do-everything
+    xmlUrl: https://feeds.npr.org/510384/podcast.xml
+
+  - title: Short Wave
+    htmlUrl: https://www.npr.org/podcasts/510351/short-wave
+    xmlUrl: https://feeds.npr.org/510351/podcast.xml
+
+  - title: Planet Money
+    htmlUrl: https://www.npr.org/podcasts/510289/planet-money
+    xmlUrl: https://feeds.npr.org/510289/podcast.xml
+
+  - title: The Modern West
+    htmlUrl: https://themodernwest.org/
+    xmlUrl: https://feeds.feedburner.com/themodernwest
+
+  - title: White Lies
+    htmlUrl: https://www.npr.org/podcasts/510343/white-lies
+    xmlUrl: https://feeds.npr.org/510343/podcast.xml
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: Bullseye with Jesse Thorn
+    htmlUrl: https://www.npr.org/podcasts/510309/bullseye
+    xmlUrl: https://feeds.npr.org/510309/podcast.xml
+
+  - title: NPR''s Book of the Day
+    htmlUrl: https://www.npr.org/podcasts/510364/daily-books
+    xmlUrl: https://feeds.npr.org/510364/podcast.xml
+
+  - title: Snap Judgment
+    htmlUrl: https://snapjudgment.org/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:3009842/sounds.rss
+
+  - title: Outside/In
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG9719828981
+
+  - title: The Indicator from Planet Money
+    htmlUrl: https://www.npr.org/podcasts/510325/the-indicator-from-planet-money
+    xmlUrl: https://feeds.npr.org/510325/podcast.xml
+
+  - title: Code Switch
+    htmlUrl: https://www.npr.org/podcasts/510312/codeswitch
+    xmlUrl: https://feeds.npr.org/510312/podcast.xml
+
+  - title: Bear Brook
+    htmlUrl: https://www.nhpr.org/
+    xmlUrl: https://feeds.megaphone.fm/TPG7540613670
+
+  - title: Life Kit
+    htmlUrl: https://www.npr.org/podcasts/510338/all-guides
+    xmlUrl: https://feeds.npr.org/510338/podcast.xml
+
+  - title: Tiny Desk Concerts - Audio
+    htmlUrl: https://www.npr.org/podcasts/510306/tiny-desk-concerts-audio
+    xmlUrl: https://feeds.npr.org/510306/podcast.xml
+
+  - title: Invisibilia
+    htmlUrl: https://www.npr.org/podcasts/510307/invisibilia
+    xmlUrl: https://feeds.npr.org/510307/podcast.xml
+
 - name: The Best Horror Fiction Podcasts
   opml: findthatpod-the-best-horror-fiction-podcasts.opml
   date: 2026-02-05
