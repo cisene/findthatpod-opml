@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Motorcycle Podcasts
+  opml: findthatpod-the-best-motorcycle-podcasts.opml
+  date: 2026-02-12
+  htmlUrl: https://findthatpod.com/best-motorcycle-podcasts/
+  podcasts:
+
+  - title: Adventure Rider Radio – Motorcycle Podcast
+    htmlUrl: https://adventureriderradio.com/
+    xmlUrl: https://feeds.transistor.fm/adventure-rider-radio
+
+  - title: Paddock Pass Podcast
+    htmlUrl: https://soundcloud.com/the-paddock-pass-podcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:157724297/sounds.rss
+
+  - title: Greg''s Garage Pod w/Co-Host Jason Pridmore
+    htmlUrl: https://gregsgaragepod.podbean.com/
+    xmlUrl: https://gregsgaragepod.podbean.com/feed.xml
+
+  - title: 2 Wheeled Rider Podcast
+    htmlUrl: https://2wrpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/799499.rss
+
+  - title: Brap Talk Motorcycle Podcast
+    htmlUrl: https://soundcloud.com/braptalk
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:551652231/sounds.rss
+
+  - title: Off Track Podcast
+    htmlUrl: https://www.offtrackpodcast.co.uk/
+    xmlUrl: https://rss.buzzsprout.com/2279907.rss
+
+  - title: Motorcycles & Misfits
+    htmlUrl: https://motorcyclesandmisfits.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:46212671/sounds.rss
+
+  - title: Edge Grip Podcast - Motorcycle Roadracing
+    htmlUrl: https://www.spreaker.com/podcast/edge-grip-podcast-motorcycle-roadracing--6565321
+    xmlUrl: https://www.spreaker.com/show/6565321/episodes/feed
+
+  - title: MotoPod
+    htmlUrl: https://motopod.com/
+    xmlUrl: https://www.motopodcast.com/feed.xml
+
+  - title: Highside/Lowside - A Motorcycle Podcast
+    htmlUrl: https://www.revzilla.com/common-tread
+    xmlUrl: https://revzillapodcast.libsyn.com/rss
+
+  - title: This Motorcycle Life Podcast
+    htmlUrl: https://www.thismotorcyclelife.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:213923824/sounds.rss
+
+  - title: LIVE OnTwoWheels
+    htmlUrl: https://liveontwowheels.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/1727760.rss
+
+  - title: Front End Chatter
+    htmlUrl: https://www.frontendchatter.com/
+    xmlUrl: https://frontendchatter.libsyn.com/rss
+
+  - title: Rider Magazine Insider
+    htmlUrl: https://ridermagazineinsider.podbean.com/
+    xmlUrl: https://feed.podbean.com/ridermagazineinsider/feed.xml
+
+  - title: The Noco Moto Motorcycle Podcast
+    htmlUrl: https://nocomotopodcast.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/147064.rss
+
+  - title: Ken Hill Coaching
+    htmlUrl: https://www.khcoaching.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:187089345/sounds.rss
+
+  - title: For The Ride
+    htmlUrl: https://for-the-ride.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/ha9MtqyA
+
+  - title: 200 Miles Before Breakfast
+    htmlUrl: https://www.bmwmoa.org/200milespodcast
+    xmlUrl: https://200milesbeforebreakfast.libsyn.com/rss
+
+  - title: ClevelandMoto Motorcycle Podcast / Cleveland Moto
+    htmlUrl: https://www.facebook.com/ClevelandMotoPodcast/
+    xmlUrl: https://rss.buzzsprout.com/112122.rss
+
+  - title: Motos and Friends from Ultimate Motorcycle magazine
+    htmlUrl: https://motosandfriends.podbean.com/
+    xmlUrl: https://motosandfriends.podbean.com/feed.xml
+
+  - title: Chasin'' The Racin''
+    htmlUrl: https://motorbikepod.libsyn.com/website
+    xmlUrl: https://motorbikepod.libsyn.com/rss
+
+  - title: Throttled Adventures
+    htmlUrl: https://throttledadventures.com/
+    xmlUrl: https://feeds.buzzsprout.com/1395217.rss
+
+  - title: Law Abiding Biker | Street Biker Motorcycle Podcast
+    htmlUrl: https://lawabidingbiker.libsyn.com/
+    xmlUrl: https://lawabidingbiker.libsyn.com/rss
+
 - name: The Best Podcasts About Sustainability
   opml: findthatpod-the-best-podcasts-about-sustainability.opml
   date: 2026-02-12
