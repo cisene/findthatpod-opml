@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Sustainability
+  opml: findthatpod-the-best-podcasts-about-sustainability.opml
+  date: 2026-02-12
+  htmlUrl: https://findthatpod.com/best-podcasts-about-sustainability/
+  podcasts:
+
+  - title: Sustainability Defined
+    htmlUrl: https://www.sustainabilitydefined.com/
+    xmlUrl: https://sustainabilitydefined.libsyn.com/rss
+
+  - title: The Great Simplification with Nate Hagens
+    htmlUrl: https://thegreatsimplification.com/
+    xmlUrl: https://thegreatsimplification.libsyn.com/rss
+
+  - title: The Sustainability Agenda
+    htmlUrl: https://thesustainabilityagenda.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/cOnl3bau
+
+  - title: Building Local Power
+    htmlUrl: https://ilsr.org/
+    xmlUrl: https://ilsr.org/feed/buildinglocalpower/
+
+  - title: 'Think: Sustainability'
+    htmlUrl: https://2ser.com/thinksustainability
+    xmlUrl: https://feeds.megaphone.fm/EFRMF9176418229
+
+  - title: How to Save a Planet
+    htmlUrl: https://gimletmedia.com/shows/howtosaveaplanet
+    xmlUrl: https://feeds.megaphone.fm/howtosaveaplanet
+
+  - title: POLITICO Energy
+    htmlUrl: https://politico-energy.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/ASD3100338491
+
+  - title: Forward, Better
+    htmlUrl: https://sponsorcontent.cnn.com/edition/2022/fujitsu-uvance/forward-better-podcast/
+    xmlUrl: https://omny.fm/shows/fujitsu-uvance-forward-better/playlists/podcast.rss
+
+  - title: The AtlasZero Podcast
+    htmlUrl: https://www.atlaszero.earth/
+    xmlUrl: https://anchor.fm/s/f376cee4/podcast/rss
+
+  - title: People Places Planet
+    htmlUrl: https://www.eli.org/podcasts
+    xmlUrl: https://feeds.transistor.fm/people-places-planet-podcast
+
+  - title: What You''re Eating
+    htmlUrl: https://what-youre-eating.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/QojXfrpq
+
+  - title: On The Green Fence
+    htmlUrl: https://www.dw.com/en/on-the-green-fence/program-49760682?maca=en-podcast_on_the_green_fence-30407-xml-mrss
+    xmlUrl: https://rss.dw.com/xml/podcast_on_the_green_fence
+
+  - title: A Sustainable Mind - environment & sustainability podcast
+    htmlUrl: https://www.asustainablemind.com/
+    xmlUrl: https://asustainablemind.libsyn.com/rss
+
+  - title: Catalyst with Shayle Kann
+    htmlUrl: https://www.latitudemedia.com/podcasts/catalyst
+    xmlUrl: https://feeds.megaphone.fm/catalyst
+
+  - title: Sustainababble
+    htmlUrl: https://www.sustainababble.fish/
+    xmlUrl: https://www.sustainababble.fish/?feed=podcast
+
+  - title: 'Green Dreamer: Seeding change towards collective healing, sustainability, regeneration'
+    htmlUrl: https://www.greendreamer.com/
+    xmlUrl: https://feeds.captivate.fm/greendreamer/
+
+  - title: Open Circuit
+    htmlUrl: https://www.latitudemedia.com/podcasts/open-circuit/
+    xmlUrl: https://feeds.megaphone.fm/opencircuit
+
+  - title: Forces for Nature
+    htmlUrl: https://forcesfornature.com/
+    xmlUrl: https://rss.buzzsprout.com/774236.rss
+
+  - title: Energy Gang
+    htmlUrl: https://art19.com/shows/the-energy-gang
+    xmlUrl: https://rss.art19.com/the-energy-gang
+
+  - title: Climate Vision 2050
+    htmlUrl: https://climate-vision-2050.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/climate-vision-2050/
+
+  - title: Ecogradia
+    htmlUrl: https://www.ecogradia.com/podcasts/ecogradia/
+    xmlUrl: https://www.ecogradia.com/feed/podcast/
+
+  - title: Sustainable(ish)
+    htmlUrl: https://www.asustainablelife.co.uk/homepage-blogs/
+    xmlUrl: https://www.asustainablelife.co.uk/feed/podcast/
+
+  - title: Lead The Change
+    htmlUrl: https://bardmba.podbean.com/
+    xmlUrl: https://feed.podbean.com/bardmba/feed.xml
+
+  - title: 'Zero: The Climate Race'
+    htmlUrl: https://www.iheart.com/podcast/1119-zero-109889882
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/podcast.rss
+
+  - title: America Adapts the Climate Change Podcast
+    htmlUrl: https://americaadapts.libsyn.com/podcast
+    xmlUrl: https://americaadapts.libsyn.com/rss
+
+  - title: Living Planet
+    htmlUrl: https://www.dw.com/en/living-planet/program-19028671?maca=en-podcast_living-planet-948-xml-mrss
+    xmlUrl: https://rss.dw.com/xml/podcast_living-planet
+
 - name: The Best NPR Podcasts
   opml: findthatpod-the-best-npr-podcasts.opml
   date: 2026-02-11
