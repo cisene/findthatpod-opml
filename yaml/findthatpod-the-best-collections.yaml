@@ -6,6 +6,96 @@ global:
 
 issues:
 
+- name: The Best Positive Thinking & Mindset Podcasts
+  opml: findthatpod-the-best-positive-thinking-and-mindset-podcasts.opml
+  date: 2025-02-19
+  htmlUrl: https://findthatpod.com/best-positive-thinking-mindset-podcasts/
+  podcasts:
+
+  - title: How to Like Your Life
+    htmlUrl: https://howtolikeyourlife.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2296875.rss
+
+  - title: The Science of Happiness
+    htmlUrl: https://greatergood.berkeley.edu/podcasts/series/the_science_of_happiness
+    xmlUrl: https://greatergood.berkeley.edu/podcasts/rss/the_science_of_happiness
+
+  - title: All In The Mind
+    htmlUrl: https://www.abc.net.au/listen/programs/allinthemind/
+    xmlUrl: https://www.abc.net.au/feeds/2888650/podcast.xml
+
+  - title: The Positive Head Podcast
+    htmlUrl: https://positivehead.com/
+    xmlUrl: https://positivehead.libsyn.com/rss
+
+  - title: Good Life Project
+    htmlUrl: https://www.goodlifeproject.com/podcast/
+    xmlUrl: https://feeds.acast.com/public/shows/61de0665cc27c20014ea15cf
+
+  - title: The Minimalists
+    htmlUrl: https://theminimalists.com/
+    xmlUrl: https://theminimalists.libsyn.com/rss
+
+  - title: May I Elaborate? Sound Wisdom from JB Smoove
+    htmlUrl: https://may-i-elaborate-daily-wisdom-from-jb-smoove.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL7782248316
+
+  - title: The One You Feed
+    htmlUrl: https://art19.com/shows/the-one-you-feed-podcast
+    xmlUrl: https://feeds.megaphone.fm/GBLL2287897073
+
+  - title: The School of Greatness
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/AAvup9Zz
+
+  - title: The Mindset Mentor
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/rpKQEwel
+
+  - title: Paul McKenna''s Positivity Podcast
+    htmlUrl: https://www.heart.co.uk/podcasts/the-positivity-podcast-paul-mckenna/
+    xmlUrl: https://feeds.captivate.fm/paul-mckennas-positivity-podcast/
+
+  - title: Chasing Excellence
+    htmlUrl: https://art19.com/shows/chasing-excellence
+    xmlUrl: https://rss.art19.com/chasing-excellence
+
+  - title: The Happiness Lab with Dr. Laurie Santos
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
+
+  - title: 'Brain Science: Neuroscience, Behavior'
+    htmlUrl: https://changelog.com/brainscience
+    xmlUrl: https://changelog.com/brainscience/feed
+
+  - title: Existential Stoic Podcast
+    htmlUrl: https://www.dobetterwithdan.com/
+    xmlUrl: https://rss.buzzsprout.com/1382053.rss
+
+  - title: Note to Self
+    htmlUrl: https://art19.com/shows/note-to-self
+    xmlUrl: https://rss.art19.com/note-to-self
+
+  - title: Speaking of Psychology
+    htmlUrl: https://www.apa.org/speakingofpsychology
+    xmlUrl: https://feeds.megaphone.fm/AMERICANPSYCHOLOGICALASSOCIATION9933181801
+
+  - title: 10% Happier with Dan Harris
+    htmlUrl: https://www.danharris.com/
+    xmlUrl: https://feeds.libsyn.com/570160/rss
+
+  - title: Daily Boost — Clear Thinking for Real Life
+    htmlUrl: https://motivationtomove.com/
+    xmlUrl: https://feeds.megaphone.fm/dailyboost
+
+  - title: Happy Place
+    htmlUrl: https://www.happyplaceofficial.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/98ddd5a0-c00b-4f80-9a5b-d4584d0040ac
+
+  - title: The Psychology Podcast
+    htmlUrl: https://art19.com/shows/the-psychology-podcast
+    xmlUrl: https://rss.art19.com/the-psychology-podcast
+
 - name: The Best Podcasts About Apple
   opml: findthatpod-the-best-podcasts-about-apple.opml
   date: 2026-02-19

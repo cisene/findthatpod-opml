@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Positive Thinking & Mindset Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-positive-thinking-and-mindset-podcasts.opml) | 2025-02-19 |
 | [FindThatPod - The Best Podcasts About Apple](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-apple.opml) | 2026-02-19 |
 | [FindThatPod - The Best Motorcycle Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-motorcycle-podcasts.opml) | 2026-02-12 |
 | [FindThatPod - The Best Podcasts About Sustainability](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-sustainability.opml) | 2026-02-12 |
