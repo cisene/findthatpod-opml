@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #352'
+  opml: findthatpod-issue-352.opml
+  date: 2026-02-20
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-352
+  podcasts:
+
+  - title: So Supernatural
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/kC8PV5p6
+
+  - title: Ctrl Alt Ask
+    htmlUrl: https://raptive.com/ctrlaltask/
+    xmlUrl: https://feeds.transistor.fm/ctrl-alt-ask-the-creator-advice-show
+
+  - title: Smooch Fest
+    htmlUrl: https://linktr.ee/smoochfestpod
+    xmlUrl: https://anchor.fm/s/10610d824/podcast/rss
+
+  - title: Heist Club
+    htmlUrl: https://sites.libsyn.com/591055
+    xmlUrl: https://feeds.libsyn.com/591055/rss
+
+  - title: 'Imagine Audio: The A Building'
+    htmlUrl: https://www.iheart.com/podcast/117233473
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ba6f187-64f8-4a0e-8f29-b00d01243dad/791a90d2-d000-4cd2-bcfb-b00d0124f722/podcast.rss
+
 - name: 'Find That Pod #351'
   opml: findthatpod-issue-351.opml
   date: 2026-02-13
