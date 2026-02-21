@@ -6,6 +6,76 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Apple
+  opml: findthatpod-the-best-podcasts-about-apple.opml
+  date: 2026-02-19
+  htmlUrl: https://findthatpod.com/best-podcasts-about-apple/
+  podcasts:
+
+  - title: Accidental Tech Podcast
+    htmlUrl: https://atp.fm/
+    xmlUrl: https://atp.fm/episodes?format=rss
+
+  - title: MacBreak Weekly (Audio)
+    htmlUrl: https://twit.tv/shows/macbreak-weekly
+    xmlUrl: https://feeds.twit.tv/mbw.xml
+
+  - title: 9to5Mac Happy Hour
+    htmlUrl: https://www.9to5mac.com/
+    xmlUrl: https://feedpress.me/9to5machappyhour
+
+  - title: Launched
+    htmlUrl: https://launchedfm.com/?
+    xmlUrl: https://feeds.transistor.fm/launched
+
+  - title: The Talk Show With John Gruber
+    htmlUrl: https://daringfireball.net/thetalkshow
+    xmlUrl: https://daringfireball.net/thetalkshow/rss
+
+  - title: Genius Bar
+    htmlUrl: https://audioboom.com/channels/5061886
+    xmlUrl: https://audioboom.com/channels/5061886.rss
+
+  - title: Connected
+    htmlUrl: https://www.relay.fm/connected
+    xmlUrl: https://www.relay.fm/connected/feed
+
+  - title: Above Avalon
+    htmlUrl: https://www.aboveavalon.com/podcast/
+    xmlUrl: https://www.aboveavalon.com/podcast?format=rss
+
+  - title: Mac Power Users
+    htmlUrl: https://www.relay.fm/mpu
+    xmlUrl: https://www.relay.fm/mpu/feed
+
+  - title: iOS Today (Audio)
+    htmlUrl: https://twit.tv/shows/ios-today
+    xmlUrl: https://feeds.twit.tv/ipad.xml
+
+  - title: AppStories
+    htmlUrl: https://www.macstories.net/show/appstories/
+    xmlUrl: https://www.macstories.net/podcasts/appstories/feed
+
+  - title: Drk Mode
+    htmlUrl: https://rss.com/podcasts/drkmode
+    xmlUrl: https://media.rss.com/drkmode/feed.xml
+
+  - title: AppleInsider Podcast
+    htmlUrl: https://appleinsider.com/podcast/appleinsider-podcast
+    xmlUrl: https://feeds.transistor.fm/appleinsider
+
+  - title: Upgrade
+    htmlUrl: https://www.relay.fm/upgrade
+    xmlUrl: https://www.relay.fm/upgrade/feed
+
+  - title: The Rebound
+    htmlUrl: https://reboundcast.com/
+    xmlUrl: https://rss.art19.com/the-rebound
+
+  - title: The MacRumors Show
+    htmlUrl: https://www.macrumors.com/
+    xmlUrl: https://audioboom.com/channels/5096144.rss
+
 - name: The Best Motorcycle Podcasts
   opml: findthatpod-the-best-motorcycle-podcasts.opml
   date: 2026-02-12
