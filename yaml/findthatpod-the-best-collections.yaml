@@ -6,6 +6,84 @@ global:
 
 issues:
 
+- name: The Best Podcasts About the Roman Empire
+  opml: findthatpod-the-best-podcasts-about-the-roman-empire.opml
+  date: 2026-02-26
+  htmlUrl: https://findthatpod.com/best-podcasts-roman-empire/
+  podcasts:
+
+  - title: The Fall Of The Roman Empire
+    htmlUrl: https://www.buzzsprout.com/1892666
+    xmlUrl: https://rss.buzzsprout.com/1892666.rss
+
+  - title: Rome Retold
+    htmlUrl: https://www.romeretold.com/
+    xmlUrl: https://anchor.fm/s/ee682740/podcast/rss
+
+  - title: 'Roman Emperors: Totalus Rankium'
+    htmlUrl: https://totalusrankium.podbean.com/
+    xmlUrl: https://totalusrankium.podbean.com/feed.xml
+
+  - title: 'The March of History: Julius Caesar'
+    htmlUrl: https://www.themarchofhistory.com/
+    xmlUrl: https://feed.podbean.com/themarchofhistory/feed.xml
+
+  - title: The Partial Historians
+    htmlUrl: https://partialhistorians.com/
+    xmlUrl: https://feeds.acast.com/public/shows/67e2e3b05926376d2a9d0de8
+
+  - title: Plutarch''s Greeks and Romans Podcast
+    htmlUrl: https://plutarchsgreeksromans.com/
+    xmlUrl: https://rss.buzzsprout.com/1372327.rss
+
+  - title: Works of Tacitus
+    htmlUrl: https://www.spreaker.com/podcast/works-of-tacitus--6747866
+    xmlUrl: https://www.spreaker.com/show/6747866/episodes/feed
+
+  - title: The History of Rome
+    htmlUrl: https://thehistoryofrome.typepad.com/the_history_of_rome/
+    xmlUrl: https://historyofrome.libsyn.com/rss
+
+  - title: The Fall of Rome Podcast
+    htmlUrl: https://wondery.com/shows/the-fall-of-rome-podcast/?utm_source=rss
+    xmlUrl: https://rss.art19.com/the-fall-of-rome-podcast
+
+  - title: The Pax Romana Podcast
+    htmlUrl: https://paxromanapodcast.com/
+    xmlUrl: https://anchor.fm/s/e76256a0/podcast/rss
+
+  - title: Ancient History Hound
+    htmlUrl: https://ancientblogger.libsyn.com/website
+    xmlUrl: https://ancientblogger.libsyn.com/rss
+
+  - title: 'T&J: A Roman Empire Love Story'
+    htmlUrl: https://tandj.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2206825.rss
+
+  - title: The History of Byzantium
+    htmlUrl: https://thehistoryofbyzantium.com/
+    xmlUrl: https://rss.acast.com/thehistoryofbyzantium
+
+  - title: Emperors of Rome
+    htmlUrl: https://www.latrobe.edu.au/
+    xmlUrl: https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/caesar.xml
+
+  - title: Cost of Glory
+    htmlUrl: https://costofglory.com/
+    xmlUrl: https://feeds.transistor.fm/the-cost-of-glory
+
+  - title: Autocrat- A Roman History Podcast
+    htmlUrl: https://www.autocratpodcast.wordpress.com/
+    xmlUrl: https://anchor.fm/s/e838e3a0/podcast/rss
+
+  - title: Life Of Caesar
+    htmlUrl: https://lifeofcaesar.com/
+    xmlUrl: https://lifeofcaesar.com/feed/podcast/
+
+  - title: Western Civ
+    htmlUrl: https://www.westerncivpodcast.com/
+    xmlUrl: https://www.spreaker.com/show/5553835/episodes/feed
+
 - name: The Best Podcasts for Learning
   opml: findthatpod-the-best-podcasts-for-learning.opml
   date: 2026-02-25
