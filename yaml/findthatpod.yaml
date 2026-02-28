@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #353'
+  opml: findthatpod-issue-353.opml
+  date: 2026-02-27
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-353
+  podcasts:
+
+  - title: Version History
+    htmlUrl: https://youtube.com/@theverge
+    xmlUrl: https://feeds.megaphone.fm/VMP1872211679
+
+  - title: Cannonball with Wesley Morris
+    htmlUrl: https://www.nytimes.com/podcasts/still-processing
+    xmlUrl: https://feeds.simplecast.com/JJrAJ_VY
+
+  - title: Question The Default
+    htmlUrl: https://shows.acast.com/question-the-default
+    xmlUrl: https://feeds.acast.com/public/shows/68bebb1e66b565a1a26fd9f9
+
+  - title: Things Are About To Get Weird
+    htmlUrl: https://creators.spotify.com/pod/show/thingsareabouttogetweird
+    xmlUrl: https://anchor.fm/s/fef48b44/podcast/rss
+
+  - title: Here We Go Again With Kal Penn
+    htmlUrl: https://www.iheart.com/podcast/1119-here-we-go-again-with-kal-300268750/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2d1642f8-9fc1-4fa7-9248-b2ea01512220/58893d3f-0dde-4e63-82e3-b2ea01512b2f/podcast.rss
+
 - name: 'Find That Pod #352'
   opml: findthatpod-issue-352.opml
   date: 2026-02-20
