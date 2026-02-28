@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Short Story Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-short-story-podcasts.opml) | 2026-02-26 |
 | [FindThatPod - The Best Podcasts About the Roman Empire](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-the-roman-empire.opml) | 2026-02-26 |
 | [FindThatPod - The Best Podcasts for Learning](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-learning.opml) | 2026-02-25 |
 | [FindThatPod - The Best Side Hustle Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-side-hustle-podcasts.opml) | 2026-02-20 |

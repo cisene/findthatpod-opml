@@ -6,6 +6,140 @@ global:
 
 issues:
 
+- name: The Best Short Story Podcasts
+  opml: findthatpod-the-best-short-story-podcasts.opml
+  date: 2026-02-26
+  htmlUrl: https://findthatpod.com/best-short-story-podcasts/
+  podcasts:
+
+  - title: 'The New Yorker: Fiction'
+    htmlUrl: https://the-new-yorker-fiction-4473086b.simplecast.com/
+    xmlUrl: https://publicfeeds.net/f/6232/new-yorker-fiction
+
+  - title: Original Science Fiction - Makeshift Stories
+    htmlUrl: https://www.makeshiftstories.com/
+    xmlUrl: https://feeds.podcastmirror.com/makeshiftstories
+
+  - title: The Drabblecast Audio Fiction Podcast
+    htmlUrl: https://www.drabblecast.org/
+    xmlUrl: https://www.drabblecast.org/feed/podcast-m4a/
+
+  - title: Untold Tales
+    htmlUrl: https://www.untold-tales.com/
+    xmlUrl: https://anchor.fm/s/216396d0/podcast/rss
+
+  - title: Selected Shorts
+    htmlUrl: https://itunes.com/selectedshorts
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:84350815/sounds.rss
+
+  - title: The Tiny Bookcase
+    htmlUrl: https://www.thetinybookcase.co.uk/
+    xmlUrl: https://rss.buzzsprout.com/1129067.rss
+
+  - title: Beneath Ceaseless Skies Audio Fiction Podcasts
+    htmlUrl: https://www.beneath-ceaseless-skies.com/audio/2024/
+    xmlUrl: https://www.beneath-ceaseless-skies.com/feed/bcs-all-podcasts/
+
+  - title: The Truth
+    htmlUrl: https://thetruthpodcast.com/
+    xmlUrl: https://feeds.thetruthpodcast.com/thetruthapm
+
+  - title: Phoebe Reads a Mystery
+    htmlUrl: https://thisiscriminal.com/mystery
+    xmlUrl: https://feeds.megaphone.fm/VMP1850856004
+
+  - title: Days Like These
+    htmlUrl: https://www.abc.net.au/listen/programs/days-like-these/
+    xmlUrl: https://www.abc.net.au/feeds/12694854/podcast.xml
+
+  - title: The Story Must Be Told
+    htmlUrl: https://posteverythingproductions.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:280238425/sounds.rss
+
+  - title: the memory palace
+    htmlUrl: https://thememorypalace.us/
+    xmlUrl: https://feeds.thememorypalace.us/thememorypalace
+
+  - title: Twilight Histories
+    htmlUrl: https://www.twilighthistories.com/
+    xmlUrl: https://audioboom.com/channels/4662184.rss
+
+  - title: FANTASY MAGAZINE - Fantasy Story Podcast (Audiobook | Short Stories)
+    htmlUrl: https://www.fantasy-magazine.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5348175046
+
+  - title: Strange Horizons
+    htmlUrl: https://strangehorizons.com/
+    xmlUrl: https://anchor.fm/s/e75d83dc/podcast/rss
+
+  - title: The Classic Tales Podcast
+    htmlUrl: https://www.classictalesaudiobooks.com/
+    xmlUrl: https://feeds.libsyn.com/30031/rss
+
+  - title: The Other Stories | Sci-Fi, Horror, Thriller, WTF Stories
+    htmlUrl: https://www.theotherstories.net/
+    xmlUrl: https://feeds.acast.com/public/shows/d4896840-a58c-4ecb-9369-db572d2a4d4d
+
+  - title: LeVar Burton Reads
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/LDNgBXht
+
+  - title: Radio Rental
+    htmlUrl: https://www.radiorentalusa.com/
+    xmlUrl: https://feeds.megaphone.fm/radio-rental
+
+  - title: Back of the Bookshelf
+    htmlUrl: https://www.carter-stephenson.co.uk/botb.html
+    xmlUrl: https://backofthebookshelf.libsyn.com/rss
+
+  - title: Snap Judgment
+    htmlUrl: https://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: Sleep With Me
+    htmlUrl: https://www.sleepwithmepodcast.com/
+    xmlUrl: https://feed.sleepwithmepodcast.com/
+
+  - title: LIGHTSPEED MAGAZINE - Science Fiction and Fantasy Story Podcast (Sci-Fi | Audiobook | Short Stories)
+    htmlUrl: https://lightspeedmagazine.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP7078874085
+
+  - title: Asimov''s Science Fiction
+    htmlUrl: https://www.podomatic.com/podcasts/asimovs
+    xmlUrl: https://asimovs.podomatic.com/rss2.xml
+
+  - title: The Moth
+    htmlUrl: https://themoth.org/
+    xmlUrl: https://feeds.feedburner.com/themothpodcast
+
+  - title: Escape Pod
+    htmlUrl: https://escapepod.org/
+    xmlUrl: https://escapepod.org/feed/podcast/
+
+  - title: Cast of Wonders
+    htmlUrl: https://www.castofwonders.org/
+    xmlUrl: https://www.castofwonders.org/feed/podcast/
+
+  - title: The Lost Sci-Fi Podcast - Vintage Sci-Fi Short Stories
+    htmlUrl: https://lostscifi.com/the-lost-sci-fi-podcast/
+    xmlUrl: https://feeds.acast.com/public/shows/652cab3808a248001210aa70
+
+  - title: Fictional
+    htmlUrl: https://fictional.fm/
+    xmlUrl: https://fictional.libsyn.com/rss
+
+  - title: The Magnus Archives
+    htmlUrl: https://www.rustyquill.com/
+    xmlUrl: https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8
+
+  - title: RISK!
+    htmlUrl: https://www.risk-show.com/
+    xmlUrl: https://feeds.megaphone.fm/risk
+
+  - title: LitReading - Classic Short Stories
+    htmlUrl: https://litreading.com/
+    xmlUrl: https://feeds.acast.com/public/shows/68a38e07457a24bb950853fc
+
 - name: The Best Podcasts About the Roman Empire
   opml: findthatpod-the-best-podcasts-about-the-roman-empire.opml
   date: 2026-02-26
