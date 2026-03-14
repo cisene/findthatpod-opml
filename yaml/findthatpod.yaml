@@ -19,10 +19,36 @@ global:
 
 issues:
 
+- name: 'Find That Pod #355'
+  opml: findthatpod-issue-355.opml
+  date: 2026-03-13
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-355
+  podcasts:
+
+  - title: Bad Elizabeth
+    htmlUrl: https://www.badelizabeth.com/
+    xmlUrl: https://feeds.captivate.fm/bad-elizabeth/
+
+  - title: The Last Line of Defense
+    htmlUrl: https://www.csis.org/podcasts/last-line-defense
+    xmlUrl: https://feeds.megaphone.fm/thelastlineofdefense
+
+  - title: The History Bureau
+    htmlUrl: https://www.bbc.co.uk/programmes/m002q5dk
+    xmlUrl: https://podcasts.files.bbci.co.uk/m002q5dk.rss
+
+  - title: 'Curious Tourism: Responsible Travel Podcast'
+    htmlUrl: https://www.pinatravels.org/responsibletravelpod
+    xmlUrl: https://feeds.captivate.fm/curious-tourism/
+
+  - title: The Pitt Podcast
+    htmlUrl: https://www.warnerbros.com/tv/pitt
+    xmlUrl: https://feeds.megaphone.fm/WMHY5546539939
+
 - name: 'Find That Pod #354'
   opml: findthatpod-issue-354.opml
-  date: 2025-03-06
-  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-353
+  date: 2026-03-06
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-354
   podcasts:
 
   - title: What I survived
