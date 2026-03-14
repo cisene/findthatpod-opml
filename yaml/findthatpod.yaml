@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #354'
+  opml: findthatpod-issue-354.opml
+  date: 2025-03-06
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-353
+  podcasts:
+
+  - title: What I survived
+    htmlUrl: https://shows.acast.com/what-i-survived
+    xmlUrl: https://feeds.acast.com/public/shows/6949fc463aa794d3c62ecbec
+
+  - title: Shell Game
+    htmlUrl: https://www.k-scope.com/shellgame
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d3d3abca-191a-4010-8160-b3530112d393/c639b22c-ee8c-43dd-86c1-b3530112d3a3/podcast.rss
+
+  - title: Safe to Drink
+    htmlUrl: https://www.nhpr.org/safetodrink
+    xmlUrl: https://feeds.megaphone.fm/TPG1352813082
+
+  - title: Something About Soulmates
+    htmlUrl: https://www.ecstaticceremonies.com/somethingaboutsoulmates
+    xmlUrl: https://feeds.libsyn.com/597460/rss
+
+  - title: A Tiny Plot
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F13986%2Fa-tiny-plot
+    xmlUrl: https://publicfeeds.net/f/13986/a-tiny-plot
+
 - name: 'Find That Pod #353'
   opml: findthatpod-issue-353.opml
   date: 2026-02-27
