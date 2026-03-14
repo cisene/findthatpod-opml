@@ -6,6 +6,112 @@ global:
 
 issues:
 
+- name: The Best Relaxing Podcasts
+  opml: findthatpod-the-best-relaxing-podcasts.opml
+  date: 2026-03-13
+  htmlUrl: https://findthatpod.com/best-relaxing-podcasts/
+  podcasts:
+
+  - title: 'Nothing much happens: bedtime stories to help you sleep'
+    htmlUrl: https://www.nothingmuchhappens.com/
+    xmlUrl: https://feeds.megaphone.fm/SSM2868305742
+
+  - title: On a Dark, Cold Night
+    htmlUrl: https://thesonarnetwork.com/on-a-dark-cold-night/
+    xmlUrl: https://thesonarnetwork.com/on-a-dark-cold-night/feed/podcast
+
+  - title: Everything is Alive
+    htmlUrl: https://www.everythingisalive.com/
+    xmlUrl: https://feeds.everythingisalive.com/everythingisalive
+
+  - title: Stories from the Borders of Sleep
+    htmlUrl: https://www.bordersofsleep.com/
+    xmlUrl: https://bordersofsleep.libsyn.com/rss
+
+  - title: Sleep and Sorcery | Folklore & Fantasy-Inspired Sleep Stories
+    htmlUrl: https://bleav.com/shows/sleep-and-sorcery/
+    xmlUrl: https://feeds.libsyn.com/510078/spotify
+
+  - title: Meditation House Call
+    htmlUrl: https://rss.com/podcasts/meditationhousecall
+    xmlUrl: https://media.rss.com/meditationhousecall/feed.xml
+
+  - title: 'Night Falls: Bedtime Story, Sleep Story, Sleep Podcast'
+    htmlUrl: https://cms.megaphone.fm/channel/nightfalls
+    xmlUrl: https://feeds.megaphone.fm/nightfalls
+
+  - title: Trail Weight
+    htmlUrl: https://trailweight.co/
+    xmlUrl: https://feeds.megaphone.fm/TPG2357667895
+
+  - title: Random Shipping Forecast
+    htmlUrl: https://pod.link/shippingforecast
+    xmlUrl: https://anchor.fm/s/1069c96c/podcast/rss
+
+  - title: The Quiet Journeys of Professor Atwood
+    htmlUrl: https://whitecatentertainment.com/
+    xmlUrl: https://professoratwood.libsyn.com/rss
+
+  - title: 'Get Sleepy: Sleep meditation and stories'
+    htmlUrl: https://getsleepy.com/
+    xmlUrl: https://feeds.megaphone.fm/SGP8517078272
+
+  - title: The Empty Bowl
+    htmlUrl: https://cerealously.net/
+    xmlUrl: https://anchor.fm/s/6ccfb04/podcast/rss
+
+  - title: The Great Detectives of Old Time Radio| Daily Mystery Dramas
+    htmlUrl: https://www.spreaker.com/show/otr-detective-the-great-detectives-of-ol
+    xmlUrl: https://www.spreaker.com/show/4607052/episodes/feed
+
+  - title: Nocturne
+    htmlUrl: https://www.nocturnepodcast.org/
+    xmlUrl: https://www.nocturnepodcast.org/feed/podcast
+
+  - title: Tracks To Relax Sleep Meditations
+    htmlUrl: https://www.patreon.com/trackstorelax
+    xmlUrl: https://feeds.acast.com/public/shows/60f9c4eb7dd5480012f98d21
+
+  - title: One Third of Life
+    htmlUrl: https://thatsnotcanon.com/onethirdoflife
+    xmlUrl: https://rss.acast.com/one-third-of-life
+
+  - title: 'Sleep Whispers: Relax with ASMR bedtime sleep stories for kids and adults.'
+    htmlUrl: https://sleepwhispers.com/
+    xmlUrl: https://feeds.feedburner.com/sleepwhispers
+
+  - title: Phoebe Reads a Mystery
+    htmlUrl: https://thisiscriminal.com/mystery
+    xmlUrl: https://feeds.megaphone.fm/VMP1850856004
+
+  - title: Boring Books for Bedtime Readings to Help You Sleep
+    htmlUrl: https://www.boringbookspod.com/
+    xmlUrl: https://boringbooksforbedtime.libsyn.com/rss
+
+  - title: Desert Island Discs
+    htmlUrl: https://www.bbc.co.uk/programmes/b006qnmr
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006qnmr.rss
+
+  - title: Sleep With Me
+    htmlUrl: https://www.sleepwithmepodcast.com/
+    xmlUrl: https://feed.sleepwithmepodcast.com/
+
+  - title: Imagined Life
+    htmlUrl: https://wondery.com/shows/Imagined-Life/
+    xmlUrl: https://rss.art19.com/imagined-life
+
+  - title: Northwoods Baseball Sleep Radio - Fake Baseball for Sleeping
+    htmlUrl: https://www.sleepbaseball.com/
+    xmlUrl: https://rss.buzzsprout.com/1915447.rss
+
+  - title: Slow Radio
+    htmlUrl: https://www.bbc.co.uk/programmes/p05k5bq0
+    xmlUrl: https://podcasts.files.bbci.co.uk/p05k5bq0.rss
+
+  - title: Bedtime Stories for Nobody
+    htmlUrl: https://bedtimestoriesfornobody.podbean.com/
+    xmlUrl: https://bedtimestoriesfornobody.podbean.com/feed.xml
+
 - name: The Best Morning News Podcasts
   opml: findthatpod-the-best-morning-news-podcasts.opml
   date: 2026-03-13
