@@ -6,6 +6,132 @@ global:
 
 issues:
 
+- name: The Best Bingeable Podcasts
+  opml: findthatpod-the-best-bingeable-podcasts.opml
+  date: 2026-03-20
+  htmlUrl: https://findthatpod.com/best-bingeable-podcasts/
+  podcasts:
+
+  - title: 'Breaking Down: Collapse'
+    htmlUrl: https://www.patreon.com/c/collapsepod
+    xmlUrl: https://feeds.acast.com/public/shows/64e11b3fcc399200115010f0
+
+  - title: My Dad Wrote A Porno
+    htmlUrl: https://mydadwroteaporno.com/
+    xmlUrl: https://feeds.acast.com/public/shows/ee6fd316-9ce1-4f8a-ba2c-a4a4bf5643e4
+
+  - title: Rabbit Hole
+    htmlUrl: https://rabbit-hole.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/oCXij9l2
+
+  - title: Stuff You Missed in History Class
+    htmlUrl: https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
+
+  - title: 'The Big Dig Presents: Catching The Codfather'
+    htmlUrl: https://www.wgbh.org/thebigdig
+    xmlUrl: https://feeds.wgbh.org/4614/feed-rss.xml
+
+  - title: Your Own Backyard
+    htmlUrl: https://yourownbackyardpodcast.com/
+    xmlUrl: https://yourownbackyard.libsyn.com/rss
+
+  - title: Nice White Parents
+    htmlUrl: https://nice-white-parents.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Z4wHC1c2
+
+  - title: The Blindboy Podcast
+    htmlUrl: https://twitter.com/Rubberbandits
+    xmlUrl: https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947
+
+  - title: Endless Thread
+    htmlUrl: https://www.wbur.org/podcasts/endlessthread
+    xmlUrl: https://rss.wbur.org/endlessthread/podcast
+
+  - title: Bone Valley
+    htmlUrl: https://lavaforgood.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2b18f6f0-09c0-471e-b663-aeed010410fa/da6eda02-def2-4de4-a1c2-aeed010456a1/podcast.rss
+
+  - title: Darknet Diaries
+    htmlUrl: https://darknetdiaries.com/
+    xmlUrl: https://podcast.darknetdiaries.com/
+
+  - title: Sweet Bobby
+    htmlUrl: https://shows.acast.com/sweet-bobby-new
+    xmlUrl: https://feeds.acast.com/public/shows/64e5c027d3554a001131c921
+
+  - title: Underunderstood
+    htmlUrl: https://underunderstood.com/
+    xmlUrl: https://anchor.fm/s/7e5e9c4/podcast/rss
+
+  - title: Ear Hustle
+    htmlUrl: https://www.earhustlesq.com/
+    xmlUrl: https://feeds.earhustlesq.com/earhustlesq
+
+  - title: Bag Man
+    htmlUrl: https://www.ms.now/
+    xmlUrl: https://podcastfeeds.nbcnews.com/y8D0o0f3
+
+  - title: The Dropout
+    htmlUrl: https://www.abcaudio.com/podcasts/the-dropout
+    xmlUrl: https://feeds.libsyn.com/516868/rss
+
+  - title: The Conspiracy Files
+    htmlUrl: https://bloody.fm/
+    xmlUrl: https://feeds.simplecast.com/RDTWrfJC
+
+  - title: S-Town
+    htmlUrl: https://stownpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/CpvnpIaj
+
+  - title: Family Lore
+    htmlUrl: https://www.audacy.com/
+    xmlUrl: https://feeds.megaphone.fm/hope-through-history
+
+  - title: Search Engine
+    htmlUrl: https://www.pjvogt.com/
+    xmlUrl: https://feeds.megaphone.fm/search-engine
+
+  - title: You Must Remember This
+    htmlUrl: https://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+  - title: Midnight Burger
+    htmlUrl: https://art19.com/shows/midnight-burger
+    xmlUrl: https://rss.art19.com/midnight-burger
+
+  - title: ALIEN THEORISTS THEORIZING
+    htmlUrl: https://redcircle.com/shows/thetheorists
+    xmlUrl: https://feeds.redcircle.com/13932888-4a40-4316-8442-deeca5f2a79c
+
+  - title: Sold a Story
+    htmlUrl: https://features.apmreports.org/sold-a-story/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/sold-a-story
+
+  - title: Sea of Lies
+    htmlUrl: https://www.cbc.ca/newsinteractives/features/sea-of-lies
+    xmlUrl: https://www.cbc.ca/podcasting/includes/seaoflies.xml
+
+  - title: Fall of Civilizations Podcast
+    htmlUrl: https://fallofcivilizationspodcast.com/
+    xmlUrl: https://anchor.fm/s/101adcf44/podcast/rss
+
+  - title: The Turning - Seasons 1, 2 & 3
+    htmlUrl: https://www.iheart.com/podcast/1119-the-turning-the-sisters-w-82262169/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/5589ADEE-13BB-4F79-ADDC-AE280172B2E4/50530456-6332-42A2-9B90-AE280172B2EE/podcast.rss
+
+  - title: Beyond All Repair
+    htmlUrl: https://www.wbur.org/podcasts/violation
+    xmlUrl: https://rss.wbur.org/violation/podcast
+
+  - title: The Dream
+    htmlUrl: https://www.littleeverywhere.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6658b69029c9180011547e68
+
+  - title: Scamanda
+    htmlUrl: https://lionsgatesound.com/
+    xmlUrl: https://feeds.acast.com/public/shows/66d9aa05d740de0852b686a8
+
 - name: The Best Happiness Podcasts
   opml: findthatpod-the-best-happiness-podcasts.opml
   date: 2026-03-20
