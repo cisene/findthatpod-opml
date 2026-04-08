@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #356'
+  opml: findthatpod-issue-356.opml
+  date: 2026-03-20
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-356
+  podcasts:
+
+  - title: Real Vikings
+    htmlUrl: https://shows.acast.com/real-vikings
+    xmlUrl: https://feeds.acast.com/public/shows/real-vikings
+
+  - title: The Comics Code
+    htmlUrl: https://www.comicscodepodcast.com/
+    xmlUrl: https://anchor.fm/s/10b1c1c34/podcast/rss
+
+  - title: Money Trauma
+    htmlUrl: https://moneytrauma.org/
+    xmlUrl: https://anchor.fm/s/10f43affc/podcast/rss
+
+  - title: The Best Is Yet To Come...
+    htmlUrl: https://feeds.acast.com/public/shows/the-best-is-yet-to-come
+    xmlUrl: https://feeds.acast.com/public/shows/6995a0b53ba25772fe1a12f3
+
+  - title: Drug Story
+    htmlUrl: https://www.drugstory.co/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/3015315.rss
+
 - name: 'Find That Pod #355'
   opml: findthatpod-issue-355.opml
   date: 2026-03-13
