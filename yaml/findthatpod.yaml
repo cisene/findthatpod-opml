@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #358'
+  opml: findthatpod-issue-358.opml
+  date: 2026-04-03
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-358
+  podcasts:
+
+  - title: Sleepy History
+    htmlUrl: https://slumberstudios.com/sleepy-history/
+    xmlUrl: https://feeds.megaphone.fm/sleepyhistory
+
+  - title: Get Played
+    htmlUrl: https://art19.com/shows/get-played
+    xmlUrl: https://rss.art19.com/get-played
+
+  - title: Asia Specific
+    htmlUrl: https://www.bbc.co.uk/programmes/w13xtwds
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xtwds.rss
+
+  - title: CrimeLess
+    htmlUrl: https://www.iheart.com/podcast/1119-crimeless-hillbilly-heist-299097289/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/285a728d-7570-4ca7-91e7-b36200f00e90/6cb4fdfe-663d-4bce-917c-b36200f01328/podcast.rss
+
+  - title: The Story Letter
+    htmlUrl: https://the-story-letter.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/RqijYekb
+
 - name: 'Find That Pod #357'
   opml: findthatpod-issue-357.opml
   date: 2026-03-27
