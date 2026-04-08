@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #357'
+  opml: findthatpod-issue-357.opml
+  date: 2026-03-27
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-357
+  podcasts:
+
+  - title: 1001 Album Complaints
+    htmlUrl: https://1001albumcomplaints.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/1001albumcomplaints/
+
+  - title: Nature is the Solution
+    htmlUrl: https://www.nature.org/en-us/about-us/where-we-work/united-states/massachusetts/stories-in-massachusetts/nature-solution-podcast/
+    xmlUrl: https://feeds.megaphone.fm/BUR9046025785
+
+  - title: 'A Matter of Conscience: GI Resistance During the Vietnam War'
+    htmlUrl: https://www.buzzsprout.com/2466421
+    xmlUrl: https://rss.buzzsprout.com/2466421.rss
+
+  - title: The Idiot
+    htmlUrl: https://the-idiot.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/KrIt3mGT
+
+  - title: The Hidden Third
+    htmlUrl: https://muckmedia.com/karol-g-2/
+    xmlUrl: https://feeds.megaphone.fm/ROOSTER9417367138
+
 - name: 'Find That Pod #356'
   opml: findthatpod-issue-356.opml
   date: 2026-03-20
