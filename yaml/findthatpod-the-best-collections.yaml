@@ -6,6 +6,104 @@ global:
 
 issues:
 
+- name: The Best Animal Podcasts
+  opml: findthatpod-the-best-animal-podcasts.opml
+  date: 2026-03-20
+  htmlUrl: https://findthatpod.com/best-animal-podcasts/
+  podcasts:
+
+  - title: The Science of Birds
+    htmlUrl: https://scienceofbirds.com/
+    xmlUrl: https://rss.buzzsprout.com/937816.rss
+
+  - title: 'Grubbing In The Filth: An Invertebrate Podcast'
+    htmlUrl: https://www.grubbinginthefilth.com/
+    xmlUrl: https://rss.buzzsprout.com/1454458.rss
+
+  - title: BBC Earth Podcast
+    htmlUrl: https://www.bbcearth.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/63fb67c5-f719-43f7-b264-390cd7edb120
+
+  - title: 30 Animals That Made Us Smarter
+    htmlUrl: https://www.bbc.co.uk/programmes/w13xttw7
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xttw7.rss
+
+  - title: Future Ecologies
+    htmlUrl: https://www.futureecologies.net/
+    xmlUrl: https://feeds.captivate.fm/future-ecologies/
+
+  - title: The Wild with Chris Morgan
+    htmlUrl: https://www.kuow.org/podcasts/thewild
+    xmlUrl: https://feeds.kuow.org/thewildpodcast
+
+  - title: 'Tooth & Claw: True Stories of Animal Attacks'
+    htmlUrl: https://daylightmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD9705695442
+
+  - title: That''s Just Wild
+    htmlUrl: https://thatsjustwild.com/
+    xmlUrl: https://feeds.acast.com/public/shows/681cbb5124b1daf01a6c33ee
+
+  - title: Creature Feature
+    htmlUrl: https://www.iheart.com/podcast/105-creature-feature-30054205/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0476d19f-5abc-4f11-a193-ae2b00156334/136b5ea0-8dcb-49f5-b3a8-ae2b00156347/podcast.rss
+
+  - title: The Animal Turn
+    htmlUrl: https://www.theanimalturnpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/1246910.rss
+
+  - title: Outside/In
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG9719828981
+
+  - title: Wildly Curious
+    htmlUrl: https://bewildlycurious.com/
+    xmlUrl: https://rss.buzzsprout.com/1655452.rss
+
+  - title: Animals at Home Network
+    htmlUrl: https://www.animalsathomenetwork.com/
+    xmlUrl: https://anchor.fm/s/e56431c0/podcast/rss
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Animal Radio®
+    htmlUrl: https://animalradio.com/
+    xmlUrl: https://www.animalradio.com/animalradiopodcastitunes.xml
+
+  - title: Urban Wildlife Podcast
+    htmlUrl: https://www.urbanwildlifecast.com/
+    xmlUrl: https://www.urbanwildlifecast.com/?feed=podcast
+
+  - title: The Wild Episode
+    htmlUrl: https://www.thewildepisode.com/
+    xmlUrl: https://thewildepisode.libsyn.com/rss
+
+  - title: All Creatures Podcast
+    htmlUrl: https://allcreaturespod.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML4793150916
+
+  - title: Backyard Ecology™
+    htmlUrl: https://www.backyardecology.net/
+    xmlUrl: https://backyardecology.libsyn.com/rss
+
+  - title: Sharkpedia
+    htmlUrl: https://anchor.fm/sharkpediapod
+    xmlUrl: https://anchor.fm/s/590797a8/podcast/rss
+
+  - title: Just the Zoo of Us
+    htmlUrl: https://maximumfun.org/podcasts/just-the-zoo-of-us/
+    xmlUrl: https://feeds.simplecast.com/m3TgdnAm
+
+  - title: Nature Guys
+    htmlUrl: https://www.natureguys.org/
+    xmlUrl: https://natureguys.libsyn.com/rss
+
+  - title: Will''s Birdbrain
+    htmlUrl: https://www.buzzsprout.com/1982187
+    xmlUrl: https://rss.buzzsprout.com/1982187.rss
+
 - name: The Best Bingeable Podcasts
   opml: findthatpod-the-best-bingeable-podcasts.opml
   date: 2026-03-20
