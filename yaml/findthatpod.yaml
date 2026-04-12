@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #359'
+  opml: findthatpod-issue-359.opml
+  date: 2026-04-10
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-359
+  podcasts:
+
+  - title: Freedom of Thought by Humanists International
+    htmlUrl: https://freedomofthought.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2591007.rss
+
+  - title: 'Dressed: The History of Fashion'
+    htmlUrl: https://redcircle.com/shows/dressed-the-history-of-fashion
+    xmlUrl: https://feeds.megaphone.fm/ARML9655034287
+
+  - title: Intelligent Machines (Audio)
+    htmlUrl: https://twit.tv/shows/intelligent-machines
+    xmlUrl: https://feeds.twit.tv/twig.xml
+
+  - title: 'One Strange Thing: True Paranormal Mysteries'
+    htmlUrl: https://art19.com/shows/one-strange-thing
+    xmlUrl: https://rss.art19.com/one-strange-thing
+
+  - title: Rear Vision - How History Shaped Today
+    htmlUrl: https://www.abc.net.au/listen/programs/rearvision/
+    xmlUrl: https://abc.net.au/feeds/2890034/podcast.xml
+
 - name: 'Find That Pod #358'
   opml: findthatpod-issue-358.opml
   date: 2026-04-03
