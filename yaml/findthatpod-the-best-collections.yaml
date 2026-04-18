@@ -6,6 +6,80 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Cats
+  opml: findthatpod-the-best-podcasts-about-cats.opml
+  date: 2026-04-07
+  htmlUrl: https://findthatpod.com/best-podcasts-about-cats/
+  podcasts:
+
+  - title: The Shelter Cats Podcast
+    htmlUrl: https://linktr.ee/sheltercats
+    xmlUrl: https://anchor.fm/s/deafe450/podcast/rss
+
+  - title: Curl Up with a Cat Tale with Gwen Cooper
+    htmlUrl: https://www.gwencooper.com/
+    xmlUrl: https://feeds.acast.com/public/shows/601c55fc7be6a01043197b2a
+
+  - title: The Community Cats Podcast
+    htmlUrl: https://www.communitycatspodcast.com/
+    xmlUrl: https://communitycatspodcast.libsyn.com/rss
+
+  - title: My Cat The Podcast
+    htmlUrl: https://mycatthepodcast.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2209636.rss
+
+  - title: 'Cattitude - The #1 Cat Podcast'
+    htmlUrl: https://www.spreaker.com/podcast/cattitude-the-1-cat-podcast-about-cats-as-pets-pet-life-radio-original-petliferadio-com--6666768
+    xmlUrl: https://feeds.feedburner.com/Petliferadiocom-Cattitude
+
+  - title: Nine Lives with Dr. Kat - Cat podcasts for cat lovers - Pet Life Radio Original
+    htmlUrl: https://www.spreaker.com/podcast/nine-lives-with-dr-kat-cat-podcasts-for-cat-lovers-pet-life-radio-original-petliferadio-com--6667999
+    xmlUrl: https://feeds.feedburner.com/NineLivesWithDrKatOnPetLifeRadio
+
+  - title: Purr Podcast
+    htmlUrl: https://www.spreaker.com/show/purr-podcast
+    xmlUrl: https://www.spreaker.com/show/3023339/episodes/feed
+
+  - title: Tails and Tassels
+    htmlUrl: https://www.gemmasmith.net/tailsandtasselspod
+    xmlUrl: https://rss.buzzsprout.com/2386090.rss
+
+  - title: The Purrcast
+    htmlUrl: https://www.buzzsprout.com/2025480
+    xmlUrl: https://rss.buzzsprout.com/2025480.rss
+
+  - title: 19 Cats and Counting on Pet Life Radio (PetLifeRadio.com)
+    htmlUrl: https://www.spreaker.com/podcast/19-cats-and-counting-on-pet-life-radio-petliferadio-com--6667858
+    xmlUrl: https://feeds.feedburner.com/19CatsAndCountingOnPetLifeRadiopetliferadiocom
+
+  - title: Underfoot
+    htmlUrl: https://flatbushcats.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/3252709.rss
+
+  - title: Life in the Cat Lane
+    htmlUrl: https://podcasters.spotify.com/pod/show/catlane
+    xmlUrl: https://anchor.fm/s/1465f644/podcast/rss
+
+  - title: 6 Degrees of Cats
+    htmlUrl: https://the6degreesofcatspodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/the6degreesofcatspodcast/feed.xml
+
+  - title: Cat Talk Radio
+    htmlUrl: https://sites.libsyn.com/576135/site
+    xmlUrl: https://feeds.libsyn.com/576135/rss
+
+  - title: Cat Chat®
+    htmlUrl: https://www.radiopetlady.com/category/shows/cat-chat/
+    xmlUrl: https://rss.buzzsprout.com/2211366.rss
+
+  - title: Cat Cafe Podcast
+    htmlUrl: https://purrpodcast.net/
+    xmlUrl: https://www.spreaker.com/show/4106784/episodes/feed
+
+  - title: 'Hiss & Tell: Cat Behavior and Beyond'
+    htmlUrl: https://www.hissandtellpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/2319549.rss
+
 - name: The Best Animal Podcasts
   opml: findthatpod-the-best-animal-podcasts.opml
   date: 2026-03-20

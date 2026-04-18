@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Podcasts About Cats](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-cats.opml) | 2026-04-07 |
 | [FindThatPod - The Best Animal Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-animal-podcasts.opml) | 2026-03-20 |
 | [FindThatPod - The Best Bingeable Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-bingeable-podcasts.opml) | 2026-03-20 |
 | [FindThatPod - The Best Happiness Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-happiness-podcasts.opml) | 2026-03-20 |
