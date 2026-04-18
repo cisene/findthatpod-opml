@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #360'
+  opml: findthatpod-issue-360.opml
+  date: 2026-04-17
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-360
+  podcasts:
+
+  - title: Crying Wolf
+    htmlUrl: https://www.iheart.com/podcast/1119-crying-wolf-293793384/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/22f9dfac-6971-4b73-94da-b355013cb3b2/f6b2a16b-a3c1-498e-82e6-b355013cb7f0/podcast.rss
+
+  - title: No Man''s an Island
+    htmlUrl: https://shows.acast.com/no-mans-an-island
+    xmlUrl: https://feeds.acast.com/public/shows/6900923adc92bdfeedb4e174
+
+  - title: The Creative Asylum Podcast
+    htmlUrl: https://shows.acast.com/the-creative-asylum
+    xmlUrl: https://feeds.acast.com/public/shows/68c60584ac97a487df8827c4
+
+  - title: 'The Lion and The Sun: A Modern History of Iran'
+    htmlUrl: https://thelionandthesun.org/
+    xmlUrl: https://thelionandthesun.org/feed/podcast/
+
+  - title: Electric Futures
+    htmlUrl: https://climatecenter.usc.edu/
+    xmlUrl: https://anchor.fm/s/ed27fd88/podcast/rss
+
 - name: 'Find That Pod #359'
   opml: findthatpod-issue-359.opml
   date: 2026-04-10
