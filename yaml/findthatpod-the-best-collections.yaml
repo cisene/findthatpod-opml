@@ -6,6 +6,63 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Chemistry
+  opml: findthatpod-the-best-podcasts-about-chemistry.opml
+  date: 2026-04-08
+  htmlUrl: https://findthatpod.com/best-chemistry-podcasts/
+  podcasts: 
+
+  - title: Stereo Chemistry
+    htmlUrl: https://cen.acs.org/sections/stereo-chemistry-podcast.html
+    xmlUrl: https://stereochemistry.libsyn.com/rss
+
+  - title: The History of Chemistry
+    htmlUrl: https://thehistoryofchemistry.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/1985736.rss
+
+  - title: The Real Chemistry Podcast
+    htmlUrl: https://www.realchemistry.com/
+    xmlUrl: https://feeds.megaphone.fm/real-chemistry
+
+  - title: Let''s Talk Chemistry- a science podcast by ChemTalk
+    htmlUrl: https://chemistrytalk.org/
+    xmlUrl: https://anchor.fm/s/5b3ac4b4/podcast/rss
+
+  - title: Tiny Matters
+    htmlUrl: https://art19.com/shows/tiny-matters
+    xmlUrl: https://rss.art19.com/tiny-matters
+
+  - title: The Episodic Table of Elements
+    htmlUrl: https://episodictable.com/
+    xmlUrl: https://feeds.podcastmirror.com/episodictable
+
+  - title: Bringing Chemistry to Life
+    htmlUrl: https://www.thermofisher.com/chemistry-podcast.html
+    xmlUrl: https://feeds.simplecast.com/SeqJpuK3
+
+  - title: Chemistry For Your Life
+    htmlUrl: https://bleav.com/shows/chemistry-for-your-life/
+    xmlUrl: https://feeds.simplecast.com/2JRIx8GI
+
+  - title: My Fave Queer Chemist
+    htmlUrl: https://podcasters.spotify.com/pod/show/mfqc
+    xmlUrl: https://anchor.fm/s/13718870/podcast/rss
+
+  - title: Chemistry Made Simple
+    htmlUrl: https://chemistrymadesimple.net/
+    xmlUrl: https://feeds.captivate.fm/chemistrymadesimple/
+
+  - title: Modern Chemistry Podcast
+    htmlUrl: https://0-series-preview.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Qv1uTDGD
+
+  - title: Clinical Chemistry Podcast
+    htmlUrl: https://clinchem.org/
+    xmlUrl: https://clinchem.libsyn.com/rss
+
+  - title: Chemistry in its element
+    htmlUrl: https://www.chemistryworld.com/podcasts
+    xmlUrl: https://chemistryinitselement.libsyn.com/rss
 
 - name: The Best Podcasts About Songwriting
   opml: findthatpod-the-best-podcasts-about-songwriting.opml
