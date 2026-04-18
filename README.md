@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Supernatural Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-supernatural-podcasts.opml) | 2026-04-16 |
 | [FindThatPod - The Best Horror Movie Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-horror-movie-podcasts.opml) | 2026-04-16 |
 | [FindThatPod - The Best Podcasts About Chemistry](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-chemistry.opml) | 2026-04-08 |
 | [FindThatPod - The Best Podcasts About Songwriting](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-about-songwriting.opml) | 2026-04-08 |

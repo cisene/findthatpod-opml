@@ -6,6 +6,128 @@ global:
 
 issues:
 
+- name: The Best Supernatural Podcasts
+  opml: findthatpod-the-best-supernatural-podcasts.opml
+  date: 2026-04-16
+  htmlUrl: https://findthatpod.com/best-supernatural-podcasts/
+  podcasts:
+
+  - title: Otherworld
+    htmlUrl: https://www.otherworldpod.com/
+    xmlUrl: https://feeds.megaphone.fm/otherworld
+
+  - title: Real Ghost Stories Online
+    htmlUrl: https://www.ghostpodcast.com/
+    xmlUrl: https://audioboom.com/channels/4567086.rss
+
+  - title: Spooked
+    htmlUrl: https://spookedpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/TBotaapn
+
+  - title: The Paracast — The Gold Standard of Paranormal Radio
+    htmlUrl: https://www.theparacast.com/
+    xmlUrl: https://www.spreaker.com/show/6203433/episodes/feed
+
+  - title: Monsters Among Us
+    htmlUrl: https://audioboom.com/channels/5147816
+    xmlUrl: https://audioboom.com/channels/5147816.rss
+
+  - title: Paranormal Mysteries
+    htmlUrl: https://www.paranormalmysteriespodcast.com/
+    xmlUrl: https://www.spreaker.com/show/2321086/episodes/feed
+
+  - title: The Exorcist Files
+    htmlUrl: https://art19.com/shows/the-exorcist-files
+    xmlUrl: https://rss.art19.com/the-exorcist-files
+
+  - title: You Can See Me in the Dark
+    htmlUrl: https://youcanseemeinthedark.libsyn.com/website
+    xmlUrl: https://youcanseemeinthedark.libsyn.com/rss
+
+  - title: Astonishing Legends
+    htmlUrl: https://www.astonishinglegends.com/
+    xmlUrl: https://audioboom.com/channels/4322549.rss
+
+  - title: Jim Harold''s Campfire
+    htmlUrl: https://jimharold.com/
+    xmlUrl: https://feeds.megaphone.fm/JIMHAROLDMEDIALLC6451583612
+
+  - title: 'One Strange Thing: True Paranormal Mysteries'
+    htmlUrl: https://art19.com/shows/one-strange-thing
+    xmlUrl: https://rss.art19.com/one-strange-thing
+
+  - title: 'The Night Owl: True Ghost Stories'
+    htmlUrl: https://thenightowlpodcast.com/
+    xmlUrl: https://feeds.feedburner.com/thenightowlpodcast
+
+  - title: Unexplained
+    htmlUrl: https://art19.com/shows/unexplained-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4be3ef45-824a-44b3-b437-b038010038fc/3eb75c81-5ed8-4148-bb7b-b03801003947/podcast.rss
+
+  - title: Let''s Get Haunted
+    htmlUrl: https://www.daylightmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD5688401368
+
+  - title: This Paranormal Life
+    htmlUrl: https://thisparanormallife.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR2334813337
+
+  - title: So Supernatural
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/kC8PV5p6
+
+  - title: 'Chillers and Thrillers: A Paranormal Podcast'
+    htmlUrl: https://chillersandthrillers.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2208136.rss
+
+  - title: Last Podcast On The Left
+    htmlUrl: https://www.lastpodcastnetwork.com/
+    xmlUrl: https://feeds.simplecast.com/dCXMIpJz
+
+  - title: Sasquatch Chronicles
+    htmlUrl: https://sasquatchchronicles.libsyn.com/site
+    xmlUrl: https://sasquatchchronicles.libsyn.com/rss
+
+  - title: The Haunted Objects Podcast
+    htmlUrl: https://hauntedobjectspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/PHTE7160869986
+
+  - title: Strange Familiars
+    htmlUrl: https://www.spectrevision.com/podcasts/strange-familiars
+    xmlUrl: https://feeds.megaphone.fm/PHTE1735028597
+
+  - title: iNTO THE FRAY RADIO - Encounters with the Paranormal
+    htmlUrl: https://www.spreaker.com/podcast/into-the-fray-radio-encounters-with-the-paranormal--6867663
+    xmlUrl: https://www.spreaker.com/show/5837602/episodes/feed
+
+  - title: Haunted Road
+    htmlUrl: https://www.grimandmild.com/hauntedroad
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/5E83616D-F967-48AB-ABA9-AE2F0056B367/AD390E7A-D29E-4E71-839D-AE2F0056B379/podcast.rss
+
+  - title: Dark Histories
+    htmlUrl: https://darkhistories.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML6519154570
+
+  - title: Unexplained Encounters
+    htmlUrl: https://www.eeriecast.com/
+    xmlUrl: https://feeds.megaphone.fm/darknessprevails
+
+  - title: Euphomet
+    htmlUrl: https://www.euphomet.com/
+    xmlUrl: https://feeds.megaphone.fm/PHTE1541109263
+
+  - title: American Hauntings Podcast
+    htmlUrl: https://redcircle.com/shows/american-hauntings-podcast
+    xmlUrl: https://feeds.redcircle.com/8717bf90-b6d6-4010-9e8f-691fff82886b
+
+  - title: Red Web
+    htmlUrl: https://www.patreon.com/redweb
+    xmlUrl: https://feeds.megaphone.fm/redweb
+
+  - title: The Confessionals
+    htmlUrl: https://www.theconfessionalspodcast.com/
+    xmlUrl: https://audioboom.com/channels/5002796.rss
+
 - name: The Best Horror Movie Podcasts
   opml: findthatpod-the-best-horror-movie-podcasts.opml
   date: 2026-04-16
@@ -107,7 +229,6 @@ issues:
   - title: They''re Coming to Get You
     htmlUrl: https://www.podomatic.com/podcasts/theyrecomingtogetyoupod
     xmlUrl: https://theyrecomingtogetyoupod.podomatic.com/rss2.xml
-
 
 - name: The Best Podcasts About Chemistry
   opml: findthatpod-the-best-podcasts-about-chemistry.opml
