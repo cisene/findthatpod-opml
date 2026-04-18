@@ -6,6 +6,80 @@ global:
 
 issues:
 
+- name: The Best HR Podcasts
+  opml: findthatpod-the-best-hr-podcasts.opml
+  date: 2026-04-17
+  htmlUrl: https://findthatpod.com/best-hr-podcasts/
+  podcasts:
+
+  - title: HR BESTIES
+    htmlUrl: https://www.hrbesties.com/
+    xmlUrl: https://rss.libsyn.com/shows/602600/destinations/5244190.xml
+
+  - title: 'Dear Human Resources:'
+    htmlUrl: https://soundcloud.com/user-421935966
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:869797069/sounds.rss
+
+  - title: I Hate It Here
+    htmlUrl: https://i-hate-it-here.captivate.fm/
+    xmlUrl: https://feeds.megaphone.fm/i-hate-it-here
+
+  - title: Drive Thru HR
+    htmlUrl: https://wrkdefined.com/podcast/drive-thru-hr
+    xmlUrl: https://feeds.megaphone.fm/drivethruhr
+
+  - title: The Job Judge
+    htmlUrl: https://podcasters.spotify.com/pod/show/the-job-judge
+    xmlUrl: https://anchor.fm/s/f3edec40/podcast/rss
+
+  - title: Transform Your Workplace
+    htmlUrl: https://xeniumhr.libsyn.com/
+    xmlUrl: https://xeniumhr.libsyn.com/rss
+
+  - title: Good Morning, HR
+    htmlUrl: https://www.goodmorninghr.com/
+    xmlUrl: https://feeds.transistor.fm/good-morning-hr
+
+  - title: Honest HR
+    htmlUrl: https://honest-hr.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/honest-hr
+
+  - title: Punk Rock HR
+    htmlUrl: https://wrkdefined.com/podcast/punk-rock-hr
+    xmlUrl: https://feeds.megaphone.fm/punkrockhr
+
+  - title: What The Hell Just Happened?!
+    htmlUrl: https://www.cedrsolutions.com/podcast/
+    xmlUrl: https://feed.podbean.com/wthjh/feed.xml
+
+  - title: More Human More Resources - HR for Entrepreneurs
+    htmlUrl: https://idomeneoinc.com/
+    xmlUrl: https://rss.buzzsprout.com/1458799.rss
+
+  - title: HR Break Room
+    htmlUrl: https://paycom.com/hrbreakroom
+    xmlUrl: https://hrbreakroom.libsyn.com/rss
+
+  - title: 'Diagnosing The Workplace: Not Just An HR Podcast'
+    htmlUrl: https://www.roman3.ca/
+    xmlUrl: https://rss.buzzsprout.com/2030429.rss
+
+  - title: People Managing People
+    htmlUrl: https://peoplemanagingpeople.com/
+    xmlUrl: https://rss.buzzsprout.com/660316.rss
+
+  - title: Nine To Thrive HR
+    htmlUrl: https://www.hci.org/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:203905104/sounds.rss
+
+  - title: Comp and Coffee
+    htmlUrl: https://wrkdefined.com/podcast/comp-and-coffee
+    xmlUrl: https://feeds.transistor.fm/comp-and-coffee
+
+  - title: Survive HR
+    htmlUrl: https://survivehr.com/
+    xmlUrl: https://anchor.fm/s/ead4298/podcast/rss
+
 - name: The Best Supernatural Podcasts
   opml: findthatpod-the-best-supernatural-podcasts.opml
   date: 2026-04-16
