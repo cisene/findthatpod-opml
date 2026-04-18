@@ -6,6 +6,109 @@ global:
 
 issues:
 
+- name: The Best Horror Movie Podcasts
+  opml: findthatpod-the-best-horror-movie-podcasts.opml
+  date: 2026-04-16
+  htmlUrl: https://findthatpod.com/best-horror-movie-podcasts/
+  podcasts:
+
+  - title: The Horror Virgin
+    htmlUrl: https://art19.com/shows/the-horror-virgin
+    xmlUrl: https://rss.art19.com/the-horror-virgin
+
+  - title: 'Knight Light: A Horror Movie Podcast'
+    htmlUrl: https://linktr.ee/KnightLight
+    xmlUrl: https://feeds.megaphone.fm/BDA5278322133
+
+  - title: Kim and Ket Stay Alive... Maybe
+    htmlUrl: https://art19.com/shows/kim-and-ket-stay-alive-maybe
+    xmlUrl: https://rss.art19.com/kim-and-ket-stay-alive-maybe
+
+  - title: Horror Dads
+    htmlUrl: https://www.patreon.com/horrordads
+    xmlUrl: https://anchor.fm/s/12b7165c/podcast/rss
+
+  - title: Watch If You Dare
+    htmlUrl: https://watchifyoudare.podbean.com/
+    xmlUrl: https://watchifyoudare.podbean.com/feed.xml
+
+  - title: With Gourley And Rust
+    htmlUrl: https://www.patreon.com/withgourleyandrust
+    xmlUrl: https://feeds.acast.com/public/shows/1132daa7-9517-4bb0-89c0-6618f4d67d67
+
+  - title: 2 Guys And A Chainsaw - A Horror Movie Review Podcast
+    htmlUrl: https://chainsawhorror.com/
+    xmlUrl: https://chainsawhorror.com/feed/mp3/
+
+  - title: Autopsy of a Horror Movie
+    htmlUrl: https://redcircle.com/shows/autopsy-of-a-horror-movie
+    xmlUrl: https://feeds.redcircle.com/38bcdd81-988b-4085-a092-a8fbf49a4df2
+
+  - title: A Nightmare on Fierce Street
+    htmlUrl: https://allmylinks.com/anightmareonfiercestreet
+    xmlUrl: https://anchor.fm/s/2f270ea0/podcast/rss
+
+  - title: Hack or Slash - A Horror Movie Review Podcast
+    htmlUrl: https://www.hackorslash.live/
+    xmlUrl: https://hackorslash.libsyn.com/rss
+
+  - title: Girl, That''s Scary
+    htmlUrl: https://art19.com/shows/girl-thats-scary
+    xmlUrl: https://rss.art19.com/girl-thats-scary
+
+  - title: 'Halloweenies: A Horror Franchise Podcast'
+    htmlUrl: https://www.instagram.com/halloweeniespodcast/
+    xmlUrl: https://feeds.simplecast.com/hj2hf0Wu
+
+  - title: Scarred For Life
+    htmlUrl: https://www.facebook.com/scarredforlifebook/
+    xmlUrl: https://feeds.megaphone.fm/scarredforlife
+
+  - title: Too Scary; Didn''t Watch
+    htmlUrl: https://art19.com/shows/too-scary-didnt-watch
+    xmlUrl: https://rss.art19.com/too-scary-didnt-watch
+
+  - title: Scream Queen Podcast
+    htmlUrl: https://rss.com/podcasts/scream-queen-podcast
+    xmlUrl: https://media.rss.com/scream-queen-podcast/feed.xml
+
+  - title: 'Straight Chilling: Horror Movie Review'
+    htmlUrl: https://www.straightchillingpodcast.com/
+    xmlUrl: https://straightchilling.libsyn.com/rss
+
+  - title: 'Pod Mortem: A Horror Podcast'
+    htmlUrl: https://thepodmortem.podbean.com/
+    xmlUrl: https://feed.podbean.com/thepodmortem/feed.xml
+
+  - title: Alone in the Dark Horror Movie Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/aloneinthedarkpodcast
+    xmlUrl: https://api.riverside.fm/hosting/NFUWu5cG.rss
+
+  - title: The Evolution of Horror
+    htmlUrl: https://evolutionofhorror.com/
+    xmlUrl: https://evolutionofhorror.libsyn.com/rss
+
+  - title: Dead Meat Podcast
+    htmlUrl: https://www.youtube.com/deadmeat
+    xmlUrl: https://feeds.megaphone.fm/deadmeat
+
+  - title: Horror Daddies Podcast
+    htmlUrl: https://twitter.com/HorrorDaddies
+    xmlUrl: https://rss.buzzsprout.com/1379836.rss
+
+  - title: 'Werewolf Ambulance: A Horror Movie Comedy Podcast'
+    htmlUrl: https://werewolfambulance.libsyn.com/webpage
+    xmlUrl: https://werewolfambulance.libsyn.com/rss
+
+  - title: Ruined with Alison Leiby and Halle Kiefer
+    htmlUrl: https://audioboom.com/channels/5140372
+    xmlUrl: https://feeds.megaphone.fm/SBP7066962713
+
+  - title: They''re Coming to Get You
+    htmlUrl: https://www.podomatic.com/podcasts/theyrecomingtogetyoupod
+    xmlUrl: https://theyrecomingtogetyoupod.podomatic.com/rss2.xml
+
+
 - name: The Best Podcasts About Chemistry
   opml: findthatpod-the-best-podcasts-about-chemistry.opml
   date: 2026-04-08
