@@ -6,6 +6,81 @@ global:
 
 issues:
 
+
+- name: The Best Podcasts About Songwriting
+  opml: findthatpod-the-best-podcasts-about-songwriting.opml
+  date: 2026-04-08
+  htmlUrl: https://findthatpod.com/best-songwriting-podcasts/
+  podcasts:
+
+  - title: Song Exploder
+    htmlUrl: https://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: Ditty In A Dash
+    htmlUrl: https://podcasters.spotify.com/pod/show/dittyinadash
+    xmlUrl: https://anchor.fm/s/22321424/podcast/rss
+
+  - title: Switched on Pop
+    htmlUrl: https://www.switchedonpop.com/
+    xmlUrl: https://feeds.megaphone.fm/switchedonpop
+
+  - title: The Portfolio Composer
+    htmlUrl: https://www.theportfoliocomposer.com/
+    xmlUrl: https://composeronfire.libsyn.com/rss
+
+  - title: Songwriter Trysts
+    htmlUrl: https://www.songwritertrysts.com/
+    xmlUrl: https://anchor.fm/s/2dbcad7c/podcast/rss
+
+  - title: The Working Songwriter
+    htmlUrl: https://redcircle.com/shows/the-working-songwriter
+    xmlUrl: https://feeds.redcircle.com/2d22ef83-2890-4340-aee9-d0d0157225f3
+
+  - title: Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond
+    htmlUrl: https://brokenrecordpodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ff0ba2f2-f33c-4193-aba2-ae32006cd633/11c188a1-cb86-4869-9c57-ae32006cd63c/podcast.rss
+
+  - title: Strong Songs
+    htmlUrl: https://strongsongspodcast.com/
+    xmlUrl: https://feeds.strongsongspodcast.com/main
+
+  - title: Sodajerker On Songwriting
+    htmlUrl: https://sodajerker.com/
+    xmlUrl: https://sodajerker.libsyn.com/rss
+
+  - title: Songwriters on Process
+    htmlUrl: https://www.songwritersonpodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/1406782.rss
+
+  - title: 'Songcraft: Spotlight on Songwriters'
+    htmlUrl: https://www.songcraftshow.com/
+    xmlUrl: https://feeds.simplecast.com/wVAXlGfJ
+
+  - title: Pitch List
+    htmlUrl: https://www.pitchlistpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/f8wL4ncn
+
+  - title: The DIY Musician Guide Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/mrstej
+    xmlUrl: https://anchor.fm/s/100d6c8/podcast/rss
+
+  - title: SongTown on Songwriting | Mastering the Art of Great Songs
+    htmlUrl: https://songtown-on-songwriting.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/EIWi96p0
+
+  - title: What''s in a Song
+    htmlUrl: https://www.buzzsprout.com/1713886
+    xmlUrl: https://rss.buzzsprout.com/1713886.rss
+
+  - title: 'Songwriter Theory Podcast: Learn Songwriting And Write Meaningful Lyrics and Songs'
+    htmlUrl: https://www.songwritertheory.com/podcasts/songwriter-theory-podcast-learn-songwriting-and-write-meaningful-lyrics-and-songs
+    xmlUrl: https://app.kajabi.com/podcasts/2147487330/feed
+
+  - title: '"Walking The Floor" with Chris Shiflett'
+    htmlUrl: https://walkingthefloor.com/
+    xmlUrl: https://walkingthefloor.libsyn.com/rss
+
 - name: The Best Podcasts About Cats
   opml: findthatpod-the-best-podcasts-about-cats.opml
   date: 2026-04-07
