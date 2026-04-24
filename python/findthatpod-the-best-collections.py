@@ -12,6 +12,8 @@ from lxml import etree
 
 SOURCE_YAML = '../yaml/findthatpod-the-best-collections.yaml'
 
+DEST_FOLDER = '../opml/best/'
+
 BASE_URL_FTP = 'https://b19.se/data/opml/findthatpod/'
 
 global config
@@ -35,9 +37,10 @@ def LoadYamlConfig(filepath):
   return config
 
 def stripTracking(data):
+  if data == None:
+    return ""
   data = re.sub(r"(\x3f|\x26)utm\x5f(source|medium|campaign)\x3d.+?$", "", data, flags=re.IGNORECASE)
   return data
-
 
 def main():
   global config
@@ -75,11 +78,11 @@ def main():
 
       opml_fullpath = f"../opml/{issue_opml}"
 
+      opml_fullpath_previous = f"{DEST_FOLDER}/{issue_opml}"
+
       # Skip is file exists already
-      #if os.path.isfile(opml_fullpath):
-      #  continue
-
-
+      if os.path.isfile(opml_fullpath):
+        continue
 
       # Open OPML
       opml = etree.Element("opml", version = "2.0")
@@ -159,12 +162,13 @@ def main():
 
       opml_contents = etree.tostring(opml, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
       writeOPML(f"../opml/{issue_opml}", opml_contents)
+      writeOPML(opml_fullpath_previous, opml_contents)
 
       print(f"Wrote {issue_opml} ..")
       issue_count += 1
 
-      if issue_count >= 6:
-        break
+      #if issue_count >= 6:
+      #  break
 
 if __name__ == '__main__':
   main()
