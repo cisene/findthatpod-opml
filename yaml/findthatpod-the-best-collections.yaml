@@ -6,6 +6,116 @@ global:
 
 issues:
 
+- name: The Best Podcasts About Hollywood
+  opml: findthatpod-the-best-podcasts-about-hollywood.opml
+  date: 2026-04-23
+  htmlUrl: https://findthatpod.com/best-podcasts-about-hollywood/
+  podcasts:
+
+  - title: The Secret History Of Hollywood
+    htmlUrl: https://www.attaboyclarence.com/the-secret-history-of-hollywood/
+    xmlUrl: https://feeds.megaphone.fm/ARML3575407172
+
+  - title: The Big Picture
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-big-picture
+
+  - title: From Beneath the Hollywood Sign
+    htmlUrl: https://www.frombeneaththehollywoodsign.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML5770995891
+
+  - title: Ankler Agenda
+    htmlUrl: https://theankler.com/
+    xmlUrl: https://feeds.megaphone.fm/AMI5751986813
+
+  - title: 'The Writer''s Cut: A Screenwriting Podcast'
+    htmlUrl: https://sites.libsyn.com/549447
+    xmlUrl: https://feeds.libsyn.com/549447/rss
+
+  - title: The Town with Matthew Belloni
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-town-with-matthew-belloni
+
+  - title: HollyWould
+    htmlUrl: https://hollywould.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/432851.rss
+
+  - title: Bret Easton Ellis Podcast
+    htmlUrl: https://art19.com/shows/bret-easton-ellis-podcast
+    xmlUrl: https://rss.art19.com/bret-easton-ellis-podcast
+
+  - title: Little Gold Men by Vanity Fair
+    htmlUrl: https://www.vanityfair.com/podcast/little-gold-men
+    xmlUrl: https://publicfeeds.net/f/5604/little-gold-men
+
+  - title: The Bechdel Cast
+    htmlUrl: https://www.iheart.com/podcast/105-the-bechdel-cast-30089535/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a50ac151-73f4-4192-a26a-ae320005ba2d/dc746010-090c-490a-82a3-ae320005ba3b/podcast.rss
+
+  - title: True Stories Of Tinseltown
+    htmlUrl: https://truestoriesoftinseltown.podbean.com/
+    xmlUrl: https://feed.podbean.com/podcast.truestoriesoftinseltown.com/feed.xml
+
+  - title: Juicy Scoop with Heather McDonald
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/juicyscoopwithheathermcdonald
+
+  - title: 'Score: The Podcast'
+    htmlUrl: https://score-movie.com/links
+    xmlUrl: https://anchor.fm/s/334260e8/podcast/rss
+
+  - title: Gilbert Gottfried''s Amazing Colossal Podcast
+    htmlUrl: https://www.gilbertpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/gilbert-gottfried
+
+  - title: New Hollywood
+    htmlUrl: https://deadline.com/category/podcast/
+    xmlUrl: https://feeds.megaphone.fm/PMC9969135270
+
+  - title: Hollywood Crime Scene
+    htmlUrl: https://play.acast.com/s/hollywoodcrimescene
+    xmlUrl: https://feeds.acast.com/public/shows/e93cb9f5-fbe7-4926-97db-a6038ff068d9
+
+  - title: Crew Call with Anthony D''Alessandro
+    htmlUrl: https://www.deadline.com/
+    xmlUrl: https://feeds.megaphone.fm/PMC6268402651
+
+  - title: The Business
+    htmlUrl: https://www.kcrw.com/culture/shows/the-business?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/34/5c/36/345c36a7-a587-4220-8c3e-bba344564908.xml
+
+  - title: You Must Remember This
+    htmlUrl: https://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+  - title: 'Horrorwood: True Crime in Tinseltown'
+    htmlUrl: https://horrorwoodpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/horrorwoodpodcast/feed.xml
+
+  - title: Screaming into the Hollywood Abyss
+    htmlUrl: https://www.hollywoodabyss.com/
+    xmlUrl: https://rss.buzzsprout.com/1432420.rss
+
+  - title: Ticklish Business
+    htmlUrl: https://www.patreon.com/ticklishbiz
+    xmlUrl: https://feeds.megaphone.fm/SBP1367276974
+
+  - title: The Plot Thickens
+    htmlUrl: https://tcm.com/
+    xmlUrl: https://feeds.megaphone.fm/WMHY6125191767
+
+  - title: That''s Classic!
+    htmlUrl: https://podcasters.spotify.com/pod/show/john-cato
+    xmlUrl: https://anchor.fm/s/2fb1c6bc/podcast/rss
+
+  - title: WHAT WENT WRONG
+    htmlUrl: https://www.whatwentwrongpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/690bb0b92f5fdede3448a770
+
+  - title: It Happened In Hollywood
+    htmlUrl: https://www.hollywoodreporter.com/topic/it-happened-hollywood
+    xmlUrl: https://feeds.megaphone.fm/PMC1167721933
+
 - name: The Best Trauma Podcasts
   opml: findthatpod-the-best-trauma-podcasts.opml
   date: 2026-04-22
