@@ -34,6 +34,9 @@ def LoadYamlConfig(filepath):
 
   return config
 
+def stripTracking(data):
+  data = re.sub(r"(\x3f|\x26)utm\x5f(source|medium|campaign)\x3d.+?$", "", data, flags=re.IGNORECASE)
+  return data
 
 
 def main():
@@ -129,6 +132,13 @@ def main():
         podcast_title = podcast['title']
         podcast_htmlUrl = podcast['htmlUrl']
         podcast_xmlUrl = podcast['xmlUrl']
+
+        # Take care of tracking
+        podcast_xmlUrl_clean = stripTracking(podcast_xmlUrl)
+        if (podcast_xmlUrl_clean != podcast_xmlUrl):
+          print(f"Stripped tracking from {podcast_title} - {podcast_xmlUrl} in {issue_title} ..")
+          podcast_xmlUrl = podcast_xmlUrl_clean
+          print(f"Replaced with {podcast_xmlUrl} ..\n")
 
         Outline = etree.Element("outline")
         Outline.set("type", "link")
