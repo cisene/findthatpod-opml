@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Trauma Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-trauma-podcasts.opml) | 2026-04-22 |
 | [FindThatPod - The Best HR Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-hr-podcasts.opml) | 2026-04-17 |
 | [FindThatPod - The Best Supernatural Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-supernatural-podcasts.opml) | 2026-04-16 |
 | [FindThatPod - The Best Horror Movie Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-horror-movie-podcasts.opml) | 2026-04-16 |

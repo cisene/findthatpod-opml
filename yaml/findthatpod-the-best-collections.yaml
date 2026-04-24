@@ -6,6 +6,76 @@ global:
 
 issues:
 
+- name: The Best Trauma Podcasts
+  opml: findthatpod-the-best-trauma-podcasts.opml
+  date: 2026-04-22
+  htmlUrl: https://findthatpod.com/best-trauma-podcasts/
+  podcasts:
+
+  - title: The Trauma Therapist
+    htmlUrl: https://www.spreaker.com/show/the-trauma-therapist
+    xmlUrl: https://www.spreaker.com/show/5739761/episodes/feed
+
+  - title: Transforming Trauma
+    htmlUrl: https://complextraumatrainingcenter.com/
+    xmlUrl: https://transformingtrauma.libsyn.com/rss
+
+  - title: Something Was Wrong
+    htmlUrl: https://www.somethingwaswrong.com/
+    xmlUrl: https://audioboom.com/channels/5012888.rss
+
+  - title: This Is Actually Happening
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/?utm_source=rss
+    xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
+
+  - title: The Crappy Childhood Fairy Podcast with Anna Runkle
+    htmlUrl: https://courses.crappychildhoodfairy.com/podcasts/the-crappy-childhood-fairy-podcast-with-anna-runkle
+    xmlUrl: https://app.kajabi.com/podcasts/2147504615/feed
+
+  - title: Thanks For Asking
+    htmlUrl: https://feelingsand.co/podcasts/thanks-for-asking/
+    xmlUrl: https://feeds.megaphone.fm/IMP8080110213
+
+  - title: The Unbarred Woman
+    htmlUrl: https://feeds.acast.com/public/shows/the-unbarred-woman
+    xmlUrl: https://feeds.acast.com/public/shows/6441f37e8711620011cd6d72
+
+  - title: The Healing Trauma Podcast
+    htmlUrl: https://redcircle.com/shows/the-healing-trauma-podcast
+    xmlUrl: https://feeds.redcircle.com/6eac01c1-b45a-4943-8bee-82a4f863dd9a
+
+  - title: Therapy Chat
+    htmlUrl: https://redcircle.com/shows/therapy-chat
+    xmlUrl: https://feeds.redcircle.com/303d5792-3fd7-4731-b268-57d1f542269b
+
+  - title: Trauma Rewired
+    htmlUrl: https://www.podpage.com/trauma-rewired/
+    xmlUrl: https://illuminatedwithjennifer.libsyn.com/rss
+
+  - title: Complex Trauma Recovery
+    htmlUrl: https://linktr.ee/cptsdtherapist
+    xmlUrl: https://anchor.fm/s/40355da0/podcast/rss
+
+  - title: Let''s Talk About Mental Health
+    htmlUrl: https://www.ltamh.com/
+    xmlUrl: https://anchor.fm/s/eb98a58/podcast/rss
+
+  - title: 'System Speak: Complex Trauma and Dissociative Disorders'
+    htmlUrl: https://www.systemspeakpodcast.com/
+    xmlUrl: https://feeds.transistor.fm/system-speak
+
+  - title: 'Life After PTSD Podcast: Healing From Trauma'
+    htmlUrl: https://lifeafterptsd.org/
+    xmlUrl: https://anchor.fm/s/852ab2c/podcast/rss
+
+  - title: What Was That Like - True Stories. Real People.
+    htmlUrl: https://whatwasthatlike.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS8902204604
+
+  - title: Therapist Uncensored Podcast
+    htmlUrl: https://therapistuncensored.com/episodes/
+    xmlUrl: https://feeds.blubrry.com/feeds/therapistuncensored.xml
+
 - name: The Best HR Podcasts
   opml: findthatpod-the-best-hr-podcasts.opml
   date: 2026-04-17
