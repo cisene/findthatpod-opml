@@ -81,7 +81,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/PMC6268402651
 
   - title: The Business
-    htmlUrl: https://www.kcrw.com/culture/shows/the-business?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    htmlUrl: https://www.kcrw.com/culture/shows/the-business
     xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/34/5c/36/345c36a7-a587-4220-8c3e-bba344564908.xml
 
   - title: You Must Remember This
@@ -135,7 +135,7 @@ issues:
     xmlUrl: https://audioboom.com/channels/5012888.rss
 
   - title: This Is Actually Happening
-    htmlUrl: https://wondery.com/shows/this-is-actually-happening/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/
     xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
 
   - title: The Crappy Childhood Fairy Podcast with Anna Runkle
@@ -1133,7 +1133,7 @@ issues:
     xmlUrl: https://feeds.npr.org/510318/podcast.xml
 
   - title: The 7
-    htmlUrl: https://www.washingtonpost.com/newsletters/the-7/?utm_source=podcasts&utm_medium=referral&utm_campaign=the-7
+    htmlUrl: https://www.washingtonpost.com/newsletters/the-7/
     xmlUrl: https://podcast.posttv.com/itunes/the-7.xml
 
   - title: WSJ What’s News
@@ -1393,7 +1393,7 @@ issues:
     xmlUrl: https://historyofrome.libsyn.com/rss
 
   - title: The Fall of Rome Podcast
-    htmlUrl: https://wondery.com/shows/the-fall-of-rome-podcast/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/the-fall-of-rome-podcast/
     xmlUrl: https://rss.art19.com/the-fall-of-rome-podcast
 
   - title: The Pax Romana Podcast
@@ -1677,7 +1677,7 @@ issues:
     xmlUrl: https://rss.art19.com/smart-passive-income-podcast
 
   - title: How I Built This with Guy Raz
-    htmlUrl: https://wondery.com/shows/how-i-built-this/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/how-i-built-this/
     xmlUrl: https://rss.art19.com/how-i-built-this
 
   - title: Photography Side Hustle
@@ -2943,7 +2943,7 @@ issues:
   podcasts:
 
   - title: How I Built This with Guy Raz
-    htmlUrl: https://wondery.com/shows/how-i-built-this/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/how-i-built-this/
     xmlUrl: https://rss.art19.com/how-i-built-this
 
   - title: The Startup Ideas Podcast
@@ -3153,7 +3153,7 @@ issues:
     xmlUrl: https://www.latrobe.edu.au/marketing/assets/podcasts/rssfeeds/mds1trw.xml
 
   - title: Tides of History
-    htmlUrl: https://wondery.com/shows/tides-of-history/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/tides-of-history/
     xmlUrl: https://rss.art19.com/tides-of-history
 
   - title: The Archaeology Show
@@ -3225,7 +3225,7 @@ issues:
     xmlUrl: https://anchor.fm/s/fddb990/podcast/rss
 
   - title: The Fall of Rome Podcast
-    htmlUrl: https://wondery.com/shows/the-fall-of-rome-podcast/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/the-fall-of-rome-podcast/
     xmlUrl: https://rss.art19.com/the-fall-of-rome-podcast
 
   - title: History of Africa
@@ -5151,7 +5151,7 @@ issues:
     xmlUrl: https://video-api.wsj.com/podcast/rss/wsj/whats-news
 
   - title: Left, Right & Center
-    htmlUrl: https://www.kcrw.com/news/shows/left-right-center?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    htmlUrl: https://www.kcrw.com/news/shows/left-right-center
     xmlUrl: https://leftrightandcenter-feed.kcrw.com/
 
   - title: Skimm This
@@ -5519,7 +5519,7 @@ issues:
     xmlUrl: https://rss.art19.com/-unladylike-
 
   - title: RedHanded
-    htmlUrl: https://wondery.com/shows/redhanded?utm_source=rss
+    htmlUrl: https://wondery.com/shows/redhanded
     xmlUrl: https://rss.art19.com/redhanded
 
   - title: Womanica
@@ -5679,7 +5679,7 @@ issues:
     xmlUrl: https://podcasts.files.bbci.co.uk/b007qlvb.rss
 
   - title: Scamfluencers
-    htmlUrl: https://wondery.com/shows/scamfluencers/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/scamfluencers/
     xmlUrl: https://rss.art19.com/scamfluencers
 
   - title: 'UnF*ck Your Brain: Feminist Self-Help for Everyone'
@@ -11827,7 +11827,7 @@ issues:
     xmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
 
   - title: UnFictional
-    htmlUrl: https://www.kcrw.com/culture/shows/unfictional?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    htmlUrl: https://www.kcrw.com/culture/shows/unfictional
     xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/ec/64/e7/ec64e739-e116-4ce0-84c5-76917e52f4fa.xml
 
   - title: The Moth
