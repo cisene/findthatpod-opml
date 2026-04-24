@@ -111,12 +111,13 @@ def main():
       ownerName.text = str(ownerName_text)
       head.append(ownerName)
 
-      #<ownerEmail>christopher.isene@gmail.com</ownerEmail>
+      # Handle ownerEmail
       ownerEmail_text = f"{config['global']['ownerEmail']}"
       ownerEmail = etree.Element("ownerEmail")
       ownerEmail.text = str(ownerEmail_text)
       head.append(ownerEmail)
 
+      # Open Head
       opml.append(head)
 
       comment_text = f" Source: {BASE_URL_FTP}{issue_opml} "

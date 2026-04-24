@@ -71,10 +71,8 @@ def main():
         continue
 
       line = []
-      #print(issue)
     
       filename = issue['opml']
-      #print(filename)
 
       line.append(f"| ")
       line.append(f"[FindThatPod - {issue['name']}]({B19_PREFIX}{filename})")
@@ -82,11 +80,7 @@ def main():
       line.append(f"{issue['date']}")
       line.append(f" |")
 
-      #| FindThatPod - The Best Fishing Podcasts                                             | 2025-06-18 |
-      #| [FindThatPod - The Best Art Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-art-podcasts.opml) | 2024-09-11 |
-
       table_line = "".join(line)
-      #print(table_line)
       buffer.append(table_line)
 
 
@@ -99,24 +93,16 @@ def main():
     buffer.append(f"| Weekly issues                                                                         | Date       |")
     buffer.append(f"| ------------------------------------------------------------------------------------- | ---------- |")
 
-    #for issue in data['body']:
     for issue in data['issues']:
       line = []
-      #print(issue)
 
-      # findthatpod-issue-291.opml
-      #filename = f"findthatpod-issue-{issue['issue']:03}.opml"
       opml = issue['opml']
-      #print(filename)
 
       line.append(f"| ")
-      #line.append(f"[{issue['title']}]({B19_PREFIX}{opml})")
       line.append(f"[{issue['name']}]({B19_PREFIX}{opml})")
       line.append(f" | ")
-      #line.append(f"{issue['pubDate']}")
       line.append(f"{issue['date']}")
       line.append(f" |")
-      # | [Find That Pod #291](https://b19.se/data/opml/findthatpod/findthatpod-issue-291.opml) | 2024-12-06 |
 
       table_line = "".join(line)
       buffer.append(table_line)
