@@ -80,6 +80,11 @@ def main():
 
       opml_fullpath_previous = f"{DEST_FOLDER}/{issue_opml}"
 
+      # Unlink file if we are re-entering ..
+      if os.path.isfile(opml_fullpath):
+        os.unlink(opml_fullpath)
+        continue
+
       # Skip is file exists already
       if os.path.isfile(opml_fullpath):
         continue
