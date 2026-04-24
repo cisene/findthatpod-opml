@@ -13,6 +13,8 @@ SOURCE_YAML = '../yaml/findthatpod.yaml'
 
 OUTPUT_FILENAME = '../findthatpod.opml'
 
+DEST_FOLDER = '../opml/issues/'
+
 BASE_URL_FTP = 'https://b19.se/data/opml/findthatpod/'
 
 global config
@@ -72,13 +74,17 @@ def main():
       issue_pubDate = issue['date']
       issue_htmlUrl = issue['htmlUrl']
 
-      opml_fullpath = f"../opml/{issue_opml}"
+      opml_fullpath = f"../{issue_opml}"
+      opml_fullpath_previous = f"{DEST_FOLDER}/{issue_opml}"
 
-      # Skip is file exists already
-      #if os.path.isfile(opml_fullpath):
-      #  continue
+      # Unlink file if we are re-entering ..
+      if os.path.isfile(opml_fullpath):
+        os.unlink(opml_fullpath)
+        continue
 
-
+      # Skip is file exists already in the destination folder
+      if os.path.isfile(opml_fullpath_previous):
+        continue
 
       # Open OPML
       opml = etree.Element("opml", version = "2.0")
@@ -149,13 +155,12 @@ def main():
       opml.append(body)
 
       opml_contents = etree.tostring(opml, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
-      writeOPML(f"../{issue_opml}", opml_contents)
+      writeOPML(opml_fullpath, opml_contents)
+      writeOPML(opml_fullpath_previous, opml_contents)
 
-      print(f"Wrote {issue_opml} ..")
+      print(f"Wrote {issue_opml} as {opml_fullpath} ..")
       issue_count += 1
 
-      if issue_count >= 1:
-        break
 
 if __name__ == '__main__':
   main()
