@@ -6,6 +6,80 @@ global:
 
 issues:
 
+- name: The Best Murder Mystery Podcasts
+  opml: findthatpod-the-best-murder-mystery-podcasts.opml
+  date: 2026-04-23
+  htmlUrl: https://findthatpod.com/best-murder-mystery-podcasts/
+  podcasts:
+
+  - title: Cold Case Files
+    htmlUrl: https://art19.com/shows/cold-case-files
+    xmlUrl: https://rss.pdrl.fm/ae0c22/podcastone.com/podcast?categoryID2=1119
+
+  - title: COLD TAPES
+    htmlUrl: https://www.coldtapes.com/
+    xmlUrl: https://feeds.acast.com/public/shows/69a80e642fb50a2e17a46385
+
+  - title: Up and Vanished Weekly
+    htmlUrl: https://tenderfoot.tv/tftv-shows/up-and-vanished-tv-series/
+    xmlUrl: https://feeds.megaphone.fm/CAD1230125435
+
+  - title: The Devil''s Margarita
+    htmlUrl: https://podcasters.spotify.com/pod/show/devils-margarita
+    xmlUrl: https://anchor.fm/s/39e6deb0/podcast/rss
+
+  - title: Solve This Murder
+    htmlUrl: https://www.solvethismurder.com/
+    xmlUrl: https://www.solvethismurder.com/feed.xml
+
+  - title: 'Firecracker: The Murder of Carol Ryan'
+    htmlUrl: https://wondery.com/
+    xmlUrl: https://feeds.megaphone.fm/firecrackerpodcast
+
+  - title: Someone Knows Something
+    htmlUrl: https://www.cbc.ca/radio/podcastnews
+    xmlUrl: https://www.cbc.ca/podcasting/includes/sks.xml
+
+  - title: 'Unsolved Murders: True Crime Stories'
+    htmlUrl: https://www.parcast.com/unsolved/
+    xmlUrl: https://feeds.megaphone.fm/END8394789342
+
+  - title: Unraveled
+    htmlUrl: https://www.discoveryplus.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5ea17537-f11f-4532-8202-294d976b9d5c
+
+  - title: In the Shadows
+    htmlUrl: https://casefilepresents.com/in-the-shadows/
+    xmlUrl: https://feeds.acast.com/public/shows/675a40bd42ff44cc4d755761
+
+  - title: Hitched 2 Homicide
+    htmlUrl: https://bleav.com/shows/hitched-2-homicide/
+    xmlUrl: https://feeds.simplecast.com/DGHtuDtt
+
+  - title: Where Murder Meets Mystery
+    htmlUrl: https://podcasters.spotify.com/pod/show/wheremurdermeetsmystery
+    xmlUrl: https://anchor.fm/s/fa0d41c/podcast/rss
+
+  - title: Kill List
+    htmlUrl: https://wondery.com/shows/kill-list/
+    xmlUrl: https://rss.art19.com/kill-list
+
+  - title: Murder, Mystery and History.
+    htmlUrl: https://podcasters.spotify.com/pod/show/murdermysteryandhistory
+    xmlUrl: https://anchor.fm/s/66ec7e74/podcast/rss
+
+  - title: Sword and Scale
+    htmlUrl: https://swordandscale.com/
+    xmlUrl: https://www.spreaker.com/show/5895676/episodes/feed
+
+  - title: 'Paper Ghosts: The Texas Teen Murders'
+    htmlUrl: https://www.iheart.com/podcast/1119-paper-ghosts-70977237/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
+
+  - title: Something About Cari
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://feeds.simplecast.com/xZ7ozPd7
+
 - name: The Best Podcasts About Hollywood
   opml: findthatpod-the-best-podcasts-about-hollywood.opml
   date: 2026-04-23
