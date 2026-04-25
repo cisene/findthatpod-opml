@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #361'
+  opml: findthatpod-issue-361.opml
+  date: 2026-04-24
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-361
+  podcasts:
+
+  - title: We Are All Workerbees
+    htmlUrl: https://shows.acast.com/we-are-all-workerbees
+    xmlUrl: https://feeds.acast.com/public/shows/69d8040600eb02bda1b97db1
+
+  - title: Sound, Light & Frequency
+    htmlUrl: https://soundlightfrequency.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a40f6ae-9ece-4171-a831-b3de010f95af/89d4a7f4-7189-4346-9c06-b3de010f9ac1/podcast.rss
+
+  - title: What We Spend
+    htmlUrl: https://music.amazon.com/podcasts/30bce316-15dc-42a2-a715-18b3f2a59ec7/what-we-spend
+    xmlUrl: https://feeds.megaphone.fm/what-we-spend
+
+  - title: Half-Arsed History
+    htmlUrl: https://halfarsedhistory.net/
+    xmlUrl: https://feeds.acast.com/public/shows/65a47774968ba8001771f445
+
+  - title: A World With
+    htmlUrl: https://feeds.acast.com/public/shows/a-world-with
+    xmlUrl: https://feeds.acast.com/public/shows/696f631a92f0c4b203d06f45
+
 - name: 'Find That Pod #360'
   opml: findthatpod-issue-360.opml
   date: 2026-04-17
