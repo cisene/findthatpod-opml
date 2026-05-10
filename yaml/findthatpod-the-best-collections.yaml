@@ -6,6 +6,160 @@ global:
 
 issues:
 
+- name: The Best Environmental Podcasts
+  opml: findthatpod-the-best-environmental-podcasts.opml
+  date: 2026-04-30
+  htmlUrl: https://findthatpod.com/best-environmental-podcasts/
+  podcasts:
+
+  - title: Earth Radio
+    htmlUrl: https://earth.org/earth-radio-podcast
+    xmlUrl: https://anchor.fm/s/11092ecb0/podcast/rss
+
+  - title: 'Outrage + Optimism: The Climate Podcast'
+    htmlUrl: https://shows.acast.com/outrage-optimism
+    xmlUrl: https://feeds.acast.com/public/shows/6781112bec40818e0b501b6a
+
+  - title: The YIKES Podcast
+    htmlUrl: https://anchor.fm/yikespod
+    xmlUrl: https://feeds.acast.com/public/shows/5ed284b8ee14cd14d3b921d7
+
+  - title: Second Nature
+    htmlUrl: https://www.thecommons.earth/second-nature-podcast
+    xmlUrl: https://feeds.transistor.fm/second-nature
+
+  - title: Inherited
+    htmlUrl: https://yr.media/inherited/
+    xmlUrl: https://feeds.megaphone.fm/CFQ4118954825
+
+  - title: Sustainably Speaking
+    htmlUrl: https://plasticmakers.org/education-innovation/podcast/
+    xmlUrl: https://feeds.simplecast.com/H_k2EB_N
+
+  - title: Nature is the Solution
+    htmlUrl: https://www.nature.org/en-us/about-us/where-we-work/united-states/massachusetts/stories-in-massachusetts/nature-solution-podcast/
+    xmlUrl: https://feeds.megaphone.fm/BUR9046025785
+
+  - title: Future Ecologies
+    htmlUrl: https://www.futureecologies.net/
+    xmlUrl: https://feeds.captivate.fm/future-ecologies/
+
+  - title: to know the land
+    htmlUrl: https://www.toknowtheland.com/
+    xmlUrl: https://anchor.fm/s/318f5184/podcast/rss
+
+  - title: Speed & Scale
+    htmlUrl: https://www.countdown.ted.com/
+    xmlUrl: https://feeds.feedburner.com/TedClimateCountdown
+
+  - title: Living on Earth
+    htmlUrl: https://www.loe.org/
+    xmlUrl: https://feeds.megaphone.fm/livingonearth
+
+  - title: Beyond the Canopy
+    htmlUrl: https://openforests.com/
+    xmlUrl: https://api.riverside.fm/hosting/BU6f9hpX.rss
+
+  - title: Ask MIT Climate
+    htmlUrl: https://askmitclimate.org/
+    xmlUrl: https://feeds.simplecast.com/w5_4mil2
+
+  - title: Broken Ground
+    htmlUrl: https://brokengroundpodcast.org/
+    xmlUrl: https://rss.buzzsprout.com/270210.rss
+
+  - title: Talking Rubbish - The Recycling Podcast
+    htmlUrl: https://www.talkingrubbishpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/l7x_wiEc
+
+  - title: Resources Radio
+    htmlUrl: https://www.resourcesmag.org/resources-radio/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:549843489/sounds.rss
+
+  - title: The Fifth Siren
+    htmlUrl: https://www.thefifthsiren.com/
+    xmlUrl: https://feeds.simplecast.com/xg1z593r
+
+  - title: EarthWise
+    htmlUrl: https://podcasters.spotify.com/pod/show/vivaan-mathur3
+    xmlUrl: https://anchor.fm/s/dfb26030/podcast/rss
+
+  - title: This Sustainable Life
+    htmlUrl: https://joshuaspodek.com/podcast
+    xmlUrl: https://feeds.acast.com/public/shows/5a481aca95dfbf9d13d4dc6f
+
+  - title: Ecogradia
+    htmlUrl: https://www.ecogradia.com/podcasts/ecogradia/
+    xmlUrl: https://www.ecogradia.com/feed/podcast/
+
+  - title: HEATED
+    htmlUrl: https://heated.world/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2473.rss
+
+  - title: Nature Breaking
+    htmlUrl: https://www.worldwildlife.org/news/nature-breaking/
+    xmlUrl: https://feeds.libsyn.com/426134/rss
+
+  - title: Drilled
+    htmlUrl: https://www.pushkin.fm/podcasts
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9a7ab5ee-ce11-48ff-a544-b3ec00ea9b1e/7f82f371-6316-4ea6-a108-b3ec00ea9b2d/podcast.rss
+
+  - title: A People''s Climate
+    htmlUrl: https://apeoplesclimate.org/
+    xmlUrl: https://rss.buzzsprout.com/2538641.rss
+
+  - title: How to Save a Planet
+    htmlUrl: https://gimletmedia.com/shows/howtosaveaplanet
+    xmlUrl: https://feeds.megaphone.fm/howtosaveaplanet
+
+  - title: America Adapts the Climate Change Podcast
+    htmlUrl: https://americaadapts.libsyn.com/podcast
+    xmlUrl: https://americaadapts.libsyn.com/rss
+
+  - title: Living Planet
+    htmlUrl: https://www.dw.com/en/living-planet/program-19028671?maca=en-podcast_living-planet-948-xml-mrss
+    xmlUrl: https://rss.dw.com/xml/podcast_living-planet
+
+  - title: Sustainability Defined
+    htmlUrl: https://www.sustainabilitydefined.com/
+    xmlUrl: https://sustainabilitydefined.libsyn.com/rss
+
+  - title: The Hopeful Environmentalist
+    htmlUrl: https://rss.com/podcasts/angryenvironmentalist
+    xmlUrl: https://media.rss.com/angryenvironmentalist/feed.xml
+
+  - title: Climate One
+    htmlUrl: https://www.climateone.org/
+    xmlUrl: https://feeds.megaphone.fm/CCC9544803627
+
+  - title: Plastic Podcast
+    htmlUrl: https://shows.acast.com/plastic-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/65f81e449d52c90016e4b2b1
+
+  - title: World Ocean Radio
+    htmlUrl: https://podcasts.apple.com/us/podcast/world-ocean-radio/id425361249
+    xmlUrl: https://rss.buzzsprout.com/1717967.rss
+
+  - title: On The Green Fence
+    htmlUrl: https://www.dw.com/en/on-the-green-fence/program-49760682?maca=en-podcast_on_the_green_fence-30407-xml-mrss
+    xmlUrl: https://rss.dw.com/xml/podcast_on_the_green_fence
+
+  - title: Water We Doing?
+    htmlUrl: https://www.aquaticbiosphere.ca/podcast
+    xmlUrl: https://rss.buzzsprout.com/1117478.rss
+
+  - title: Costing the Earth
+    htmlUrl: https://www.bbc.co.uk/programmes/b006r4wn
+    xmlUrl: https://podcasts.files.bbci.co.uk/b006r4wn.rss
+
+  - title: People Places Planet
+    htmlUrl: https://www.eli.org/podcasts
+    xmlUrl: https://feeds.transistor.fm/people-places-planet-podcast
+
+  - title: A Climate Change with Matt Matern
+    htmlUrl: https://aclimatechange.com/
+    xmlUrl: https://feed.podbean.com/aclimatechange/feed.xml
+
 - name: The Best Electro Music (EDM) Podcasts
   opml: findthatpod-the-best-electro-music-edm-podcasts.opml
   date: 2026-04-30
