@@ -6,6 +6,80 @@ global:
 
 issues:
 
+- name: The Best Electro Music (EDM) Podcasts
+  opml: findthatpod-the-best-electro-music-edm-podcasts.opml
+  date: 2026-04-30
+  htmlUrl: https://findthatpod.com/best-electro-music-edm-podcasts/
+  podcasts:
+
+  - title: All electromixes | EDM and House Music
+    htmlUrl: https://podcasts.apple.com/ch/podcast/all-electromixes-edm-and-house-music/id128891334
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:374122/sounds.rss
+
+  - title: Slam Radio
+    htmlUrl: https://www.slam-djs.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:19090/sounds.rss
+
+  - title: House Nation USA
+    htmlUrl: https://djangelwings.podbean.com/
+    xmlUrl: https://feed.podbean.com/djangelwings/feed.xml
+
+  - title: RA Podcast
+    htmlUrl: https://ra.co/
+    xmlUrl: https://ra.co/xml/podcast.xml
+
+  - title: Nora En Pure - Purified Radio
+    htmlUrl: https://www.thisisdistorted.com/
+    xmlUrl: https://portal-api.thisisdistorted.com/xml/nora-en-pure-purified-radio
+
+  - title: Going Quantum
+    htmlUrl: https://discord.gg/goingquantum
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:364287/sounds.rss
+
+  - title: Banger Radio
+    htmlUrl: https://hearthis.at/rectik/set/rbr/
+    xmlUrl: https://hearthis.at/set/312395-10588354/podcast/
+
+  - title: The DJ Sessions
+    htmlUrl: https://thedjsessions.com/
+    xmlUrl: https://feed.podbean.com/thedjsessions/feed.xml
+
+  - title: True Techno Podcast
+    htmlUrl: https://www.trueunderground.one/truetechnopodcast/true-techno/
+    xmlUrl: https://www.trueunderground.one/feed/podcast/true-techno/
+
+  - title: FreaKBeatS EDM podcast
+    htmlUrl: https://freakbeatsedm.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/564892.rss
+
+  - title: Rave Culture Cast
+    htmlUrl: https://www.emmakapotes.com/raveculturecast
+    xmlUrl: https://anchor.fm/s/a740dec/podcast/rss
+
+  - title: Monstercat Call of the Wild
+    htmlUrl: https://www.monstercat.com/cotw
+    xmlUrl: https://feeds.megaphone.fm/MSC1713576256
+
+  - title: 'Beyond the Beats: EDM News and Culture'
+    htmlUrl: https://beyond-the-beats-edm-news-and-culture.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/w3rQAV1m
+
+  - title: EDM Revamped Radio Podcast
+    htmlUrl: https://tunein.com/radio/EDM-Revamped-Radio-Podcast-p1101437/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:301953273/sounds.rss
+
+  - title: Midtown Jack Presents The Session
+    htmlUrl: https://midtownjack.com/
+    xmlUrl: https://feed.podbean.com/midtownjack/feed.xml
+
+  - title: EDM Is My Religion
+    htmlUrl: https://hearthis.at/moses-kaki/
+    xmlUrl: https://hearthis.at/moses-kaki/podcast/
+
+  - title: BHR
+    htmlUrl: https://bhr.buzzsprout.com/
+    xmlUrl: https://feeds.acast.com/public/shows/642de4305f80b2001109c43c
+
 - name: The Best Murder Mystery Podcasts
   opml: findthatpod-the-best-murder-mystery-podcasts.opml
   date: 2026-04-23
