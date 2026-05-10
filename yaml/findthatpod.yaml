@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #362'
+  opml: findthatpod-issue-362.opml
+  date: 2026-05-01
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-362
+  podcasts:
+
+  - title: When Science Finds a Way
+    htmlUrl: https://wellcome.org/
+    xmlUrl: https://feeds.libsyn.com/476853/rss
+
+  - title: John Carpenter Presents Something Wicked
+    htmlUrl: https://john-carpenter-presents-something-wicked.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/zUu9FKhu
+
+  - title: HBS Managing the Future of Work
+    htmlUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/default.aspx
+    xmlUrl: https://feeds.megaphone.fm/TPG2056865494
+
+  - title: Last Resort
+    htmlUrl: https://www.voyagemedia.fm/
+    xmlUrl: https://feeds.megaphone.fm/lastresort
+
+  - title: Family Lore
+    htmlUrl: https://www.audacy.com/
+    xmlUrl: https://feeds.megaphone.fm/hope-through-history
+
 - name: 'Find That Pod #361'
   opml: findthatpod-issue-361.opml
   date: 2026-04-24
