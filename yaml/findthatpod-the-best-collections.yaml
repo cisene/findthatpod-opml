@@ -6,6 +6,84 @@ global:
 
 issues:
 
+- name: The Best SEO Podcasts
+  opml: findthatpod-the-best-seo-podcasts.opml
+  date: 2026-05-01
+  htmlUrl: https://findthatpod.com/best-seo-podcasts/
+  podcasts:
+
+  - title: Search Off the Record
+    htmlUrl: https://developers.google.com/search/podcasts/search-off-the-record
+    xmlUrl: https://search-off-the-record.libsyn.com/rss
+
+  - title: Search News You Can Use - SEO Podcast with Marie Haynes
+    htmlUrl: https://courses.mariehaynes.com/search-news-you-can-use/
+    xmlUrl: https://anchor.fm/s/110460d64/podcast/rss
+
+  - title: Ahrefs Podcast
+    htmlUrl: https://ahrefs.com/
+    xmlUrl: https://anchor.fm/s/f2148410/podcast/rss
+
+  - title: Experts On The Wire (An SEO Podcast!)
+    htmlUrl: https://www.evolvingseo.com/
+    xmlUrl: https://www.evolvingseo.com/feed/podcast/
+
+  - title: Search with Candour
+    htmlUrl: https://search.withcandour.co.uk/
+    xmlUrl: https://anchor.fm/s/9bf6644/podcast/rss
+
+  - title: Local SEO Tactics and Digital Marketing Strategies
+    htmlUrl: https://www.localseotactics.com/
+    xmlUrl: https://localseotactics.libsyn.com/rss
+
+  - title: Webcology
+    htmlUrl: https://redcircle.com/shows/webcology
+    xmlUrl: https://feeds.redcircle.com/ddee2f91-0f20-410c-b29c-674678e78e36
+
+  - title: The Recipe For SEO Success Show
+    htmlUrl: https://therecipeforseosuccess.com/category/podcast/
+    xmlUrl: https://therecipeforseosuccess.libsyn.com/rss
+
+  - title: Marketing Over Coffee
+    htmlUrl: https://www.marketingovercoffee.com/
+    xmlUrl: https://marketingovercoffee.libsyn.com/rss
+
+  - title: The SEO Show
+    htmlUrl: https://theseoshow.co/
+    xmlUrl: https://rss.buzzsprout.com/1798849.rss
+
+  - title: Voices of Search // A Search Engine Optimization (SEO) & Content Marketing Podcast
+    htmlUrl: https://art19.com/shows/voices-of-search
+    xmlUrl: https://rss.art19.com/voices-of-search
+
+  - title: SEO Unplugged
+    htmlUrl: https://www.itamarblauer.com/seo-unplugged-podcast/
+    xmlUrl: https://anchor.fm/s/80097cb8/podcast/rss
+
+  - title: Confessions of an SEO®
+    htmlUrl: https://www.confessionsofanseo.com/
+    xmlUrl: https://anchor.fm/s/45aa9138/podcast/rss
+
+  - title: 'Niche Pursuits Podcast: Find Your Next "Niche" Business Idea!'
+    htmlUrl: https://www.nichepursuits.com/
+    xmlUrl: https://nichepursuits.libsyn.com/rss
+
+  - title: The SEO Mindset Podcast
+    htmlUrl: https://theseomindset.co.uk/
+    xmlUrl: https://feeds.captivate.fm/the-seo-mindset/
+
+  - title: Marketing O''Clock - Digital Marketing News
+    htmlUrl: https://marketingoclock.com/
+    xmlUrl: https://anchor.fm/s/5002f58/podcast/rss
+
+  - title: EDGE of the Web - The Best SEO Podcast for Today''s Digital Marketer
+    htmlUrl: https://edgeofthewebradio.com/
+    xmlUrl: https://edgeoftheweb.libsyn.com/rss
+
+  - title: 'The Best SEO Podcast: Defining the Future of Search with LLM Visibility™'
+    htmlUrl: https://www.bestseopodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/2019013.rss
+
 - name: The Best Environmental Podcasts
   opml: findthatpod-the-best-environmental-podcasts.opml
   date: 2026-04-30
