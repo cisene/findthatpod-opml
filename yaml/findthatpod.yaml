@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #365'
+  opml: findthatpod-issue-365.opml
+  date: 2026-05-22
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-365
+  podcasts:
+
+  - title: My Fit Tribe
+    htmlUrl: https://myfittribe.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2417734.rss
+
+  - title: Fighting Fascism Podcast
+    htmlUrl: https://fighting-fascism-podcast.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/azjzvDD4
+
+  - title: Rear Vision — How History Shaped Today
+    htmlUrl: https://www.abc.net.au/listen/programs/rearvision/
+    xmlUrl: https://www.abc.net.au/feeds/2890034/podcast.xml
+
+  - title: Humor Me with Robert Smigel and Friends
+    htmlUrl: https://www.iheart.com/podcast/1119-humor-me-with-robert-smig-331986194
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ffa4d68-8e9f-404f-b229-b43b011a650b/3aab5216-2a52-4c20-b2be-b43b011a6989/podcast.rss
+
+  - title: The Tape Recorder Trilogy
+    htmlUrl: https://geoffmicks.com/
+    xmlUrl: https://rss.buzzsprout.com/2532093.rss
+
 - name: 'Find That Pod #364'
   opml: findthatpod-issue-364.opml
   date: 2026-05-15
