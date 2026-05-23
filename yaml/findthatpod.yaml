@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #364'
+  opml: findthatpod-issue-364.opml
+  date: 2026-05-15
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-364
+  podcasts:
+
+  - title: 'Absolutely the Best Podcast: A Work in Progress'
+    htmlUrl: https://absolutelythebest.net/
+    xmlUrl: https://feeds.libsyn.com/502633/rss
+
+  - title: Memento Morbid
+    htmlUrl: https://substack.com/@mementomorbid
+    xmlUrl: https://audioboom.com/channels/5167596.rss
+
+  - title: Never Seen It with Kyle Ayers
+    htmlUrl: https://linktr.ee/neverseenit
+    xmlUrl: https://feeds.megaphone.fm/never-seen-it
+
+  - title: Who Blew Up The Guidestones?
+    htmlUrl: https://www.ajc.com/
+    xmlUrl: https://feeds.megaphone.fm/CMGA5614749248
+
+  - title: Next We Have with Gareth Reynolds
+    htmlUrl: https://art19.com/shows/next-we-have-with-gareth-reynolds
+    xmlUrl: https://rss.art19.com/next-we-have-with-gareth-reynolds
+
 - name: 'Find That Pod #363'
   opml: findthatpod-issue-363.opml
   date: 2026-05-08
