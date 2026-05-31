@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Interview Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-interview-podcasts.opml) | 2026-05-28 |
 | [FindThatPod - The Best SEO Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-seo-podcasts.opml) | 2026-05-01 |
 | [FindThatPod - The Best Environmental Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-environmental-podcasts.opml) | 2026-04-30 |
 | [FindThatPod - The Best Electro Music (EDM) Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-electro-music-edm-podcasts.opml) | 2026-04-30 |

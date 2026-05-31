@@ -6,6 +6,132 @@ global:
 
 issues:
 
+- name: The Best Interview Podcasts
+  opml: findthatpod-the-best-interview-podcasts.opml
+  date: 2026-05-28
+  htmlUrl: https://findthatpod.com/best-interview-podcasts/
+  podcasts:
+
+  - title: Beautiful Stories From Anonymous People
+    htmlUrl: https://sites.libsyn.com/480264
+    xmlUrl: https://feeds.libsyn.com/480264/rss
+
+  - title: On Being with Krista Tippett
+    htmlUrl: https://onbeing.org/
+    xmlUrl: https://feeds.simplecast.com/AuAxH_Bf
+
+  - title: The Knowledge Project
+    htmlUrl: https://fs.blog/knowledge-project-podcast/
+    xmlUrl: https://feeds.megaphone.fm/FSMI7575968096
+
+  - title: On with Kara Swisher
+    htmlUrl: https://nymag.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP1684715893
+
+  - title: Strangers on a Bench
+    htmlUrl: https://shows.acast.com/strangers-on-a-bench
+    xmlUrl: https://feeds.acast.com/public/shows/66f5255eae48e0cfdb0b36bb
+
+  - title: This Is Actually Happening
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/?utm_source=rss
+    xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
+
+  - title: The Jordan Harbinger Show
+    htmlUrl: https://art19.com/shows/the-jordan-harbinger-show
+    xmlUrl: https://rss.introcast.io/1344999619/www.podcastone.com/podcast?categoryID2=1237
+
+  - title: Baby, this is Keke Palmer
+    htmlUrl: https://wondery.com/shows/baby-this-is-keke-palmer/
+    xmlUrl: https://rss.art19.com/baby-this-is-keke-palmer
+
+  - title: Talk Easy with Sam Fragoso
+    htmlUrl: https://art19.com/shows/talk-easy-with-sam-fragoso
+    xmlUrl: https://rss.art19.com/talk-easy-with-sam-fragoso
+
+  - title: The Ezra Klein Show
+    htmlUrl: https://www.nytimes.com/ezra-klein-podcast
+    xmlUrl: https://feeds.simplecast.com/82FI35Px
+
+  - title: The Take
+    htmlUrl: https://www.aljazeera.com/podcasts/the-take/
+    xmlUrl: https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/09af2160-238f-48b2-b20b-ad4b00ebd8e7/b86dddc1-67a5-41c2-a13c-ad4b00ebd8f5/podcast.rss
+
+  - title: Good Hang with Amy Poehler
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/good-hang-with-amy-poehler
+
+  - title: Lives Less Ordinary
+    htmlUrl: https://www.bbc.co.uk/programmes/p02s5rx7
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02s5rx7.rss
+
+  - title: The Tim Ferriss Show
+    htmlUrl: https://tim.blog/podcast
+    xmlUrl: https://rss.art19.com/tim-ferriss-show
+
+  - title: Fresh Air
+    htmlUrl: https://www.npr.org/podcasts/381444908/fresh-air
+    xmlUrl: https://feeds.npr.org/381444908/podcast.xml
+
+  - title: Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond
+    htmlUrl: https://brokenrecordpodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ff0ba2f2-f33c-4193-aba2-ae32006cd633/11c188a1-cb86-4869-9c57-ae32006cd63c/podcast.rss
+
+  - title: Call Her Daddy
+    htmlUrl: https://iamunwell.com/
+    xmlUrl: https://feeds.simplecast.com/mKn_QmLS
+
+  - title: The Colin and Samir Show
+    htmlUrl: https://youtube.com/colinandsamir
+    xmlUrl: https://feeds.megaphone.fm/LI6529969937
+
+  - title: Life Changing
+    htmlUrl: https://www.bbc.co.uk/programmes/m000v5ng
+    xmlUrl: https://podcasts.files.bbci.co.uk/m000v5ng.rss
+
+  - title: Bullseye with Jesse Thorn
+    htmlUrl: https://www.npr.org/podcasts/510309/bullseye
+    xmlUrl: https://feeds.npr.org/510309/podcast.xml
+
+  - title: Wiser Than Me with Julia Louis-Dreyfus
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://feeds.megaphone.fm/LEME2226086440
+
+  - title: Wild Card with Rachel Martin
+    htmlUrl: https://www.npr.org/podcasts/510379/wild-card-with-rachel-martin
+    xmlUrl: https://feeds.npr.org/510379/podcast.xml
+
+  - title: Decoder with Nilay Patel
+    htmlUrl: https://theverge.com/
+    xmlUrl: https://feeds.megaphone.fm/recodedecode
+
+  - title: Therapuss with Jake Shane
+    htmlUrl: https://passthatpuss.com/
+    xmlUrl: https://feeds.megaphone.fm/HOMEMADEPROJECTSLLC6514753370
+
+  - title: Armchair Expert with Dax Shepard
+    htmlUrl: https://wondery.com/shows/armchair-expert-with-dax-shepard/
+    xmlUrl: https://rss.art19.com/armchair-expert
+
+  - title: The Unmistakable Creative Podcast
+    htmlUrl: https://podcast.unmistakablecreative.com/
+    xmlUrl: https://feeds.acast.com/public/shows/f8cf3133-0543-5b5b-85cb-e7a4e48bfaf5
+
+  - title: All There Is with Anderson Cooper
+    htmlUrl: https://www.cnn.com/audio/podcasts/all-there-is-with-anderson-cooper
+    xmlUrl: https://feeds.megaphone.fm/WMHY6497875466
+
+  - title: The School of Greatness
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/AAvup9Zz
+
+  - title: People I (Mostly) Admire
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/rP60Wf24
+
+  - title: What It Was Like
+    htmlUrl: https://shows.acast.com/what-it-was-like
+    xmlUrl: https://feeds.acast.com/public/shows/what-it-was-like
+
 - name: The Best SEO Podcasts
   opml: findthatpod-the-best-seo-podcasts.opml
   date: 2026-05-01
