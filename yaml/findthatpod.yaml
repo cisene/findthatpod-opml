@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #366'
+  opml: findthatpod-issue-366.opml
+  date: 2026-05-29
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-366
+  podcasts:
+
+  - title: Paper Trail
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F16890%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/16890/feed-rss.xml
+
+  - title: Look Back At It
+    htmlUrl: https://www.iheart.com/podcast/1119-look-back-at-it-331039596/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/900e68b1-293c-467b-9c1a-b42d010d47c3/1fbb998c-95a8-443a-a4c0-b42d010d618d/podcast.rss
+
+  - title: Everybody Knows But Me
+    htmlUrl: https://www.nextchapterpodcasts.com/everybody-knows-but-me
+    xmlUrl: https://feeds.megaphone.fm/everybodyknowsbutme
+
+  - title: If/Then
+    htmlUrl: https://www.gsb.stanford.edu/business-podcasts/if-then
+    xmlUrl: https://rss.art19.com/if-then
+
+  - title: The Rest Is Science
+    htmlUrl: https://www.goalhanger.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT6907573392
+
 - name: 'Find That Pod #365'
   opml: findthatpod-issue-365.opml
   date: 2026-05-22
