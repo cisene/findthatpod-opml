@@ -6,6 +6,120 @@ global:
 
 issues:
 
+- name: The Best Podcasts for Preschoolers
+  opml: findthatpod-the-best-podcasts-for-preschoolers.opml
+  date: 2026-05-28
+  htmlUrl: https://findthatpod.com/best-podcasts-preschoolers/
+  podcasts:
+
+  - title: Molly of Denali
+    htmlUrl: https://www.pbskids.org/molly
+    xmlUrl: https://feeds.wgbh.org/193/feed-rss.xml
+
+  - title: Aaron''s World
+    htmlUrl: https://www.mydogrocket.com/
+    xmlUrl: https://aaronsworld.libsyn.com/rss
+
+  - title: 'Little Stories for Tiny People: Anytime and bedtime stories for kids'
+    htmlUrl: https://www.littlestoriestinypeople.com/
+    xmlUrl: https://www.littlestoriestinypeople.com/podcast.xml
+
+  - title: Smologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/s1I4c1jt
+
+  - title: Fairy Tales with Granny MacDuff
+    htmlUrl: https://www.littleearsmedia.com/fairy-tales
+    xmlUrl: https://anchor.fm/s/1066569c0/podcast/rss
+
+  - title: Super Great Kids'' Stories
+    htmlUrl: https://www.supergreatkidsstories.com/
+    xmlUrl: https://feeds.megaphone.fm/super-great-kids-stories
+
+  - title: Circle Round
+    htmlUrl: https://www.wbur.org/podcasts/circleround
+    xmlUrl: https://rss.wbur.org/circleround/podcast
+
+  - title: Imagine This
+    htmlUrl: https://www.abc.net.au/kidslisten/programs/imagine-this/
+    xmlUrl: https://www.abc.net.au/feeds/9612558/podcast.xml
+
+  - title: Little Kids, Big Hearts
+    htmlUrl: https://playsparkler.org/podcast
+    xmlUrl: https://rss.buzzsprout.com/1735544.rss
+
+  - title: 'Eat Your Spanish: A Spanish Learning Podcast for Kids and Families!'
+    htmlUrl: https://www.eatyourspanishpodcast.com/
+    xmlUrl: https://anchor.fm/s/519ab2c0/podcast/rss
+
+  - title: The Imagine Neighborhood
+    htmlUrl: https://www.imagineneighborhood.org/
+    xmlUrl: https://feeds.blubrry.com/feeds/imagineneighborhood.xml
+
+  - title: 'PAW Patrol: Eye-Spy a Rescue'
+    htmlUrl: https://www.fablevisionstudios.com/portfolio/paw-patrol-i-spy-a-rescue
+    xmlUrl: https://feeds.megaphone.fm/CBS1942619353
+
+  - title: Super Simple Imagination Time With Caitie!
+    htmlUrl: https://art19.com/shows/super-simple-podcast
+    xmlUrl: https://rss.art19.com/super-simple-podcast
+
+  - title: Wow in the World
+    htmlUrl: https://wondery.com/shows/wow-in-the-world/?utm_source=rss
+    xmlUrl: https://rss.art19.com/wow-in-the-world
+
+  - title: Magic Woods
+    htmlUrl: https://www.magic-woods.net/
+    xmlUrl: https://anchor.fm/s/1665a9f8/podcast/rss
+
+  - title: 'Blue''s Clues & You: Story Time with Josh & Blue'
+    htmlUrl: https://www.youtube.com/channel/UCjZo1E1P6wDDyw6ImVgKM-A
+    xmlUrl: https://feeds.megaphone.fm/storytimewithjoshandblue
+
+  - title: 'The Alien Adventures of Finn Caspian: Science Fiction for Kids'
+    htmlUrl: https://art19.com/shows/finn-caspian
+    xmlUrl: https://rss.art19.com/finn-caspian
+
+  - title: Silly Stories for Kids
+    htmlUrl: https://www.sillystoriesforkids.com/
+    xmlUrl: https://feeds.megaphone.fm/EUAET6896760602
+
+  - title: Thomas & Friends™ Storytime (US)
+    htmlUrl: https://cms.megaphone.fm/channel/thomasandfriendsstorytime
+    xmlUrl: https://feeds.megaphone.fm/thomasandfriendsstorytime
+
+  - title: Thomas & Friends™ Storytime (UK)
+    htmlUrl: https://cms.megaphone.fm/channel/thomasandfriendsstorytimeuk
+    xmlUrl: https://feeds.megaphone.fm/thomasandfriendsstorytimeuk
+
+  - title: What If World - Stories for Kids
+    htmlUrl: https://www.whatifworldpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/whatifworld
+
+  - title: Story Pirates
+    htmlUrl: https://www.storypirates.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/LEME2692268862
+
+  - title: Kozie Moles
+    htmlUrl: https://www.rte.ie/radio/rtejr-podcasts/
+    xmlUrl: https://www.rte.ie/radio1/podcast/podcast_kozie.xml
+
+  - title: Sleep Tight Stories - Bedtime Stories for Kids
+    htmlUrl: https://sleeptightstories.org/
+    xmlUrl: https://feeds.megaphone.fm/STM6807571366
+
+  - title: Culture Kids
+    htmlUrl: https://culturekidsproductions.org/
+    xmlUrl: https://feeds.megaphone.fm/ARML8941299326
+
+  - title: Chompers
+    htmlUrl: https://gimletmedia.com/chompers
+    xmlUrl: https://feeds.megaphone.fm/chompers
+
+  - title: Goodnight, World!
+    htmlUrl: https://goodnight-world.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL7382912950
+
 - name: The Best Interview Podcasts
   opml: findthatpod-the-best-interview-podcasts.opml
   date: 2026-05-28
