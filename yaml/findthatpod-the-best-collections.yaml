@@ -6,6 +6,112 @@ global:
 
 issues:
 
+- name: The Best WW2 Podcasts
+  opml: findthatpod-the-best-ww2-podcasts.opml
+  date: 2026-05-28
+  htmlUrl: https://findthatpod.com/best-ww2-podcasts/
+  podcasts:
+
+  - title: The History of WWII Podcast
+    htmlUrl: https://worldwariipodcast.net/
+    xmlUrl: https://feeds.megaphone.fm/history-of-world-war-ii
+
+  - title: Peace In Their Time
+    htmlUrl: https://peaceintheirtime.podbean.com/
+    xmlUrl: https://feed.podbean.com/peaceintheirtime/feed.xml
+
+  - title: Band of Brothers Podcast
+    htmlUrl: https://www.hbo.com/band-of-brothers
+    xmlUrl: https://feeds.megaphone.fm/WMHY9073747420
+
+  - title: 'Beyond Barbarossa: The Eastern Front of World War 2'
+    htmlUrl: https://beyondbarbarossa.podbean.com/
+    xmlUrl: https://feed.ausha.co/ve8qqhk8RJd1
+
+  - title: 'Witness History: World War Two history'
+    htmlUrl: https://www.bbc.co.uk/programmes/p02prmgr
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02prmgr.rss
+
+  - title: Why We Fight ~ 1944
+    htmlUrl: https://www.motheroftanks.com/
+    xmlUrl: https://anchor.fm/s/4fa3c45c/podcast/rss
+
+  - title: The WW2 Podcast
+    htmlUrl: https://www.ww2podcast.com/
+    xmlUrl: https://ww2podcast.libsyn.com/rss
+
+  - title: The Unauthorized History of the Pacific War
+    htmlUrl: https://the-unauthorized-history-of-the-pacific-war.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/SacR7vrI
+
+  - title: Dan Carlin''s Hardcore History
+    htmlUrl: https://www.dancarlin.com/
+    xmlUrl: https://feeds.feedburner.com/dancarlin/history?format=xml
+
+  - title: The History of the Twentieth Century
+    htmlUrl: https://historyofthetwentiethcentury.com/
+    xmlUrl: https://history20th.libsyn.com/rss
+
+  - title: The Holocaust History Podcast
+    htmlUrl: https://www.waitmanwbeorn.com/
+    xmlUrl: https://rss.buzzsprout.com/2291653.rss
+
+  - title: For You The War Is Over
+    htmlUrl: https://foryouthewarisover.podbean.com/
+    xmlUrl: https://feeds.acast.com/public/shows/66ab96b71f6556b4b69d7710
+
+  - title: The Pacific War - week by week
+    htmlUrl: https://thepacificwar.podbean.com/
+    xmlUrl: https://feed.podbean.com/thepacificwar/feed.xml
+
+  - title: The "We''re Not Lost, Private" Podcast
+    htmlUrl: https://www.patreon.com/WereNotLostPrivatePodcast
+    xmlUrl: https://rss.buzzsprout.com/2306011.rss
+
+  - title: 'Nuremberg: The Trial of the Nazi War Criminals'
+    htmlUrl: https://www.bbc.co.uk/programmes/p09sgpfw
+    xmlUrl: https://podcasts.files.bbci.co.uk/p09sgpfw.rss
+
+  - title: History of the Second World War
+    htmlUrl: https://historyofthesecondworldwar.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV9720598643
+
+  - title: Bletchley Park
+    htmlUrl: https://bletchleypark.org.uk/
+    xmlUrl: https://audioboom.com/channels/451365.rss
+
+  - title: Behind the Bastards
+    htmlUrl: https://www.iheart.com/podcast/105-behind-the-bastards-29236323/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/E5F91208-CC7E-4726-A312-AE280140AD11/D64F756D-6D5E-4FAE-B24F-AE280140AD36/podcast.rss
+
+  - title: 'WW2 Pod: We Have Ways of Making You Talk'
+    htmlUrl: https://wehavewaysfest.co.uk/
+    xmlUrl: https://feeds.megaphone.fm/GLT8434431415
+
+  - title: World War II On Topic
+    htmlUrl: https://sites.libsyn.com/413423
+    xmlUrl: https://feeds.libsyn.com/413423/rss
+
+  - title: Good Assassins
+    htmlUrl: https://diversionaudio.com/podcast/good-assassins/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2f078109-3085-4bd2-a354-ae320081d9b4/5c01ece8-c254-4b40-9d0d-ae320081d9cb/podcast.rss
+
+  - title: Fighting Through WWII Stories & History
+    htmlUrl: https://www.fightingthroughpodcast.co.uk/
+    xmlUrl: https://fightingthrough.libsyn.com/rss/
+
+  - title: Warriors In Their Own Words | First Person War Stories
+    htmlUrl: https://www.evergreenpodcasts.com/warriors-in-their-own-words
+    xmlUrl: https://feeds.megaphone.fm/warriorsintheirownwords
+
+  - title: Dan Snow''s History Hit
+    htmlUrl: https://www.historyhit.com/podcasts/
+    xmlUrl: https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5
+
+  - title: What''s The Scuttlebutt Podcast
+    htmlUrl: https://whatsthescuddlebutt.com/podcast/
+    xmlUrl: https://rss.buzzsprout.com/2614541.rss
+
 - name: The Best Podcasts for Preschoolers
   opml: findthatpod-the-best-podcasts-for-preschoolers.opml
   date: 2026-05-28
