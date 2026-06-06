@@ -6,6 +6,108 @@ global:
 
 issues:
 
+- name: The Best Movie Review Podcasts
+  opml: findthatpod-the-best-movie-review-podcasts.opml
+  date: 2026-06-05
+  htmlUrl: https://findthatpod.com/best-movie-review-podcasts/
+  podcasts:
+
+  - title: WHAT WENT WRONG
+    htmlUrl: https://www.whatwentwrongpod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/690bb0b92f5fdede3448a770
+
+  - title: Cinephile''s Digest
+    htmlUrl: https://cinephilesdigest.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:284396912/sounds.rss
+
+  - title: The Reel Pineapple
+    htmlUrl: https://thereelpineapple.podbean.com/
+    xmlUrl: https://feed.podbean.com/thereelpineapple/feed.xml
+
+  - title: Blank Check with Griffin & David
+    htmlUrl: https://www.blankcheckpod.com/
+    xmlUrl: https://feeds.megaphone.fm/blank-check
+
+  - title: The Film Majors
+    htmlUrl: https://podcasters.spotify.com/pod/show/thefilmmajors
+    xmlUrl: https://anchor.fm/s/b44f3da0/podcast/rss
+
+  - title: Book Vs Movie Podcast
+    htmlUrl: https://www.spreaker.com/show/book-vs-movie-podcast
+    xmlUrl: https://www.spreaker.com/show/5406542/episodes/feed
+
+  - title: Kermode & Mayo’s Take
+    htmlUrl: https://www.kermodeandmayo.com/
+    xmlUrl: https://feeds.megaphone.fm/kermodeandmayo
+
+  - title: Unspooled
+    htmlUrl: https://www.unspooledpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP3707703183
+
+  - title: 'WTM: Watch This Movie'
+    htmlUrl: https://watchthismovie.podbean.com/
+    xmlUrl: https://anchor.fm/s/1120940d0/podcast/rss
+
+  - title: Best Film Ever
+    htmlUrl: https://bestfilmever.podbean.com/
+    xmlUrl: https://feed.podbean.com/bestfilmever/feed.xml
+
+  - title: Filmspotting
+    htmlUrl: https://filmspotting.net/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d28227f8-56d8-46d9-b2c5-b3d3012db5ab/83c52568-54c6-438a-8751-b3d3012db5c3/podcast.rss
+
+  - title: Cinephobe
+    htmlUrl: https://www.patreon.com/countthedings
+    xmlUrl: https://feeds.megaphone.fm/PDR6404381910
+
+  - title: Every Single Sci-Fi Film Ever*
+    htmlUrl: https://www.everyscififilm.com/
+    xmlUrl: https://feeds.libsyn.com/580510/rss
+
+  - title: We Hate Movies
+    htmlUrl: https://www.whmpodcast.com/
+    xmlUrl: https://audioboom.com/channels/5105802.rss
+
+  - title: Watch If You Dare
+    htmlUrl: https://watchifyoudare.podbean.com/
+    xmlUrl: https://watchifyoudare.podbean.com/feed.xml
+
+  - title: Now Playing - The Movie Review Podcast
+    htmlUrl: https://nowplayingpodcast.com/
+    xmlUrl: https://podcast.nowplayingpodcast.com/feed.xml
+
+  - title: Leaving the Theater
+    htmlUrl: https://www.spreaker.com/show/leaving-the-theater
+    xmlUrl: https://www.spreaker.com/show/4069395/episodes/feed
+
+  - title: Cinema Gems
+    htmlUrl: https://www.lowrainpictures.com/cinema-gems/
+    xmlUrl: https://www.lowrainpictures.com/cinema-gems?format=rss
+
+  - title: The Flop House
+    htmlUrl: https://www.flophousepodcast.com/
+    xmlUrl: https://feeds.simplecast.com/EOAFriME
+
+  - title: Mindset Movie Reviews
+    htmlUrl: https://www.buzzsprout.com/2557751
+    xmlUrl: https://rss.buzzsprout.com/2557751.rss
+
+  - title: House of Cinema
+    htmlUrl: https://podcasters.spotify.com/pod/show/houseofcinema
+    xmlUrl: https://anchor.fm/s/d9da657c/podcast/rss
+
+  - title: How Did This Get Made?
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/Ao0C24M8
+
+  - title: Doug Loves Movies
+    htmlUrl: https://art19.com/shows/dlm
+    xmlUrl: https://feeds.feedburner.com/DougLovesMovies
+
+  - title: The Filmcast
+    htmlUrl: https://www.thefilmcast.com/
+    xmlUrl: https://audioboom.com/channels/4997224.rss
+
 - name: The Best Hockey Podcasts
   opml: findthatpod-the-best-hockey-podcasts.opml
   date: 2026-06-05
