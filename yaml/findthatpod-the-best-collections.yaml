@@ -171,7 +171,7 @@ issues:
     xmlUrl: https://rss.art19.com/super-simple-podcast
 
   - title: Wow in the World
-    htmlUrl: https://wondery.com/shows/wow-in-the-world/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/wow-in-the-world/
     xmlUrl: https://rss.art19.com/wow-in-the-world
 
   - title: Magic Woods
@@ -253,7 +253,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/66f5255eae48e0cfdb0b36bb
 
   - title: This Is Actually Happening
-    htmlUrl: https://wondery.com/shows/this-is-actually-happening/?utm_source=rss
+    htmlUrl: https://wondery.com/shows/this-is-actually-happening/
     xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
 
   - title: The Jordan Harbinger Show

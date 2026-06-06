@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #367'
+  opml: findthatpod-issue-367.opml
+  date: 2026-06-05
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-367
+  podcasts:
+
+  - title: Who The F**K Killed My Sister?
+    htmlUrl: https://whothefpod.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2419373.rss
+
+  - title: 'Totally Cooked: The Climate & Weather Podcast'
+    htmlUrl: https://21centuryweather.org.au/engage/totally-cooked-the-weather-climate-podcast/
+    xmlUrl: https://www.omnycontent.com/d/playlist/ad231410-8be4-423a-9ebf-add700363fba/ef60ce89-f7ae-44ef-be62-b2d6002ac82c/d54d2a80-311c-4648-8269-b2d6002ace05/podcast.rss
+
+  - title: United States of Kennedy
+    htmlUrl: https://www.iheart.com/podcast/1119-united-states-of-kennedy-281493472/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/aa2fd5e7-1925-4d42-bdab-b2ff0116a380/55fa3cc6-b309-432d-8a9b-b2ff0116a842/podcast.rss
+
+  - title: Nature Unheard
+    htmlUrl: https://ebrdnatureunheard.podbean.com/
+    xmlUrl: https://feed.podbean.com/ebrdnatureunheard/feed.xml
+
+  - title: Playbook Canada
+    htmlUrl: https://www.politico.com/
+    xmlUrl: https://feeds.megaphone.fm/POLL2782060508
+
 - name: 'Find That Pod #366'
   opml: findthatpod-issue-366.opml
   date: 2026-05-29
