@@ -6,6 +6,152 @@ global:
 
 issues:
 
+- name: The Best Podcasts for Women in Their 20s
+  opml: findthatpod-the-best-podcasts-for-women-in-their-20s.opml
+  date: 2026-06-05
+  htmlUrl: https://findthatpod.com/best-podcasts-for-women-in-20s/
+  podcasts:
+
+  - title: Giggly Squad
+    htmlUrl: https://giggly-squad.com/
+    xmlUrl: https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3
+
+  - title: Truth for your Twenties
+    htmlUrl: https://riverside.com/
+    xmlUrl: https://api.riverside.fm/hosting/SBEzpQei.rss
+
+  - title: Girls Gotta Eat
+    htmlUrl: https://art19.com/shows/girls-gotta-eat
+    xmlUrl: https://feeds.megaphone.fm/DEARMEDIALLC6497520465
+
+  - title: Not Skinny But Not Fat
+    htmlUrl: https://art19.com/shows/nsbnf
+    xmlUrl: https://rss.art19.com/nsbnf
+
+  - title: Do You F*cking Mind?
+    htmlUrl: https://novafm.com.au/
+    xmlUrl: https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/498ee533-27aa-4914-8b25-b43b001e32fe/55be212f-db93-4a0b-b3a8-b43b001e37e1/podcast.rss
+
+  - title: The Psychology of your 20s
+    htmlUrl: https://sbeghenjemma.wixsite.com/20spsychologypodcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bc44988a-a82a-4291-ab8b-afdd01187fa8/39e2f432-53df-43b8-a7b9-afdd01187fc4/podcast.rss
+
+  - title: Happy Place
+    htmlUrl: https://www.happyplaceofficial.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/98ddd5a0-c00b-4f80-9a5b-d4584d0040ac
+
+  - title: Service95 Book Club With Dua Lipa
+    htmlUrl: https://www.service95.com/
+    xmlUrl: https://feeds.megaphone.fm/service95bookclubwithdualipa
+
+  - title: The Clever Girls Know Podcast With Bola Sokunbi
+    htmlUrl: https://sites.libsyn.com/540737
+    xmlUrl: https://feeds.libsyn.com/540737/rss
+
+  - title: I Hate It But I Love It
+    htmlUrl: https://hatelovepodcast.libsyn.com/podcast
+    xmlUrl: https://hatelovepodcast.com/rss
+
+  - title: The Pre-Game with Kayla Nicole
+    htmlUrl: https://art19.com/shows/the-pre-game
+    xmlUrl: https://rss.art19.com/the-pre-game
+
+  - title: She''s So Lucky
+    htmlUrl: https://art19.com/shows/balanced-black-girl
+    xmlUrl: https://rss.art19.com/balanced-black-girl
+
+  - title: The Broke Generation
+    htmlUrl: https://www.thebrokegeneration.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d499bb1f-3fe7-49de-a681-aee000490499/953787d9-e709-439f-9423-af1e0058fa42/e95e8088-fa57-4ac4-a35a-af1e0058fa50/podcast.rss
+
+  - title: The Gal''s Guide
+    htmlUrl: https://redcircle.com/shows/the-gals-guide
+    xmlUrl: https://feeds.redcircle.com/2e45dea1-3bb0-46e9-9622-f1dea8bed978
+
+  - title: Call Her Daddy
+    htmlUrl: https://iamunwell.com/
+    xmlUrl: https://feeds.simplecast.com/mKn_QmLS
+
+  - title: Girls with Goals
+    htmlUrl: https://redcircle.com/shows/girls-with-goals
+    xmlUrl: https://feeds.redcircle.com/bb86a19b-5f6f-4873-9722-7ddd56cd3c9c
+
+  - title: Two Degrees Hotter
+    htmlUrl: https://podcasters.spotify.com/pod/show/twodegreeshotter
+    xmlUrl: https://anchor.fm/s/1d38c558/podcast/rss
+
+  - title: Almost 30
+    htmlUrl: https://almost30.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV1241235105
+
+  - title: Talking Fast
+    htmlUrl: https://shows.acast.com/talking-fast
+    xmlUrl: https://feeds.acast.com/public/shows/6356f25606235e0011fa2381
+
+  - title: Because We Said So
+    htmlUrl: https://podcasters.spotify.com/pod/show/zeexonline
+    xmlUrl: https://anchor.fm/s/10205564c/podcast/rss
+
+  - title: The Everygirl Podcast
+    htmlUrl: https://shows.acast.com/the-everygirl-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/62bc7de20ccf1e0012a5fdcb
+
+  - title: Chicks in the Office
+    htmlUrl: https://www.barstoolsports.com/shows/chicks-in-the-office
+    xmlUrl: https://mcsorleys.barstoolsports.com/feed/chicks-in-the-office
+
+  - title: Financial Feminist
+    htmlUrl: https://herfirst100k.com/financial-feminist-show-notes/
+    xmlUrl: https://feeds.megaphone.fm/ADL7662808451
+
+  - title: We Met At Acme
+    htmlUrl: https://art19.com/shows/wmaa
+    xmlUrl: https://rss.art19.com/wmaa
+
+  - title: Every Outfit
+    htmlUrl: https://audioboom.com/channels/5149472
+    xmlUrl: https://audioboom.com/channels/5149472.rss
+
+  - title: anything goes with emma chamberlain
+    htmlUrl: https://www.instagram.com/_emmachamberlain
+    xmlUrl: https://feeds.megaphone.fm/stupid-genius
+
+  - title: Shameless
+    htmlUrl: https://linktr.ee/shamelesspodcast
+    xmlUrl: https://feeds.megaphone.fm/ASEMS4278037250
+
+  - title: Binchtopia
+    htmlUrl: https://redcircle.com/shows/binchtopia
+    xmlUrl: https://feeds.libsyn.com/495778/rss
+
+  - title: Dear Gabby
+    htmlUrl: https://art19.com/shows/dear-gabby
+    xmlUrl: https://feeds.megaphone.fm/DEARMEDIALLC3699944295
+
+  - title: Do We Know Them?
+    htmlUrl: https://audioboom.com/channels/5124337
+    xmlUrl: https://audioboom.com/channels/5124337.rss
+
+  - title: What We Said
+    htmlUrl: https://art19.com/shows/what-we-said
+    xmlUrl: https://rss.art19.com/what-we-said
+
+  - title: Ladies, We Need To Talk
+    htmlUrl: https://www.abc.net.au/listen/programs/ladies-we-need-to-talk/
+    xmlUrl: https://www.abc.net.au/feeds/8804158/podcast.xml
+
+  - title: Note to Self
+    htmlUrl: https://art19.com/shows/note-to-self
+    xmlUrl: https://rss.art19.com/note-to-self
+
+  - title: House Guest with Kenzie Elizabeth
+    htmlUrl: https://art19.com/shows/i-love-you-so-much
+    xmlUrl: https://rss.art19.com/i-love-you-so-much
+
+  - title: Room to Grow Podcast with Emily Gough
+    htmlUrl: https://emilygoughcoaching.com/
+    xmlUrl: https://roomtogrowpodcast.libsyn.com/rss
+
 - name: The Best Movie Review Podcasts
   opml: findthatpod-the-best-movie-review-podcasts.opml
   date: 2026-06-05
