@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Hockey Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-hockey-podcasts.opml) | 2026-06-05 |
 | [FindThatPod - The Best WW2 Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-ww2-podcasts.opml) | 2026-05-28 |
 | [FindThatPod - The Best Podcasts for Preschoolers](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-preschoolers.opml) | 2026-05-28 |
 | [FindThatPod - The Best Interview Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-interview-podcasts.opml) | 2026-05-28 |

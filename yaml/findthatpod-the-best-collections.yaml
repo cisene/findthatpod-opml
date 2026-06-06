@@ -6,6 +6,100 @@ global:
 
 issues:
 
+- name: The Best Hockey Podcasts
+  opml: findthatpod-the-best-hockey-podcasts.opml
+  date: 2026-06-05
+  htmlUrl: https://findthatpod.com/best-hockey-podcasts/
+  podcasts:
+
+  - title: Spittin Chiclets
+    htmlUrl: https://www.barstoolsports.com/shows/spittin-chiclets
+    xmlUrl: https://mcsorleys.barstoolsports.com/feed/spittin-chiclets
+
+  - title: Puck Podcast
+    htmlUrl: https://bleav.com/shows/puck-podcast/
+    xmlUrl: https://feeds.simplecast.com/zUk_fnh2
+
+  - title: The Sheet with Jeff Marek
+    htmlUrl: https://shows.acast.com/the-sheet
+    xmlUrl: https://feeds.acast.com/public/shows/672c0e761e4926b519960bc2
+
+  - title: Evolving Hockey Podcast
+    htmlUrl: https://www.buzzsprout.com/1836821
+    xmlUrl: https://rss.buzzsprout.com/1836821.rss
+
+  - title: Dropping the Gloves
+    htmlUrl: https://shows.acast.com/dropping-the-gloves
+    xmlUrl: https://feeds.acast.com/public/shows/62a74791b944ff00114caf06
+
+  - title: Up My Hockey with Jason Podollan
+    htmlUrl: https://upmyhockey.com/
+    xmlUrl: https://rss.buzzsprout.com/744818.rss
+
+  - title: '32 Thoughts: The Podcast'
+    htmlUrl: https://podcast.sportsnet.ca/31-thoughts/
+    xmlUrl: https://feeds.simplecast.com/fYqFr5h_
+
+  - title: Empty Netters Podcast
+    htmlUrl: https://www.almostfriday.com/
+    xmlUrl: https://feeds.megaphone.fm/emptynetters
+
+  - title: Hockey IQ Podcast
+    htmlUrl: https://hockeysarsenal.com/
+    xmlUrl: https://rss.buzzsprout.com/1214615.rss
+
+  - title: NHL Unscripted with Virk and Demers
+    htmlUrl: https://www.iheart.com/podcast/1119-nhl-unscripted-with-virk-241076672/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a14bb865-4185-482e-ad06-b23000f59f18/16f83e9b-e5f0-4301-9b7a-b23000f5a250/podcast.rss
+
+  - title: Missin Curfew
+    htmlUrl: https://missincurfew.com/
+    xmlUrl: https://feeds.megaphone.fm/LBE6673813838
+
+  - title: Puck Soup
+    htmlUrl: https://pucksoup.libsyn.com/website
+    xmlUrl: https://pucksoup.libsyn.com/rss
+
+  - title: The Athletic Hockey Show
+    htmlUrl: https://www.nytimes.com/athletic/podcasts/
+    xmlUrl: https://feeds.acast.com/public/shows/6818bb89f30c20bff73c9ebc
+
+  - title: Our Kids Play Hockey
+    htmlUrl: https://www.ourkidsplayhockey.com/
+    xmlUrl: https://rss.buzzsprout.com/1417672.rss
+
+  - title: Play Hockey in Europe
+    htmlUrl: https://sites.libsyn.com/551752
+    xmlUrl: https://feeds.libsyn.com/551752/rss
+
+  - title: The Steve Dangle Podcast
+    htmlUrl: https://sdpn.ca/sdp/
+    xmlUrl: https://feeds.megaphone.fm/TAMC3571499623
+
+  - title: Locked On NHL - Daily Podcast On The National Hockey League
+    htmlUrl: https://lockedonpodcasts.com/podcasts/locked-on-nhl/
+    xmlUrl: https://feeds.simplecast.com/_72Ry4s_
+
+  - title: The Cam & Strick Podcast
+    htmlUrl: https://camandstrick.com/
+    xmlUrl: https://rss.buzzsprout.com/628744.rss
+
+  - title: The BarDown Podcast
+    htmlUrl: https://www.iheart.com/podcast/the-bardown-podcast-72016828/
+    xmlUrl: https://www.omnycontent.com/d/playlist/4809bc8a-e41a-405c-93da-a8cf011df2f4/fa0cdbfa-549b-4390-8185-ac400108f3ed/e826eeaf-e59b-4c4b-b010-ac40010c3681/podcast.rss
+
+  - title: What Chaos!
+    htmlUrl: https://shows.acast.com/what-chaos
+    xmlUrl: https://feeds.acast.com/public/shows/68dfebae5f95c3d4195f48de
+
+  - title: After The Whistle
+    htmlUrl: https://www.buzzsprout.com/1869800
+    xmlUrl: https://feeds.megaphone.fm/AFTERW5253111644
+
+  - title: 100% Hockey
+    htmlUrl: https://audioboom.com/channels/5147026
+    xmlUrl: https://audioboom.com/channels/5147026.rss
+
 - name: The Best WW2 Podcasts
   opml: findthatpod-the-best-ww2-podcasts.opml
   date: 2026-05-28
