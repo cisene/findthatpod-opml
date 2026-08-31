@@ -23,6 +23,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/findthatpod
 
 | The Best of ..                                                                      | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [FindThatPod - The Best Podcasts For Young Men](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-young-men.opml) | 2026-06-12 |
 | [FindThatPod - The Best Podcasts to Learn French](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-to-learn-french.opml) | 2026-06-11 |
 | [FindThatPod - The Best Podcasts for Women in Their 20s](https://b19.se/data/opml/findthatpod/findthatpod-the-best-podcasts-for-women-in-their-20s.opml) | 2026-06-05 |
 | [FindThatPod - The Best Movie Review Podcasts](https://b19.se/data/opml/findthatpod/findthatpod-the-best-movie-review-podcasts.opml) | 2026-06-05 |

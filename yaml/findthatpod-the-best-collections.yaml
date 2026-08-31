@@ -6,6 +6,84 @@ global:
 
 issues:
 
+- name: The Best Podcasts For Young Men
+  opml: findthatpod-the-best-podcasts-for-young-men.opml
+  date: 2026-06-12
+  htmlUrl: https://findthatpod.com/best-podcasts-for-young-men/
+  podcasts:
+
+  - title: The Art of Charm
+    htmlUrl: https://the-art-of-charm.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/TAOC1506947885
+
+  - title: The Chivalry Chronicles
+    htmlUrl: https://thechivalrychronicles.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2392095.rss
+
+  - title: The Art of Manliness
+    htmlUrl: https://art19.com/shows/the-art-of-manliness
+    xmlUrl: https://rss.art19.com/the-art-of-manliness
+
+  - title: The New Man
+    htmlUrl: https://www.thenewmanpodcast.com/
+    xmlUrl: https://feeds.podcastmirror.com/the-new-man
+
+  - title: Insane In The Men Brain
+    htmlUrl: https://www.facebook.com/menbrainpodcast/
+    xmlUrl: https://feeds.acast.com/public/shows/39d0e968-609b-480a-bd7a-4e29c86c377b
+
+  - title: 'Mental Health And Men''s Health With Hearts Wide Open'
+    htmlUrl: https://heartswideopenpodcast.com/
+    xmlUrl: https://anchor.fm/s/e3822f9c/podcast/rss
+
+  - title: The Art of Accomplishment
+    htmlUrl: https://artofaccomplishment.com/podcast
+    xmlUrl: https://feeds.simplecast.com/zksImfUP
+
+  - title: Jocko Podcast
+    htmlUrl: https://redcircle.com/shows/jocko-podcast
+    xmlUrl: https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+
+  - title: 'Detoxicity: By Men, About Men, For Everyone'
+    htmlUrl: https://detoxpod.podbean.com/
+    xmlUrl: https://feed.podbean.com/detoxpod/feed.xml
+
+  - title: Weight For It
+    htmlUrl: https://www.spreaker.com/show/weight-for-it
+    xmlUrl: https://publicfeeds.net/f/4548/feed-rss.xml
+
+  - title: The Prof G Pod with Scott Galloway
+    htmlUrl: https://profgmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/WWO6655869236
+
+  - title: How to Be a Better Human
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2FHowToBeABetterHuman
+    xmlUrl: https://feeds.feedburner.com/HowToBeABetterHuman
+
+  - title: Philosophize This!
+    htmlUrl: https://www.philosophizethis.org/
+    xmlUrl: https://feeds.megaphone.fm/QCD6036500916
+
+  - title: The Imperfects
+    htmlUrl: https://theresilienceproject.com.au/podcast/
+    xmlUrl: https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/7070a66c-566e-4d0b-b99f-b242003206c0/2b8a9150-46c0-4837-ad45-b242003206fb/podcast.rss
+
+  - title: The Daily Stoic
+    htmlUrl: https://dailystoic.com/podcast/
+    xmlUrl: https://rss.art19.com/the-daily-stoic
+
+  - title: Dear Hank & John
+    htmlUrl: https://art19.com/shows/dear-hank-john
+    xmlUrl: https://rss.art19.com/dear-hank-john
+
+  - title: The One You Feed | Personal Growth, Emotional Resilience & Purpose
+    htmlUrl: https://art19.com/shows/the-one-you-feed-podcast
+    xmlUrl: https://feeds.megaphone.fm/GBLL2287897073
+
+  - title: Now and Men
+    htmlUrl: https://mmasc.org.uk/
+    xmlUrl: https://feeds.captivate.fm/now-and-men/
+
 - name: The Best Podcasts to Learn French
   opml: findthatpod-the-best-podcasts-to-learn-french.opml
   date: 2026-06-11
