@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #376'
+  opml: findthatpod-issue-376.opml
+  date: 2026-08-21
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-376
+  podcasts:
+
+  - title: Cultivate Being
+    htmlUrl: https://podcasters.spotify.com/pod/show/amelia-chiarenza
+    xmlUrl: https://anchor.fm/s/111be3004/podcast/rss
+
+  - title: The Survivor Files with Elizabeth Smart
+    htmlUrl: https://www.iheart.com/podcast/1119-the-survivor-files-with-e-340549681
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6182b3b8-7b16-4b8e-92d0-b49e00ef02ef/21c7e826-82f2-4aee-a3de-b49e00ef075d/podcast.rss
+
+  - title: Sidenote by AsapSCIENCE
+    htmlUrl: https://www.asapscience.com/
+    xmlUrl: https://feeds.acast.com/public/shows/67581c0a-b505-49e3-8c26-9e2228069d1a
+
+  - title: The Emerald
+    htmlUrl: https://www.patreon.com/theemeraldpodcast
+    xmlUrl: https://rss.buzzsprout.com/317042.rss
+
+  - title: See You in Hell
+    htmlUrl: https://shows.acast.com/see-you-in-hell
+    xmlUrl: https://feeds.acast.com/public/shows/69cd91f4ab5d25f9c9808f65
+
 - name: 'Find That Pod #375'
   opml: findthatpod-issue-375.opml
   date: 2026-07-31
