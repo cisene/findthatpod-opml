@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #375'
+  opml: findthatpod-issue-375.opml
+  date: 2026-07-31
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-375
+  podcasts:
+
+  - title: Everything 80s
+    htmlUrl: https://www.patreon.com/80s
+    xmlUrl: https://feeds.libsyn.com/543252/rss
+
+  - title: Cars & Friends
+    htmlUrl: https://carsandbids.com/
+    xmlUrl: https://feeds.megaphone.fm/TBIEA8439147669
+
+  - title: Hit Parade | Music History and Music Trivia
+    htmlUrl: https://slate.com/podcasts/hit-parade
+    xmlUrl: https://feeds.acast.com/public/shows/695d4ed8d1ba84fb8f043f94
+
+  - title: Cost of Living
+    htmlUrl: https://www.cbc.ca/radio/costofliving
+    xmlUrl: https://www.cbc.ca/podcasting/includes/costofliving.xml
+
+  - title: The Red Weather
+    htmlUrl: https://www.iheart.com/podcast/1119-the-red-weather-318507240
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e37758f4-633b-47a8-ac10-b3c901289dc6/afd77479-2f8b-4db9-afde-b3c90128a1fe/podcast.rss
+
 - name: 'Find That Pod #374'
   opml: findthatpod-issue-374.opml
   date: 2026-07-24
