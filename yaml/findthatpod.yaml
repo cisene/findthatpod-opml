@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #368'
+  opml: findthatpod-issue-368.opml
+  date: 2026-06-12
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-368
+  podcasts:
+
+  - title: Island Crime
+    htmlUrl: https://islandcrime.ca/
+    xmlUrl: https://feeds.acast.com/public/shows/675b33c6619022857c8fd06a
+
+  - title: A Whole Other Country
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F14382%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/14382/feed-rss.xml
+
+  - title: Once We Were Spacemen
+    htmlUrl: https://www.collision33.com/oncewewerespacemen
+    xmlUrl: https://feeds.megaphone.fm/RRS7279782750
+
+  - title: 'That''s Not How It Went Down'
+    htmlUrl: https://www.instagram.com/tnhiwd
+    xmlUrl: https://feeds.acast.com/public/shows/66d1a9d49035bd07d76dc391
+
+  - title: World Questions
+    htmlUrl: https://www.bbc.co.uk/programmes/p0380g6d
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0380g6d.rss
+
 - name: 'Find That Pod #367'
   opml: findthatpod-issue-367.opml
   date: 2026-06-05
