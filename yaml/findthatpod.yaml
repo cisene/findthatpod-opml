@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #374'
+  opml: findthatpod-issue-374.opml
+  date: 2026-07-24
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-374
+  podcasts:
+
+  - title: Stories of Art
+    htmlUrl: https://heni.com/storiesofart
+    xmlUrl: https://rss2.flightcast.com/mqmgmtnt1tf3r7iyurohb3ib.xml
+
+  - title: The Birth Keepers
+    htmlUrl: https://www.theguardian.com/world/series/thebirthkeepers
+    xmlUrl: https://www.theguardian.com/world/series/thebirthkeepers/podcast.xml
+
+  - title: Humans
+    htmlUrl: https://humanswithhank.com/
+    xmlUrl: https://rss.art19.com/humans
+
+  - title: National Emergency
+    htmlUrl: https://www.themidnightmystery.com/nationalemergency
+    xmlUrl: https://feeds.acast.com/public/shows/698068314b12c3dd73c2a4a4
+
+  - title: Hostile History
+    htmlUrl: https://curiouscast.ca/podcast/20671/hostile-history/
+    xmlUrl: https://feeds.megaphone.fm/CORU3572507718
+
 - name: 'Find That Pod #373'
   opml: findthatpod-issue-373.opml
   date: 2026-07-17
