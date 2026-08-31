@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #371'
+  opml: findthatpod-issue-371.opml
+  date: 2026-07-03
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-371
+  podcasts:
+
+  - title: Battles of the First World War Podcast
+    htmlUrl: https://www.firstworldwarpodcast.com/
+    xmlUrl: https://firstworldwarpodcast.libsyn.com/rss
+
+  - title: Someone’s Hunting Us
+    htmlUrl: https://someoneshuntingus.com/
+    xmlUrl: https://feeds.megaphone.fm/ADLM6355258127
+
+  - title: Big Lives
+    htmlUrl: https://www.pushkin.fm/podcasts
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ae2faf08-9a91-4ec2-a43b-b3f001078f91/3006fbbd-79a1-47b7-87eb-b3f0010793c1/podcast.rss
+
+  - title: 'Call to Mind: Fostering New Conversations About Mental Health'
+    htmlUrl: https://www.calltomindnow.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/call-to-mind
+
+  - title: 'Artifacts: Stories from the Emotional History of the Internet'
+    htmlUrl: https://artifactspodcast.com/
+    xmlUrl: https://feeds.captivate.fm/artifacts/
+
 - name: 'Find That Pod #370'
   opml: findthatpod-issue-370.opml
   date: 2026-06-26
