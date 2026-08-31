@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #369'
+  opml: findthatpod-issue-369.opml
+  date: 2026-06-19
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-369
+  podcasts:
+
+  - title: The Dolos Project
+    htmlUrl: https://tribecafilm.com/films/dolos-project-2026
+    xmlUrl: https://feeds.transistor.fm/the-dolos-project
+
+  - title: Super Structure with Julian Feeld
+    htmlUrl: https://rss.com/podcasts/super-structure-with-julian-feeld
+    xmlUrl: https://media.rss.com/super-structure-with-julian-feeld/feed.xml
+
+  - title: Past Lives
+    htmlUrl: https://www.patreon.com/collection/1792041
+    xmlUrl: https://www.patreon.com/public-rss/2554997?show=1792041
+
+  - title: What to Carry, What to Burn
+    htmlUrl: https://shows.acast.com/what-to-carry-what-to-burn
+    xmlUrl: https://feeds.acast.com/public/shows/69f8b83e3a143563ed7c9014
+
+  - title: CRAMPED
+    htmlUrl: https://art19.com/shows/cramped
+    xmlUrl: https://rss.art19.com/cramped
+
 - name: 'Find That Pod #368'
   opml: findthatpod-issue-368.opml
   date: 2026-06-12
