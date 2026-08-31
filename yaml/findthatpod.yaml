@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #377'
+  opml: findthatpod-issue-377.opml
+  date: 2026-08-28
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-377
+  podcasts:
+
+  - title: 'Pair of Kings: A Fashion and Culture Podcast'
+    htmlUrl: https://pairofkingspod.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/836617.rss
+
+  - title: The Wild History Of War
+    htmlUrl: https://www.spreaker.com/podcast/the-wild-history-of-war--6749653
+    xmlUrl: https://www.spreaker.com/show/6749653/episodes/feed
+
+  - title: Ambition
+    htmlUrl: https://www.ambition.fm/
+    xmlUrl: https://feeds.transistor.fm/ambition
+
+  - title: The Harbingers
+    htmlUrl: https://art19.com/shows/the-harbingers
+    xmlUrl: https://rss.art19.com/the-harbingers
+
+  - title: Origin Stories
+    htmlUrl: https://www.leakeyfoundation.org/originstories
+    xmlUrl: https://originstories.libsyn.com/rss
+
 - name: 'Find That Pod #376'
   opml: findthatpod-issue-376.opml
   date: 2026-08-21
