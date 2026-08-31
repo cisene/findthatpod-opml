@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #373'
+  opml: findthatpod-issue-373.opml
+  date: 2026-07-17
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-373
+  podcasts:
+
+  - title: 'We Fixed It, You''re Welcome'
+    htmlUrl: https://wefixeditpod.com/
+    xmlUrl: https://feeds.megaphone.fm/RHAPSODYVOICES4270090158
+
+  - title: Hidden History with Dr. Harini Bhat
+    htmlUrl: https://www.pavestudios.com/rewind
+    xmlUrl: https://rss.amperwave.net/v2/feed/audacynetwork/9aee7d7eb8876a2f6880dceccf4955f6
+
+  - title: 'Things Bakers Know: The King Arthur Baking Podcast'
+    htmlUrl: https://www.kingarthurbaking.com/podcast
+    xmlUrl: https://rss.buzzsprout.com/2460059.rss
+
+  - title: Foundling
+    htmlUrl: https://shows.acast.com/foundling
+    xmlUrl: https://feeds.acast.com/public/shows/foundling
+
+  - title: The Nature Of with Willow Defebaugh
+    htmlUrl: https://the-nature-of.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/kjVlTFLO
+
 - name: 'Find That Pod #372'
   opml: findthatpod-issue-372.opml
   date: 2026-07-10
