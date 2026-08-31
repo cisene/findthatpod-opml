@@ -6,6 +6,76 @@ global:
 
 issues:
 
+- name: The Best Podcasts to Learn French
+  opml: findthatpod-the-best-podcasts-to-learn-french.opml
+  date: 2026-06-11
+  htmlUrl: https://findthatpod.com/best-podcasts-to-learn-french/
+  podcasts:
+
+  - title: Coffee Break French
+    htmlUrl: https://coffeebreaklanguages.com/french
+    xmlUrl: https://feeds.acast.com/public/shows/47990e88-454b-4e3b-bf78-75a172c33184
+
+  - title: Quebec French Podcast
+    htmlUrl: https://www.frenchwithfrederic.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1605429.rss
+
+  - title: French en route
+    htmlUrl: https://www.spreaker.com/show/french-en-route
+    xmlUrl: https://www.spreaker.com/show/4818763/episodes/feed
+
+  - title: French Made Easy
+    htmlUrl: https://mathildekien.com/
+    xmlUrl: https://rss.buzzsprout.com/909640.rss
+
+  - title: Little Talk in Slow French
+    htmlUrl: https://www.spreaker.com/podcast/little-talk-in-slow-french-learn-french-through-conversations--6084166
+    xmlUrl: https://www.spreaker.com/show/6084166/episodes/feed
+
+  - title: FrenchPodcast-Français avec Pierre
+    htmlUrl: https://www.francaisavecpierre.com/
+    xmlUrl: https://feeds.libsyn.com/51260/rss
+
+  - title: French Blabla
+    htmlUrl: https://frenchblabla.org/
+    xmlUrl: https://frenchblabla.libsyn.com/rss
+
+  - title: French Baratin - Real conversations in French for advanced learners, débats en français authentique, B2 et C1, FLE, French language podcast
+    htmlUrl: https://podcast.ausha.co/french-baratin
+    xmlUrl: https://feed.ausha.co/Ln46Vf3gQEe0
+
+  - title: News in Slow French (Intermediate)
+    htmlUrl: https://www.newsinslowfrench.com/
+    xmlUrl: https://nsf.libsyn.com/rss
+
+  - title: Duolingo French Podcast
+    htmlUrl: https://podcast.duolingo.com/french
+    xmlUrl: https://anchor.fm/s/fb438900/podcast/rss
+
+  - title: One Thing In A French Day | Stories from Paris in French
+    htmlUrl: https://www.onethinginafrenchday.com/
+    xmlUrl: https://onethinginafrenchday.podbean.com/feed.xml
+
+  - title: Learn French with daily podcasts
+    htmlUrl: https://www.chosesasavoir.com/
+    xmlUrl: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1
+
+  - title: The Learn French With Alexa Podcast
+    htmlUrl: https://www.learnfrenchwithalexa.com/
+    xmlUrl: https://learnfrenchwithalexa.libsyn.com/rss
+
+  - title: Learn French by Podcast
+    htmlUrl: https://learnfrenchbypodcast.com/
+    xmlUrl: https://ftew.libsyn.com/rss
+
+  - title: 'LanguaTalk Slow French: Learn French With Gaëlle | French podcast for A2-B1'
+    htmlUrl: https://languatalk.com/french-tutors-online
+    xmlUrl: https://anchor.fm/s/e1ba1904/podcast/rss
+
+  - title: InnerFrench
+    htmlUrl: https://innerfrench.com/
+    xmlUrl: https://podcast.innerfrench.com/feed.xml
+
 - name: The Best Podcasts for Women in Their 20s
   opml: findthatpod-the-best-podcasts-for-women-in-their-20s.opml
   date: 2026-06-05
