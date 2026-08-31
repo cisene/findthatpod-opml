@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #372'
+  opml: findthatpod-issue-372.opml
+  date: 2026-07-10
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-372
+  podcasts:
+
+  - title: Creation Myth
+    htmlUrl: https://www.cbc.ca/radio/podcastnews
+    xmlUrl: https://www.cbc.ca/podcasting/includes/creationmyth.xml
+
+  - title: 'Parents Uncharted: From The Creator of Mom Uncharted'
+    htmlUrl: https://www.momuncharted.com/
+    xmlUrl: https://feeds.megaphone.fm/parents-uncharted
+
+  - title: OnlyFantasy
+    htmlUrl: https://wondery.com/shows/think-twice-michael-jackson/%20%E2%80%8E
+    xmlUrl: https://rss.art19.com/think-twice-michael-jackson
+
+  - title: Uncanny Valley | WIRED
+    htmlUrl: https://www.wired.com/
+    xmlUrl: https://feeds.megaphone.fm/CNE6423132305
+
+  - title: Skeptics with a K
+    htmlUrl: https://www.merseysideskeptics.org.uk/podcasts/skeptics-with-a-k
+    xmlUrl: https://feeds.feedburner.com/swak
+
 - name: 'Find That Pod #371'
   opml: findthatpod-issue-371.opml
   date: 2026-07-03
