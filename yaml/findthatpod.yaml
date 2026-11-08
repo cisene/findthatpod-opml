@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #381'
+  opml: findthatpod-issue-381.opml
+  date: 2025-09-25
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-381
+  podcasts:
+
+  - title: Natural Causes
+    htmlUrl: https://www.coolzonemedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/062f0f79-dd29-4bf6-9b6e-b49f00dc4100/podcast.rss
+
+  - title: Better in Bed with The Sleep Doctor
+    htmlUrl: https://lemonadamedia.com/
+    xmlUrl: https://feeds.megaphone.fm/LEME5289036195
+
+  - title: The Persistence
+    htmlUrl: https://obsessivelycurious.substack.com/s/the-persistence
+    xmlUrl: https://api.substack.com/feed/podcast/471492/s/139473.rss
+
+  - title: Figuring It Out
+    htmlUrl: https://audioboom.com/channels/5082203-stompcast
+    xmlUrl: https://feeds.acast.com/public/shows/64c105ce6e0909001188b2c1
+
+  - title: StraightioLab
+    htmlUrl: https://www.iheart.com/podcast/263-straightiolab-97815943/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0c221bad-4dc8-419f-b554-aee6011ef1a7/f6ada493-0cfd-44b6-ac5c-aee6011ef1ee/podcast.rss
+
 - name: 'Find That Pod #380'
   opml: findthatpod-issue-380.opml
   date: 2025-09-18
