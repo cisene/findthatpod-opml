@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #382'
+  opml: findthatpod-issue-382.opml
+  date: 2025-10-02
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-382
+  podcasts:
+
+  - title: American History Hotline
+    htmlUrl: https://www.americanhistoryhotline.com/
+    xmlUrl: https://rss.libsyn.com/shows/625080/destinations/5502810.xml
+
+  - title: The Blank List
+    htmlUrl: https://feeds.acast.com/public/shows/the-blank-list
+    xmlUrl: https://feeds.acast.com/public/shows/69d42cc5b76468caac834071
+
+  - title: Light Box
+    htmlUrl: https://lightboxpodcast.com/
+    xmlUrl: https://publicfeeds.net/f/17748/feed-rss.xml
+
+  - title: If Objects Could Talk
+    htmlUrl: https://www.getty.edu/podcasts/if-objects-could-talk/
+    xmlUrl: https://feeds.blubrry.com/feeds/3955145.xml
+
+  - title: Bear Hunt
+    htmlUrl: https://www.goalhanger.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT6357967095
+
 - name: 'Find That Pod #381'
   opml: findthatpod-issue-381.opml
   date: 2025-09-25
