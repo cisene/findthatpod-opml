@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #383'
+  opml: findthatpod-issue-383.opml
+  date: 2025-10-09
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-383
+  podcasts:
+
+  - title: Dan Taberski's Manifesto
+    htmlUrl: https://art19.com/shows/dan-taberskis-manifesto
+    xmlUrl: https://rss.art19.com/dan-taberskis-manifesto
+
+  - title: Still Counting
+    htmlUrl: https://audioboom.com/channels/5174627
+    xmlUrl: https://audioboom.com/channels/5174627.rss
+
+  - title: Heist at the Louvre
+    htmlUrl: https://abcaudio.com/podcasts
+    xmlUrl: https://feeds.megaphone.fm/ESP2985476020
+
+  - title: The Fastest Girl in Somalia
+    htmlUrl: https://30for30podcasts.com/
+    xmlUrl: https://feeds.megaphone.fm/ESP3781369865
+
+  - title: '13 Minutes: Trouble with Hubble'
+    htmlUrl: http://www.bbc.co.uk/programmes/w13xttx2
+    xmlUrl: https://podcasts.files.bbci.co.uk/w13xttx2.rss
+
 - name: 'Find That Pod #382'
   opml: findthatpod-issue-382.opml
   date: 2025-10-02
