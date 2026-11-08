@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #387'
+  opml: findthatpod-issue-387.opml
+  date: 2025-11-06
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-387
+  podcasts:
+
+  - title: Pleasure People
+    htmlUrl: https://pleasurepeopleseries.com/
+    xmlUrl: https://feeds.captivate.fm/pleasure-people/
+
+  - title: Museum of Thought
+    htmlUrl: https://www.museumofthoughtproject.com/
+    xmlUrl: https://anchor.fm/s/10be9855c/podcast/rss
+
+  - title: The Find Out Podcast
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/thefindoutpodcast
+
+  - title: Monday Music Club with Will Anderson
+    htmlUrl: https://feeds.megaphone.fm/VMP6553698914
+    xmlUrl: https://feeds.megaphone.fm/VMP6553698914
+
+  - title: Machine Gods
+    htmlUrl: https://www.npr.org/podcasts/g-s1-143588/machine-gods
+    xmlUrl: https://feeds.npr.org/g-s1-143588/podcast.xml
+
 - name: 'Find That Pod #386'
   opml: findthatpod-issue-386.opml
   date: 2025-10-30
