@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #384'
+  opml: findthatpod-issue-384.opml
+  date: 2025-10-16
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-384
+  podcasts:
+
+  - title: The Europeans | European news, politics and culture
+    htmlUrl: https://europeanspodcast.com/
+    xmlUrl: https://feeds.captivate.fm/the-europeans/
+
+  - title: 'Call Sign Condor: Latino Soldiers Fighting in Ukraine'
+    htmlUrl: https://condor.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/016VhYP7
+
+  - title: Birth of a Parent
+    htmlUrl: https://earlychildhoodmatters.online/
+    xmlUrl: https://feeds.acast.com/public/shows/6a4cf5af7c0256f6394f5519
+
+  - title: Designed in California
+    htmlUrl: https://relay.fm/designed
+    xmlUrl: https://relay.fm/designed/feed
+
+  - title: Debt Heads
+    htmlUrl: https://debtheadspodcast.com/
+    xmlUrl: https://feeds.transistor.fm/debt-heads
+
 - name: 'Find That Pod #383'
   opml: findthatpod-issue-383.opml
   date: 2025-10-09
