@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #378'
+  opml: findthatpod-issue-378.opml
+  date: 2025-09-04
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-378
+  podcasts:
+
+  - title: Influence Anyone
+    htmlUrl: https://influenceanyonepodcast.com/
+    xmlUrl: https://rss2.flightcast.com/ssko6o5zxeexmoyk4lguofgi.xml
+
+  - title: Green Frequency | Environmental Science & Earth Radio
+    htmlUrl: https://shows.acast.com/green-frequency
+    xmlUrl: https://feeds.acast.com/public/shows/6991eca8483d38b26e6ccf2d
+
+  - title: Death of an Artist
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/824a6bd6-185a-4697-bb57-aea9011fee2f/b90f60e3-e46c-42a4-8675-aea9012011fe/podcast.rss
+
+  - title: Technically Creative
+    htmlUrl: https://koobriklabs.com/koobriklabs-podcast/
+    xmlUrl: https://rss2.flightcast.com/affjdjmwgskoi2zmjg1w9a21.xml
+
+  - title: National Emergency
+    htmlUrl: https://www.themidnightmystery.com/nationalemergency
+    xmlUrl: https://feeds.acast.com/public/shows/698068314b12c3dd73c2a4a4
+
 - name: 'Find That Pod #377'
   opml: findthatpod-issue-377.opml
   date: 2026-08-28
