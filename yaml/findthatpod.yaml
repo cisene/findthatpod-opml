@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #380'
+  opml: findthatpod-issue-380.opml
+  date: 2025-09-18
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-380
+  podcasts:
+
+  - title: Let Us Cook
+    htmlUrl: https://sites.libsyn.com/624470
+    xmlUrl: https://feeds.libsyn.com/624470/rss
+
+  - title: Weirdly Helpful (formerly The Best Advice Show)
+    htmlUrl: https://weirdlyhelpful.show/
+    xmlUrl: https://feeds.megaphone.fm/TPG9577137849
+
+  - title: 'Guys: With Bryan Quinby'
+    htmlUrl: https://sites.libsyn.com/458346
+    xmlUrl: https://feeds.libsyn.com/458346/rss
+
+  - title: Countermeasures
+    htmlUrl: https://www.emergentbiosolutions.com/opioid-crisis/
+    xmlUrl: https://feeds.cohostpodcasting.com/MhyyCIRB
+
+  - title: Learning Curve
+    htmlUrl: https://learningcurve.fm/
+    xmlUrl: https://feeds.simplecast.com/zN3vEQsu
+
 - name: 'Find That Pod #379'
   opml: findthatpod-issue-379.opml
   date: 2025-09-11
