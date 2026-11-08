@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #386'
+  opml: findthatpod-issue-386.opml
+  date: 2025-10-30
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-386
+  podcasts:
+
+  - title: 'Made in House: Houston'
+    htmlUrl: https://www.spekepodcasting.com/spekeoriginals
+    xmlUrl: https://www.omnycontent.com/d/playlist/6572af18-78c7-4e94-a642-af0f0102cd27/f54495b7-158f-41b6-a921-b4ae014dbadf/d4c7fcdf-f391-41bb-b3d3-b4ae014dbf5e/podcast.rss
+
+  - title: 3 Finger Salute
+    htmlUrl: https://shows.acast.com/3-finger-salute-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/6aa43a72ff74edfd007ee231
+
+  - title: Lies We Bought
+    htmlUrl: https://lieswebought.podbean.com/
+    xmlUrl: https://feed.podbean.com/lieswebought/feed.xml
+
+  - title: Futurology
+    htmlUrl: https://berggruen.org/
+    xmlUrl: https://feeds.megaphone.fm/futurology
+
+  - title: Where the Schools Went
+    htmlUrl: https://thebranchmedia.org/
+    xmlUrl: https://feeds.megaphone.fm/LDI3195636032
+
 - name: 'Find That Pod #385'
   opml: findthatpod-issue-385.opml
   date: 2025-10-23
