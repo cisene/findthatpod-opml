@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #385'
+  opml: findthatpod-issue-385.opml
+  date: 2025-10-23
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-385
+  podcasts:
+
+  - title: 3 Finger Salute
+    htmlUrl: https://shows.acast.com/3-finger-salute-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/6aa43a72ff74edfd007ee231
+
+  - title: Freedom Needs a Soundtrack
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F17715%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/17715/feed-rss.xml
+
+  - title: The Builders
+    htmlUrl: https://www.iheart.com/podcast/1119-the-builders-347224769
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/51d9281c-e886-4139-b940-b4c0011494bc/podcast.rss
+
+  - title: Kill The Computer
+    htmlUrl: https://killthecomputer.podbean.com/
+    xmlUrl: https://westernkabuki.podbean.com/feed.xml
+
+  - title: HistoryFFS
+    htmlUrl: https://historyffs.com/
+    xmlUrl: https://feeds.captivate.fm/historyffs/
+
 - name: 'Find That Pod #384'
   opml: findthatpod-issue-384.opml
   date: 2025-10-16
