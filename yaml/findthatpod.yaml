@@ -19,6 +19,32 @@ global:
 
 issues:
 
+- name: 'Find That Pod #379'
+  opml: findthatpod-issue-379.opml
+  date: 2025-09-11
+  htmlUrl: https://findthatpod.beehiiv.com/p/find-that-pod-379
+  podcasts:
+
+  - title: 'For Humanity: An AI Risk Podcast'
+    htmlUrl: https://theairisknetwork.substack.com/s/for-humanity-an-ai-risk-podcast
+    xmlUrl: https://api.substack.com/feed/podcast/5979336/s/261561.rss
+
+  - title: Kingdom of Fraud
+    htmlUrl: https://www.iheart.com/podcast/1119-kingdom-of-fraud-329335210
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1ffb7c59-85e1-4c2f-9606-b42501200ccc/de149785-a763-4157-a12f-b4250120117c/podcast.rss
+
+  - title: ASSASSINS
+    htmlUrl: https://www.abc.net.au/listen/programs/assassins-with-aslan-pahari/
+    xmlUrl: https://www.abc.net.au/feeds/105752858/podcast.xml
+
+  - title: The Road of Shadows
+    htmlUrl: https://theroadofshadows.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6ab696e4c974afb1545d898e
+
+  - title: Spy Cities
+    htmlUrl: https://www.spycities.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6a170c2a30535b3e187675cf
+
 - name: 'Find That Pod #378'
   opml: findthatpod-issue-378.opml
   date: 2025-09-04
